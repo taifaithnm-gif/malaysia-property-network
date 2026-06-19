@@ -1,6 +1,7 @@
 import { Hero } from "@/components/sections/Hero";
 import { Services } from "@/components/sections/Services";
 import { PriorityServices } from "@/components/sections/ServicesHub";
+import { PropertyListings } from "@/components/sections/PropertyListings";
 import { Locations } from "@/components/sections/Locations";
 import { CTA } from "@/components/sections/CTA";
 import type { Locale } from "@/lib/constants";
@@ -19,6 +20,7 @@ export default async function HomePage({ params }: PageProps) {
     <>
       <Hero locale={locale} dict={dict} />
       <PriorityServices locale={locale} dict={dict} />
+      <PropertyListings locale={locale} dict={dict} />
       <Services locale={locale} dict={dict} />
       <Locations locale={locale} dict={dict} />
       <CTA locale={locale} dict={dict} showForm />

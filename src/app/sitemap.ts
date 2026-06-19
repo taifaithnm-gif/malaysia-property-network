@@ -27,6 +27,8 @@ const PAGES = [
   "danga-bay",
   "about",
   "contact",
+  "list-property",
+  "property-request",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

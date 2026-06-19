@@ -1,0 +1,106 @@
+{
+  "key": "danga-bay",
+  "title": "Danga Bay",
+  "subtitle": "Established waterfront district · Johor Bahru",
+  "intro": "Danga Bay is a mature mixed-use waterfront zone along the Tebrau Strait. This profile outlines public information on property types, facilities, and owner considerations for overseas landlords.",
+  "seoTitle": "Danga Bay Project Profile | Johor Bahru Property",
+  "seoDescription": "Danga Bay project profile: location, condo types, facilities, and owner services for overseas investors in Johor Bahru.",
+  "seoKeywords": "Danga Bay profile, Danga Bay Johor, 丹加湾, JB waterfront condo, Danga Bay rental",
+  "whatsappMessage": "Hi, I am researching Danga Bay and would like to discuss owner services.",
+  "guideSlug": "danga-bay",
+  "labels": {
+    "gallery": "Project Gallery",
+    "facts": "Project Facts",
+    "map": "Location Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities & Amenities",
+    "relatedServices": "Related Owner Services",
+    "listProperty": "List Your Property",
+    "propertyRequest": "Submit Property Request",
+    "readGuide": "Read full area guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "Danga Bay — High-rise residential towers"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "Danga Bay — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "Danga Bay — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "Danga Bay — Residential pool and facilities"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "Danga Bay — Coastal development landscape"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Danga Bay, Johor Bahru (Tebrau Strait waterfront)"
+    },
+    {
+      "label": "Development Type",
+      "value": "Mixed hotel-condo, retail, and leisure district"
+    },
+    {
+      "label": "Typical Units",
+      "value": "Studio to 3-bedroom service apartments and condos"
+    },
+    {
+      "label": "Tenure",
+      "value": "Freehold / leasehold varies by building"
+    },
+    {
+      "label": "Management",
+      "value": "Building-specific management companies"
+    },
+    {
+      "label": "Market Maturity",
+      "value": "Established rental history since 2000s"
+    },
+    {
+      "label": "Distance to CIQ",
+      "value": "Approx. 15–25 minutes by car"
+    },
+    {
+      "label": "Owner Profile",
+      "value": "Long-term investors, Airbnb hosts, local landlords"
+    }
+  ],
+  "map": {
+    "lat": 1.4728,
+    "lng": 103.7218,
+    "label": "Danga Bay, Johor Bahru"
+  },
+  "propertyTypes": [
+    {
+      "name": "Studio / SOHO",
+      "desc": "Entry-level units with steady tourism and short-stay demand near attractions."
+    },
+    {
+      "name": "2-Bedroom Condo",
+      "desc": "Core rental stock for local and expat tenants. Watch ageing fixtures in older towers."
+    },
+    {
+      "name": "3-Bedroom / Dual-Key",
+      "desc": "Family units and dual-key layouts for flexible rental strategies."
+    }
+  ],
+  "facilities": [
+    "Danga Bay waterfront park",
+    "Hotels and serviced residences",
+    "Shopping and entertainment zones",
+    "Marina and leisure attractions",
+    "F&B and event spaces",
+    "Public transport links to JB city",
+    "Mixed hotel-condo facilities per building"
+  ]
+}

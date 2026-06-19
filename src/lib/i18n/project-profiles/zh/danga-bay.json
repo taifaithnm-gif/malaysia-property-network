@@ -1,0 +1,106 @@
+{
+  "key": "danga-bay",
+  "title": "丹加湾 Danga Bay",
+  "subtitle": "成熟滨水区 · 新山",
+  "intro": "丹加湾是沿地不佬海峡的成熟混合用途滨水区。本简介概述户型、配套及海外房东需了解的公开信息。",
+  "seoTitle": "丹加湾项目简介 | 新山房产",
+  "seoDescription": "丹加湾项目简介：位置、公寓类型、配套及海外业主服务。",
+  "seoKeywords": "丹加湾, Danga Bay, 新山滨水, 丹加湾租赁",
+  "whatsappMessage": "您好，我在了解丹加湾，想咨询业主服务。",
+  "guideSlug": "danga-bay",
+  "labels": {
+    "gallery": "项目图集",
+    "facts": "项目概况",
+    "map": "位置地图",
+    "propertyTypes": "物业类型",
+    "facilities": "设施配套",
+    "relatedServices": "相关业主服务",
+    "listProperty": "提交房源",
+    "propertyRequest": "提交找房需求",
+    "readGuide": "阅读完整区域指南"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "丹加湾 Danga Bay — 高层住宅塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "丹加湾 Danga Bay — 海滨公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "丹加湾 Danga Bay — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "丹加湾 Danga Bay — 住宅泳池与设施"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "丹加湾 Danga Bay — 滨海开发项目"
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "新山丹加湾（地不佬海峡滨水区）"
+    },
+    {
+      "label": "项目类型",
+      "value": "混合酒店公寓、零售及休闲区"
+    },
+    {
+      "label": "常见户型",
+      "value": "Studio 至三房服务式公寓及 condo"
+    },
+    {
+      "label": "产权",
+      "value": "各楼盘永久/租赁产权不同"
+    },
+    {
+      "label": "管理",
+      "value": "各楼宇独立管理公司"
+    },
+    {
+      "label": "市场成熟度",
+      "value": "2000 年代起即有租赁历史"
+    },
+    {
+      "label": "距通关",
+      "value": "车程约 15–25 分钟"
+    },
+    {
+      "label": "业主构成",
+      "value": "长期投资者、短租房东、本地业主"
+    }
+  ],
+  "map": {
+    "lat": 1.4728,
+    "lng": 103.7218,
+    "label": "丹加湾，新山"
+  },
+  "propertyTypes": [
+    {
+      "name": "Studio / SOHO",
+      "desc": "入门级单位，近景点，旅游及短住需求稳定。"
+    },
+    {
+      "name": "两房 Condo",
+      "desc": "本地及外派租客主力户型，老旧塔楼需注意设备老化。"
+    },
+    {
+      "name": "三房 / Dual-Key",
+      "desc": "家庭单位及双钥匙户型，租赁策略更灵活。"
+    }
+  ],
+  "facilities": [
+    "丹加湾滨海公园",
+    "酒店及服务式住宅",
+    "购物及娱乐区",
+    "游艇及休闲景点",
+    "餐饮及活动空间",
+    "衔接新山市公共交通",
+    "各楼宇酒店-公寓配套"
+  ]
+}

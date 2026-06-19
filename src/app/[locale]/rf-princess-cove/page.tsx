@@ -1,34 +1,6 @@
-import { Hero } from "@/components/sections/Hero";
-import { LocationPageContent } from "@/components/sections/LocationPage";
-import type { Locale } from "@/lib/constants";
-import { getDictionary } from "@/lib/i18n/get-dictionary";
-import { buildMetadata } from "@/lib/seo";
+import { createProjectProfilePage } from "@/lib/project-profile-page";
 
-type PageProps = { params: Promise<{ locale: string }> };
+const { generateMetadata, default: Page } = createProjectProfilePage("rf-princess-cove");
 
-export async function generateMetadata({ params }: PageProps) {
-  const { locale } = await params;
-  const dict = await getDictionary(locale as Locale);
-  const loc = dict.locations.rfPrincessCove;
-  return buildMetadata({
-    dict,
-    locale,
-    path: "rf-princess-cove",
-    title: loc.title,
-    description: loc.intro,
-  });
-}
-
-export default async function RFPrincessCovePage({ params }: PageProps) {
-  const { locale: localeParam } = await params;
-  const locale = localeParam as Locale;
-  const dict = await getDictionary(locale);
-  const loc = dict.locations.rfPrincessCove;
-
-  return (
-    <>
-      <Hero locale={locale} dict={dict} title={loc.title} subtitle={loc.subtitle} description={loc.intro} showCta />
-      <LocationPageContent locale={locale} dict={dict} locationKey="rfPrincessCove" />
-    </>
-  );
-}
+export { generateMetadata };
+export default Page;

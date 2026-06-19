@@ -1,0 +1,106 @@
+{
+  "key": "forest-city",
+  "title": "森林城市 Forest City",
+  "subtitle": "综合度假城市 · 依斯干达马来西亚",
+  "intro": "森林城市位于新山振林山的大型滨海项目。本简介汇总公开项目信息，供海外业主评估托管、出租或出售方案。",
+  "seoTitle": "森林城市项目简介 | 新山房产",
+  "seoDescription": "森林城市项目简介：位置、户型、配套及海外业主服务信息。",
+  "seoKeywords": "森林城市, 森林城市新山, Forest City, 依斯干达房产",
+  "whatsappMessage": "您好，我在了解森林城市，想咨询业主服务。",
+  "guideSlug": "forest-city",
+  "labels": {
+    "gallery": "项目图集",
+    "facts": "项目概况",
+    "map": "位置地图",
+    "propertyTypes": "物业类型",
+    "facilities": "设施配套",
+    "relatedServices": "相关业主服务",
+    "listProperty": "提交房源",
+    "propertyRequest": "提交找房需求",
+    "readGuide": "阅读完整区域指南"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "森林城市 Forest City — 高层住宅塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "森林城市 Forest City — 海滨公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "森林城市 Forest City — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "森林城市 Forest City — 住宅泳池与设施"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "森林城市 Forest City — 滨海开发项目"
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "柔佛依斯干达经济特区，振林山"
+    },
+    {
+      "label": "区域",
+      "value": "新山南部海岸，面向新加坡海峡"
+    },
+    {
+      "label": "项目类型",
+      "value": "综合度假城市（住宅、商业、休闲）"
+    },
+    {
+      "label": "常见户型",
+      "value": "Studio 至三房及以上分层公寓"
+    },
+    {
+      "label": "产权",
+      "value": "各期别为永久或租赁产权——以买卖合约为准"
+    },
+    {
+      "label": "管理",
+      "value": "分期共管机构及现场管理处"
+    },
+    {
+      "label": "距新加坡",
+      "value": "车程约 1–2 小时（视交通而定）"
+    },
+    {
+      "label": "业主构成",
+      "value": "海外华人投资者、区域买家、度假型业主"
+    }
+  ],
+  "map": {
+    "lat": 1.3392,
+    "lng": 103.5931,
+    "label": "森林城市，振林山，新山"
+  },
+  "propertyTypes": [
+    {
+      "name": "Studio / 一房",
+      "desc": "紧凑户型，适合单身或度假短住。在社区规例允许时可作短租。"
+    },
+    {
+      "name": "两房",
+      "desc": "最常见投资户型，租赁需求与装修成本较为平衡。"
+    },
+    {
+      "name": "三房及以上",
+      "desc": "家庭型大单位，多海景或高尔夫景观，适合长租或业主自用。"
+    }
+  ],
+  "facilities": [
+    "泳池及会所设施",
+    "园林及滨海步道",
+    "项目内零售与餐饮",
+    "邻近高尔夫度假村",
+    "24 小时安保及门禁",
+    "停车及访客管理",
+    "穿梭交通（视期别而定）"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "key": "forest-city",
+  "title": "Forest City",
+  "subtitle": "Integrated resort city · Iskandar Malaysia",
+  "intro": "Forest City is a large-scale coastal development in Gelang Patah, Johor Bahru. This profile summarises public project information for overseas owners evaluating management, rental, or resale options.",
+  "seoTitle": "Forest City Project Profile | Johor Bahru Property",
+  "seoDescription": "Forest City project profile: location, property types, facilities, and owner services for overseas investors in Johor Bahru.",
+  "seoKeywords": "Forest City profile, Forest City Johor, 森林城市, Iskandar Malaysia property, Forest City condo",
+  "whatsappMessage": "Hi, I am researching Forest City and would like to discuss owner services.",
+  "guideSlug": "forest-city",
+  "labels": {
+    "gallery": "Project Gallery",
+    "facts": "Project Facts",
+    "map": "Location Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities & Amenities",
+    "relatedServices": "Related Owner Services",
+    "listProperty": "List Your Property",
+    "propertyRequest": "Submit Property Request",
+    "readGuide": "Read full area guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "Forest City — High-rise residential towers"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "Forest City — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "Forest City — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "Forest City — Residential pool and facilities"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "Forest City — Coastal development landscape"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Gelang Patah, Iskandar Malaysia, Johor"
+    },
+    {
+      "label": "Region",
+      "value": "Southern Johor coast facing Singapore Strait"
+    },
+    {
+      "label": "Development Type",
+      "value": "Integrated resort city (residential, commercial, leisure)"
+    },
+    {
+      "label": "Typical Units",
+      "value": "Studio to 3+ bedroom strata apartments"
+    },
+    {
+      "label": "Tenure",
+      "value": "Freehold / leasehold varies by phase — verify SPA"
+    },
+    {
+      "label": "Management",
+      "value": "Phase-specific JMB / MC and on-site management office"
+    },
+    {
+      "label": "Distance to Singapore",
+      "value": "Approx. 1–2 hours by road depending on traffic"
+    },
+    {
+      "label": "Owner Profile",
+      "value": "Overseas Chinese investors, regional buyers, holiday owners"
+    }
+  ],
+  "map": {
+    "lat": 1.3392,
+    "lng": 103.5931,
+    "label": "Forest City, Gelang Patah, Johor Bahru"
+  },
+  "propertyTypes": [
+    {
+      "name": "Studio / 1-Bedroom",
+      "desc": "Compact units suited to singles or holiday stays. Popular for short-term rental where permitted by by-laws."
+    },
+    {
+      "name": "2-Bedroom",
+      "desc": "Most common investor layout. Balances rental demand with manageable furnishing costs for overseas owners."
+    },
+    {
+      "name": "3-Bedroom & Larger",
+      "desc": "Family-oriented layouts with sea or golf views. Often used for long-stay tenants or owner holidays."
+    }
+  ],
+  "facilities": [
+    "Swimming pools and club facilities",
+    "Landscaped gardens and coastal walkways",
+    "Retail and F&B within development",
+    "Golf resort access (nearby)",
+    "24-hour security and gated access",
+    "Parking and visitor management",
+    "Shuttle and transport links (subject to phase)"
+  ]
+}

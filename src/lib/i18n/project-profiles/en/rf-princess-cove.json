@@ -1,0 +1,106 @@
+{
+  "key": "rf-princess-cove",
+  "title": "R&F Princess Cove",
+  "subtitle": "Waterfront living · Near Johor-Singapore Causeway",
+  "intro": "R&F Princess Cove is a flagship waterfront development in Tanjung Puteri, Johor Bahru, minutes from the Causeway. This profile covers public facts for owners and buyers researching CIQ-area property.",
+  "seoTitle": "R&F Princess Cove Project Profile | Johor Bahru",
+  "seoDescription": "R&F Princess Cove project profile: location near CIQ, property types, facilities, and owner services for overseas and Singapore buyers.",
+  "seoKeywords": "R&F Princess Cove, RF Princess Cove profile, 富力公主湾, CIQ property Johor, waterfront condo JB",
+  "whatsappMessage": "Hi, I am researching R&F Princess Cove and would like to discuss owner services.",
+  "guideSlug": "rf-princess-cove",
+  "labels": {
+    "gallery": "Project Gallery",
+    "facts": "Project Facts",
+    "map": "Location Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities & Amenities",
+    "relatedServices": "Related Owner Services",
+    "listProperty": "List Your Property",
+    "propertyRequest": "Submit Property Request",
+    "readGuide": "Read full area guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "R&F Princess Cove — High-rise residential towers"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "R&F Princess Cove — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "R&F Princess Cove — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "R&F Princess Cove — Residential pool and facilities"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "R&F Princess Cove — Coastal development landscape"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Tanjung Puteri, Johor Bahru (near CIQ)"
+    },
+    {
+      "label": "Developer",
+      "value": "R&F Group (publicly marketed phases)"
+    },
+    {
+      "label": "Development Type",
+      "value": "Waterfront mixed residential & commercial"
+    },
+    {
+      "label": "Typical Units",
+      "value": "1 to 4+ bedroom condominiums"
+    },
+    {
+      "label": "Tenure",
+      "value": "Freehold strata — verify per unit SPA"
+    },
+    {
+      "label": "Management",
+      "value": "Phase management office and JMB / MC"
+    },
+    {
+      "label": "Distance to CIQ",
+      "value": "Approx. 5–15 minutes by car off-peak"
+    },
+    {
+      "label": "Owner Profile",
+      "value": "Singapore buyers, China/HK investors, cross-border renters"
+    }
+  ],
+  "map": {
+    "lat": 1.4565,
+    "lng": 103.7644,
+    "label": "R&F Princess Cove, Tanjung Puteri, Johor Bahru"
+  },
+  "propertyTypes": [
+    {
+      "name": "1-Bedroom",
+      "desc": "Strong weekend and short-stay demand from Singapore visitors. Requires efficient furnishing and key management."
+    },
+    {
+      "name": "2-Bedroom",
+      "desc": "Popular with small families and commuters. Competitive rental market near CIQ."
+    },
+    {
+      "name": "3-Bedroom+ / Penthouse",
+      "desc": "Premium segment with strait views. Higher furnishing investment, suited to expat and executive tenants."
+    }
+  ],
+  "facilities": [
+    "Infinity pools and sky facilities",
+    "Gym, sauna, and function rooms",
+    "Waterfront promenade",
+    "Retail mall and dining (on-site / nearby)",
+    "Multi-tier security",
+    "Basement parking",
+    "Direct access routes toward CIQ"
+  ]
+}

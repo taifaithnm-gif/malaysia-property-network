@@ -1,0 +1,106 @@
+{
+  "key": "rf-princess-cove",
+  "title": "富力公主湾 R&F Princess Cove",
+  "subtitle": "滨水生活 · 近新马通关",
+  "intro": "富力公主湾是新山丹戎布蒂里旗舰滨水项目，距通关数分钟。本简介为研究通关区房产的业主与买家提供公开信息。",
+  "seoTitle": "富力公主湾项目简介 | 新山房产",
+  "seoDescription": "富力公主湾项目简介：通关区位置、户型、配套及业主服务。",
+  "seoKeywords": "富力公主湾, R&F Princess Cove, 通关房产, 新山滨水公寓",
+  "whatsappMessage": "您好，我在了解富力公主湾，想咨询业主服务。",
+  "guideSlug": "rf-princess-cove",
+  "labels": {
+    "gallery": "项目图集",
+    "facts": "项目概况",
+    "map": "位置地图",
+    "propertyTypes": "物业类型",
+    "facilities": "设施配套",
+    "relatedServices": "相关业主服务",
+    "listProperty": "提交房源",
+    "propertyRequest": "提交找房需求",
+    "readGuide": "阅读完整区域指南"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "富力公主湾 R&F Princess Cove — 高层住宅塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "富力公主湾 R&F Princess Cove — 海滨公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "富力公主湾 R&F Princess Cove — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "富力公主湾 R&F Princess Cove — 住宅泳池与设施"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80",
+      "alt": "富力公主湾 R&F Princess Cove — 滨海开发项目"
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "新山丹戎布蒂里（近通关）"
+    },
+    {
+      "label": "开发商",
+      "value": "富力集团（公开销售期别）"
+    },
+    {
+      "label": "项目类型",
+      "value": "滨水混合住宅与商业"
+    },
+    {
+      "label": "常见户型",
+      "value": "一至四房及以上公寓"
+    },
+    {
+      "label": "产权",
+      "value": "永久分层产权——以单位合约为准"
+    },
+    {
+      "label": "管理",
+      "value": "分期管理处及共管机构"
+    },
+    {
+      "label": "距通关",
+      "value": "非高峰车程约 5–15 分钟"
+    },
+    {
+      "label": "业主构成",
+      "value": "新加坡买家、中港投资者、跨境租客"
+    }
+  ],
+  "map": {
+    "lat": 1.4565,
+    "lng": 103.7644,
+    "label": "富力公主湾，丹戎布蒂里，新山"
+  },
+  "propertyTypes": [
+    {
+      "name": "一房",
+      "desc": "新加坡访客周末及短住需求旺盛，需高效配置家具与钥匙管理。"
+    },
+    {
+      "name": "两房",
+      "desc": "小家庭及通勤租客常见，通关区租赁竞争活跃。"
+    },
+    {
+      "name": "三房+/Penthouse",
+      "desc": "海峡景观高端单位，装修投入较高，适合外派及高管租客。"
+    }
+  ],
+  "facilities": [
+    "无边泳池及空中设施",
+    "健身房、桑拿及功能室",
+    "滨海步道",
+    "商场及餐饮（项目内/周边）",
+    "多级安保",
+    "地下停车",
+    "通往通关方向便捷路线"
+  ]
+}
