@@ -1,0 +1,114 @@
+{
+  "slug": "golf",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "golf",
+  "title": "Golf Travel Center",
+  "subtitle": "Golf Stay & Play · Corporate Tours · Property Tours",
+  "intro": "Plan golf travel in Johor Bahru with Forest City Golf Resort. We offer Golf Stay & Play packages, Corporate Golf Tours, and Golf Property Tours combining tee times with unit viewings.",
+  "seoTitle": "Golf Travel Center Johor | Stay, Play & Property Tours",
+  "seoDescription": "Golf Stay & Play, Corporate Golf Tours, and Golf Property Tours at Forest City with hotel and viewing coordination.",
+  "seoKeywords": "golf travel Johor, Forest City golf package, corporate golf tour",
+  "whatsappMessage": "Hi, I need a golf travel package in Johor Bahru.",
+  "sections": [
+    {
+      "title": "Golf Stay & Play",
+      "paragraphs": [
+        "Multi-day packages with hotel stays, daily tee times at Forest City Golf Resort, and leisure time at the marina or resort hotels."
+      ]
+    },
+    {
+      "title": "Corporate Golf Tours",
+      "paragraphs": [
+        "Team outings with group tee sheets, meeting or lunch options, and optional briefings on Iskandar property markets."
+      ]
+    },
+    {
+      "title": "Golf Property Tours",
+      "paragraphs": [
+        "Owner-buyers combine two rounds with guided unit inspections and management introductions — ideal for overseas due diligence trips."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Base course",
+      "value": "Forest City Golf Resort"
+    },
+    {
+      "label": "Services",
+      "value": "Stay & Play, Corporate, Property Tours"
+    },
+    {
+      "label": "Add-ons",
+      "value": "Hotel, transport, viewing slots"
+    },
+    {
+      "label": "Response",
+      "value": "Package quote within 24 hours"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Forest City Golf",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "Forest City Hotels",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "Golf Travel Desk",
+      "slug": "golf-travel-center"
+    },
+    {
+      "label": "Book Viewing",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "Corporate Visits",
+      "slug": "corporate-visits"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Minimum group size?",
+      "a": "Packages available from solo travellers to corporate groups of 20+; pricing scales with group size and season."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-0",
+      "alt": "Forest City Golf Resort — photo 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-1",
+      "alt": "Forest City Golf Resort — photo 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-2",
+      "alt": "Forest City Golf Resort — photo 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-3",
+      "alt": "Forest City Golf Resort — photo 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-4",
+      "alt": "Forest City Golf Resort — photo 5"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-5",
+      "alt": "Forest City Golf Resort — photo 6"
+    }
+  ]
+}

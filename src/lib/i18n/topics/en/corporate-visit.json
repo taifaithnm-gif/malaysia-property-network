@@ -27,6 +27,10 @@
   ],
   "quickLinks": [
     {
+      "label": "Corporate Visit Center",
+      "slug": "corporate-visits"
+    },
+    {
       "label": "Visit Guide",
       "slug": "guide/johor-corporate-visit"
     },

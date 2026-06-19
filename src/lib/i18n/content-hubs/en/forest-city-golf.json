@@ -1,0 +1,92 @@
+{
+  "slug": "forest-city-golf",
+  "mediaSectionId": "golf-resort",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city-golf",
+  "title": "Forest City Golf Resort",
+  "subtitle": "Championship golf & resort living",
+  "intro": "Forest City Golf Resort combines world-class courses with integrated resort amenities within the Forest City development. Explore golf, property ownership, and stay-and-play packages for overseas visitors.",
+  "seoTitle": "Forest City Golf Resort | Golf & Property Johor",
+  "seoDescription": "Forest City Golf Resort guide: courses, resort facilities, property links, and golf travel packages in Johor Bahru.",
+  "seoKeywords": "Forest City Golf, golf resort Johor, Forest City golf property, 森林城市高尔夫",
+  "whatsappMessage": "Hi, I am interested in Forest City Golf Resort and property options.",
+  "sections": [
+    {
+      "title": "Golf & resort experience",
+      "paragraphs": [
+        "Forest City Golf Resort features professionally designed courses integrated with resort clubhouses, dining, and leisure facilities. Visitors combine tee times with marina walks, hotel stays, and optional property viewings within the same development.",
+        "Overseas owners use golf trips to inspect units, meet local managers, and evaluate rental or personal-use potential. We coordinate tee times, transport, and inspection slots when schedules align."
+      ]
+    },
+    {
+      "title": "Property connection",
+      "paragraphs": [
+        "Residential inventory near the golf precinct appeals to golf enthusiasts and lifestyle buyers. Secondary-market units vary by tower, view, and furnishing — unit-specific diligence matters more than district generalisations."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forest City, Iskandar Malaysia"
+    },
+    {
+      "label": "Focus",
+      "value": "Golf resort & integrated residential"
+    },
+    {
+      "label": "Visitor services",
+      "value": "Stay & play, property viewing add-ons"
+    },
+    {
+      "label": "Languages",
+      "value": "English & Chinese support"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Forest City Media Center",
+      "slug": "forest-city/media-center"
+    },
+    {
+      "label": "Forest City Marina",
+      "slug": "forest-city-marina"
+    },
+    {
+      "label": "Forest City Hotels",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "Golf Travel Center",
+      "slug": "golf"
+    },
+    {
+      "label": "Resource Center",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "Full Guide",
+      "slug": "guide/forest-city-golf-resort"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I combine golf with a property inspection?",
+      "a": "Yes. We schedule tee times and viewing slots on the same visit when access permits."
+    },
+    {
+      "q": "Do you book tee times directly?",
+      "a": "We coordinate with resort operations and confirm availability before your travel dates."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  }
+}

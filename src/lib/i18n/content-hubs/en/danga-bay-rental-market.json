@@ -1,0 +1,97 @@
+{
+  "slug": "danga-bay-rental-market",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/rental-market",
+  "title": "Danga Bay Rental Market",
+  "subtitle": "Tenant demand, pricing & vacancy",
+  "intro": "Danga Bay's mature rental market spans local professionals, students, and tourism-linked stays. Tower-specific pricing and furnishing strategy determine net returns for overseas landlords.",
+  "seoTitle": "Danga Bay Rental Market | Johor Bahru Landlord Guide",
+  "seoDescription": "Danga Bay rental market guide: tenant types, pricing benchmarks, vacancy management, and property management for overseas owners.",
+  "seoKeywords": "Danga Bay rental, JB condo rent, 丹加湾租金",
+  "whatsappMessage": "Hi, I need Danga Bay rental market advice for my unit.",
+  "sections": [
+    {
+      "title": "Demand drivers",
+      "paragraphs": [
+        "Long-term tenancy dominates; short-stay exists in selected buildings subject to by-laws. Student calendars and tourism peaks create seasonal leasing opportunities.",
+        "Listing titles should name the exact tower — tenant searches on Malaysian portals are often building-specific in this district."
+      ]
+    },
+    {
+      "title": "Pricing & voids",
+      "paragraphs": [
+        "Two towers on the same road can command different rents based on management quality, lift reliability, and pool condition. Comparative analysis within the same building is essential."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Primary model",
+      "value": "Long-term residential lease"
+    },
+    {
+      "label": "Tenant mix",
+      "value": "Local workers, students, families"
+    },
+    {
+      "label": "Pricing key",
+      "value": "Same-building recent transactions"
+    },
+    {
+      "label": "Management",
+      "value": "Responsive listing & maintenance"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Lifestyle Guide",
+      "slug": "danga-bay/lifestyle"
+    },
+    {
+      "label": "Family Living",
+      "slug": "danga-bay/family-living"
+    },
+    {
+      "label": "Management Service",
+      "slug": "danga-bay-property-management"
+    },
+    {
+      "label": "List Property",
+      "slug": "list-property"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Expected vacancy between tenants?",
+      "a": "Well-maintained furnished units in popular towers often re-let within 2–6 weeks; ageing units may take longer."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "Danga Bay — Coastal development landscape"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "Danga Bay — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "Danga Bay — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "Danga Bay — Residential pool and facilities"
+    }
+  ]
+}

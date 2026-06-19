@@ -39,6 +39,21 @@
       "desc": "Full guide"
     },
     {
+      "label": "Golf Content Hub",
+      "slug": "forest-city-golf",
+      "desc": "Golf resort & packages"
+    },
+    {
+      "label": "Marina Hub",
+      "slug": "forest-city-marina",
+      "desc": "Waterfront marina"
+    },
+    {
+      "label": "Hotels Hub",
+      "slug": "forest-city-hotels",
+      "desc": "Resort stays"
+    },
+    {
       "label": "Golf Topic",
       "slug": "forest-city/golf-resort",
       "desc": "Golf special"

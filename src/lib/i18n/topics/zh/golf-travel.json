@@ -27,6 +27,14 @@
   ],
   "quickLinks": [
     {
+      "label": "高尔夫旅行中心",
+      "slug": "golf"
+    },
+    {
+      "label": "森林城市高尔夫中心",
+      "slug": "forest-city-golf"
+    },
+    {
       "label": "高尔夫专题",
       "slug": "forest-city/golf-resort"
     },

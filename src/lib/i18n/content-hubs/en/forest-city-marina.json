@@ -1,0 +1,78 @@
+{
+  "slug": "forest-city-marina",
+  "mediaSectionId": "marina",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "forest-city-marina",
+  "title": "Forest City Marina",
+  "subtitle": "Waterfront marina & leisure precinct",
+  "intro": "Forest City Marina anchors the waterfront lifestyle within the development — berths, promenades, dining, and leisure access for residents and visitors.",
+  "seoTitle": "Forest City Marina | Waterfront Living Johor",
+  "seoDescription": "Forest City Marina overview: waterfront amenities, property links, and owner services in Iskandar Malaysia.",
+  "seoKeywords": "Forest City Marina, waterfront Johor, marina property, 森林城市 marina",
+  "whatsappMessage": "Hi, I am interested in Forest City Marina and nearby property.",
+  "sections": [
+    {
+      "title": "Marina lifestyle",
+      "paragraphs": [
+        "The marina precinct connects residential towers with waterfront walks, F&B, and leisure boating culture. Owners marketing units highlight bay views and walkable amenities.",
+        "Overseas landlords should understand seasonal visitor flows and maintenance exposure for waterfront-facing units — inspection reports help monitor balcony hardware and glazing."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forest City waterfront, Iskandar"
+    },
+    {
+      "label": "Highlights",
+      "value": "Marina berths, promenade, leisure dining"
+    },
+    {
+      "label": "Property types",
+      "value": "High-rise condos & serviced units nearby"
+    },
+    {
+      "label": "Owner support",
+      "value": "Management, inspection, rental coordination"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Forest City Golf",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "Forest City Hotels",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "Media Center",
+      "slug": "forest-city/media-center"
+    },
+    {
+      "label": "Forest City Profile",
+      "slug": "forest-city"
+    },
+    {
+      "label": "Book Viewing",
+      "slug": "book-viewing"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are marina-facing units premium?",
+      "a": "Bay and marina views typically command higher rents; confirm by building and floor."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  }
+}

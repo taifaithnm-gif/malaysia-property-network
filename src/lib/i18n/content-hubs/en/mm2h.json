@@ -1,0 +1,82 @@
+{
+  "slug": "mm2h",
+  "relatedServiceSlug": "mm2h-landing-support",
+  "leadSource": "mm2h",
+  "title": "MM2H Center",
+  "subtitle": "Malaysia My Second Home & property landing",
+  "intro": "Planning MM2H while buying in Forest City, R&F Princess Cove, or Danga Bay? Practical property landing steps — we assist housing; immigration via licensed agents.",
+  "seoTitle": "MM2H Center Johor Bahru | Second Home & Property",
+  "seoDescription": "MM2H property landing center: Johor Bahru buying guide, Forest City, R&F, Danga Bay links, and landing support.",
+  "seoKeywords": "MM2H Johor, second home Malaysia, MM2H property",
+  "whatsappMessage": "Hi, MM2H landing support in JB.",
+  "sections": [
+    {
+      "title": "MM2H and property",
+      "paragraphs": [
+        "Many buyers purchase in JB while planning MM2H. We assist property landing, tenancy setup, and local coordination; immigration paperwork via licensed professionals."
+      ]
+    },
+    {
+      "title": "Johor project links",
+      "paragraphs": [
+        "Forest City suits lifestyle and golf-oriented holders; R&F targets CIQ proximity; Danga Bay offers mature rental markets at lower entry points."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Scope",
+      "value": "Property landing — not immigration legal advice"
+    },
+    {
+      "label": "Projects",
+      "value": "Forest City, R&F, Danga Bay"
+    },
+    {
+      "label": "Support",
+      "value": "Viewing, management, MM2H coordination"
+    },
+    {
+      "label": "Referrals",
+      "value": "Licensed MM2H agents on request"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "MM2H Topic (legacy)",
+      "slug": "topics/mm2h"
+    },
+    {
+      "label": "MM2H Service",
+      "slug": "services/mm2h-landing-support"
+    },
+    {
+      "label": "Forest City",
+      "slug": "forest-city"
+    },
+    {
+      "label": "R&F Princess Cove",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "Danga Bay",
+      "slug": "danga-bay"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are you a licensed MM2H agent?",
+      "a": "No. We refer immigration matters to licensed professionals and focus on property landing."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  }
+}

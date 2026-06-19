@@ -1,0 +1,88 @@
+{
+  "slug": "corporate-visits",
+  "relatedServiceSlug": "corporate-visit-services",
+  "leadSource": "corporate-visits",
+  "title": "企业访问中心",
+  "subtitle": "工厂参观、投资考察与物业验房",
+  "intro": "为新山企业考察团提供结构化行程——工厂参观、投资简介及依斯干达 guided 物业验房。",
+  "seoTitle": "新山企业访问中心 | 工厂与物业考察",
+  "seoDescription": "企业访问项目：工厂参观、投资考察及新山/依斯干达物业验房团。",
+  "seoKeywords": "新山企业访问, 工厂参观, 投资考察",
+  "whatsappMessage": "您好，我们需要新山企业访问支持。",
+  "sections": [
+    {
+      "title": "工厂与工业参观",
+      "paragraphs": [
+        "依斯干达工业区实地考察及供应链布局简介。"
+      ]
+    },
+    {
+      "title": "投资考察",
+      "paragraphs": [
+        "宏观简介并 routing 森林城市、富力公主湾、丹加湾，中英文陪同。"
+      ]
+    },
+    {
+      "title": "物业验房团",
+      "paragraphs": [
+        "收购团队验房、会见管理处，可选 photo/video 尽调报告。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "覆盖",
+      "value": "新山及依斯干达"
+    },
+    {
+      "label": "项目",
+      "value": "工厂、投资、验房"
+    },
+    {
+      "label": "语言",
+      "value": "中英文陪同"
+    },
+    {
+      "label": "响应",
+      "value": "24 小时内确认行程"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "企业服务台",
+      "slug": "corporate-visit-center"
+    },
+    {
+      "label": "企业访问指南",
+      "slug": "guide/johor-corporate-visit"
+    },
+    {
+      "label": "森林城市酒店",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "预约看房",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "高尔夫旅行",
+      "slug": "golf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "能否工厂+物业同日？",
+      "a": "可以——多日行程常上午工业下午物业。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  }
+}

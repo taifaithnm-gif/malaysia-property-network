@@ -1,0 +1,114 @@
+{
+  "slug": "golf",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "golf",
+  "title": "高尔夫旅行中心",
+  "subtitle": "打球住宿 · 企业高尔夫 · 物业考察团",
+  "intro": "在柔佛规划森林城市高尔夫旅行：打球住宿套餐、企业高尔夫团及结合开球与看房的物业考察团。",
+  "seoTitle": "柔佛高尔夫旅行中心 | 住宿打球与看房",
+  "seoDescription": "森林城市 Golf Stay & Play、企业高尔夫团及物业考察团，含酒店与看房协调。",
+  "seoKeywords": "柔佛高尔夫, 森林城市高尔夫套餐, 企业高尔夫",
+  "whatsappMessage": "您好，我需要柔佛高尔夫旅行套餐。",
+  "sections": [
+    {
+      "title": "打球住宿套餐",
+      "paragraphs": [
+        "含酒店、每日 Forest City 开球及 marina/度假酒店休闲时间。"
+      ]
+    },
+    {
+      "title": "企业高尔夫团",
+      "paragraphs": [
+        "团体开球、会议或午餐选项，可加依斯干达物业市场简介。"
+      ]
+    },
+    {
+      "title": "物业考察团",
+      "paragraphs": [
+        "买家可两场球+ guided 验房及管理方介绍，适合海外尽调行程。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "球场",
+      "value": "森林城市高尔夫度假村"
+    },
+    {
+      "label": "服务",
+      "value": "住宿打球、企业团、考察团"
+    },
+    {
+      "label": "附加",
+      "value": "酒店、交通、看房时段"
+    },
+    {
+      "label": "回复",
+      "value": "24 小时内报价"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "森林城市高尔夫",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "森林城市酒店",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "高尔夫服务台",
+      "slug": "golf-travel-center"
+    },
+    {
+      "label": "预约看房",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "企业访问",
+      "slug": "corporate-visits"
+    }
+  ],
+  "faq": [
+    {
+      "q": "最少几人？",
+      "a": "单人至 20+ 企业团均可；价格随人数与季节调整。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-0",
+      "alt": "森林城市高尔夫度假村 — 图 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-1",
+      "alt": "森林城市高尔夫度假村 — 图 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-2",
+      "alt": "森林城市高尔夫度假村 — 图 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-3",
+      "alt": "森林城市高尔夫度假村 — 图 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-4",
+      "alt": "森林城市高尔夫度假村 — 图 5"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=fc-golf-resort-5",
+      "alt": "森林城市高尔夫度假村 — 图 6"
+    }
+  ]
+}

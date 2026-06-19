@@ -24,6 +24,21 @@
   ],
   "resources": [
     {
+      "label": "Lifestyle",
+      "slug": "danga-bay/lifestyle",
+      "desc": "Waterfront living"
+    },
+    {
+      "label": "Rental Market",
+      "slug": "danga-bay/rental-market",
+      "desc": "Tenant demand"
+    },
+    {
+      "label": "Family Living",
+      "slug": "danga-bay/family-living",
+      "desc": "Family tenants"
+    },
+    {
       "label": "Profile",
       "slug": "danga-bay",
       "desc": "Gallery"

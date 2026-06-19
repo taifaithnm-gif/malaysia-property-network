@@ -1,0 +1,78 @@
+{
+  "slug": "forest-city-marina",
+  "mediaSectionId": "marina",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "forest-city-marina",
+  "title": "森林城市 Marina",
+  "subtitle": "滨水码头与休闲区",
+  "intro": "森林城市 Marina 是开发区的滨水生活方式核心——泊位、步道、餐饮及休闲设施服务居民与访客。",
+  "seoTitle": "森林城市 Marina | 柔佛滨水生活",
+  "seoDescription": "森林城市 Marina 概览：滨水配套、物业链接及依斯干达业主服务。",
+  "seoKeywords": "森林城市 marina, 滨水物业, 依斯干达",
+  "whatsappMessage": "您好，我想了解森林城市 Marina 及周边物业。",
+  "sections": [
+    {
+      "title": "Marina 生活方式",
+      "paragraphs": [
+        "Marina 区连接住宅塔楼与滨水步道、餐饮及休闲 boating 文化。出租营销常突出海湾景观与步行配套。",
+        "海外业主应了解季节性人流及临海单元的维护情况——验房报告有助于监控阳台五金与玻璃状况。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "依斯干达 · 森林城市滨水区"
+    },
+    {
+      "label": "亮点",
+      "value": "码头泊位、步道、休闲餐饮"
+    },
+    {
+      "label": "物业类型",
+      "value": "周边高层公寓及服务式单元"
+    },
+    {
+      "label": "业主支持",
+      "value": "管理、验房、出租协调"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "森林城市高尔夫",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "森林城市酒店",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "媒体中心",
+      "slug": "forest-city/media-center"
+    },
+    {
+      "label": "森林城市主页",
+      "slug": "forest-city"
+    },
+    {
+      "label": "预约看房",
+      "slug": "book-viewing"
+    }
+  ],
+  "faq": [
+    {
+      "q": "临海单元是否溢价？",
+      "a": "海湾与 marina 景观通常租金更高，需按楼栋与楼层具体比较。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "princess-cove-investment",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "princess-cove-investment",
+  "title": "R&F Princess Cove Investment",
+  "subtitle": "Rental yield & hold strategy",
+  "intro": "Investment-focused overview for R&F Princess Cove: rental positioning, cross-border tenant demand, management costs, and secondary-market considerations for overseas holders.",
+  "seoTitle": "R&F Princess Cove Investment | Rental & Yield Guide",
+  "seoDescription": "R&F Princess Cove investment guide: rental market, yield factors, management, and inspection for overseas investors.",
+  "seoKeywords": "R&F investment, Princess Cove rental yield, CIQ condo investment",
+  "whatsappMessage": "Hi, I want investment analysis for R&F Princess Cove.",
+  "sections": [
+    {
+      "title": "Investment thesis",
+      "paragraphs": [
+        "CIQ-adjacent premium addresses attract tenants who pay for location convenience. Net yield depends on purchase price, furnishing, management fees, and vacancy handling.",
+        "Secondary-market buyers should review strata minutes, sinking fund status, and recent transacted rents in the same tower before pricing offers."
+      ]
+    },
+    {
+      "title": "Owner operations",
+      "paragraphs": [
+        "Remote ownership requires responsive tenant management and periodic inspection. We provide rent collection, maintenance coordination, and photo reports for overseas landlords."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Market type",
+      "value": "Premium CIQ-area residential"
+    },
+    {
+      "label": "Tenant profile",
+      "value": "Cross-border professionals, families"
+    },
+    {
+      "label": "Key costs",
+      "value": "Maintenance, furnishing, management, vacancy"
+    },
+    {
+      "label": "Due diligence",
+      "value": "Unit inspection + strata review recommended"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "CIQ Location Hub",
+      "slug": "princess-cove-ciq"
+    },
+    {
+      "label": "R&F Profile",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "List Property",
+      "slug": "list-property"
+    },
+    {
+      "label": "Property Request",
+      "slug": "property-request"
+    },
+    {
+      "label": "Book Viewing",
+      "slug": "book-viewing"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Typical holding period?",
+      "a": "Many overseas investors hold 5–10+ years for rental income; resale timing depends on market cycle and unit condition."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "R&F Princess Cove — High-rise residential towers"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "R&F Princess Cove — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "R&F Princess Cove — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "R&F Princess Cove — Residential pool and facilities"
+    }
+  ]
+}

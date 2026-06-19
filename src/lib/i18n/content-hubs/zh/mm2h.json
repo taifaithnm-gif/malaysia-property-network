@@ -1,0 +1,82 @@
+{
+  "slug": "mm2h",
+  "relatedServiceSlug": "mm2h-landing-support",
+  "leadSource": "mm2h",
+  "title": "MM2H 中心",
+  "subtitle": "马来西亚第二家园与物业落地",
+  "intro": "规划 MM2H 同时购买森林城市、富力或丹加湾？我们协助物业落地；移民手续通过 licensed 代理。",
+  "seoTitle": "MM2H 中心新山 | 第二家园与物业",
+  "seoDescription": "MM2H 物业落地中心：新山购房、森林城市/富力/丹加湾链接及落地支持。",
+  "seoKeywords": "MM2H 新山, 第二家园, MM2H 物业",
+  "whatsappMessage": "您好，我需要新山 MM2H 落地支持。",
+  "sections": [
+    {
+      "title": "MM2H 与物业",
+      "paragraphs": [
+        "许多买家在规划 MM2H 时购入新山物业。我们协助落地、租务及本地协调；移民文件由 licensed 专业人士办理。"
+      ]
+    },
+    {
+      "title": "柔佛项目链接",
+      "paragraphs": [
+        "森林城市偏 lifestyle/高尔夫；富力近 CIQ；丹加湾租赁市场成熟、门槛较低。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "范围",
+      "value": "物业落地，非移民法律意见"
+    },
+    {
+      "label": "项目",
+      "value": "森林城市、富力、丹加湾"
+    },
+    {
+      "label": "支持",
+      "value": "看房、管理、MM2H 协调"
+    },
+    {
+      "label": "转介",
+      "value": "可按需介绍 licensed MM2H 代理"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "MM2H 专题页",
+      "slug": "topics/mm2h"
+    },
+    {
+      "label": "MM2H 服务",
+      "slug": "services/mm2h-landing-support"
+    },
+    {
+      "label": "森林城市",
+      "slug": "forest-city"
+    },
+    {
+      "label": "富力公主湾",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "丹加湾",
+      "slug": "danga-bay"
+    }
+  ],
+  "faq": [
+    {
+      "q": "是否为 licensed MM2H 代理？",
+      "a": "否。移民事项转介 licensed 专业人士，我们专注物业落地。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  }
+}

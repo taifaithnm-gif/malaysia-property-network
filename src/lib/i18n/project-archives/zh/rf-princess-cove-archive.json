@@ -24,6 +24,16 @@
   ],
   "resources": [
     {
+      "label": "CIQ 中心",
+      "slug": "princess-cove-ciq",
+      "desc": "关隘区位"
+    },
+    {
+      "label": "投资中心",
+      "slug": "princess-cove-investment",
+      "desc": "租金回报"
+    },
+    {
       "label": "简介",
       "slug": "rf-princess-cove",
       "desc": "图集"

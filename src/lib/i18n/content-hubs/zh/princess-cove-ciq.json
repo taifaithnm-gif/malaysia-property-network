@@ -1,0 +1,95 @@
+{
+  "slug": "princess-cove-ciq",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "princess-cove-ciq",
+  "title": "富力公主湾与 CIQ",
+  "subtitle": "关隘旁滨水地址",
+  "intro": "富力公主湾位于 Tanjung Puteri，距新柔长堤（CIQ）数分钟车程。本页介绍区位、跨境通勤背景及 CIQ 片区业主服务。",
+  "seoTitle": "富力公主湾 CIQ | 关隘旁柔佛物业",
+  "seoDescription": "富力公主湾近 CIQ：区位要点、跨境生活、管理及验房服务。",
+  "seoKeywords": "富力公主湾 CIQ, 关隘物业, Tanjung Puteri",
+  "whatsappMessage": "您好，我想了解近 CIQ 的富力公主湾。",
+  "sections": [
+    {
+      "title": "CIQ  proximity",
+      "paragraphs": [
+        "Tanjung Puteri 地址吸引重视关隘通达的新加坡通勤者、周末自住客及面向跨境专业人士的出租业主。",
+        "CIQ 交通状况影响租客偏好与短租需求。营销应基于 realistic 通勤预期，而非理想高峰时段。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "Tanjung Puteri，距 CIQ 数分钟"
+    },
+    {
+      "label": "开发商",
+      "value": "富力集团（公开销售期数）"
+    },
+    {
+      "label": "典型买家",
+      "value": "新加坡关联及海外华人"
+    },
+    {
+      "label": "户型",
+      "value": "1–4+ 房公寓"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "投资中心",
+      "slug": "princess-cove-investment"
+    },
+    {
+      "label": "公主湾主页",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "项目档案",
+      "slug": "rf-princess-cove/archive"
+    },
+    {
+      "label": "完整指南",
+      "slug": "guide/rf-princess-cove"
+    },
+    {
+      "label": "物业管理",
+      "slug": "rf-princess-cove-property-management"
+    }
+  ],
+  "faq": [
+    {
+      "q": "能否步行至 CIQ？",
+      "a": "按新山标准距离不远，但步行体验因路线与天气而异，多数居民使用网约车或 shuttle。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "富力公主湾 — 高层住宅塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "富力公主湾 — 滨水公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "富力公主湾 — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "富力公主湾 — 泳池与设施"
+    }
+  ]
+}

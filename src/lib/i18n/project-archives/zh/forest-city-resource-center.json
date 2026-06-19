@@ -39,6 +39,21 @@
       "desc": "完整指南"
     },
     {
+      "label": "高尔夫内容中心",
+      "slug": "forest-city-golf",
+      "desc": "球场与套餐"
+    },
+    {
+      "label": "Marina 中心",
+      "slug": "forest-city-marina",
+      "desc": "滨水码头"
+    },
+    {
+      "label": "酒店中心",
+      "slug": "forest-city-hotels",
+      "desc": "度假住宿"
+    },
+    {
       "label": "高尔夫专题",
       "slug": "forest-city/golf-resort",
       "desc": "高尔夫"

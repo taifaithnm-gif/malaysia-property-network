@@ -24,6 +24,21 @@
   ],
   "resources": [
     {
+      "label": "生活方式",
+      "slug": "danga-bay/lifestyle",
+      "desc": "滨水生活"
+    },
+    {
+      "label": "租赁市场",
+      "slug": "danga-bay/rental-market",
+      "desc": "租客需求"
+    },
+    {
+      "label": "家庭居住",
+      "slug": "danga-bay/family-living",
+      "desc": "家庭租客"
+    },
+    {
       "label": "简介",
       "slug": "danga-bay",
       "desc": "图集"

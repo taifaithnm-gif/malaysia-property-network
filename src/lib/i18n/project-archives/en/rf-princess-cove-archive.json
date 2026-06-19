@@ -24,6 +24,16 @@
   ],
   "resources": [
     {
+      "label": "CIQ Hub",
+      "slug": "princess-cove-ciq",
+      "desc": "Causeway location"
+    },
+    {
+      "label": "Investment Hub",
+      "slug": "princess-cove-investment",
+      "desc": "Rental & yield"
+    },
+    {
       "label": "Profile",
       "slug": "rf-princess-cove",
       "desc": "Gallery"

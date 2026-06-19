@@ -1,0 +1,88 @@
+{
+  "slug": "corporate-visits",
+  "relatedServiceSlug": "corporate-visit-services",
+  "leadSource": "corporate-visits",
+  "title": "Corporate Visit Center",
+  "subtitle": "Factory visits, investment tours & property inspections",
+  "intro": "Structured corporate programs for teams visiting Johor Bahru — manufacturing site visits, investment briefings, and guided property inspections across Iskandar.",
+  "seoTitle": "Corporate Visit Center Johor Bahru | Factory & Property Tours",
+  "seoDescription": "Corporate visit programs: factory tours, investment briefings, and property inspection tours in Johor Bahru and Iskandar.",
+  "seoKeywords": "corporate visit Johor, factory tour JB, investment tour Malaysia",
+  "whatsappMessage": "Hi, we need corporate visit support in Johor Bahru.",
+  "sections": [
+    {
+      "title": "Factory & industrial visits",
+      "paragraphs": [
+        "Site visits to Johor industrial zones with logistics briefing for investors evaluating supply-chain footprint."
+      ]
+    },
+    {
+      "title": "Investment tours",
+      "paragraphs": [
+        "Iskandar macro briefing plus routed visits to Forest City, R&F Princess Cove, and Danga Bay with bilingual escort."
+      ]
+    },
+    {
+      "title": "Property inspection tours",
+      "paragraphs": [
+        "Acquisition teams view units, meet management offices, and optionally receive photo or video diligence reports."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Coverage",
+      "value": "Johor Bahru & Iskandar"
+    },
+    {
+      "label": "Programs",
+      "value": "Factory, investment, inspection"
+    },
+    {
+      "label": "Languages",
+      "value": "English & Chinese escort"
+    },
+    {
+      "label": "Lead time",
+      "value": "Itinerary confirmation within 24h"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Corporate Visit Desk",
+      "slug": "corporate-visit-center"
+    },
+    {
+      "label": "Johor Corporate Guide",
+      "slug": "guide/johor-corporate-visit"
+    },
+    {
+      "label": "Forest City Hotels",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "Book Viewing",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "Golf Travel",
+      "slug": "golf"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can visits combine factory and property?",
+      "a": "Yes — multi-day itineraries commonly mix industrial sites with afternoon property briefings."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  }
+}

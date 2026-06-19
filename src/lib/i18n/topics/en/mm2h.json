@@ -27,6 +27,10 @@
   ],
   "quickLinks": [
     {
+      "label": "MM2H Center",
+      "slug": "mm2h"
+    },
+    {
       "label": "FC Resource Center",
       "slug": "forest-city/resource-center"
     },

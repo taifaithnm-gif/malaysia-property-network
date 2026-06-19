@@ -1,0 +1,95 @@
+{
+  "slug": "danga-bay-lifestyle",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/lifestyle",
+  "title": "丹加湾生活方式",
+  "subtitle": "滨水餐饮、休闲与日常居住",
+  "intro": "丹加湾沿 Tebrau 海峡提供成熟滨水生活——餐饮区、主题乐园、滨海步道及酒店公寓混合社区。",
+  "seoTitle": "丹加湾生活方式 | 柔佛滨水居住",
+  "seoDescription": "丹加湾生活方式：滨水休闲、餐饮、租客吸引力及业主注意事项。",
+  "seoKeywords": "丹加湾生活, 滨水新山",
+  "whatsappMessage": "您好，我想了解丹加湾生活方式以评估我的单元。",
+  "sections": [
+    {
+      "title": "日常生活",
+      "paragraphs": [
+        "周末餐饮与景点人流有利于合规短租，长期租客则重视滨海通达与成熟配套。",
+        "噪音与交通因片区内 micro-location 而异——实地看房可 clarify 景观与临路之间的取舍。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "区域",
+      "value": "新山丹加湾"
+    },
+    {
+      "label": "定位",
+      "value": "成熟滨水混合用途"
+    },
+    {
+      "label": "优势",
+      "value": "较新 premium 区更亲民的滨水选择"
+    },
+    {
+      "label": "建议",
+      "value": "营销需贴合具体楼栋条件"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "租赁市场",
+      "slug": "danga-bay/rental-market"
+    },
+    {
+      "label": "家庭居住",
+      "slug": "danga-bay/family-living"
+    },
+    {
+      "label": "丹加湾主页",
+      "slug": "danga-bay"
+    },
+    {
+      "label": "项目档案",
+      "slug": "danga-bay/archive"
+    },
+    {
+      "label": "完整指南",
+      "slug": "guide/danga-bay"
+    }
+  ],
+  "faq": [
+    {
+      "q": "丹加湾只适合游客吗？",
+      "a": "否——许多本地家庭与专业人士长期居住；旅游活动是补充而非全部。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "丹加湾 — 滨海开发景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "丹加湾 — 滨水公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "丹加湾 — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "丹加湾 — 泳池与设施"
+    }
+  ]
+}

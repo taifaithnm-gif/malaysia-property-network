@@ -1,0 +1,97 @@
+{
+  "slug": "danga-bay-rental-market",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/rental-market",
+  "title": "丹加湾租赁市场",
+  "subtitle": "租客需求、定价与空置",
+  "intro": "丹加湾成熟租赁市场涵盖本地白领、学生及旅游相关短住。按塔楼定价与装修策略决定海外业主净回报。",
+  "seoTitle": "丹加湾租赁市场 | 新山业主指南",
+  "seoDescription": "丹加湾租赁市场：租客类型、定价基准、空置管理及海外业主物业服务。",
+  "seoKeywords": "丹加湾租金, 新山公寓出租",
+  "whatsappMessage": "您好，我需要丹加湾租赁市场建议。",
+  "sections": [
+    {
+      "title": "需求驱动",
+      "paragraphs": [
+        "长期租约为主；部分楼栋在 by-law 允许下有短租。学期与旅游高峰带来 seasonal 机会。",
+        " listing 标题应写明具体塔楼——本地平台搜索常按楼栋进行。"
+      ]
+    },
+    {
+      "title": "定价与空置",
+      "paragraphs": [
+        "同路两塔因管理、电梯与泳池状况租金可差很大。须以同塔近期成交为基准定价。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "主要模式",
+      "value": "长期住宅租约"
+    },
+    {
+      "label": "租客构成",
+      "value": "本地打工族、学生、家庭"
+    },
+    {
+      "label": "定价关键",
+      "value": "同塔近期成交"
+    },
+    {
+      "label": "管理要点",
+      "value": "快速响应 listing 与维修"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "生活方式",
+      "slug": "danga-bay/lifestyle"
+    },
+    {
+      "label": "家庭居住",
+      "slug": "danga-bay/family-living"
+    },
+    {
+      "label": "物业管理",
+      "slug": "danga-bay-property-management"
+    },
+    {
+      "label": "发布房源",
+      "slug": "list-property"
+    }
+  ],
+  "faq": [
+    {
+      "q": "换租空置期多长？",
+      "a": "维护良好的热门塔楼 furnished 单元常 2–6 周内再租出；老旧单元可能更久。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "丹加湾 — 滨海开发景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "丹加湾 — 滨水公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "丹加湾 — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "丹加湾 — 泳池与设施"
+    }
+  ]
+}

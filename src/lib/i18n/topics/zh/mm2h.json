@@ -27,6 +27,10 @@
   ],
   "quickLinks": [
     {
+      "label": "MM2H 中心",
+      "slug": "mm2h"
+    },
+    {
       "label": "森林城市资料中心",
       "slug": "forest-city/resource-center"
     },

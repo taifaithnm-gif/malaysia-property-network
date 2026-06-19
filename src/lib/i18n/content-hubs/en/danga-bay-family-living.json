@@ -1,0 +1,91 @@
+{
+  "slug": "danga-bay-family-living",
+  "subtitle": "Schools, safety & long-term tenants",
+  "intro": "Family-oriented living guide for Danga Bay owners: tenant safety expectations, furnishing for families, school access, and building amenities that support multi-year leases.",
+  "seoTitle": "Danga Bay Family Living Guide | Johor Bahru",
+  "seoDescription": "Danga Bay family living guide: schools, safety, furnishing, and tenant management for family long-term rentals.",
+  "seoKeywords": "Danga Bay family, JB family condo, 丹加湾家庭",
+  "whatsappMessage": "Hi, I want to target family tenants in Danga Bay.",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/family-living",
+  "title": "Danga Bay Family Living",
+  "sections": [
+    {
+      "title": "Family tenant profile",
+      "paragraphs": [
+        "Families prioritise secure windows, reliable lifts, pool safety, and parking. Furnishing should include durable finishes and child-safe balcony considerations where applicable.",
+        "Leases of 12–24 months are common for family tenants when schools and commute routes align with JB employment hubs."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Lease length",
+      "value": "Often 12–24 months for families"
+    },
+    {
+      "label": "Furnishing",
+      "value": "Full family sets vs room rental"
+    },
+    {
+      "label": "Safety",
+      "value": "Window grilles, balcony checks"
+    },
+    {
+      "label": "Support",
+      "value": "Inspection + maintenance coordination"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Lifestyle",
+      "slug": "danga-bay/lifestyle"
+    },
+    {
+      "label": "Rental Market",
+      "slug": "danga-bay/rental-market"
+    },
+    {
+      "label": "丹加湾指南",
+      "slug": "guide/danga-bay"
+    },
+    {
+      "label": "Book Inspection",
+      "slug": "property-inspection-service"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Room rental vs whole unit for families?",
+      "a": "Whole-unit family leases typically yield more stable tenancy; room rental suits student markets in other towers."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "Danga Bay — Coastal development landscape"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "Danga Bay — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "Danga Bay — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "Danga Bay — Residential pool and facilities"
+    }
+  ]
+}

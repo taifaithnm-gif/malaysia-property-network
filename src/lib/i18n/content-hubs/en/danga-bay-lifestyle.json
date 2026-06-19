@@ -1,0 +1,95 @@
+{
+  "slug": "danga-bay-lifestyle",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/lifestyle",
+  "title": "Danga Bay Lifestyle",
+  "subtitle": "Waterfront dining, leisure & daily living",
+  "intro": "Danga Bay offers a mature waterfront lifestyle along the Tebrau Strait — dining precincts, theme-park leisure, coastal walks, and mixed hotel-condo living for residents and visitors.",
+  "seoTitle": "Danga Bay Lifestyle Guide | Waterfront Living Johor",
+  "seoDescription": "Danga Bay lifestyle overview: waterfront leisure, dining, tenant appeal, and owner considerations in Johor Bahru.",
+  "seoKeywords": "Danga Bay lifestyle, waterfront JB, 丹加湾生活",
+  "whatsappMessage": "Hi, I want to understand Danga Bay lifestyle for my unit.",
+  "sections": [
+    {
+      "title": "Daily life",
+      "paragraphs": [
+        "Weekend foot traffic from F&B and attractions benefits hospitality-linked rentals where permitted, while long-term tenants value coastal access and established amenities.",
+        "Noise and traffic patterns vary by micro-location within the district — site visits clarify trade-offs between bay views and road exposure."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "District",
+      "value": "Danga Bay, Johor Bahru"
+    },
+    {
+      "label": "Character",
+      "value": "Mature waterfront mixed-use"
+    },
+    {
+      "label": "Appeal",
+      "value": "Affordable waterfront vs newer JB premium zones"
+    },
+    {
+      "label": "Owner tip",
+      "value": "Match marketing to tower-specific conditions"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Rental Market",
+      "slug": "danga-bay/rental-market"
+    },
+    {
+      "label": "Family Living",
+      "slug": "danga-bay/family-living"
+    },
+    {
+      "label": "Danga Bay Profile",
+      "slug": "danga-bay"
+    },
+    {
+      "label": "Project Archive",
+      "slug": "danga-bay/archive"
+    },
+    {
+      "label": "Full Guide",
+      "slug": "guide/danga-bay"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Danga Bay only for tourists?",
+      "a": "No — many local families and professionals live here long-term; tourism activity complements but does not define the whole district."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "Danga Bay — Coastal development landscape"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "Danga Bay — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "Danga Bay — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "Danga Bay — Residential pool and facilities"
+    }
+  ]
+}

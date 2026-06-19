@@ -1,0 +1,95 @@
+{
+  "slug": "princess-cove-ciq",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "princess-cove-ciq",
+  "title": "R&F Princess Cove & CIQ",
+  "subtitle": "Causeway-adjacent waterfront address",
+  "intro": "R&F Princess Cove sits in Tanjung Puteri minutes from the Johor-Singapore Causeway (CIQ). This hub covers location advantages, cross-border commuting context, and owner services for CIQ-area units.",
+  "seoTitle": "R&F Princess Cove CIQ | Causeway Property Johor",
+  "seoDescription": "R&F Princess Cove near CIQ: location facts, cross-border living, property management and inspection for Singapore-linked buyers.",
+  "seoKeywords": "R&F Princess Cove CIQ, Causeway property, 富力公主湾 CIQ, Tanjung Puteri",
+  "whatsappMessage": "Hi, I am researching R&F Princess Cove near CIQ.",
+  "sections": [
+    {
+      "title": "CIQ proximity",
+      "paragraphs": [
+        "Princess Cove's Tanjung Puteri address appeals to buyers prioritising Causeway access for Singapore commuting, weekend stays, or rental to cross-border professionals.",
+        "Traffic patterns at CIQ affect tenant preferences and short-stay demand. Owners should align marketing with realistic commute expectations rather than peak-hour best cases."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Tanjung Puteri, ~minutes to CIQ"
+    },
+    {
+      "label": "Developer",
+      "value": "R&F Group (marketed phases)"
+    },
+    {
+      "label": "Typical buyers",
+      "value": "Singapore-linked & overseas Chinese"
+    },
+    {
+      "label": "Unit types",
+      "value": "1–4+ bedroom condominiums"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Investment Hub",
+      "slug": "princess-cove-investment"
+    },
+    {
+      "label": "R&F Profile",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "Project Archive",
+      "slug": "rf-princess-cove/archive"
+    },
+    {
+      "label": "Full Guide",
+      "slug": "guide/rf-princess-cove"
+    },
+    {
+      "label": "Property Management",
+      "slug": "rf-princess-cove-property-management"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Princess Cove walkable to CIQ?",
+      "a": "Distance is short by JB standards but walkability depends on route and heat; many residents use ride-hail or shuttle."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "R&F Princess Cove — High-rise residential towers"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "R&F Princess Cove — Waterfront condominium view"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "R&F Princess Cove — Modern apartment interior"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "R&F Princess Cove — Residential pool and facilities"
+    }
+  ]
+}

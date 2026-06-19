@@ -1,0 +1,77 @@
+{
+  "slug": "forest-city-hotels",
+  "mediaSectionId": "hotel",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city-hotels",
+  "title": "森林城市酒店",
+  "subtitle": "度假酒店与访客住宿",
+  "intro": "森林城市酒店支持高尔夫行程、企业访问及物业尽调住宿，可将酒店套餐与看房及旅行项目一并安排。",
+  "seoTitle": "森林城市酒店 | 度假住宿与看房",
+  "seoDescription": "森林城市酒店指南：度假住宿、高尔夫套餐、企业访问及看房协调。",
+  "seoKeywords": "森林城市酒店, 柔佛度假, 高尔夫酒店套餐",
+  "whatsappMessage": "您好，我需要森林城市酒店套餐并安排看房。",
+  "sections": [
+    {
+      "title": "住宿项目",
+      "paragraphs": [
+        "森林城市内酒店服务高尔夫访客、企业团体及进行多日尽调的买家。套餐可含每日高尔夫交通、marina 休闲及预约验房。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "森林城市度假区域"
+    },
+    {
+      "label": "适用场景",
+      "value": "高尔夫旅行、企业访问、业主验房"
+    },
+    {
+      "label": "套餐类型",
+      "value": "高尔夫+酒店、多日看房住宿"
+    },
+    {
+      "label": "预订",
+      "value": "通过本旅行服务台协调"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "高尔夫旅行中心",
+      "slug": "golf"
+    },
+    {
+      "label": "森林城市高尔夫",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "企业访问",
+      "slug": "corporate-visits"
+    },
+    {
+      "label": "预约看房",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "媒体中心",
+      "slug": "forest-city/media-center"
+    }
+  ],
+  "faq": [
+    {
+      "q": "酒店住宿能否含看房？",
+      "a": "可以——单元可进入时，我们可在高尔夫或企业行程中加入看房时段。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  }
+}

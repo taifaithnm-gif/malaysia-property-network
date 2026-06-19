@@ -1,0 +1,101 @@
+{
+  "slug": "princess-cove-investment",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "princess-cove-investment",
+  "title": "富力公主湾投资",
+  "subtitle": "租金回报与持有策略",
+  "intro": "面向富力公主湾的投资概览：出租定位、跨境租客需求、管理成本及海外持有人二级市场注意事项。",
+  "seoTitle": "富力公主湾投资 | 租金与回报指南",
+  "seoDescription": "富力公主湾投资指南：租赁市场、回报因素、管理及海外投资者验房。",
+  "seoKeywords": "富力投资, 公主湾租金, CIQ 公寓投资",
+  "whatsappMessage": "您好，我想了解富力公主湾投资分析。",
+  "sections": [
+    {
+      "title": "投资逻辑",
+      "paragraphs": [
+        "CIQ 旁 premium 地址吸引愿为区位便利付溢价的租客。净回报取决于买入价、装修、管理费及空置处理。",
+        "二级市场买家应查阅 strata 会议记录、维修基金状况及同塔近期成交租金后再出价。"
+      ]
+    },
+    {
+      "title": "业主运营",
+      "paragraphs": [
+        "远程持有需 responsive 租客管理与定期验房。我们提供收租、维修协调及 photo 报告。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "市场类型",
+      "value": "CIQ 片区 premium 住宅"
+    },
+    {
+      "label": "租客画像",
+      "value": "跨境白领、家庭"
+    },
+    {
+      "label": "主要成本",
+      "value": "管理费、装修、管家、空置"
+    },
+    {
+      "label": "尽调建议",
+      "value": "验房 + 查阅 strata 文件"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "CIQ 区位中心",
+      "slug": "princess-cove-ciq"
+    },
+    {
+      "label": "公主湾主页",
+      "slug": "rf-princess-cove"
+    },
+    {
+      "label": "发布房源",
+      "slug": "list-property"
+    },
+    {
+      "label": "求购登记",
+      "slug": "property-request"
+    },
+    {
+      "label": "预约看房",
+      "slug": "book-viewing"
+    }
+  ],
+  "faq": [
+    {
+      "q": "典型持有期？",
+      "a": "许多海外投资者持有 5–10 年以上收租；转售时机取决于周期与单元状况。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80",
+      "alt": "富力公主湾 — 高层住宅塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "富力公主湾 — 滨水公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "富力公主湾 — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "富力公主湾 — 泳池与设施"
+    }
+  ]
+}

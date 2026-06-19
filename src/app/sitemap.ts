@@ -40,6 +40,17 @@ const PAGES = [
   "corporate-visit-center",
   "book-viewing",
   "forest-city/media-center",
+  "forest-city-golf",
+  "forest-city-marina",
+  "forest-city-hotels",
+  "princess-cove-ciq",
+  "princess-cove-investment",
+  "danga-bay/lifestyle",
+  "danga-bay/rental-market",
+  "danga-bay/family-living",
+  "golf",
+  "corporate-visits",
+  "mm2h",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

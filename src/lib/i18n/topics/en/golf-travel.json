@@ -27,6 +27,14 @@
   ],
   "quickLinks": [
     {
+      "label": "Golf Travel Center",
+      "slug": "golf"
+    },
+    {
+      "label": "Forest City Golf Hub",
+      "slug": "forest-city-golf"
+    },
+    {
       "label": "Golf Resort Topic",
       "slug": "forest-city/golf-resort"
     },

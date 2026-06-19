@@ -1,0 +1,91 @@
+{
+  "slug": "danga-bay-family-living",
+  "title": "丹加湾家庭居住",
+  "subtitle": "学校、安全与长期租客",
+  "intro": "面向丹加湾业主的家庭居住指南：安全预期、家庭装修、学校通达及支持多年租约的配套。",
+  "seoTitle": "丹加湾家庭居住指南 | 新山",
+  "seoDescription": "丹加湾家庭居住：学校、安全、装修及家庭长租管理。",
+  "seoKeywords": "丹加湾家庭, 新山家庭公寓",
+  "whatsappMessage": "您好，我想在丹加湾面向家庭租客出租。",
+  "relatedServiceSlug": "property-management-services",
+  "leadSource": "danga-bay/family-living",
+  "sections": [
+    {
+      "title": "家庭租客画像",
+      "paragraphs": [
+        "家庭重视窗户安全、电梯可靠、泳池安全及车位。装修应采用耐用材料并考虑儿童阳台安全。",
+        "若学校与通勤与新山就业区匹配，家庭租约常见 12–24 个月。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "租期",
+      "value": "家庭客常见 12–24 个月"
+    },
+    {
+      "label": "装修",
+      "value": "全套家庭配置 vs 分租"
+    },
+    {
+      "label": "安全",
+      "value": "窗栅、阳台检查"
+    },
+    {
+      "label": "支持",
+      "value": "验房与维修协调"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "生活方式",
+      "slug": "danga-bay/lifestyle"
+    },
+    {
+      "label": "租赁市场",
+      "slug": "danga-bay/rental-market"
+    },
+    {
+      "label": "丹加湾指南",
+      "slug": "guide/danga-bay"
+    },
+    {
+      "label": "预约验房",
+      "slug": "property-inspection-service"
+    }
+  ],
+  "faq": [
+    {
+      "q": "家庭整租还是分租？",
+      "a": "整租家庭客通常更稳定；分租更适合其他塔楼的学生市场。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=1200&q=80",
+      "alt": "丹加湾 — 滨海开发景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80",
+      "alt": "丹加湾 — 滨水公寓景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "alt": "丹加湾 — 现代公寓室内"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "alt": "丹加湾 — 泳池与设施"
+    }
+  ]
+}

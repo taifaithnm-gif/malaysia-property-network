@@ -1,0 +1,92 @@
+{
+  "slug": "forest-city-golf",
+  "mediaSectionId": "golf-resort",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city-golf",
+  "title": "森林城市高尔夫度假村",
+  "subtitle": "冠军级球场与度假生活",
+  "intro": "森林城市高尔夫度假村将世界级球场与综合度假设施融为一体。了解球场、物业持有及海外访客高尔夫度假套餐。",
+  "seoTitle": "森林城市高尔夫度假村 | 柔佛高尔夫与物业",
+  "seoDescription": "森林城市高尔夫度假村指南：球场、度假设施、物业链接及柔佛高尔夫旅行套餐。",
+  "seoKeywords": "森林城市高尔夫, 柔佛高尔夫, Forest City golf, 高尔夫物业",
+  "whatsappMessage": "您好，我想了解森林城市高尔夫度假村及相关物业。",
+  "sections": [
+    {
+      "title": "高尔夫与度假体验",
+      "paragraphs": [
+        "森林城市高尔夫度假村拥有专业设计的球场，配套会所、餐饮及休闲设施。访客可在同一开发区内打球、漫步 marina、入住酒店，并安排可选的看房行程。",
+        "海外业主常借高尔夫行程验房、会见本地管家并评估出租或自用潜力。我们可协调开球时间、交通及验房时段。"
+      ]
+    },
+    {
+      "title": "与物业的关联",
+      "paragraphs": [
+        "球场周边住宅吸引高尔夫爱好者及生活方式买家。二手房因楼栋、景观及装修差异较大，需针对具体单元做尽职调查。"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "依斯干达 · 森林城市"
+    },
+    {
+      "label": "特色",
+      "value": "高尔夫度假村与综合住宅"
+    },
+    {
+      "label": "访客服务",
+      "value": "打球住宿套餐、可加看房"
+    },
+    {
+      "label": "语言",
+      "value": "中英文支持"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "森林城市媒体中心",
+      "slug": "forest-city/media-center"
+    },
+    {
+      "label": "森林城市 Marina",
+      "slug": "forest-city-marina"
+    },
+    {
+      "label": "森林城市酒店",
+      "slug": "forest-city-hotels"
+    },
+    {
+      "label": "高尔夫旅行中心",
+      "slug": "golf"
+    },
+    {
+      "label": "资源中心",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "完整指南",
+      "slug": "guide/forest-city-golf-resort"
+    }
+  ],
+  "faq": [
+    {
+      "q": "能否打球同时验房？",
+      "a": "可以。在条件允许时，我们可在同一行程中安排开球与看房。"
+    },
+    {
+      "q": "是否代订开球时间？",
+      "a": "我们与度假村运营方协调，并在您出行前确认档期。"
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "详细内容",
+    "quickLinksTitle": "相关链接",
+    "servicesTitle": "服务项目",
+    "faqTitle": "常见问题",
+    "ctaTitle": "联系我们",
+    "ctaDesc": "填写表单或通过 WhatsApp 咨询，我们将在 24 小时内回复。",
+    "galleryTitle": "项目图库",
+    "factsTitle": "项目要点"
+  }
+}

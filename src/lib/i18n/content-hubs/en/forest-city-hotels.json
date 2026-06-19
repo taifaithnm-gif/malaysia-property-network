@@ -1,0 +1,77 @@
+{
+  "slug": "forest-city-hotels",
+  "mediaSectionId": "hotel",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city-hotels",
+  "title": "Forest City Hotels",
+  "subtitle": "Resort hotels & visitor stays",
+  "intro": "Forest City hotel inventory supports golf trips, corporate visits, and property due diligence stays. Coordinate hotel packages with viewing and travel programs.",
+  "seoTitle": "Forest City Hotels | Resort Stays & Property Visits",
+  "seoDescription": "Forest City hotel guide: resort stays, golf packages, corporate visits, and property viewing coordination.",
+  "seoKeywords": "Forest City hotel, resort stay Johor, golf hotel package",
+  "whatsappMessage": "Hi, I need a Forest City hotel package with property viewing.",
+  "sections": [
+    {
+      "title": "Stay programs",
+      "paragraphs": [
+        "Hotels within Forest City cater to golf visitors, corporate groups, and owner-buyers conducting multi-day due diligence. Packages may include daily transport to golf, marina leisure, and scheduled unit inspections."
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forest City resort zone"
+    },
+    {
+      "label": "Use cases",
+      "value": "Golf travel, corporate visits, owner inspections"
+    },
+    {
+      "label": "Package types",
+      "value": "Golf + hotel, multi-day viewing stays"
+    },
+    {
+      "label": "Booking",
+      "value": "Coordinated via our travel desk"
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Golf Travel Center",
+      "slug": "golf"
+    },
+    {
+      "label": "Forest City Golf",
+      "slug": "forest-city-golf"
+    },
+    {
+      "label": "Corporate Visits",
+      "slug": "corporate-visits"
+    },
+    {
+      "label": "Book Viewing",
+      "slug": "book-viewing"
+    },
+    {
+      "label": "Media Center",
+      "slug": "forest-city/media-center"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can hotel stays include property tours?",
+      "a": "Yes — we add viewing slots to golf or corporate itineraries when units are accessible."
+    }
+  ],
+  "labels": {
+    "sectionsTitle": "Overview",
+    "quickLinksTitle": "Related Links",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Get in Touch",
+    "ctaDesc": "Submit the form or message us on WhatsApp — we respond within 24 hours.",
+    "galleryTitle": "Gallery",
+    "factsTitle": "Project Facts"
+  }
+}
