@@ -1,0 +1,44 @@
+{
+  "slug": "forest-city-golf-resort",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city/golf-resort",
+  "title": "森林城市高尔夫度假村专题",
+  "subtitle": "打球与房产",
+  "intro": "森林城市高尔夫度假村专题页。",
+  "seoTitle": "森林城市高尔夫专题",
+  "seoDescription": "高尔夫与房产。",
+  "seoKeywords": "森林城市高尔夫",
+  "whatsappMessage": "您好，森林城市高尔夫度假村。",
+  "labels": {
+    "sectionsTitle": "度假村与房产",
+    "quickLinksTitle": "相关",
+    "servicesTitle": "服务",
+    "faqTitle": "FAQ",
+    "ctaTitle": "咨询",
+    "ctaDesc": "打球或房产服务。"
+  },
+  "sections": [
+    {
+      "title": "背景",
+      "paragraphs": [
+        "度假村位于森林城市内，业主常打球同时看楼。"
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "资料中心",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "完整指南",
+      "slug": "guide/forest-city-golf-resort"
+    }
+  ],
+  "faq": [
+    {
+      "q": "打球同时验房？",
+      "a": "可以，视时间安排。"
+    }
+  ]
+}

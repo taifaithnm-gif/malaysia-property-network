@@ -1,0 +1,45 @@
+{
+  "title": "Danga Bay Archive",
+  "subtitle": "Project file",
+  "intro": "Danga Bay complete archive.",
+  "seoTitle": "Danga Bay Archive",
+  "seoDescription": "Danga Bay archive",
+  "seoKeywords": "Danga Bay archive",
+  "whatsappMessage": "Hi, Danga Bay.",
+  "labels": {
+    "hubTitle": "Danga Bay hub",
+    "sectionsTitle": "Overview",
+    "resourcesTitle": "Files",
+    "servicesTitle": "Services",
+    "ctaTitle": "Contact",
+    "ctaDesc": "DB services."
+  },
+  "sections": [
+    {
+      "title": "Mature market",
+      "paragraphs": [
+        "Established waterfront district."
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Profile",
+      "slug": "danga-bay",
+      "desc": "Gallery"
+    },
+    {
+      "label": "Guide",
+      "slug": "guide/danga-bay",
+      "desc": "Guide"
+    },
+    {
+      "label": "Management",
+      "slug": "danga-bay-property-management",
+      "desc": "Landing"
+    }
+  ],
+  "faq": [],
+  "slug": "danga-bay-archive",
+  "leadSource": "danga-bay/archive"
+}

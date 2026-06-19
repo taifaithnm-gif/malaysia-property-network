@@ -200,6 +200,34 @@
     "contactRequired": "Contact number is required",
     "intentRequired": "Please select rent or buy"
   },
+  "bookViewing": {
+    "seoTitle": "Book a Property Viewing | Malaysia Property Network",
+    "seoDescription": "Schedule a viewing at Forest City, R&F Princess Cove, or Danga Bay.",
+    "title": "Book a Viewing",
+    "subtitle": "Schedule your property inspection",
+    "intro": "Choose your preferred project and date. Our field team confirms via WhatsApp within 24 hours."
+  },
+  "viewingForm": {
+    "nameLabel": "Full name",
+    "contactLabel": "WhatsApp / Phone",
+    "emailLabel": "Email (optional)",
+    "projectLabel": "Project",
+    "projectPlaceholder": "Select project",
+    "dateLabel": "Preferred date",
+    "timeLabel": "Preferred time",
+    "timePlaceholder": "e.g. 10:00 AM",
+    "notesLabel": "Notes",
+    "submit": "Book viewing",
+    "submitting": "Booking...",
+    "successTitle": "Viewing request received",
+    "successDesc": "Confirm via WhatsApp so our team can assign a field escort.",
+    "whatsappConfirm": "Confirm on WhatsApp",
+    "whatsappHint": "Or message us at",
+    "errorMessage": "Booking failed. Please WhatsApp us directly.",
+    "nameRequired": "Name is required",
+    "contactRequired": "Contact is required",
+    "projectRequired": "Please select a project"
+  },
   "listings": {
     "title": "Latest Properties",
     "subtitle": "Rentals, sales, and featured listings across Johor Bahru",

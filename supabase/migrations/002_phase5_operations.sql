@@ -3,7 +3,7 @@
 
 -- ─── OWNER PROPERTY SUBMISSIONS ───────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS owner_property_submissions (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   owner_name TEXT NOT NULL,
   whatsapp TEXT NOT NULL,
   wechat TEXT,
@@ -28,7 +28,7 @@ CREATE TRIGGER owner_property_submissions_updated_at
 
 -- ─── TENANT REQUESTS ────────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS tenant_requests (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   full_name TEXT NOT NULL,
   contact TEXT NOT NULL,
   budget TEXT,
@@ -52,7 +52,7 @@ CREATE TRIGGER tenant_requests_updated_at
 
 -- ─── PROPERTY LISTINGS ───────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS property_listings (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   title TEXT NOT NULL,
   project TEXT NOT NULL,
   listing_type TEXT NOT NULL CHECK (listing_type IN ('rent', 'sale')),

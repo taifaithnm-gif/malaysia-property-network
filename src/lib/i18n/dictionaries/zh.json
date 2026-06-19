@@ -200,6 +200,34 @@
     "contactRequired": "请填写联系方式",
     "intentRequired": "请选择租或买"
   },
+  "bookViewing": {
+    "seoTitle": "预约看楼 | Malaysia Property Network",
+    "seoDescription": "预约森林城市、富力公主湾或丹加湾看楼。",
+    "title": "预约看楼",
+    "subtitle": "安排验楼行程",
+    "intro": "选择项目与日期，现场团队将在 24 小时内通过 WhatsApp 确认。"
+  },
+  "viewingForm": {
+    "nameLabel": "姓名",
+    "contactLabel": "WhatsApp / 电话",
+    "emailLabel": "邮箱（选填）",
+    "projectLabel": "项目",
+    "projectPlaceholder": "选择项目",
+    "dateLabel": "意向日期",
+    "timeLabel": "意向时间",
+    "timePlaceholder": "例如 10:00",
+    "notesLabel": "备注",
+    "submit": "提交预约",
+    "submitting": "提交中...",
+    "successTitle": "已收到看楼预约",
+    "successDesc": "请通过 WhatsApp 确认，以便分配现场陪同人员。",
+    "whatsappConfirm": "WhatsApp 确认",
+    "whatsappHint": "或直接联系",
+    "errorMessage": "预约失败，请直接 WhatsApp 联系我们。",
+    "nameRequired": "请填写姓名",
+    "contactRequired": "请填写联系方式",
+    "projectRequired": "请选择项目"
+  },
   "listings": {
     "title": "最新房源",
     "subtitle": "新山租售及精选房源",

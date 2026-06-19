@@ -29,6 +29,17 @@ const PAGES = [
   "contact",
   "list-property",
   "property-request",
+  "forest-city/resource-center",
+  "forest-city/golf-resort",
+  "rf-princess-cove/archive",
+  "danga-bay/archive",
+  "topics/mm2h",
+  "topics/corporate-visit",
+  "topics/golf-travel",
+  "golf-travel-center",
+  "corporate-visit-center",
+  "book-viewing",
+  "forest-city/media-center",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

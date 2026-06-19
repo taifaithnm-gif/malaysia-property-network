@@ -1,0 +1,44 @@
+{
+  "title": "企业考察线索中心",
+  "subtitle": "工厂参观、投资考察与验楼行程",
+  "intro": "为新山商务考察团队提供结构化行程——工厂参观、投资简报，以及依斯干达看楼验房陪同。",
+  "seoTitle": "企业考察线索中心新山",
+  "seoDescription": "工厂参观、投资考察与验楼行程。",
+  "whatsappMessage": "您好，需要新山商务考察陪同。",
+  "labels": {
+    "programsTitle": "考察项目",
+    "inquiryTitle": "提交考察需求",
+    "submit": "提交需求",
+    "success": "感谢提交，企业团队将在 24 小时内确认行程。",
+    "name": "联系人",
+    "contact": "WhatsApp / 电话",
+    "company": "公司名称",
+    "dates": "意向日期",
+    "groupSize": "人数",
+    "notes": "目标 / 备注",
+    "visitType": "考察类型"
+  },
+  "programs": [
+    {
+      "id": "factory",
+      "type": "factory",
+      "title": "工厂与工业参观",
+      "desc": "新山工业区参观，含物流与投资环境说明。",
+      "highlights": ["工厂门禁协调", "安全简报", "交通规划"]
+    },
+    {
+      "id": "investment",
+      "type": "investment",
+      "title": "投资考察团",
+      "desc": "依斯干达宏观简报 + 森林城市/富力/丹加湾项目看楼。",
+      "highlights": ["市场简报", "多项目串联", "中英文陪同"]
+    },
+    {
+      "id": "inspection",
+      "type": "inspection",
+      "title": "验楼考察团",
+      "desc": "收购团队尽调看楼——单位、管理处、 strata 文件。",
+      "highlights": ["单位准入协调", "管理处会面", "可选图文报告"]
+    }
+  ]
+}

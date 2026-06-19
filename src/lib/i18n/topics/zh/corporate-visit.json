@@ -1,0 +1,44 @@
+{
+  "slug": "corporate-visit",
+  "relatedServiceSlug": "corporate-visit-services",
+  "leadSource": "topics/corporate-visit",
+  "title": "企业考察与接待专题",
+  "subtitle": "新山投资看楼陪同",
+  "intro": "为考察森林城市、富力、丹加湾的团队提供中英文陪同。",
+  "seoTitle": "企业考察专题新山",
+  "seoDescription": "商务考察接待。",
+  "seoKeywords": "企业考察新山",
+  "whatsappMessage": "您好，需要商务考察陪同。",
+  "labels": {
+    "sectionsTitle": "服务",
+    "quickLinksTitle": "相关",
+    "servicesTitle": "服务",
+    "faqTitle": "FAQ",
+    "ctaTitle": "规划行程",
+    "ctaDesc": "告知日期与目标。"
+  },
+  "sections": [
+    {
+      "title": "行程规划",
+      "paragraphs": [
+        "先明确收购或审计目标，再安排跨依斯干达看楼。"
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "考察指南",
+      "slug": "guide/johor-corporate-visit"
+    },
+    {
+      "label": "考察服务",
+      "slug": "services/corporate-visit-services"
+    }
+  ],
+  "faq": [
+    {
+      "q": "接机？",
+      "a": "可以，纳入定制行程。"
+    }
+  ]
+}

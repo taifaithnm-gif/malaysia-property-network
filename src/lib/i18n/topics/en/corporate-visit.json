@@ -1,0 +1,44 @@
+{
+  "slug": "corporate-visit",
+  "relatedServiceSlug": "corporate-visit-services",
+  "leadSource": "topics/corporate-visit",
+  "title": "Corporate Property Visit & Reception",
+  "subtitle": "Investor escort in Johor Bahru",
+  "intro": "Bilingual escort for teams visiting Forest City, R&F, or Danga Bay.",
+  "seoTitle": "Corporate Visit Topic Johor",
+  "seoDescription": "Corporate property visit reception.",
+  "seoKeywords": "corporate visit Johor",
+  "whatsappMessage": "Hi, corporate visit support JB.",
+  "labels": {
+    "sectionsTitle": "Services",
+    "quickLinksTitle": "Related",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Plan Visit",
+    "ctaDesc": "Share dates and goals."
+  },
+  "sections": [
+    {
+      "title": "Visit planning",
+      "paragraphs": [
+        "We align acquisition or audit goals before scheduling towers across Iskandar."
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Visit Guide",
+      "slug": "guide/johor-corporate-visit"
+    },
+    {
+      "label": "Visit Service",
+      "slug": "services/corporate-visit-services"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Airport pickup?",
+      "a": "Yes, in custom itineraries."
+    }
+  ]
+}

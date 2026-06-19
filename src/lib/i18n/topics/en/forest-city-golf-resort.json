@@ -1,0 +1,44 @@
+{
+  "slug": "forest-city-golf-resort",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "forest-city/golf-resort",
+  "title": "Forest City Golf Resort",
+  "subtitle": "Golf, leisure & property",
+  "intro": "Golf resort topic for Forest City owners and visitors.",
+  "seoTitle": "Forest City Golf Resort Topic",
+  "seoDescription": "Golf resort and property topic.",
+  "seoKeywords": "Forest City Golf Resort",
+  "whatsappMessage": "Hi, Forest City Golf Resort.",
+  "labels": {
+    "sectionsTitle": "Resort & Property",
+    "quickLinksTitle": "Related",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Enquire",
+    "ctaDesc": "Golf or property services."
+  },
+  "sections": [
+    {
+      "title": "Context",
+      "paragraphs": [
+        "Resort within Forest City development; owners combine play with unit checks."
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Resource Center",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "Full Guide",
+      "slug": "guide/forest-city-golf-resort"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Inspect on golf trip?",
+      "a": "Yes when schedule permits."
+    }
+  ]
+}

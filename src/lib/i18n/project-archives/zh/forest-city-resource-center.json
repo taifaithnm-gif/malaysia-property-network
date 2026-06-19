@@ -1,0 +1,55 @@
+{
+  "title": "森林城市项目资料中心",
+  "subtitle": "项目枢纽",
+  "intro": "森林城市简介、指南、高尔夫、服务一站式入口。",
+  "seoTitle": "森林城市资料中心",
+  "seoDescription": "森林城市枢纽",
+  "seoKeywords": "森林城市资料",
+  "whatsappMessage": "您好，森林城市资源。",
+  "labels": {
+    "hubTitle": "业主枢纽",
+    "sectionsTitle": "关于",
+    "resourcesTitle": "资料库",
+    "servicesTitle": "服务",
+    "ctaTitle": "联系",
+    "ctaDesc": "24小时回复。"
+  },
+  "sections": [
+    {
+      "title": "面向海外业主",
+      "paragraphs": [
+        "中/英文公开信息与服务链接。"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "影像中心",
+      "slug": "forest-city/media-center",
+      "desc": "104 张公开图片"
+    },
+    {
+      "label": "项目简介",
+      "slug": "forest-city",
+      "desc": "图集概况"
+    },
+    {
+      "label": "指南",
+      "slug": "guide/forest-city",
+      "desc": "完整指南"
+    },
+    {
+      "label": "高尔夫专题",
+      "slug": "forest-city/golf-resort",
+      "desc": "高尔夫"
+    },
+    {
+      "label": "提交房源",
+      "slug": "list-property",
+      "desc": "登记单位"
+    }
+  ],
+  "faq": [],
+  "slug": "forest-city-resource-center",
+  "leadSource": "forest-city/resource-center"
+}

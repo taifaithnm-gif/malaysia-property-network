@@ -1,0 +1,43 @@
+{
+  "title": "Golf Travel Center",
+  "subtitle": "Golf packages, hotel stays, and corporate golf tours in Johor Bahru",
+  "intro": "Plan golf at Forest City Golf Resort with optional property viewing. We coordinate tee times, hotel packages, and corporate group tours for overseas visitors.",
+  "seoTitle": "Golf Travel Center Johor Bahru",
+  "seoDescription": "Forest City golf packages, hotel packages, and corporate golf tours with property visits.",
+  "whatsappMessage": "Hi, I am interested in a golf travel package in Johor Bahru.",
+  "labels": {
+    "packagesTitle": "Travel packages",
+    "inquiryTitle": "Request a package quote",
+    "submit": "Submit inquiry",
+    "success": "Thank you. We will contact you within 24 hours with package options.",
+    "name": "Full name",
+    "contact": "WhatsApp / Phone",
+    "dates": "Preferred travel dates",
+    "groupSize": "Group size",
+    "notes": "Notes",
+    "packageType": "Package type"
+  },
+  "packages": [
+    {
+      "id": "golf-weekend",
+      "type": "golf",
+      "title": "Weekend Golf + Viewing",
+      "desc": "2-day Forest City golf with one property inspection slot. Ideal for owner-buyers.",
+      "highlights": ["2 rounds at Forest City Golf Resort", "1 guided unit viewing", "Airport/hotel transfer options"]
+    },
+    {
+      "id": "golf-hotel",
+      "type": "hotel",
+      "title": "Golf & Hotel Package",
+      "desc": "3-night stay near Forest City with daily golf and leisure time.",
+      "highlights": ["Hotel coordination", "Daily tee times", "Marina / resort leisure time"]
+    },
+    {
+      "id": "corporate-golf",
+      "type": "corporate",
+      "title": "Corporate Golf Tour",
+      "desc": "Team outing with golf, briefing, and optional R&F or Danga Bay property tour.",
+      "highlights": ["Group tee sheet", "Meeting room / lunch options", "Property tour add-on"]
+    }
+  ]
+}

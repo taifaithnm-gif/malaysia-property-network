@@ -1,0 +1,44 @@
+{
+  "slug": "mm2h",
+  "relatedServiceSlug": "mm2h-landing-support",
+  "leadSource": "topics/mm2h",
+  "title": "MM2H & Property Landing in Johor Bahru",
+  "subtitle": "Malaysia My Second Home guide",
+  "intro": "Planning MM2H and buying in Forest City, R&F, or Danga Bay? Practical landing steps — not immigration legal advice.",
+  "seoTitle": "MM2H Johor Bahru Topic",
+  "seoDescription": "MM2H property landing guide Johor Bahru.",
+  "seoKeywords": "MM2H Johor, second home Malaysia",
+  "whatsappMessage": "Hi, MM2H landing support in JB.",
+  "labels": {
+    "sectionsTitle": "Key Topics",
+    "quickLinksTitle": "Related",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Discuss MM2H",
+    "ctaDesc": "Tell us your timeline."
+  },
+  "sections": [
+    {
+      "title": "MM2H and property",
+      "paragraphs": [
+        "Many buyers purchase in JB while planning MM2H. We assist property landing; immigration via licensed agents."
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "FC Resource Center",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "MM2H Service",
+      "slug": "services/mm2h-landing-support"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Licensed MM2H agent?",
+      "a": "No. We refer immigration to licensed professionals."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "R&F Princess Cove Archive",
+  "subtitle": "Complete project file",
+  "intro": "Complete R&F archive for overseas owners.",
+  "seoTitle": "R&F Archive",
+  "seoDescription": "R&F project archive",
+  "seoKeywords": "R&F archive",
+  "whatsappMessage": "Hi, R&F resources.",
+  "labels": {
+    "hubTitle": "R&F hub",
+    "sectionsTitle": "Overview",
+    "resourcesTitle": "Files",
+    "servicesTitle": "Services",
+    "ctaTitle": "Contact",
+    "ctaDesc": "R&F services."
+  },
+  "sections": [
+    {
+      "title": "CIQ waterfront",
+      "paragraphs": [
+        "Premium Causeway-adjacent address."
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Profile",
+      "slug": "rf-princess-cove",
+      "desc": "Gallery"
+    },
+    {
+      "label": "Guide",
+      "slug": "guide/rf-princess-cove",
+      "desc": "Guide"
+    },
+    {
+      "label": "Management",
+      "slug": "rf-princess-cove-property-management",
+      "desc": "Landing"
+    }
+  ],
+  "faq": [],
+  "slug": "rf-princess-cove-archive",
+  "leadSource": "rf-princess-cove/archive"
+}

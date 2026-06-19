@@ -1,0 +1,44 @@
+{
+  "title": "Corporate Visit Lead Center",
+  "subtitle": "Factory visits, investment tours, and property inspection programs",
+  "intro": "Structured corporate programs for teams visiting Johor Bahru — manufacturing site visits, investment briefings, and guided property inspections across Iskandar.",
+  "seoTitle": "Corporate Visit Lead Center Johor Bahru",
+  "seoDescription": "Factory visits, investment tours, and property inspection tours in Johor Bahru.",
+  "whatsappMessage": "Hi, we need corporate visit support in Johor Bahru.",
+  "labels": {
+    "programsTitle": "Visit programs",
+    "inquiryTitle": "Submit visit request",
+    "submit": "Submit request",
+    "success": "Thank you. Our corporate team will confirm itinerary within 24 hours.",
+    "name": "Contact name",
+    "contact": "WhatsApp / Phone",
+    "company": "Company",
+    "dates": "Preferred visit dates",
+    "groupSize": "Group size",
+    "notes": "Objectives / notes",
+    "visitType": "Visit type"
+  },
+  "programs": [
+    {
+      "id": "factory",
+      "type": "factory",
+      "title": "Factory & Industrial Visit",
+      "desc": "Site visits to Johor industrial zones with logistics briefing for investors.",
+      "highlights": ["Factory gate coordination", "Safety briefing", "Transport planning"]
+    },
+    {
+      "id": "investment",
+      "type": "investment",
+      "title": "Investment Tour",
+      "desc": "Iskandar macro briefing plus targeted project visits (Forest City, R&F, Danga Bay).",
+      "highlights": ["Market briefing", "Multi-project routing", "Bilingual escort"]
+    },
+    {
+      "id": "inspection",
+      "type": "inspection",
+      "title": "Property Inspection Tour",
+      "desc": "Due diligence viewing for acquisition teams — units, management offices, strata docs.",
+      "highlights": ["Unit access coordination", "Management office meetings", "Photo / video report option"]
+    }
+  ]
+}

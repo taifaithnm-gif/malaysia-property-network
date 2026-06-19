@@ -1,0 +1,44 @@
+{
+  "slug": "golf-travel",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "topics/golf-travel",
+  "title": "Golf Travel & Property",
+  "subtitle": "Forest City golf + property visits",
+  "intro": "Combine golf at Forest City with unit inspections on the same trip.",
+  "seoTitle": "Golf Travel Topic Johor",
+  "seoDescription": "Golf travel and property visits.",
+  "seoKeywords": "Forest City golf travel",
+  "whatsappMessage": "Hi, golf travel + property visit.",
+  "labels": {
+    "sectionsTitle": "Options",
+    "quickLinksTitle": "Related",
+    "servicesTitle": "Services",
+    "faqTitle": "FAQ",
+    "ctaTitle": "Plan Trip",
+    "ctaDesc": "Share dates."
+  },
+  "sections": [
+    {
+      "title": "Golf + property",
+      "paragraphs": [
+        "Morning golf, afternoon inspection — popular for FC owners."
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "Golf Resort Topic",
+      "slug": "forest-city/golf-resort"
+    },
+    {
+      "label": "Golf Service",
+      "slug": "services/golf-travel-services"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which courses?",
+      "a": "Forest City Golf Resort, Austin Hills, Pulai Springs."
+    }
+  ]
+}

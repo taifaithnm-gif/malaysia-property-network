@@ -1,0 +1,44 @@
+{
+  "slug": "golf-travel",
+  "relatedServiceSlug": "golf-travel-services",
+  "leadSource": "topics/golf-travel",
+  "title": "高尔夫旅游专题",
+  "subtitle": "打球与看楼",
+  "intro": "森林城市打球行程可结合验房。",
+  "seoTitle": "高尔夫旅游专题",
+  "seoDescription": "高尔夫与看楼。",
+  "seoKeywords": "森林城市高尔夫",
+  "whatsappMessage": "您好，高尔夫旅游并看楼。",
+  "labels": {
+    "sectionsTitle": "选项",
+    "quickLinksTitle": "相关",
+    "servicesTitle": "服务",
+    "faqTitle": "FAQ",
+    "ctaTitle": "规划行程",
+    "ctaDesc": "告知日期。"
+  },
+  "sections": [
+    {
+      "title": "打球+看楼",
+      "paragraphs": [
+        "上午打球、下午验房——森林城市业主常见组合。"
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "高尔夫专题",
+      "slug": "forest-city/golf-resort"
+    },
+    {
+      "label": "高尔夫服务",
+      "slug": "services/golf-travel-services"
+    }
+  ],
+  "faq": [
+    {
+      "q": "哪些球场？",
+      "a": "森林城市高尔夫度假村等，视档期。"
+    }
+  ]
+}

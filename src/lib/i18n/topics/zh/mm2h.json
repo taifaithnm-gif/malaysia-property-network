@@ -1,0 +1,44 @@
+{
+  "slug": "mm2h",
+  "relatedServiceSlug": "mm2h-landing-support",
+  "leadSource": "topics/mm2h",
+  "title": "MM2H 与新山房产落地",
+  "subtitle": "第二家园实用指南",
+  "intro": "计划 MM2H 并在森林城市、富力或丹加湾购产？落地实务介绍——非法律意见。",
+  "seoTitle": "MM2H 新山专题",
+  "seoDescription": "MM2H 房产落地指南。",
+  "seoKeywords": "MM2H 新山",
+  "whatsappMessage": "您好，想了解 MM2H 落地支持。",
+  "labels": {
+    "sectionsTitle": "核心主题",
+    "quickLinksTitle": "相关",
+    "servicesTitle": "服务",
+    "faqTitle": "FAQ",
+    "ctaTitle": "咨询 MM2H",
+    "ctaDesc": "告知时间线。"
+  },
+  "sections": [
+    {
+      "title": "MM2H 与房产",
+      "paragraphs": [
+        "许多买家在规划 MM2H 时于新山购产。我们协助房产落地，移民转介持牌代理。"
+      ]
+    }
+  ],
+  "quickLinks": [
+    {
+      "label": "森林城市资料中心",
+      "slug": "forest-city/resource-center"
+    },
+    {
+      "label": "MM2H 服务",
+      "slug": "services/mm2h-landing-support"
+    }
+  ],
+  "faq": [
+    {
+      "q": "持牌 MM2H 代理？",
+      "a": "不是，移民事宜转介专业人士。"
+    }
+  ]
+}

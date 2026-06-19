@@ -1,0 +1,45 @@
+{
+  "title": "富力公主湾完整项目档案",
+  "subtitle": "完整档案",
+  "intro": "富力公主湾完整项目档案。",
+  "seoTitle": "富力档案",
+  "seoDescription": "富力公主湾档案",
+  "seoKeywords": "富力档案",
+  "whatsappMessage": "您好，富力资源。",
+  "labels": {
+    "hubTitle": "富力枢纽",
+    "sectionsTitle": "概览",
+    "resourcesTitle": "文件",
+    "servicesTitle": "服务",
+    "ctaTitle": "联系",
+    "ctaDesc": "富力服务。"
+  },
+  "sections": [
+    {
+      "title": "通关滨水",
+      "paragraphs": [
+        "近通关高端地址。"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "简介",
+      "slug": "rf-princess-cove",
+      "desc": "图集"
+    },
+    {
+      "label": "指南",
+      "slug": "guide/rf-princess-cove",
+      "desc": "指南"
+    },
+    {
+      "label": "托管",
+      "slug": "rf-princess-cove-property-management",
+      "desc": "专题"
+    }
+  ],
+  "faq": [],
+  "slug": "rf-princess-cove-archive",
+  "leadSource": "rf-princess-cove/archive"
+}

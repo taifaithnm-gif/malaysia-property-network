@@ -1,0 +1,45 @@
+{
+  "title": "丹加湾项目档案",
+  "subtitle": "项目档案",
+  "intro": "丹加湾完整档案。",
+  "seoTitle": "丹加湾档案",
+  "seoDescription": "丹加湾档案",
+  "seoKeywords": "丹加湾档案",
+  "whatsappMessage": "您好，丹加湾。",
+  "labels": {
+    "hubTitle": "丹加湾枢纽",
+    "sectionsTitle": "概览",
+    "resourcesTitle": "文件",
+    "servicesTitle": "服务",
+    "ctaTitle": "联系",
+    "ctaDesc": "丹加湾服务。"
+  },
+  "sections": [
+    {
+      "title": "成熟市场",
+      "paragraphs": [
+        "成熟滨水区。"
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "简介",
+      "slug": "danga-bay",
+      "desc": "图集"
+    },
+    {
+      "label": "指南",
+      "slug": "guide/danga-bay",
+      "desc": "指南"
+    },
+    {
+      "label": "托管",
+      "slug": "danga-bay-property-management",
+      "desc": "专题"
+    }
+  ],
+  "faq": [],
+  "slug": "danga-bay-archive",
+  "leadSource": "danga-bay/archive"
+}

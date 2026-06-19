@@ -2,6 +2,7 @@
 -- Run in Supabase SQL Editor or via: supabase db push
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "pgcrypto";
 
 CREATE OR REPLACE FUNCTION update_updated_at_column()
 RETURNS TRIGGER AS $$
@@ -13,7 +14,7 @@ $$ LANGUAGE plpgsql;
 
 -- ─── OWNERS ───────────────────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS owners (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   full_name TEXT NOT NULL,
   email TEXT NOT NULL UNIQUE,
   phone TEXT,
@@ -31,7 +32,7 @@ CREATE TRIGGER owners_updated_at
 
 -- ─── PROPERTIES ───────────────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS properties (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   owner_id UUID REFERENCES owners(id) ON DELETE SET NULL,
   name TEXT NOT NULL,
   location TEXT NOT NULL,
@@ -57,7 +58,7 @@ CREATE TRIGGER properties_updated_at
 
 -- ─── TENANTS ──────────────────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS tenants (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   property_id UUID REFERENCES properties(id) ON DELETE SET NULL,
   full_name TEXT NOT NULL,
   email TEXT,
@@ -81,7 +82,7 @@ CREATE TRIGGER tenants_updated_at
 
 -- ─── LEADS ────────────────────────────────────────────────────────────────────
 CREATE TABLE IF NOT EXISTS leads (
-  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   full_name TEXT NOT NULL,
   email TEXT NOT NULL,
   phone TEXT NOT NULL,

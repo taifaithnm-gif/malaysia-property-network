@@ -1,0 +1,43 @@
+{
+  "title": "高尔夫旅游中心",
+  "subtitle": "新山高尔夫套餐、酒店套餐与企业高尔夫团",
+  "intro": "在森林城市高尔夫度假村打球，可结合看楼行程。我们协调开球时间、酒店套餐与企业团体接待。",
+  "seoTitle": "高尔夫旅游中心新山",
+  "seoDescription": "森林城市高尔夫套餐、酒店套餐与企业高尔夫团。",
+  "whatsappMessage": "您好，想了解新山高尔夫旅游套餐。",
+  "labels": {
+    "packagesTitle": "旅游套餐",
+    "inquiryTitle": "索取套餐报价",
+    "submit": "提交咨询",
+    "success": "感谢提交，我们将在 24 小时内联系您提供套餐方案。",
+    "name": "姓名",
+    "contact": "WhatsApp / 电话",
+    "dates": "意向出行日期",
+    "groupSize": "人数",
+    "notes": "备注",
+    "packageType": "套餐类型"
+  },
+  "packages": [
+    {
+      "id": "golf-weekend",
+      "type": "golf",
+      "title": "周末打球 + 看楼",
+      "desc": "森林城市两天打球，含一次验房时段，适合业主买家。",
+      "highlights": ["森林城市高尔夫度假村两场", "一次陪同验房", "可选机场/酒店接送"]
+    },
+    {
+      "id": "golf-hotel",
+      "type": "hotel",
+      "title": "高尔夫 + 酒店套餐",
+      "desc": "森林城市附近三晚住宿，含每日打球与休闲时间。",
+      "highlights": ["酒店协调", "每日开球", "码头/度假村休闲"]
+    },
+    {
+      "id": "corporate-golf",
+      "type": "corporate",
+      "title": "企业高尔夫团",
+      "desc": "团队打球、简报会，可选富力或丹加湾看楼。",
+      "highlights": ["团体开球", "会议室/午餐", "可选看楼加项"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Forest City Resource Center",
+  "subtitle": "Project hub",
+  "intro": "Hub for FC profiles, guides, golf, services.",
+  "seoTitle": "FC Resource Center",
+  "seoDescription": "Forest City hub",
+  "seoKeywords": "Forest City hub",
+  "whatsappMessage": "Hi, FC resources.",
+  "labels": {
+    "hubTitle": "FC owner hub",
+    "sectionsTitle": "About",
+    "resourcesTitle": "Library",
+    "servicesTitle": "Services",
+    "ctaTitle": "Contact",
+    "ctaDesc": "24h response."
+  },
+  "sections": [
+    {
+      "title": "For overseas owners",
+      "paragraphs": [
+        "Curated public info and service links in EN/ZH."
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "label": "Media Center",
+      "slug": "forest-city/media-center",
+      "desc": "104 public photos"
+    },
+    {
+      "label": "Profile",
+      "slug": "forest-city",
+      "desc": "Gallery & facts"
+    },
+    {
+      "label": "Guide",
+      "slug": "guide/forest-city",
+      "desc": "Full guide"
+    },
+    {
+      "label": "Golf Topic",
+      "slug": "forest-city/golf-resort",
+      "desc": "Golf special"
+    },
+    {
+      "label": "List Property",
+      "slug": "list-property",
+      "desc": "Submit unit"
+    }
+  ],
+  "faq": [],
+  "slug": "forest-city-resource-center",
+  "leadSource": "forest-city/resource-center"
+}

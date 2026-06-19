@@ -346,6 +346,144 @@ export interface Database {
         };
         Relationships: [];
       };
+      viewing_appointments: {
+        Row: {
+          id: string;
+          full_name: string;
+          contact: string;
+          email: string | null;
+          project: string;
+          preferred_date: string | null;
+          preferred_time: string | null;
+          notes: string | null;
+          assigned_team: string;
+          whatsapp_confirmed: boolean;
+          locale: string;
+          status: string;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          full_name: string;
+          contact: string;
+          email?: string | null;
+          project: string;
+          preferred_date?: string | null;
+          preferred_time?: string | null;
+          notes?: string | null;
+          assigned_team?: string;
+          whatsapp_confirmed?: boolean;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          full_name?: string;
+          contact?: string;
+          email?: string | null;
+          project?: string;
+          preferred_date?: string | null;
+          preferred_time?: string | null;
+          notes?: string | null;
+          assigned_team?: string;
+          whatsapp_confirmed?: boolean;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
+      golf_travel_inquiries: {
+        Row: {
+          id: string;
+          full_name: string;
+          contact: string;
+          package_type: string;
+          travel_dates: string | null;
+          group_size: number | null;
+          notes: string | null;
+          locale: string;
+          status: string;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          full_name: string;
+          contact: string;
+          package_type: string;
+          travel_dates?: string | null;
+          group_size?: number | null;
+          notes?: string | null;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          full_name?: string;
+          contact?: string;
+          package_type?: string;
+          travel_dates?: string | null;
+          group_size?: number | null;
+          notes?: string | null;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
+      corporate_visit_inquiries: {
+        Row: {
+          id: string;
+          full_name: string;
+          contact: string;
+          company: string | null;
+          visit_type: string;
+          visit_dates: string | null;
+          group_size: number | null;
+          notes: string | null;
+          locale: string;
+          status: string;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          full_name: string;
+          contact: string;
+          company?: string | null;
+          visit_type: string;
+          visit_dates?: string | null;
+          group_size?: number | null;
+          notes?: string | null;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          full_name?: string;
+          contact?: string;
+          company?: string | null;
+          visit_type?: string;
+          visit_dates?: string | null;
+          group_size?: number | null;
+          notes?: string | null;
+          locale?: string;
+          status?: string;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
     };
     Views: {
       [_ in never]: never;
@@ -373,3 +511,9 @@ export type TenantRequest = Database["public"]["Tables"]["tenant_requests"]["Row
 export type TenantRequestInsert = Database["public"]["Tables"]["tenant_requests"]["Insert"];
 export type PropertyListing = Database["public"]["Tables"]["property_listings"]["Row"];
 export type PropertyListingInsert = Database["public"]["Tables"]["property_listings"]["Insert"];
+export type ViewingAppointment = Database["public"]["Tables"]["viewing_appointments"]["Row"];
+export type ViewingAppointmentInsert = Database["public"]["Tables"]["viewing_appointments"]["Insert"];
+export type GolfTravelInquiry = Database["public"]["Tables"]["golf_travel_inquiries"]["Row"];
+export type GolfTravelInquiryInsert = Database["public"]["Tables"]["golf_travel_inquiries"]["Insert"];
+export type CorporateVisitInquiry = Database["public"]["Tables"]["corporate_visit_inquiries"]["Row"];
+export type CorporateVisitInquiryInsert = Database["public"]["Tables"]["corporate_visit_inquiries"]["Insert"];
