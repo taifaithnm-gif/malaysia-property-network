@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import type { Locale } from "@/lib/constants";
 import { WHATSAPP_URL, WHATSAPP_NUMBER } from "@/lib/constants";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
@@ -8,18 +8,38 @@ import { Button } from "@/components/ui/Button";
 
 const PROJECTS = ["Forest City", "R&F Princess Cove", "Danga Bay", "Other"];
 
+export type ViewingListingOption = {
+  id: string;
+  title: string;
+  project: string;
+};
+
 type ViewingAppointmentFormProps = {
   locale: Locale;
   dict: Dictionary;
+  listings?: ViewingListingOption[];
+  preselectedListingId?: string;
 };
 
 type FormState = "idle" | "submitting" | "success" | "error";
 
-export function ViewingAppointmentForm({ locale, dict }: ViewingAppointmentFormProps) {
+export function ViewingAppointmentForm({
+  locale,
+  dict,
+  listings = [],
+  preselectedListingId,
+}: ViewingAppointmentFormProps) {
   const f = dict.viewingForm;
   const [state, setState] = useState<FormState>("idle");
   const [errors, setErrors] = useState<Record<string, string>>({});
   const [confirmationUrl, setConfirmationUrl] = useState("");
+
+  const defaultSelection = useMemo(() => {
+    if (preselectedListingId && listings.some((l) => l.id === preselectedListingId)) {
+      return `listing:${preselectedListingId}`;
+    }
+    return "";
+  }, [preselectedListingId, listings]);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -27,11 +47,24 @@ export function ViewingAppointmentForm({ locale, dict }: ViewingAppointmentFormP
     setState("submitting");
 
     const formData = new FormData(e.currentTarget);
+    const selection = (formData.get("property_selection") as string).trim();
+    let project = "";
+    let listing_id: string | null = null;
+
+    if (selection.startsWith("listing:")) {
+      listing_id = selection.replace("listing:", "");
+      const listing = listings.find((l) => l.id === listing_id);
+      project = listing ? `${listing.project} — ${listing.title}` : "Selected listing";
+    } else {
+      project = selection;
+    }
+
     const payload = {
       full_name: (formData.get("full_name") as string).trim(),
       contact: (formData.get("contact") as string).trim(),
       email: (formData.get("email") as string).trim() || null,
-      project: (formData.get("project") as string).trim(),
+      project,
+      listing_id,
       preferred_date: (formData.get("preferred_date") as string) || null,
       preferred_time: (formData.get("preferred_time") as string).trim() || null,
       notes: (formData.get("notes") as string).trim() || null,
@@ -96,14 +129,33 @@ export function ViewingAppointmentForm({ locale, dict }: ViewingAppointmentFormP
       <Field id="contact" label={f.contactLabel} type="tel" error={errors.contact} required />
       <Field id="email" label={f.emailLabel} type="email" error={errors.email} />
       <div>
-        <label htmlFor="project" className="block text-sm font-medium text-gray-700 mb-1">
-          {f.projectLabel} *
+        <label htmlFor="property_selection" className="block text-sm font-medium text-gray-700 mb-1">
+          {f.propertyLabel ?? f.projectLabel} *
         </label>
-        <select id="project" name="project" required className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm">
+        <select
+          id="property_selection"
+          name="property_selection"
+          required
+          defaultValue={defaultSelection}
+          className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm"
+        >
           <option value="">{f.projectPlaceholder}</option>
-          {PROJECTS.map((p) => (
-            <option key={p} value={p}>{p}</option>
-          ))}
+          {listings.length > 0 && (
+            <optgroup label={f.listingsGroup ?? "Published listings"}>
+              {listings.map((listing) => (
+                <option key={listing.id} value={`listing:${listing.id}`}>
+                  {listing.title} — {listing.project}
+                </option>
+              ))}
+            </optgroup>
+          )}
+          <optgroup label={f.projectsGroup ?? "General projects"}>
+            {PROJECTS.map((p) => (
+              <option key={p} value={p}>
+                {p}
+              </option>
+            ))}
+          </optgroup>
         </select>
         {errors.project && <p className="mt-1 text-sm text-red-600">{errors.project}</p>}
       </div>
@@ -112,7 +164,9 @@ export function ViewingAppointmentForm({ locale, dict }: ViewingAppointmentFormP
         <Field id="preferred_time" label={f.timeLabel} placeholder={f.timePlaceholder} error={errors.preferred_time} />
       </div>
       <div>
-        <label htmlFor="notes" className="block text-sm font-medium text-gray-700 mb-1">{f.notesLabel}</label>
+        <label htmlFor="notes" className="block text-sm font-medium text-gray-700 mb-1">
+          {f.notesLabel}
+        </label>
         <textarea id="notes" name="notes" rows={3} className="w-full rounded-lg border border-gray-300 px-4 py-2 text-sm" />
       </div>
       {state === "error" && <p className="text-sm text-red-600">{f.errorMessage}</p>}
@@ -141,7 +195,8 @@ function Field({
   return (
     <div>
       <label htmlFor={id} className="block text-sm font-medium text-gray-700 mb-1">
-        {label}{required ? " *" : ""}
+        {label}
+        {required ? " *" : ""}
       </label>
       <input
         id={id}

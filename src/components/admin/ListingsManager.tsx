@@ -29,6 +29,10 @@ export function ListingsManager() {
   const [editingId, setEditingId] = useState<string | null>(null);
   const [uploading, setUploading] = useState(false);
   const [saving, setSaving] = useState(false);
+  const [statusFilter, setStatusFilter] = useState("");
+  const [projectFilter, setProjectFilter] = useState("");
+  const [featuredOnly, setFeaturedOnly] = useState(false);
+  const [actionId, setActionId] = useState<string | null>(null);
 
   const load = useCallback(async () => {
     setLoading(true);
@@ -145,6 +149,31 @@ export function ListingsManager() {
     load();
   }
 
+  async function patchListing(id: string, updates: Record<string, unknown>) {
+    setActionId(id);
+    setError("");
+    const res = await fetch(`/api/admin/listings/${id}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(updates),
+    });
+    setActionId(null);
+    if (!res.ok) {
+      setError("Update failed");
+      return;
+    }
+    load();
+  }
+
+  const filteredListings = listings.filter((listing) => {
+    if (statusFilter && listing.status !== statusFilter) return false;
+    if (projectFilter && listing.project !== projectFilter) return false;
+    if (featuredOnly && !listing.is_featured) return false;
+    return true;
+  });
+
+  const projects = [...new Set(listings.map((l) => l.project))].sort();
+
   return (
     <div className="grid gap-10 lg:grid-cols-2">
       <section>
@@ -232,21 +261,86 @@ export function ListingsManager() {
       </section>
 
       <section>
-        <h2 className="text-lg font-bold text-navy-900 mb-4">All listings ({listings.length})</h2>
+        <h2 className="text-lg font-bold text-navy-900 mb-4">
+          All listings ({filteredListings.length}/{listings.length})
+        </h2>
+        <div className="mb-4 flex flex-wrap gap-3">
+          <select
+            value={statusFilter}
+            onChange={(e) => setStatusFilter(e.target.value)}
+            className="rounded border border-gray-300 px-3 py-2 text-sm"
+          >
+            <option value="">All statuses</option>
+            <option value="draft">Draft</option>
+            <option value="published">Published</option>
+            <option value="archived">Archived</option>
+          </select>
+          <select
+            value={projectFilter}
+            onChange={(e) => setProjectFilter(e.target.value)}
+            className="rounded border border-gray-300 px-3 py-2 text-sm"
+          >
+            <option value="">All projects</option>
+            {projects.map((p) => (
+              <option key={p} value={p}>
+                {p}
+              </option>
+            ))}
+          </select>
+          <label className="flex items-center gap-2 text-sm text-gray-700">
+            <input type="checkbox" checked={featuredOnly} onChange={(e) => setFeaturedOnly(e.target.checked)} />
+            Featured only
+          </label>
+        </div>
         {loading ? (
           <p className="text-sm text-gray-500">Loading…</p>
         ) : (
           <div className="space-y-3">
-            {listings.map((listing) => (
+            {filteredListings.map((listing) => (
               <div key={listing.id} className="rounded-xl border border-gray-200 bg-white p-4">
                 <div className="flex items-start justify-between gap-4">
                   <div>
-                    <p className="font-semibold text-navy-900">{listing.title}</p>
+                    <p className="font-semibold text-navy-900">
+                      {listing.title}
+                      {listing.is_featured && (
+                        <span className="ml-2 rounded-full bg-teal-100 px-2 py-0.5 text-xs font-medium text-teal-800">
+                          Featured
+                        </span>
+                      )}
+                    </p>
                     <p className="text-sm text-gray-600">
                       {listing.project} · {listing.listing_type} · {listing.status} · {listing.locale}
                     </p>
                   </div>
-                  <div className="flex gap-2 shrink-0">
+                  <div className="flex flex-wrap gap-2 shrink-0 justify-end">
+                    {listing.status === "draft" && (
+                      <button
+                        type="button"
+                        disabled={actionId === listing.id}
+                        onClick={() => patchListing(listing.id, { status: "published" })}
+                        className="text-sm text-teal-700 hover:underline disabled:opacity-50"
+                      >
+                        Approve
+                      </button>
+                    )}
+                    {listing.status !== "archived" && (
+                      <button
+                        type="button"
+                        disabled={actionId === listing.id}
+                        onClick={() => patchListing(listing.id, { status: "archived" })}
+                        className="text-sm text-gray-600 hover:underline disabled:opacity-50"
+                      >
+                        Archive
+                      </button>
+                    )}
+                    <button
+                      type="button"
+                      disabled={actionId === listing.id}
+                      onClick={() => patchListing(listing.id, { is_featured: !listing.is_featured })}
+                      className="text-sm text-amber-700 hover:underline disabled:opacity-50"
+                    >
+                      {listing.is_featured ? "Unfeature" : "Feature"}
+                    </button>
                     <button type="button" onClick={() => startEdit(listing)} className="text-sm text-teal-700 hover:underline">
                       Edit
                     </button>
@@ -257,7 +351,7 @@ export function ListingsManager() {
                 </div>
               </div>
             ))}
-            {listings.length === 0 && <p className="text-sm text-gray-500">No listings yet.</p>}
+            {filteredListings.length === 0 && <p className="text-sm text-gray-500">No listings match filters.</p>}
           </div>
         )}
       </section>

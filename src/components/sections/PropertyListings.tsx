@@ -15,11 +15,13 @@ function ListingGrid({
   locale,
   emptyLabel,
   emptyDesc,
+  bookViewingLabel,
 }: {
   listings: PropertyListing[];
   locale: Locale;
   emptyLabel: string;
   emptyDesc: string;
+  bookViewingLabel: string;
 }) {
   if (listings.length === 0) {
     return (
@@ -66,6 +68,11 @@ function ListingGrid({
             {listing.property_type && (
               <p className="mt-1 text-sm text-gray-600">{listing.property_type}</p>
             )}
+            <div className="mt-4">
+              <Button href={`/${locale}/book-viewing?listing=${listing.id}`} variant="outline" className="text-sm">
+                {bookViewingLabel}
+              </Button>
+            </div>
           </div>
         </article>
       ))}
@@ -93,6 +100,7 @@ export async function PropertyListings({ locale, dict }: PropertyListingsProps) 
             locale={locale}
             emptyLabel={labels.emptyFeatured}
             emptyDesc={labels.emptyFeaturedDesc}
+            bookViewingLabel={labels.bookViewingCta}
           />
         </div>
 
@@ -103,6 +111,7 @@ export async function PropertyListings({ locale, dict }: PropertyListingsProps) 
             locale={locale}
             emptyLabel={labels.emptyRentals}
             emptyDesc={labels.emptyRentalsDesc}
+            bookViewingLabel={labels.bookViewingCta}
           />
         </div>
 
@@ -113,6 +122,7 @@ export async function PropertyListings({ locale, dict }: PropertyListingsProps) 
             locale={locale}
             emptyLabel={labels.emptySales}
             emptyDesc={labels.emptySalesDesc}
+            bookViewingLabel={labels.bookViewingCta}
           />
         </div>
 

@@ -10,11 +10,14 @@ function validate(body: unknown): ViewingAppointmentInsert | null {
     return null;
   }
   if (!d.full_name.trim() || !d.contact.trim() || !d.project.trim()) return null;
+  const listing_id =
+    typeof d.listing_id === "string" && d.listing_id.trim() ? d.listing_id.trim() : null;
   return {
     full_name: d.full_name.trim(),
     contact: d.contact.trim(),
     email: typeof d.email === "string" ? d.email.trim() || null : null,
     project: d.project.trim(),
+    listing_id,
     preferred_date: typeof d.preferred_date === "string" ? d.preferred_date || null : null,
     preferred_time: typeof d.preferred_time === "string" ? d.preferred_time.trim() || null : null,
     notes: typeof d.notes === "string" ? d.notes.trim() || null : null,

@@ -165,6 +165,7 @@ export interface Database {
           source: string;
           locale: string;
           status: string;
+          whatsapp_confirmed: boolean;
           created_at: string;
           updated_at: string;
         };
@@ -178,6 +179,7 @@ export interface Database {
           source?: string;
           locale?: string;
           status?: string;
+          whatsapp_confirmed?: boolean;
           created_at?: string;
           updated_at?: string;
         };
@@ -191,6 +193,7 @@ export interface Database {
           source?: string;
           locale?: string;
           status?: string;
+          whatsapp_confirmed?: boolean;
           created_at?: string;
           updated_at?: string;
         };
@@ -356,6 +359,7 @@ export interface Database {
           preferred_date: string | null;
           preferred_time: string | null;
           notes: string | null;
+          listing_id: string | null;
           assigned_team: string;
           whatsapp_confirmed: boolean;
           locale: string;
@@ -372,6 +376,7 @@ export interface Database {
           preferred_date?: string | null;
           preferred_time?: string | null;
           notes?: string | null;
+          listing_id?: string | null;
           assigned_team?: string;
           whatsapp_confirmed?: boolean;
           locale?: string;

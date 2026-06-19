@@ -27,14 +27,23 @@ export async function PATCH(request: Request, context: RouteContext) {
 
   try {
     const body = await request.json();
-    const status = typeof body.status === "string" ? body.status.trim() : "";
-    if (!status) {
-      return NextResponse.json({ error: "Status required" }, { status: 400 });
+    const updates: Record<string, unknown> = {};
+
+    if (typeof body.status === "string" && body.status.trim()) {
+      updates.status = body.status.trim();
+    }
+    if (typeof body.whatsapp_confirmed === "boolean" && type === "leads") {
+      updates.whatsapp_confirmed = body.whatsapp_confirmed;
+    }
+
+    if (Object.keys(updates).length === 0) {
+      return NextResponse.json({ error: "No fields to update" }, { status: 400 });
     }
 
     const table = TABLE_MAP[type as CrmType];
     const supabase = createAdminClient();
-    const { data, error } = await supabase.from(table).update({ status }).eq("id", id).select().single();
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const { data, error } = await (supabase as any).from(table).update(updates).eq("id", id).select().single();
 
     if (error) {
       return NextResponse.json({ error: error.message }, { status: 500 });

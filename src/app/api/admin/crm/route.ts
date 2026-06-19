@@ -13,15 +13,16 @@ export async function GET() {
   try {
     const supabase = createAdminClient();
 
-    const [leads, owners, tenants] = await Promise.all([
+    const [leads, owners, tenants, viewings] = await Promise.all([
       supabase.from("leads").select("*").order("created_at", { ascending: false }).limit(100),
       supabase.from("owner_property_submissions").select("*").order("created_at", { ascending: false }).limit(100),
       supabase.from("tenant_requests").select("*").order("created_at", { ascending: false }).limit(100),
+      supabase.from("viewing_appointments").select("*").order("created_at", { ascending: false }).limit(100),
     ]);
 
-    if (leads.error || owners.error || tenants.error) {
+    if (leads.error || owners.error || tenants.error || viewings.error) {
       return NextResponse.json(
-        { error: leads.error?.message || owners.error?.message || tenants.error?.message },
+        { error: leads.error?.message || owners.error?.message || tenants.error?.message || viewings.error?.message },
         { status: 500 },
       );
     }
@@ -30,6 +31,7 @@ export async function GET() {
       leads: leads.data ?? [],
       ownerSubmissions: owners.data ?? [],
       tenantRequests: tenants.data ?? [],
+      viewingAppointments: viewings.data ?? [],
     });
   } catch {
     return NextResponse.json({ error: "Internal server error" }, { status: 500 });

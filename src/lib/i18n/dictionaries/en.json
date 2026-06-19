@@ -212,6 +212,9 @@
     "contactLabel": "WhatsApp / Phone",
     "emailLabel": "Email (optional)",
     "projectLabel": "Project",
+    "propertyLabel": "Property",
+    "listingsGroup": "Published listings",
+    "projectsGroup": "General projects",
     "projectPlaceholder": "Select project",
     "dateLabel": "Preferred date",
     "timeLabel": "Preferred time",
@@ -241,7 +244,8 @@
     "emptySales": "No sales listings yet",
     "emptySalesDesc": "Contact us for secondary market opportunities in Johor Bahru.",
     "listPropertyCta": "List Your Property",
-    "requestPropertyCta": "Submit Property Request"
+    "requestPropertyCta": "Submit Property Request",
+    "bookViewingCta": "Book Viewing"
   },
   "footer": {
     "tagline": "Malaysia Property Management & Rental Solutions for Overseas Property Owners",

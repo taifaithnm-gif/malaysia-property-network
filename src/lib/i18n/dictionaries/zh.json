@@ -212,6 +212,9 @@
     "contactLabel": "WhatsApp / 电话",
     "emailLabel": "邮箱（选填）",
     "projectLabel": "项目",
+    "propertyLabel": "物业",
+    "listingsGroup": "已发布房源",
+    "projectsGroup": "一般项目",
     "projectPlaceholder": "选择项目",
     "dateLabel": "意向日期",
     "timeLabel": "意向时间",
@@ -241,7 +244,8 @@
     "emptySales": "暂无出售房源",
     "emptySalesDesc": "联系我们了解新山二手市场机会。",
     "listPropertyCta": "提交房源",
-    "requestPropertyCta": "提交找房需求"
+    "requestPropertyCta": "提交找房需求",
+    "bookViewingCta": "预约看楼"
   },
   "footer": {
     "tagline": "马来西亚房产管理与租赁服务 — 专为海外业主打造",
