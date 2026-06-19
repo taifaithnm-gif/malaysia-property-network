@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "Malaysia Property Network | Property Management for Overseas Owners",
+    "description": "Professional property management and rental solutions in Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay for overseas property owners.",
+    "keywords": "Malaysia property management, Johor Bahru rental, Forest City, R&F Princess Cove, Danga Bay, overseas property owners"
+  },
+  "nav": {
+    "home": "Home",
+    "propertyManagement": "Property Management",
+    "johorBahru": "Johor Bahru",
+    "forestCity": "Forest City",
+    "rfPrincessCove": "R&F Princess Cove",
+    "dangaBay": "Danga Bay",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "whatsappUs": "WhatsApp Us",
+    "submitInquiry": "Submit Inquiry",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "officeAddress": "Johor Bahru, Johor, Malaysia",
+    "allRightsReserved": "All rights reserved.",
+    "language": "Language"
+  },
+  "home": {
+    "heroTitle": "Malaysia Property Management & Rental Solutions",
+    "heroSubtitle": "for Overseas Property Owners",
+    "heroDescription": "We manage, rent, and protect your Malaysian property while you live abroad. Trusted local expertise in Johor Bahru's premier developments.",
+    "servicesTitle": "Our Services",
+    "servicesSubtitle": "End-to-end property management tailored for overseas owners",
+    "service1Title": "Tenant Management",
+    "service1Desc": "Screening, leasing, rent collection, and tenant communication handled locally on your behalf.",
+    "service2Title": "Property Maintenance",
+    "service2Desc": "Regular inspections, repairs, and upkeep to preserve your asset value.",
+    "service3Title": "Rental Optimization",
+    "service3Desc": "Market-rate pricing, listing management, and vacancy minimization strategies.",
+    "service4Title": "Owner Reporting",
+    "service4Desc": "Transparent monthly reports with income, expenses, and property condition updates.",
+    "locationsTitle": "Areas We Serve",
+    "locationsSubtitle": "Specialized knowledge in Johor Bahru's key property markets",
+    "whyTitle": "Why Overseas Owners Choose Us",
+    "why1": "Local team with on-ground presence in Johor Bahru",
+    "why2": "Bilingual support in English and Chinese",
+    "why3": "Transparent reporting and secure payment handling",
+    "why4": "Deep expertise in Forest City, R&F, and Danga Bay",
+    "ctaTitle": "Ready to protect your investment?",
+    "ctaDescription": "Get a free property assessment and rental strategy consultation."
+  },
+  "propertyManagement": {
+    "title": "Property Management Services",
+    "subtitle": "Full-service management for overseas property owners",
+    "intro": "Owning property in Malaysia from abroad requires a reliable local partner. Malaysia Property Network provides comprehensive management so your investment performs while you focus on life overseas.",
+    "processTitle": "How It Works",
+    "step1Title": "Property Assessment",
+    "step1Desc": "We evaluate your unit, market conditions, and rental potential.",
+    "step2Title": "Tenant Placement",
+    "step2Desc": "Professional marketing, screening, and lease execution.",
+    "step3Title": "Ongoing Management",
+    "step3Desc": "Rent collection, maintenance, inspections, and owner reporting.",
+    "step4Title": "Performance Review",
+    "step4Desc": "Quarterly reviews to optimize rental yield and asset value.",
+    "featuresTitle": "What's Included",
+    "feature1": "Tenant sourcing and vetting",
+    "feature2": "Lease drafting and renewal",
+    "feature3": "Monthly rent collection and remittance",
+    "feature4": "Maintenance coordination",
+    "feature5": "Utility and bill management",
+    "feature6": "Legal compliance support",
+    "feature7": "Vacancy marketing",
+    "feature8": "Financial reporting"
+  },
+  "locations": {
+    "johorBahru": {
+      "title": "Johor Bahru Property Management",
+      "subtitle": "Gateway to Singapore — Malaysia's fastest-growing property market",
+      "intro": "Johor Bahru offers strong rental demand driven by cross-border workers, expatriates, and students. We help overseas owners maximize returns in condos, serviced apartments, and landed properties across the city.",
+      "highlights": ["Proximity to Singapore", "Strong rental yield", "Growing infrastructure", "Diverse tenant pool"]
+    },
+    "forestCity": {
+      "title": "Forest City Property Management",
+      "subtitle": "Integrated resort city on the southern coast of Johor",
+      "intro": "Forest City presents unique opportunities and challenges for overseas investors. Our team understands the development's regulations, tenant demographics, and rental dynamics to keep your unit occupied and well-maintained.",
+      "highlights": ["Resort-style living", "International tenant base", "Long-term investment potential", "Specialized local knowledge"]
+    },
+    "rfPrincessCove": {
+      "title": "R&F Princess Cove Management",
+      "subtitle": "Premium waterfront living near the Causeway",
+      "intro": "R&F Princess Cove is one of Johor Bahru's most sought-after addresses. We manage units for overseas owners with expertise in this development's facilities, strata rules, and competitive rental market.",
+      "highlights": ["Waterfront location", "High rental demand", "Premium facilities", "Cross-border appeal"]
+    },
+    "dangaBay": {
+      "title": "Danga Bay Property Management",
+      "subtitle": "Established waterfront district with proven rental history",
+      "intro": "Danga Bay's mature ecosystem of condos, hotels, and commercial spaces creates steady rental demand. We help overseas owners navigate management companies, maintenance fees, and tenant expectations in this established area.",
+      "highlights": ["Mature development", "Stable rental market", "Tourism-driven demand", "Experienced management"]
+    }
+  },
+  "about": {
+    "title": "About Malaysia Property Network",
+    "subtitle": "Your trusted local partner for Malaysian property",
+    "missionTitle": "Our Mission",
+    "mission": "To give overseas property owners peace of mind through professional, transparent, and responsive property management in Johor Bahru and surrounding developments.",
+    "storyTitle": "Who We Are",
+    "story": "Malaysia Property Network was founded to bridge the gap between overseas investors and the local Malaysian property market. Our bilingual team combines real estate expertise with hands-on management experience in Forest City, R&F Princess Cove, Danga Bay, and across Johor Bahru.",
+    "valuesTitle": "Our Values",
+    "value1Title": "Transparency",
+    "value1Desc": "Clear reporting and honest communication at every step.",
+    "value2Title": "Reliability",
+    "value2Desc": "On-ground presence and responsive service you can count on.",
+    "value3Title": "Expertise",
+    "value3Desc": "Deep knowledge of local developments, regulations, and market trends."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get a free consultation for your property",
+    "formTitle": "Send Us an Inquiry",
+    "formDescription": "Tell us about your property and we'll respond within 24 hours.",
+    "nameLabel": "Full Name",
+    "emailLabel": "Email Address",
+    "phoneLabel": "Phone / WhatsApp",
+    "propertyLabel": "Property Location",
+    "propertyPlaceholder": "e.g. Forest City, R&F Princess Cove",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell us about your property and management needs...",
+    "submitting": "Submitting...",
+    "successTitle": "Thank you!",
+    "successMessage": "We've received your inquiry and will contact you within 24 hours.",
+    "errorMessage": "Something went wrong. Please try again or WhatsApp us directly."
+  },
+  "leadForm": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Valid email is required",
+    "phoneRequired": "Phone number is required"
+  },
+  "footer": {
+    "tagline": "Malaysia Property Management & Rental Solutions for Overseas Property Owners",
+    "quickLinks": "Quick Links",
+    "locations": "Locations",
+    "contactInfo": "Contact Info"
+  }
+}

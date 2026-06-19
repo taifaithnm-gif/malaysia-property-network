@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "title": "马来西亚房产网络 | 海外业主房产管理服务",
+    "description": "为海外业主提供新山、森林城市、富力公主湾、丹加湾的专业房产管理与租赁服务。",
+    "keywords": "马来西亚房产管理, 新山租赁, 森林城市, 富力公主湾, 丹加湾, 海外业主"
+  },
+  "nav": {
+    "home": "首页",
+    "propertyManagement": "房产管理",
+    "johorBahru": "新山",
+    "forestCity": "森林城市",
+    "rfPrincessCove": "富力公主湾",
+    "dangaBay": "丹加湾",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "common": {
+    "getStarted": "立即开始",
+    "contactUs": "联系我们",
+    "learnMore": "了解更多",
+    "whatsappUs": "WhatsApp 联系",
+    "submitInquiry": "提交咨询",
+    "phone": "电话",
+    "email": "邮箱",
+    "address": "地址",
+    "officeAddress": "马来西亚柔佛州新山",
+    "allRightsReserved": "版权所有。",
+    "language": "语言"
+  },
+  "home": {
+    "heroTitle": "马来西亚房产管理与租赁服务",
+    "heroSubtitle": "专为海外业主打造",
+    "heroDescription": "您在海外，我们在本地——专业管理、出租并保护您在马来西亚的房产投资。深耕新山优质楼盘，值得信赖。",
+    "servicesTitle": "我们的服务",
+    "servicesSubtitle": "为海外业主量身定制的全方位房产管理",
+    "service1Title": "租户管理",
+    "service1Desc": "租户筛选、签约、收租及日常沟通，全部由本地团队代您处理。",
+    "service2Title": "物业维护",
+    "service2Desc": "定期巡检、维修及保养，维护您的资产价值。",
+    "service3Title": "租赁优化",
+    "service3Desc": "市场定价、房源推广及降低空置率的策略方案。",
+    "service4Title": "业主报告",
+    "service4Desc": "透明的月度报告，涵盖收入、支出及物业状况。",
+    "locationsTitle": "服务区域",
+    "locationsSubtitle": "深耕新山核心房产市场",
+    "whyTitle": "海外业主为何选择我们",
+    "why1": "新山本地团队，实地驻场服务",
+    "why2": "中英文双语支持",
+    "why3": "透明报告与安全收款",
+    "why4": "森林城市、富力、丹加湾专业经验",
+    "ctaTitle": "准备好保护您的投资了吗？",
+    "ctaDescription": "免费获取房产评估与租赁策略咨询。"
+  },
+  "propertyManagement": {
+    "title": "房产管理服务",
+    "subtitle": "为海外业主提供全方位管理",
+    "intro": "身在海外，管理马来西亚房产需要可靠的本地伙伴。马来西亚房产网络提供全面管理服务，让您专注海外生活，投资持续增值。",
+    "processTitle": "服务流程",
+    "step1Title": "房产评估",
+    "step1Desc": "评估您的单位、市场状况及租赁潜力。",
+    "step2Title": "租户安置",
+    "step2Desc": "专业推广、筛选及签约执行。",
+    "step3Title": "日常管理",
+    "step3Desc": "收租、维护、巡检及业主报告。",
+    "step4Title": "绩效回顾",
+    "step4Desc": "季度回顾，优化租金收益与资产价值。",
+    "featuresTitle": "服务内容",
+    "feature1": "租户筛选与安置",
+    "feature2": "租约起草与续签",
+    "feature3": "月度收租与汇款",
+    "feature4": "维护协调",
+    "feature5": "水电账单管理",
+    "feature6": "法律合规支持",
+    "feature7": "空置期营销",
+    "feature8": "财务报告"
+  },
+  "locations": {
+    "johorBahru": {
+      "title": "新山房产管理",
+      "subtitle": "新加坡门户——马来西亚增长最快的房产市场",
+      "intro": "新山凭借跨境工作者、外籍人士及学生群体，租赁需求强劲。我们帮助海外业主最大化公寓、服务式公寓及有地住宅的投资回报。",
+      "highlights": ["毗邻新加坡", "租金回报率高", "基础设施完善", "租户来源多元"]
+    },
+    "forestCity": {
+      "title": "森林城市房产管理",
+      "subtitle": "柔佛南岸综合度假城市",
+      "intro": "森林城市为海外投资者带来独特机遇与挑战。我们的团队熟悉项目规定、租户特征及租赁动态，确保您的单位持续出租并妥善维护。",
+      "highlights": ["度假式生活", "国际租户群体", "长期投资潜力", "专业本地经验"]
+    },
+    "rfPrincessCove": {
+      "title": "富力公主湾管理",
+      "subtitle": "关卡附近优质滨水生活",
+      "intro": "富力公主湾是新山最受欢迎的地址之一。我们为海外业主提供管理服务，熟悉项目设施、分层地契规则及竞争激烈的租赁市场。",
+      "highlights": ["滨水位置", "租赁需求旺盛", "优质设施", "跨境吸引力"]
+    },
+    "dangaBay": {
+      "title": "丹加湾房产管理",
+      "subtitle": "成熟滨水区，租赁历史稳定",
+      "intro": "丹加湾成熟的公寓、酒店及商业生态带来稳定租赁需求。我们帮助海外业主处理管理公司对接、维护费用及租户期望。",
+      "highlights": ["成熟社区", "租赁市场稳定", "旅游驱动需求", "管理经验丰富"]
+    }
+  },
+  "about": {
+    "title": "关于马来西亚房产网络",
+    "subtitle": "您值得信赖的马来西亚房产本地伙伴",
+    "missionTitle": "我们的使命",
+    "mission": "通过专业、透明、及时的房产管理服务，让海外业主安心投资新山及周边楼盘。",
+    "storyTitle": "我们是谁",
+    "story": "马来西亚房产网络致力于连接海外投资者与马来西亚本地房产市场。我们的双语团队具备森林城市、富力公主湾、丹加湾及新山全区的实战经验。",
+    "valuesTitle": "我们的价值观",
+    "value1Title": "透明",
+    "value1Desc": "每一步都清晰报告、诚实沟通。",
+    "value2Title": "可靠",
+    "value2Desc": "实地驻场，响应迅速，值得托付。",
+    "value3Title": "专业",
+    "value3Desc": "深入了解本地楼盘、法规及市场趋势。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "免费获取房产管理咨询",
+    "formTitle": "提交咨询",
+    "formDescription": "告诉我们您的房产情况，我们将在24小时内回复。",
+    "nameLabel": "姓名",
+    "emailLabel": "电子邮箱",
+    "phoneLabel": "电话 / WhatsApp",
+    "propertyLabel": "房产位置",
+    "propertyPlaceholder": "例如：森林城市、富力公主湾",
+    "messageLabel": "留言",
+    "messagePlaceholder": "请描述您的房产及管理需求...",
+    "submitting": "提交中...",
+    "successTitle": "感谢您的咨询！",
+    "successMessage": "我们已收到您的信息，将在24小时内与您联系。",
+    "errorMessage": "提交失败，请重试或直接 WhatsApp 联系我们。"
+  },
+  "leadForm": {
+    "nameRequired": "请填写姓名",
+    "emailRequired": "请填写有效邮箱",
+    "phoneRequired": "请填写电话号码"
+  },
+  "footer": {
+    "tagline": "马来西亚房产管理与租赁服务 — 专为海外业主打造",
+    "quickLinks": "快速链接",
+    "locations": "服务区域",
+    "contactInfo": "联系方式"
+  }
+}
