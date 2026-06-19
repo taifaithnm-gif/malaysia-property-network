@@ -15,6 +15,7 @@ export const DEFAULT_LOCALE: Locale = "en";
 
 export const NAV_LINKS = [
   { href: "", key: "home" },
+  { href: "services", key: "services" },
   { href: "property-management", key: "propertyManagement" },
   { href: "johor-bahru", key: "johorBahru" },
   { href: "forest-city", key: "forestCity" },

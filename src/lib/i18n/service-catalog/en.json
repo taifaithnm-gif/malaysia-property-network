@@ -1,0 +1,908 @@
+{
+  "hub": {
+    "title": "Owner Services",
+    "subtitle": "Complete asset operation support for overseas Chinese owners",
+    "intro": "Eight integrated services covering management, short-term rental, furnishing, inspections, business visits, golf travel, MM2H landing, and property sales — all delivered locally in Johor Bahru.",
+    "seoTitle": "Property Owner Services Johor Bahru | Malaysia Property Network",
+    "seoDescription": "Eight owner services for overseas Chinese investors in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru.",
+    "seoKeywords": "Johor Bahru owner services, Forest City property, overseas Chinese Malaysia, MM2H property"
+  },
+  "items": {
+    "propertyManagement": {
+      "title": "Property Management",
+      "subtitle": "Full-service management for overseas Chinese owners",
+      "intro": "Own property in Johor Bahru but live abroad? We manage tenants, maintenance, and reporting locally — so your Malaysian asset performs without you needing to fly in.",
+      "seoTitle": "Property Management Johor Bahru | Overseas Owner Service",
+      "seoDescription": "Full property management for overseas owners in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru. Bilingual reporting and local tenant operations.",
+      "seoKeywords": "Johor Bahru property management, Forest City management, overseas owner Malaysia, R&F Princess Cove rental",
+      "whatsappMessage": "Hi, I am an overseas owner interested in Property Management in Johor Bahru. Please share your service details.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas Chinese owners who cannot visit Malaysia regularly",
+        "Investors with units in Forest City, R&F, or Danga Bay seeking hands-off management",
+        "First-time overseas landlords who need local leasing and compliance support",
+        "Owners transitioning from self-management or unreliable agents"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Tenant sourcing, screening, and lease management",
+        "Rent collection and remittance to your nominated account",
+        "Maintenance coordination and emergency response",
+        "Utility and bill payment on your behalf",
+        "Monthly bilingual owner reporting",
+        "Vacancy marketing and rental price review"
+      ],
+      "pricing": [
+        {
+          "name": "Essential",
+          "price": "From 8% of rent",
+          "desc": "Rent collection, tenant liaison, basic maintenance. Minimum RM 200/month."
+        },
+        {
+          "name": "Complete",
+          "price": "From 10% of rent",
+          "desc": "Full leasing, inspections, bill pay, monthly reporting. Most popular."
+        },
+        {
+          "name": "Premium",
+          "price": "From 12% of rent",
+          "desc": "Priority support, quarterly inspections, renovation oversight."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I receive rent while living overseas?",
+          "a": "We collect rent locally and remit monthly to your bank account with a full statement in English or Chinese."
+        },
+        {
+          "q": "Do you manage Forest City units?",
+          "a": "Yes. We understand Forest City strata rules, guest policies, and the tenant profile for the development."
+        },
+        {
+          "q": "What if my unit is vacant?",
+          "a": "We activate marketing immediately with pricing review across local channels."
+        },
+        {
+          "q": "Is there a minimum contract?",
+          "a": "Standard agreement is 12 months, renewable. Shorter onboarding may be available for transitions."
+        }
+      ],
+      "ctaTitle": "Get a Free Management Quote",
+      "ctaDescription": "Tell us about your property. We reply within 24 hours in English or 中文.",
+      "relatedLinks": [
+        {
+          "label": "Airbnb Management",
+          "slug": "services/airbnb-management"
+        },
+        {
+          "label": "Inspection & Key Holding",
+          "slug": "services/inspection-key-holding"
+        },
+        {
+          "label": "Furniture & Appliance Package",
+          "slug": "services/furniture-appliance-package"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Onboarding",
+          "desc": "Property assessment, key collection, utility setup, and signed management agreement."
+        },
+        {
+          "title": "Marketing & Leasing",
+          "desc": "Professional listing, tenant screening, lease execution, and deposit handling."
+        },
+        {
+          "title": "Monthly Operations",
+          "desc": "Rent collection, bill payment, maintenance coordination, and tenant communication."
+        },
+        {
+          "title": "Owner Reporting",
+          "desc": "Monthly income statement, expense breakdown, and condition updates in English or Chinese."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "airbnbManagement": {
+      "title": "Airbnb Management",
+      "subtitle": "Short-term rental operations without day-to-day involvement",
+      "intro": "Earn from short-term rentals in Johor Bahru while living overseas. We handle guests, turnovers, and platform operations across Forest City, R&F, Danga Bay, and JB city units.",
+      "seoTitle": "Airbnb Management Johor Bahru | Short-Term Rental Service",
+      "seoDescription": "Airbnb and short-term rental management for overseas owners in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru.",
+      "seoKeywords": "Airbnb management Johor Bahru, Forest City short-term rental, R&F Airbnb, overseas owner",
+      "whatsappMessage": "Hi, I am interested in Airbnb Management for my Johor Bahru property.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas owners with furnished units suitable for short stays",
+        "Investors seeking higher yields than long-term tenancy in prime JB locations",
+        "Owners already on Airbnb who need local guest and cleaner coordination",
+        "Forest City or R&F owners targeting Singapore weekend travellers"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Listing setup and optimisation (English & Chinese)",
+        "Guest messaging, booking, and check-in coordination",
+        "Cleaner dispatch and turnover quality checks",
+        "Dynamic pricing and occupancy reporting",
+        "Review management and platform compliance checks",
+        "Multi-platform sync where applicable (Airbnb, Booking.com)"
+      ],
+      "pricing": [
+        {
+          "name": "Coordinator",
+          "price": "From 15% of revenue",
+          "desc": "Guest messaging, booking management, cleaner dispatch."
+        },
+        {
+          "name": "Full Service",
+          "price": "From 20% of revenue",
+          "desc": "Listing optimisation, dynamic pricing, turnover, monthly P&L."
+        },
+        {
+          "name": "Premium Host",
+          "price": "From 25% of revenue",
+          "desc": "Multi-platform sync, review management, styling advice."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is short-term rental allowed in my building?",
+          "a": "Rules vary by development. We review strata by-laws for your building before onboarding — we do not guarantee approval."
+        },
+        {
+          "q": "Do I need to furnish the unit?",
+          "a": "Furnished units perform best. We can bundle our Furniture & Appliance Package if needed."
+        },
+        {
+          "q": "Who handles cleaning?",
+          "a": "We manage vetted cleaning partners with photo verification after each checkout."
+        },
+        {
+          "q": "What occupancy should I expect?",
+          "a": "Varies by location and season. CIQ-area and R&F units often perform well on weekends; Forest City peaks on holidays."
+        }
+      ],
+      "ctaTitle": "Start Airbnb Management",
+      "ctaDescription": "Share your property details for a free revenue potential review.",
+      "relatedLinks": [
+        {
+          "label": "Property Management",
+          "slug": "services/property-management"
+        },
+        {
+          "label": "Furniture & Appliance Package",
+          "slug": "services/furniture-appliance-package"
+        },
+        {
+          "label": "Inspection & Key Holding",
+          "slug": "services/inspection-key-holding"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Listing Setup",
+          "desc": "Professional photos, optimised copy in English and Chinese, and platform configuration."
+        },
+        {
+          "title": "Guest Management",
+          "desc": "Enquiries, booking confirmation, check-in instructions, and guest messaging."
+        },
+        {
+          "title": "Turnover Operations",
+          "desc": "Cleaning, linen, restocking, and quality checks between every stay."
+        },
+        {
+          "title": "Performance Review",
+          "desc": "Monthly occupancy report, rate optimisation, and review management."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "furnitureAppliancePackage": {
+      "title": "Furniture & Appliance Package",
+      "subtitle": "Turn-key furnishing for rental-ready units",
+      "intro": "Need your Johor Bahru unit rental-ready without flying in? We source, deliver, and install furniture and appliances locally — with clear package pricing for overseas owners.",
+      "seoTitle": "Furniture Package Johor Bahru | Rental-Ready Furnishing",
+      "seoDescription": "Furniture and appliance packages for overseas owners in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru. Local procurement and installation.",
+      "seoKeywords": "Johor Bahru furniture package, Forest City furnishing, rental-ready unit Malaysia",
+      "whatsappMessage": "Hi, I need a Furniture & Appliance Package for my unit in Johor Bahru.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas buyers receiving vacant or partially fitted units",
+        "Owners preparing for first tenancy or Airbnb launch",
+        "Investors who want one local contact instead of coordinating multiple suppliers",
+        "Remote owners upgrading ageing furniture before re-leasing"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Package design based on unit size and rental target",
+        "Local furniture and appliance sourcing",
+        "Delivery, assembly, and installation coordination",
+        "Basic styling for listing photos",
+        "Inventory list with warranty records",
+        "Optional link to property management or Airbnb onboarding"
+      ],
+      "pricing": [
+        {
+          "name": "Essential Studio",
+          "price": "From RM 8,000",
+          "desc": "Studio/1-bed basics: bed, sofa, dining, AC, washer hookup guidance."
+        },
+        {
+          "name": "Standard 2-Bed",
+          "price": "From RM 15,000",
+          "desc": "Full furnishing for 2-bedroom long-term or short-stay rental."
+        },
+        {
+          "name": "Premium 3-Bed",
+          "price": "From RM 25,000",
+          "desc": "Higher-spec finishes, smart lock option, photo-ready styling."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you furnish Forest City units?",
+          "a": "Yes. We account for delivery access, resort security, and typical unit layouts in Forest City."
+        },
+        {
+          "q": "How long does installation take?",
+          "a": "Typically 5–10 working days after package confirmation, depending on stock and unit access."
+        },
+        {
+          "q": "Do you offer custom packages?",
+          "a": "Yes. Packages are starting references — we quote precisely after reviewing your floor plan and goals."
+        },
+        {
+          "q": "Who owns the furniture?",
+          "a": "All items are purchased on your behalf and belong to you. We provide receipts and inventory documentation."
+        }
+      ],
+      "ctaTitle": "Request a Furnishing Quote",
+      "ctaDescription": "Send your unit type and development. We reply with a package recommendation.",
+      "relatedLinks": [
+        {
+          "label": "Property Management",
+          "slug": "services/property-management"
+        },
+        {
+          "label": "Airbnb Management",
+          "slug": "services/airbnb-management"
+        },
+        {
+          "label": "Inspection & Key Holding",
+          "slug": "services/inspection-key-holding"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Needs Assessment",
+          "desc": "Review unit layout, target tenant profile, and budget for furnishing scope."
+        },
+        {
+          "title": "Package Selection",
+          "desc": "Choose from essential, standard, or premium packages with itemised list."
+        },
+        {
+          "title": "Procurement & Install",
+          "desc": "Local sourcing, delivery coordination, assembly, and quality check."
+        },
+        {
+          "title": "Handover Documentation",
+          "desc": "Photo inventory, warranty records, and rental-readiness confirmation."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "inspectionKeyHolding": {
+      "title": "Inspection & Key Holding",
+      "subtitle": "On-ground eyes and secure access for absentee owners",
+      "intro": "Cannot visit your unit? We inspect, document, and securely hold keys — coordinating access for tenants, contractors, and agents across Johor Bahru's key developments.",
+      "seoTitle": "Property Inspection & Key Holding Johor Bahru",
+      "seoDescription": "Property inspection reports and secure key holding for overseas owners in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru.",
+      "seoKeywords": "Johor Bahru property inspection, key holding Malaysia, Forest City inspection, overseas owner",
+      "whatsappMessage": "Hi, I need Property Inspection and/or Key Holding for my unit in Johor Bahru.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas owners who need periodic condition checks without flying in",
+        "Buyers awaiting handover or resale purchase verification",
+        "Landlords who need secure key custody and authorised access dispatch",
+        "Airbnb hosts requiring local key management for cleaners and guests"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Interior condition inspection with timestamped photo report",
+        "Pre-tenancy, post-renovation, and annual inspection options",
+        "Secure key and access card storage with owner authorisation log",
+        "Access dispatch for viewings, maintenance, and inspections",
+        "Optional repair quotation after inspection findings",
+        "Combined inspection + key onboarding packages"
+      ],
+      "pricing": [
+        {
+          "name": "Basic Inspection",
+          "price": "From RM 180",
+          "desc": "Studio/1-bed walkthrough, 20+ photos, summary report."
+        },
+        {
+          "name": "Standard Inspection",
+          "price": "From RM 280",
+          "desc": "2-bed detailed checklist, 40+ photos, recommendations."
+        },
+        {
+          "name": "Key Holding Add-On",
+          "price": "From RM 50/mo",
+          "desc": "Secure storage, access log, up to 2 dispatches/month."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do I need to be present for inspection?",
+          "a": "No. We coordinate access with security or management using your authorisation."
+        },
+        {
+          "q": "How fast is the report delivered?",
+          "a": "Standard within 48 hours. Priority delivery available on request."
+        },
+        {
+          "q": "Is it safe to mail keys?",
+          "a": "Registered courier to our JB office is recommended. We log receipt the same day."
+        },
+        {
+          "q": "Can inspection and key holding be bundled?",
+          "a": "Yes. Many overseas owners start with an inspection visit that includes key onboarding."
+        }
+      ],
+      "ctaTitle": "Book Inspection or Key Holding",
+      "ctaDescription": "Tell us your development and unit. We confirm schedule within 24 hours.",
+      "relatedLinks": [
+        {
+          "label": "Property Management",
+          "slug": "services/property-management"
+        },
+        {
+          "label": "Airbnb Management",
+          "slug": "services/airbnb-management"
+        },
+        {
+          "label": "Property Sales",
+          "slug": "services/property-sales"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Book Service",
+          "desc": "Confirm development, unit details, access method, and preferred schedule."
+        },
+        {
+          "title": "On-Site Visit",
+          "desc": "Inspector checks condition; keys logged and stored securely if required."
+        },
+        {
+          "title": "Report & Custody",
+          "desc": "Photo report delivered remotely; keys tagged in controlled inventory."
+        },
+        {
+          "title": "Follow-Up Access",
+          "desc": "Authorised key release for tenants, contractors, or further inspections."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "corporateVisitServices": {
+      "title": "Corporate Visit Services",
+      "subtitle": "Bilingual ground support for owner and investor visits",
+      "intro": "Planning a business trip to check on your Malaysian property or explore new investments? We arrange itineraries, escort viewings, and summarise findings — so your visit is productive from day one.",
+      "seoTitle": "Corporate Property Visit Johor Bahru | Investor Escort",
+      "seoDescription": "Corporate and investor visit support in Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay for overseas Chinese owners.",
+      "seoKeywords": "Johor Bahru property visit, Forest City site tour, corporate escort Malaysia",
+      "whatsappMessage": "Hi, I need Corporate Visit support for an upcoming trip to Johor Bahru.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas owners visiting JB for property checks or handover",
+        "Investment groups conducting due diligence on multiple units",
+        "Corporate buyers exploring Forest City or R&F portfolios",
+        "Family members travelling on behalf of elderly owners in China"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Pre-trip briefing and itinerary planning",
+        "Property viewing escort with bilingual support",
+        "Developer office and agent meeting coordination",
+        "Transport and timing logistics",
+        "Post-visit written summary with photos",
+        "Handoff to management or sales services if needed"
+      ],
+      "pricing": [
+        {
+          "name": "Half-Day Escort",
+          "price": "From RM 600",
+          "desc": "Up to 4 hours, 2–3 site visits, local transport guidance."
+        },
+        {
+          "name": "Full-Day Escort",
+          "price": "From RM 1,100",
+          "desc": "Up to 8 hours, multiple developments, meeting coordination."
+        },
+        {
+          "name": "Multi-Day Programme",
+          "price": "From RM 2,800",
+          "desc": "2-day itinerary across JB, Forest City, and R&F — custom quote."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do you only serve Chinese-speaking clients?",
+          "a": "We specialise in overseas Chinese owners but serve all English and Chinese-speaking visitors."
+        },
+        {
+          "q": "Can you arrange airport pickup?",
+          "a": "Yes, as part of a custom itinerary. Transport is quoted separately based on requirements."
+        },
+        {
+          "q": "Will you join meetings with developers?",
+          "a": "Yes. We can escort and translate during developer briefings — we are not legal advisors."
+        },
+        {
+          "q": "Can visits link to MM2H planning?",
+          "a": "Yes. Many clients combine property tours with MM2H Landing Support consultation."
+        }
+      ],
+      "ctaTitle": "Plan Your Visit",
+      "ctaDescription": "Share your travel dates and goals. We propose an itinerary within 48 hours.",
+      "relatedLinks": [
+        {
+          "label": "MM2H Landing Support",
+          "slug": "services/mm2h-landing-support"
+        },
+        {
+          "label": "Property Sales",
+          "slug": "services/property-sales"
+        },
+        {
+          "label": "Golf Travel Services",
+          "slug": "services/golf-travel-services"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Brief & Itinerary",
+          "desc": "Understand visit goals — site tours, supplier meetings, or due diligence."
+        },
+        {
+          "title": "Ground Arrangement",
+          "desc": "Transport, accommodation suggestions, and appointment scheduling."
+        },
+        {
+          "title": "On-Ground Escort",
+          "desc": "Bilingual escort for property viewings, developer offices, and local partners."
+        },
+        {
+          "title": "Visit Summary",
+          "desc": "Written recap with photos, contacts, and recommended next steps."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "golfTravelServices": {
+      "title": "Golf Travel Services",
+      "subtitle": "Combine world-class golf with property visits in Johor",
+      "intro": "Visiting Johor Bahru for golf — especially near Forest City Golf Resort? We plan tee times, local logistics, and optional property check-ins so one trip covers leisure and asset oversight.",
+      "seoTitle": "Golf Travel Johor Bahru | Forest City Golf & Property",
+      "seoDescription": "Golf travel coordination in Johor Bahru and Forest City with optional property inspection for overseas owners.",
+      "seoKeywords": "Forest City golf, Johor Bahru golf travel, golf property visit Malaysia",
+      "whatsappMessage": "Hi, I am interested in Golf Travel Services combined with a property visit in Johor Bahru.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Golf enthusiasts who own or plan to buy property in JB",
+        "Forest City owners combining resort golf with unit inspections",
+        "Corporate groups seeking golf plus investment site tours",
+        "Singapore-based players making weekend JB golf trips"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Golf course and tee time booking assistance",
+        "Transport and on-day coordination",
+        "Optional property inspection or key collection on same trip",
+        "Restaurant and accommodation suggestions",
+        "Expense summary after the trip",
+        "Link to Corporate Visit or Management services"
+      ],
+      "pricing": [
+        {
+          "name": "Golf Day Coordination",
+          "price": "From RM 450",
+          "desc": "Single-day tee time booking and local logistics."
+        },
+        {
+          "name": "Golf + Property Visit",
+          "price": "From RM 850",
+          "desc": "Golf day plus 2-hour property inspection or handover."
+        },
+        {
+          "name": "Weekend Package",
+          "price": "From RM 1,800",
+          "desc": "2-day golf and property programme — custom quote."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Which courses do you cover?",
+          "a": "Forest City Golf Resort, Austin Hills, Pulai Springs, and other JB courses — subject to availability."
+        },
+        {
+          "q": "Can you inspect my unit the same day?",
+          "a": "Yes, when schedule permits. Popular with Forest City owner-golfers."
+        },
+        {
+          "q": "Do you provide golf equipment?",
+          "a": "Rental can be arranged. We confirm options when booking."
+        },
+        {
+          "q": "Is this a guaranteed tee time?",
+          "a": "We assist with booking based on availability. Peak dates may require advance notice."
+        }
+      ],
+      "ctaTitle": "Plan a Golf & Property Trip",
+      "ctaDescription": "Tell us your dates and property location. We propose a combined itinerary.",
+      "relatedLinks": [
+        {
+          "label": "Corporate Visit Services",
+          "slug": "services/corporate-visit-services"
+        },
+        {
+          "label": "Inspection & Key Holding",
+          "slug": "services/inspection-key-holding"
+        },
+        {
+          "label": "Forest City Guide",
+          "slug": "guide/forest-city-golf-resort"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Trip Planning",
+          "desc": "Golf course selection, tee time booking, and travel dates aligned with your stay."
+        },
+        {
+          "title": "Local Logistics",
+          "desc": "Transport, caddie coordination, and equipment rental if needed."
+        },
+        {
+          "title": "Property Link",
+          "desc": "Combine golf trips with property inspections or owner meetings in JB."
+        },
+        {
+          "title": "Post-Trip Report",
+          "desc": "Expense summary and optional property update while you are on course."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "mm2hLandingSupport": {
+      "title": "MM2H Landing Support",
+      "subtitle": "Practical settlement help for Malaysia My Second Home applicants",
+      "intro": "Approved or applying for MM2H and buying property in Johor? We help with practical landing steps — property handover, local coordination, and trusted referrals. We are not immigration agents.",
+      "seoTitle": "MM2H Landing Support Johor Bahru | Settlement Help",
+      "seoDescription": "MM2H landing and settlement support in Johor Bahru for overseas Chinese owners. Property handover, local coordination, trusted referrals.",
+      "seoKeywords": "MM2H Johor Bahru, Malaysia second home support, overseas Chinese MM2H",
+      "whatsappMessage": "Hi, I am interested in MM2H Landing Support in Johor Bahru.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "MM2H applicants purchasing property in JB or Forest City",
+        "New residents needing local handover and utility setup guidance",
+        "Families relocating from China, Hong Kong, or Taiwan",
+        "Owners who want one local contact during first months in Malaysia"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Document checklist orientation (non-legal guidance)",
+        "Property handover and inspection coordination",
+        "Bank account and utility setup introductions",
+        "Temporary accommodation suggestions",
+        "Referrals to licensed immigration consultants and lawyers",
+        "Link to ongoing property management after settlement"
+      ],
+      "pricing": [
+        {
+          "name": "Orientation Call",
+          "price": "From RM 200",
+          "desc": "60-minute briefing on landing steps and local contacts."
+        },
+        {
+          "name": "Landing Day Support",
+          "price": "From RM 800",
+          "desc": "Half-day escort: handover, utility intro, basic errands."
+        },
+        {
+          "name": "Settlement Package",
+          "price": "From RM 2,500",
+          "desc": "Multi-visit support over first 30 days — custom scope."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Are you a licensed MM2H agent?",
+          "a": "No. We provide practical landing support and refer you to licensed immigration professionals for application matters."
+        },
+        {
+          "q": "Can you help with bank account opening?",
+          "a": "We guide you on documents and introduce banking contacts. Approval is at the bank's discretion."
+        },
+        {
+          "q": "Do you support Forest City MM2H buyers?",
+          "a": "Yes. We coordinate handover and local services for Forest City and JB developments."
+        },
+        {
+          "q": "What happens after I settle?",
+          "a": "Most clients transition to Property Management or Inspection services for ongoing asset care."
+        }
+      ],
+      "ctaTitle": "Discuss MM2H Landing Support",
+      "ctaDescription": "Share your timeline and property details. We outline practical next steps.",
+      "relatedLinks": [
+        {
+          "label": "Corporate Visit Services",
+          "slug": "services/corporate-visit-services"
+        },
+        {
+          "label": "Property Management",
+          "slug": "services/property-management"
+        },
+        {
+          "label": "Furniture & Appliance Package",
+          "slug": "services/furniture-appliance-package"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Eligibility Review",
+          "desc": "Initial review of MM2H requirements and document checklist guidance."
+        },
+        {
+          "title": "Local Coordination",
+          "desc": "Bank account prep, utility setup, and temporary accommodation suggestions."
+        },
+        {
+          "title": "Property Handover",
+          "desc": "Key collection, unit inspection, and basic furnishing coordination."
+        },
+        {
+          "title": "Settlement Support",
+          "desc": "Introduce trusted agents for immigration, insurance, and ongoing management."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    },
+    "propertySales": {
+      "title": "Property Sales",
+      "subtitle": "Sell your Johor Bahru unit with cross-border buyer reach",
+      "intro": "Ready to exit your Malaysian investment? We market your unit to local and overseas buyers, coordinate viewings, and support transaction progress — with transparent communication throughout.",
+      "seoTitle": "Sell Property Johor Bahru | Overseas Owner Sales Support",
+      "seoDescription": "Property sales support for owners in Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru. Listing, viewings, and transaction coordination.",
+      "seoKeywords": "sell Forest City unit, Johor Bahru property sale, R&F resale, overseas owner exit",
+      "whatsappMessage": "Hi, I am interested in selling my property in Johor Bahru. Please share how you can help.",
+      "targetCustomersTitle": "Who This Is For",
+      "targetCustomers": [
+        "Overseas owners who want to sell without travelling to JB repeatedly",
+        "Investors exiting Forest City, R&F, or Danga Bay holdings",
+        "Owners who need bilingual marketing to reach Chinese buyers",
+        "Landlords switching from rental to sale with minimal downtime"
+      ],
+      "scopeTitle": "Service Scope",
+      "scope": [
+        "Market analysis and pricing strategy recommendation",
+        "Professional listing and photography coordination",
+        "Buyer enquiry handling and viewing scheduling",
+        "Offer presentation and negotiation support",
+        "Lawyer and SPA progress coordination",
+        "Handover assistance and final meter readings"
+      ],
+      "pricing": [
+        {
+          "name": "Listing Support",
+          "price": "From 2% commission",
+          "desc": "Marketing, viewings, negotiation — standard agency model."
+        },
+        {
+          "name": "Managed Sale",
+          "price": "From 3% commission",
+          "desc": "Full end-to-end including tenant vacation and staging advice."
+        },
+        {
+          "name": "Exclusive Mandate",
+          "price": "Custom",
+          "desc": "Dedicated campaign for premium or portfolio exits — discuss terms."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you sell my unit while it is tenanted?",
+          "a": "Yes, with tenant coordination. Vacant units often show better — we advise case by case."
+        },
+        {
+          "q": "Do you reach buyers in China?",
+          "a": "We market through cross-border channels alongside local listings. Results vary by price and product."
+        },
+        {
+          "q": "How long does a sale typically take?",
+          "a": "Market dependent. Correct pricing and presentation are key — we do not guarantee a timeline."
+        },
+        {
+          "q": "Are you a licensed agency?",
+          "a": "We work within Malaysia's agency framework and coordinate with registered professionals as required."
+        }
+      ],
+      "ctaTitle": "Discuss Selling Your Property",
+      "ctaDescription": "Share your development and unit type for a confidential market conversation.",
+      "relatedLinks": [
+        {
+          "label": "Property Management",
+          "slug": "services/property-management"
+        },
+        {
+          "label": "Inspection & Key Holding",
+          "slug": "services/inspection-key-holding"
+        },
+        {
+          "label": "Corporate Visit Services",
+          "slug": "services/corporate-visit-services"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Market Assessment",
+          "desc": "Comparable sales review, pricing strategy, and unit presentation advice."
+        },
+        {
+          "title": "Listing & Marketing",
+          "desc": "Professional listing across local and cross-border buyer channels."
+        },
+        {
+          "title": "Viewing & Negotiation",
+          "desc": "Buyer screening, viewing coordination, and offer negotiation support."
+        },
+        {
+          "title": "Transaction Support",
+          "desc": "Lawyer coordination, SPA progress updates, and handover assistance."
+        }
+      ],
+      "areas": [
+        {
+          "name": "Forest City",
+          "example": "Strata-compliant management, guest policy coordination, and bilingual owner reporting for seaview and resort units."
+        },
+        {
+          "name": "R&F Princess Cove",
+          "example": "Premium tenant sourcing, CIQ commuter marketing, facility booking, and weekend short-stay coordination."
+        },
+        {
+          "name": "Danga Bay",
+          "example": "Mixed hotel-condo operations, ageing appliance plans, and long-term rental stability for absentee owners."
+        },
+        {
+          "name": "Johor Bahru",
+          "example": "City-centre condos and landed assets — tenant placement, bill pay, and emergency maintenance response."
+        }
+      ]
+    }
+  }
+}

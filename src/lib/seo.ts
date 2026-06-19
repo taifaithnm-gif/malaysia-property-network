@@ -7,6 +7,7 @@ type BuildMetadataOptions = {
   path?: string;
   title?: string;
   description?: string;
+  keywords?: string;
   locale?: string;
 };
 
@@ -15,10 +16,12 @@ export function buildMetadata({
   path = "",
   title,
   description,
+  keywords,
   locale = "en",
 }: BuildMetadataOptions): Metadata {
   const pageTitle = title ?? dict.meta.title;
   const pageDescription = description ?? dict.meta.description;
+  const pageKeywords = keywords ?? dict.meta.keywords;
   const url = `${SITE_URL}/${locale}${path ? `/${path}` : ""}`;
 
   return {
@@ -27,7 +30,7 @@ export function buildMetadata({
       template: `%s | ${SITE_NAME}`,
     },
     description: pageDescription,
-    keywords: dict.meta.keywords,
+    keywords: pageKeywords,
     metadataBase: new URL(SITE_URL),
     alternates: {
       canonical: url,

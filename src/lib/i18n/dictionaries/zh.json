@@ -6,6 +6,7 @@
   },
   "nav": {
     "home": "首页",
+    "services": "服务中心",
     "propertyManagement": "房产管理",
     "johorBahru": "新山",
     "forestCity": "森林城市",
@@ -277,6 +278,139 @@
       ],
       "ctaTitle": "开始 Airbnb 协调服务",
       "ctaDescription": "准备从短租获利？提交房产资料，免费获取 revenue potential 评估。"
+    }
+  },
+  "serviceCatalog": {
+    "common": {
+      "processTitle": "服务流程",
+      "processSubtitle": "从咨询到交付，步骤清晰透明",
+      "targetCustomersTitle": "适合谁",
+      "scopeTitle": "服务内容",
+      "areasTitle": "服务区域",
+      "areasSubtitle": "森林城市、富力公主湾、丹加湾及新山",
+      "pricingTitle": "价格参考",
+      "pricingSubtitle": "面向海外业主的参考报价——评估后确认最终费用",
+      "pricingDisclaimer": "所示价格为马币（MYR）参考示例。实际费用因户型、地点及服务范围而异。请联系我们获取定制报价。",
+      "faqTitle": "常见问题",
+      "relatedServices": "相关服务",
+      "defaultWhatsapp": "您好，我想了解面向新山海外业主的房产服务。"
+    },
+    "hub": {
+      "allServicesTitle": "全部业主服务",
+      "allServicesSubtitle": "八大服务，管理、保护并提升您在马来西亚的资产",
+      "priorityTitle": "海外业主优先服务",
+      "prioritySubtitle": "多数业主首先需要的核心服务",
+      "viewAllServices": "查看全部服务"
+    }
+  },
+  "ownerLanding": {
+    "common": {
+      "learnMore": "了解详情"
+    },
+    "forestCity": {
+      "title": "森林城市房产托管",
+      "subtitle": "专为海外华人业主服务",
+      "intro": "您在森林城市有房产，却常住中国、香港或新加坡？我们的新山本地团队提供中文优先的房产托管——巡检、钥匙保管、出租管理及 Airbnb 协调，熟悉森林城市独特的物业规定。",
+      "seoTitle": "森林城市房产管理 | 海外华人业主托管服务",
+      "seoDescription": "森林城市房产托管，专为海外华人业主打造。提供巡检、钥匙保管、租户管理、Airbnb 协调，新山本地团队 bilingual 中英文服务。",
+      "seoKeywords": "森林城市房产管理, 森林城市托管, Forest City 物业管理, 海外华人 马来西亚房产, 森林城市 海外业主, 新山房产托管, 森林城市 出租管理",
+      "whatsappMessage": "您好，我是森林城市单位的海外华人业主，想了解房产托管服务。",
+      "painTitle": "森林城市海外业主常见难题",
+      "painPoints": [
+        "在中国或香港，无法经常到马来西亚查看房屋状况",
+        "不熟悉森林城市分层地契规定、客人政策及管理处流程",
+        "跨境协调钥匙、保洁及租户安排十分困难",
+        "长期空置担心发霉、损坏及维护不及时",
+        "需要中文与管理处、租户及承包商沟通"
+      ],
+      "servicesTitle": "森林城市全套业主服务",
+      "servicesSubtitle": "四项服务，一个新山本地团队",
+      "services": [
+        { "title": "房产巡检", "desc": "森林城市单位照片及视频状况报告——霉菌检查、阳台排水及分层地契合规记录。", "slug": "property-inspection-service" },
+        { "title": "钥匙托管", "desc": "配合森林城市度假村保安流程，安全保管钥匙，协调租户、客人及承包商进出。", "slug": "key-holding-service" },
+        { "title": "房产管理", "desc": "全套出租、收租、维护及月度业主报告，专为森林城市投资者设计。", "slug": "property-management-service" },
+        { "title": "Airbnb 协调", "desc": "森林城市度假单位短租 setup、客人接待及 turnover 清洁管理。", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "海外华人业主为何选择我们",
+      "trustItems": [
+        "中英文双语团队，中文优先沟通",
+        "新山实地驻场，距森林城市车程短",
+        "熟悉森林城市管理处及保安流程",
+        "透明月度报告，含照片及财务明细",
+        "WhatsApp 支持中国、香港、新加坡时区"
+      ],
+      "ctaTitle": "免费获取森林城市托管方案",
+      "ctaDescription": "请告知您的楼栋、单位号码及现状，24小时内中文或英文回复。"
+    },
+    "rfPrincessCove": {
+      "title": "富力公主湾房产托管",
+      "subtitle": "海外华人业主 premium 管理服务",
+      "intro": "富力公主湾是新山最受华人投资者欢迎的楼盘之一。我们为海外业主提供巡检、钥匙托管、租户管理及 Airbnb 服务，在新山本地守护您的滨水资产。",
+      "seoTitle": "富力公主湾房产管理 | 海外华人业主托管",
+      "seoDescription": "富力公主湾房产托管，服务海外华人业主。巡检、钥匙保管、出租管理、Airbnb 协调，毗邻新加坡关卡，中文优先服务。",
+      "seoKeywords": "富力公主湾房产管理, 富力公主湾托管, R&F Princess Cove 管理, 海外华人 新山房产, 富力公主湾 出租, 关卡 房产托管, 海外业主 富力",
+      "whatsappMessage": "您好，我是富力公主湾单位的海外华人业主，想了解房产托管服务。",
+      "painTitle": "富力公主湾业主常见痛点",
+      "painPoints": [
+        "租赁需求大但竞争激烈，远程管理难以优化租金",
+        "新加坡周末租户及 Airbnb 客人进出关卡，协调复杂",
+        "单位钥匙及门禁卡需要可靠本地保管",
+        " premium 单位需要 premium 维护，不能依赖临时承包商",
+        "需要中文报告及 WhatsApp 直接沟通"
+      ],
+      "servicesTitle": "富力公主湾全套服务",
+      "servicesSubtitle": "保护您的关卡旁滨水投资",
+      "services": [
+        { "title": "房产巡检", "desc": "租前及季度巡检——固定装置、智能门锁及滨水潮湿检查。", "slug": "property-inspection-service" },
+        { "title": "钥匙托管", "desc": "安全保管单位钥匙、停车卡及门禁，按批准派发看房及 turnover。", "slug": "key-holding-service" },
+        { "title": "房产管理", "desc": "租户 sourcing、租约管理、租金汇款及分层费用协调。", "slug": "property-management-service" },
+        { "title": "Airbnb 协调", "desc": "新加坡周末客套餐—— listing、入住指引及当日清洁。", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "富力海外投资者的选择",
+      "trustItems": [
+        "深入了解富力公主湾设施及分层地契细则",
+        "中文优先客户服务",
+        "服务新加坡及中国籍业主的跨境经验",
+        "快速响应关卡区域租户及客人问题",
+        "月度绩效报告含租金回报分析"
+      ],
+      "ctaTitle": "免费富力公主湾业主咨询",
+      "ctaDescription": "提供您的楼栋及单位信息，24小时内提交管理方案。"
+    },
+    "dangaBay": {
+      "title": "丹加湾房产托管",
+      "subtitle": "海外华人业主持久可靠的管理服务",
+      "intro": "丹加湾成熟租赁市场吸引追求稳定回报的华人投资者。我们为无法常驻新山的海外业主提供巡检、钥匙托管、租户安置及短租管理。",
+      "seoTitle": "丹加湾房产管理 | 海外华人业主托管服务",
+      "seoDescription": "丹加湾房产托管，专为海外华人业主。巡检、钥匙保管、租户安置、Airbnb 协调，新山本地团队中文服务。",
+      "seoKeywords": "丹加湾房产管理, 丹加湾托管, Danga Bay 物业管理, 海外华人 丹加湾, 新山 丹加湾 出租, 海外业主 马来西亚",
+      "whatsappMessage": "您好，我是丹加湾单位的海外华人业主，想了解房产托管服务。",
+      "painTitle": "丹加湾海外业主要面对的挑战",
+      "painPoints": [
+        "较旧楼盘需主动维护，远程无人看管问题会恶化",
+        "丹加湾多家管理公司并存，海外业主难以对接",
+        "旅游驱动租赁需求，需要本地 marketing 经验",
+        "海外难以追踪维护费及维修基金",
+        "需要一个中文对接人，而非多家供应商"
+      ],
+      "servicesTitle": "丹加湾全套业主服务",
+      "servicesSubtitle": "成熟滨水单位的长期稳定管理",
+      "services": [
+        { "title": "房产巡检", "desc": "年度及租前巡检——空调、水管及出租就绪检查。", "slug": "property-inspection-service" },
+        { "title": "钥匙托管", "desc": "安全保管及派发，紧急维修可在数小时内进出。", "slug": "key-holding-service" },
+        { "title": "房产管理", "desc": "长期租户安置、收租、代缴账单及汇款至海外账户。", "slug": "property-management-service" },
+        { "title": "Airbnb 协调", "desc": "面向旅游市场的短租管理，家庭友好型 listing 优化。", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "选择我们管理丹加湾",
+      "trustItems": [
+        "多年丹加湾酒店公寓混合生态管理经验",
+        "中英文月度业主报告",
+        "成熟承包商网络处理老旧单位维护",
+        "本地及跨境渠道降低空置率",
+        "单一联系人处理所有业主需求"
+      ],
+      "ctaTitle": "获取丹加湾托管报价",
+      "ctaDescription": "告诉我们您的丹加湾单位情况，24小时内免费评估，中文回复。"
     }
   }
 }

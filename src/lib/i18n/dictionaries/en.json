@@ -6,6 +6,7 @@
   },
   "nav": {
     "home": "Home",
+    "services": "Services",
     "propertyManagement": "Property Management",
     "johorBahru": "Johor Bahru",
     "forestCity": "Forest City",
@@ -277,6 +278,139 @@
       ],
       "ctaTitle": "Start Your Airbnb Coordination",
       "ctaDescription": "Ready to earn from short-term rentals? Share your property details for a free revenue potential assessment."
+    }
+  },
+  "serviceCatalog": {
+    "common": {
+      "processTitle": "Our Service Process",
+      "processSubtitle": "Simple, transparent steps from enquiry to completion",
+      "targetCustomersTitle": "Who This Is For",
+      "scopeTitle": "Service Scope",
+      "areasTitle": "Coverage Areas",
+      "areasSubtitle": "Forest City, R&F Princess Cove, Danga Bay, and Johor Bahru",
+      "pricingTitle": "Pricing Reference",
+      "pricingSubtitle": "Indicative rates for overseas owners — final quote on assessment",
+      "pricingDisclaimer": "Prices shown are reference examples in MYR. Actual fees depend on unit size, location, and service scope. Contact us for a tailored quote.",
+      "faqTitle": "Frequently Asked Questions",
+      "relatedServices": "Related Services",
+      "defaultWhatsapp": "Hi, I am interested in your services for overseas property owners in Johor Bahru."
+    },
+    "hub": {
+      "allServicesTitle": "All Owner Services",
+      "allServicesSubtitle": "Eight services to manage, protect, and grow your Malaysian property",
+      "priorityTitle": "Priority Services for Overseas Owners",
+      "prioritySubtitle": "Start with the services most owners need first",
+      "viewAllServices": "View all services"
+    }
+  },
+  "ownerLanding": {
+    "common": {
+      "learnMore": "Learn More"
+    },
+    "forestCity": {
+      "title": "Forest City Property Management",
+      "subtitle": "Dedicated service for overseas Chinese owners",
+      "intro": "Own a unit in Forest City but live in China, Hong Kong, or Singapore? Our Johor Bahru team provides bilingual property management — inspection, key holding, leasing, and Airbnb coordination tailored to Forest City's unique strata environment.",
+      "seoTitle": "Forest City Property Management | Overseas Chinese Owners",
+      "seoDescription": "Professional Forest City property management for overseas Chinese owners. Inspection, key holding, tenant management, and Airbnb coordination in Johor Bahru.",
+      "seoKeywords": "Forest City property management, 森林城市房产管理, Forest City 托管, overseas Chinese owner Malaysia, 海外业主 Forest City, Johor property management",
+      "whatsappMessage": "Hi, I am an overseas Chinese owner with a Forest City unit. I would like to enquire about property management services.",
+      "painTitle": "Common Challenges for Forest City Overseas Owners",
+      "painPoints": [
+        "Cannot visit your unit regularly from China or Hong Kong to check condition",
+        "Unsure about Forest City strata rules, guest policies, and management office procedures",
+        "Difficulty coordinating keys, cleaners, and tenants across the border",
+        "Worried about vacancy, mould, and maintenance during long absences",
+        "Need bilingual communication with management, tenants, and contractors"
+      ],
+      "servicesTitle": "Complete Forest City Owner Services",
+      "servicesSubtitle": "Four integrated services — one local team in Johor Bahru",
+      "services": [
+        { "title": "Property Inspection", "desc": "Photo and video condition reports for Forest City units — mould checks, balcony drainage, and strata compliance logs.", "slug": "property-inspection-service" },
+        { "title": "Key Holding", "desc": "Secure key custody aligned with Forest City resort security protocols for tenant, guest, and contractor access.", "slug": "key-holding-service" },
+        { "title": "Property Management", "desc": "Full leasing, rent collection, maintenance, and monthly owner reporting for Forest City investors.", "slug": "property-management-service" },
+        { "title": "Airbnb Coordination", "desc": "Short-term rental setup and guest turnover management for Forest City holiday units.", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "Why Overseas Chinese Owners Trust Us",
+      "trustItems": [
+        "Bilingual team — fluent Mandarin and English",
+        "On-ground presence in Johor Bahru, minutes from Forest City",
+        "Experience with Forest City management office and security",
+        "Transparent monthly reports with photos and financial statements",
+        "WhatsApp support across China, Hong Kong, and Singapore time zones"
+      ],
+      "ctaTitle": "Get Your Free Forest City Management Plan",
+      "ctaDescription": "Tell us your tower, unit number, and current situation. We respond within 24 hours in Chinese or English."
+    },
+    "rfPrincessCove": {
+      "title": "R&F Princess Cove Property Management",
+      "subtitle": "Premium management for overseas Chinese owners",
+      "intro": "R&F Princess Cove is one of Johor Bahru's most popular addresses for Chinese investors. We help overseas owners protect their waterfront investment with inspection, key holding, tenant management, and Airbnb services — all managed locally in JB.",
+      "seoTitle": "R&F Princess Cove Property Management | 富力公主湾托管",
+      "seoDescription": "R&F Princess Cove property management for overseas Chinese owners. Inspection, key holding, leasing, and Airbnb near Singapore CIQ.",
+      "seoKeywords": "R&F Princess Cove management, 富力公主湾房产管理, 富力公主湾托管, RF Princess Cove overseas owner, 海外业主 新山, CIQ property management",
+      "whatsappMessage": "Hi, I am an overseas Chinese owner with an R&F Princess Cove unit. I would like to enquire about property management.",
+      "painTitle": "R&F Princess Cove Owner Pain Points",
+      "painPoints": [
+        "High rental demand but competitive market — hard to manage remotely",
+        "Complex access for Singapore-based weekend tenants and Airbnb guests",
+        "Need reliable key and access card management near CIQ",
+        "Premium unit requires premium upkeep — cannot rely on ad-hoc contractors",
+        "Want Chinese-language reporting and direct WhatsApp communication"
+      ],
+      "servicesTitle": "Full R&F Princess Cove Service Suite",
+      "servicesSubtitle": "Protect your CIQ-area investment with our integrated services",
+      "services": [
+        { "title": "Property Inspection", "desc": "Pre-tenancy and quarterly inspections for R&F units — fixtures, smart locks, and waterfront moisture checks.", "slug": "property-inspection-service" },
+        { "title": "Key Holding", "desc": "Unit keys, parking cards, and access fobs stored securely with approved dispatch for viewings and turnovers.", "slug": "key-holding-service" },
+        { "title": "Property Management", "desc": "Tenant sourcing, lease management, rent remittance, and strata fee coordination for R&F owners abroad.", "slug": "property-management-service" },
+        { "title": "Airbnb Coordination", "desc": "Weekend guest packages for Singapore travellers — listing, check-in, and same-day cleaning at R&F.", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "Trusted by R&F Overseas Investors",
+      "trustItems": [
+        "Deep knowledge of R&F Princess Cove facilities and strata bylaws",
+        "Chinese-first client communication — 中文优先服务",
+        "Cross-border expertise for Singapore and China-based owners",
+        "Fast response for CIQ-area tenant and guest issues",
+        "Monthly performance reports with rental yield analysis"
+      ],
+      "ctaTitle": "Free R&F Princess Cove Owner Consultation",
+      "ctaDescription": "Share your block and unit details. We will propose a management plan within 24 hours."
+    },
+    "dangaBay": {
+      "title": "Danga Bay Property Management",
+      "subtitle": "Reliable management for overseas Chinese owners",
+      "intro": "Danga Bay's mature rental market attracts Chinese investors seeking stable yields. Our team manages inspections, keys, tenants, and short-term lets for overseas owners who cannot be on-site in Johor Bahru.",
+      "seoTitle": "Danga Bay Property Management | 丹加湾房产托管",
+      "seoDescription": "Danga Bay property management for overseas Chinese owners. Inspection, key holding, tenant placement, and Airbnb in Johor Bahru.",
+      "seoKeywords": "Danga Bay property management, 丹加湾房产管理, 丹加湾托管, Danga Bay overseas owner, 海外业主 丹加湾, Johor Bahru rental management",
+      "whatsappMessage": "Hi, I am an overseas Chinese owner with a Danga Bay unit. I would like to enquire about property management services.",
+      "painTitle": "Danga Bay Overseas Owner Challenges",
+      "painPoints": [
+        "Older buildings require proactive maintenance — issues escalate if unchecked",
+        "Multiple management companies in Danga Bay — confusing for remote owners",
+        "Tourism-driven rental demand needs local marketing expertise",
+        "Maintenance fee and sinking fund tracking from overseas is difficult",
+        "Need a single bilingual contact instead of juggling multiple vendors"
+      ],
+      "servicesTitle": "Complete Danga Bay Owner Services",
+      "servicesSubtitle": "Stable, long-term management for mature waterfront units",
+      "services": [
+        { "title": "Property Inspection", "desc": "Annual and pre-lease inspections for Danga Bay condos — HVAC, plumbing, and rental-readiness checks.", "slug": "property-inspection-service" },
+        { "title": "Key Holding", "desc": "Secure storage and dispatch for Danga Bay units with emergency contractor access within hours.", "slug": "key-holding-service" },
+        { "title": "Property Management", "desc": "Long-term tenant placement, rent collection, bill payment, and owner remittance for Danga Bay portfolios.", "slug": "property-management-service" },
+        { "title": "Airbnb Coordination", "desc": "Tourism-focused short-term rental management with family-friendly listing optimisation.", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "Why Choose Us for Danga Bay",
+      "trustItems": [
+        "Years of experience in Danga Bay's mixed hotel-condo ecosystem",
+        "Chinese and English owner reporting — 中英文月度报告",
+        "Established contractor network for ageing unit maintenance",
+        "Vacancy marketing across local and cross-border channels",
+        "Single point of contact for all owner needs"
+      ],
+      "ctaTitle": "Get Your Danga Bay Management Quote",
+      "ctaDescription": "Tell us about your Danga Bay unit. Free assessment within 24 hours — reply in 中文 or English."
     }
   }
 }
