@@ -14,7 +14,7 @@ const BASE_URL = process.env.VERIFY_BASE_URL ?? "http://localhost:3000";
 const payload = {
   full_name: "Supabase Integration Test",
   email: `test-${Date.now()}@example.com`,
-  phone: "60123456789",
+  phone: "60137757058",
   property_location: "Forest City",
   message: "Automated verification script",
   locale: "en",

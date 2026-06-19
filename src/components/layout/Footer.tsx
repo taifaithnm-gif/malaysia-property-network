@@ -1,5 +1,12 @@
 import Link from "next/link";
-import { NAV_LINKS, SITE_NAME, WHATSAPP_NUMBER, type Locale } from "@/lib/constants";
+import {
+  CONTACT_EMAIL,
+  NAV_LINKS,
+  SITE_NAME,
+  WHATSAPP_DISPLAY,
+  WHATSAPP_NUMBER,
+  type Locale,
+} from "@/lib/constants";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 
 type FooterProps = {
@@ -72,13 +79,13 @@ export function Footer({ locale, dict }: FooterProps) {
               <li>
                 <span className="text-gray-500">{dict.common.phone}: </span>
                 <a href={`tel:+${WHATSAPP_NUMBER}`} className="hover:text-teal-400">
-                  +{WHATSAPP_NUMBER}
+                  {WHATSAPP_DISPLAY}
                 </a>
               </li>
               <li>
                 <span className="text-gray-500">{dict.common.email}: </span>
-                <a href="mailto:info@malaysiapropertynetwork.com" className="hover:text-teal-400">
-                  info@malaysiapropertynetwork.com
+                <a href={`mailto:${CONTACT_EMAIL}`} className="hover:text-teal-400">
+                  {CONTACT_EMAIL}
                 </a>
               </li>
               <li>

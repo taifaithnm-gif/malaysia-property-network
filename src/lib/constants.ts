@@ -3,7 +3,13 @@ export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://malaysiapropertynetwork.com";
 
 export const WHATSAPP_NUMBER =
-  process.env.NEXT_PUBLIC_WHATSAPP_NUMBER ?? "60123456789";
+  process.env.NEXT_PUBLIC_WHATSAPP_NUMBER ?? "60137757058";
+
+export const WHATSAPP_DISPLAY = "+60 13-775 7058";
+
+export const WHATSAPP_URL = "https://wa.me/60137757058";
+
+export const CONTACT_EMAIL = "wdlyzjs0303@gmail.com";
 
 export const WHATSAPP_MESSAGE = encodeURIComponent(
   "Hi, I'm an overseas property owner interested in your management services.",

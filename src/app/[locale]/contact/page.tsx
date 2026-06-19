@@ -1,7 +1,7 @@
 import { Hero } from "@/components/sections/Hero";
 import { LeadForm } from "@/components/ui/LeadForm";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
-import { WHATSAPP_NUMBER, type Locale } from "@/lib/constants";
+import { CONTACT_EMAIL, WHATSAPP_DISPLAY, WHATSAPP_NUMBER, type Locale } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildMetadata } from "@/lib/seo";
 
@@ -51,15 +51,15 @@ export default async function ContactPage({ params }: PageProps) {
                     <dt className="text-sm text-gray-500">{dict.common.phone}</dt>
                     <dd className="mt-1 font-medium text-navy-900">
                       <a href={`tel:+${WHATSAPP_NUMBER}`} className="hover:text-teal-700">
-                        +{WHATSAPP_NUMBER}
+                        {WHATSAPP_DISPLAY}
                       </a>
                     </dd>
                   </div>
                   <div>
                     <dt className="text-sm text-gray-500">{dict.common.email}</dt>
                     <dd className="mt-1 font-medium text-navy-900">
-                      <a href="mailto:info@malaysiapropertynetwork.com" className="hover:text-teal-700">
-                        info@malaysiapropertynetwork.com
+                      <a href={`mailto:${CONTACT_EMAIL}`} className="hover:text-teal-700">
+                        {CONTACT_EMAIL}
                       </a>
                     </dd>
                   </div>

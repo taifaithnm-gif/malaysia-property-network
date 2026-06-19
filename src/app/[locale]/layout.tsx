@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
-import { LOCALES, SITE_URL, WHATSAPP_NUMBER, type Locale } from "@/lib/constants";
+import { CONTACT_EMAIL, LOCALES, SITE_URL, WHATSAPP_NUMBER, type Locale } from "@/lib/constants";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildMetadata, buildJsonLd } from "@/lib/seo";
 
@@ -37,6 +37,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps) {
     description: dict.meta.description,
     url: SITE_URL,
     telephone: `+${WHATSAPP_NUMBER}`,
+    email: CONTACT_EMAIL,
     address: {
       "@type": "PostalAddress",
       addressLocality: "Johor Bahru",

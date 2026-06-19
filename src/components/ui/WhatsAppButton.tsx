@@ -1,6 +1,6 @@
 "use client";
 
-import { WHATSAPP_MESSAGE, WHATSAPP_NUMBER } from "@/lib/constants";
+import { WHATSAPP_MESSAGE, WHATSAPP_URL } from "@/lib/constants";
 
 type WhatsAppButtonProps = {
   label?: string;
@@ -15,7 +15,7 @@ export function WhatsAppButton({
   className = "",
   floating = false,
 }: WhatsAppButtonProps) {
-  const url = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`;
+  const url = `${WHATSAPP_URL}?text=${message}`;
 
   const baseClasses = floating
     ? "fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform hover:scale-110 hover:bg-[#1da851] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#25D366] focus-visible:ring-offset-2"
