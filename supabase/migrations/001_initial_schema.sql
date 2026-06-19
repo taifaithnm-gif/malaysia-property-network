@@ -1,10 +1,8 @@
 -- Malaysia Property Network — CRM Schema
 -- Run in Supabase SQL Editor or via: supabase db push
 
--- Enable UUID extension
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
--- Updated_at trigger function
 CREATE OR REPLACE FUNCTION update_updated_at_column()
 RETURNS TRIGGER AS $$
 BEGIN
@@ -26,6 +24,7 @@ CREATE TABLE IF NOT EXISTS owners (
   updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 
+DROP TRIGGER IF EXISTS owners_updated_at ON owners;
 CREATE TRIGGER owners_updated_at
   BEFORE UPDATE ON owners
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
@@ -51,6 +50,7 @@ CREATE INDEX IF NOT EXISTS idx_properties_owner_id ON properties(owner_id);
 CREATE INDEX IF NOT EXISTS idx_properties_location ON properties(location);
 CREATE INDEX IF NOT EXISTS idx_properties_status ON properties(status);
 
+DROP TRIGGER IF EXISTS properties_updated_at ON properties;
 CREATE TRIGGER properties_updated_at
   BEFORE UPDATE ON properties
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
@@ -74,6 +74,7 @@ CREATE TABLE IF NOT EXISTS tenants (
 CREATE INDEX IF NOT EXISTS idx_tenants_property_id ON tenants(property_id);
 CREATE INDEX IF NOT EXISTS idx_tenants_status ON tenants(status);
 
+DROP TRIGGER IF EXISTS tenants_updated_at ON tenants;
 CREATE TRIGGER tenants_updated_at
   BEFORE UPDATE ON tenants
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
@@ -96,6 +97,7 @@ CREATE TABLE IF NOT EXISTS leads (
 CREATE INDEX IF NOT EXISTS idx_leads_status ON leads(status);
 CREATE INDEX IF NOT EXISTS idx_leads_created_at ON leads(created_at DESC);
 
+DROP TRIGGER IF EXISTS leads_updated_at ON leads;
 CREATE TRIGGER leads_updated_at
   BEFORE UPDATE ON leads
   FOR EACH ROW EXECUTE FUNCTION update_updated_at_column();
@@ -106,33 +108,40 @@ ALTER TABLE properties ENABLE ROW LEVEL SECURITY;
 ALTER TABLE tenants ENABLE ROW LEVEL SECURITY;
 ALTER TABLE leads ENABLE ROW LEVEL SECURITY;
 
--- Public can insert leads (website form)
+DROP POLICY IF EXISTS "Anyone can submit leads" ON leads;
 CREATE POLICY "Anyone can submit leads"
   ON leads FOR INSERT
   TO anon, authenticated
   WITH CHECK (true);
 
--- Authenticated users (admin) can read all CRM data
+DROP POLICY IF EXISTS "Authenticated users can read owners" ON owners;
 CREATE POLICY "Authenticated users can read owners"
   ON owners FOR SELECT TO authenticated USING (true);
 
+DROP POLICY IF EXISTS "Authenticated users can manage owners" ON owners;
 CREATE POLICY "Authenticated users can manage owners"
   ON owners FOR ALL TO authenticated USING (true) WITH CHECK (true);
 
+DROP POLICY IF EXISTS "Authenticated users can read properties" ON properties;
 CREATE POLICY "Authenticated users can read properties"
   ON properties FOR SELECT TO authenticated USING (true);
 
+DROP POLICY IF EXISTS "Authenticated users can manage properties" ON properties;
 CREATE POLICY "Authenticated users can manage properties"
   ON properties FOR ALL TO authenticated USING (true) WITH CHECK (true);
 
+DROP POLICY IF EXISTS "Authenticated users can read tenants" ON tenants;
 CREATE POLICY "Authenticated users can read tenants"
   ON tenants FOR SELECT TO authenticated USING (true);
 
+DROP POLICY IF EXISTS "Authenticated users can manage tenants" ON tenants;
 CREATE POLICY "Authenticated users can manage tenants"
   ON tenants FOR ALL TO authenticated USING (true) WITH CHECK (true);
 
+DROP POLICY IF EXISTS "Authenticated users can read leads" ON leads;
 CREATE POLICY "Authenticated users can read leads"
   ON leads FOR SELECT TO authenticated USING (true);
 
+DROP POLICY IF EXISTS "Authenticated users can manage leads" ON leads;
 CREATE POLICY "Authenticated users can manage leads"
   ON leads FOR ALL TO authenticated USING (true) WITH CHECK (true);

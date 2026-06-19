@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
-import { createClient } from "@/lib/supabase/server";
+import { isSupabaseConfigured } from "@/lib/supabase/config";
+import { createServiceClient } from "@/lib/supabase/service";
 import type { LeadInsert } from "@/lib/supabase/types";
 
 type LeadPayload = {
@@ -64,16 +65,18 @@ export async function POST(request: Request) {
       status: "new",
     };
 
-    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-    const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+    if (!isSupabaseConfigured()) {
+      if (process.env.NODE_ENV === "development") {
+        console.warn("[leads] Supabase not configured — logging lead locally");
+        console.info("[leads]", lead);
+        return NextResponse.json({ success: true, mode: "logged" });
+      }
 
-    if (!supabaseUrl || !supabaseKey) {
-      console.warn("[leads] Supabase not configured — logging lead locally");
-      console.info("[leads]", lead);
-      return NextResponse.json({ success: true, mode: "logged" });
+      console.error("[leads] Supabase not configured in production");
+      return NextResponse.json({ error: "Lead service unavailable" }, { status: 503 });
     }
 
-    const supabase = await createClient();
+    const supabase = createServiceClient();
     const { error } = await supabase.from("leads").insert([lead]);
 
     if (error) {

@@ -4,6 +4,10 @@ import { LOCALES, SITE_URL } from "@/lib/constants";
 const PAGES = [
   "",
   "property-management",
+  "property-inspection-service",
+  "key-holding-service",
+  "property-management-service",
+  "airbnb-coordination-service",
   "johor-bahru",
   "forest-city",
   "rf-princess-cove",

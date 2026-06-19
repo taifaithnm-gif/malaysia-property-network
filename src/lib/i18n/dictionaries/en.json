@@ -142,5 +142,141 @@
     "quickLinks": "Quick Links",
     "locations": "Locations",
     "contactInfo": "Contact Info"
+  },
+  "services": {
+    "common": {
+      "processTitle": "Our Service Process",
+      "processSubtitle": "Simple, transparent steps from enquiry to completion",
+      "areasTitle": "Johor Bahru & Key Developments",
+      "areasSubtitle": "Local examples from Forest City, R&F Princess Cove, and Danga Bay",
+      "pricingTitle": "Pricing Examples",
+      "pricingSubtitle": "Indicative rates for overseas owners — final quote on inspection",
+      "pricingDisclaimer": "Prices shown are examples in MYR. Actual fees depend on unit size, location, and service scope. Contact us for a tailored quote.",
+      "faqTitle": "Frequently Asked Questions"
+    },
+    "propertyInspection": {
+      "title": "Property Inspection Service",
+      "subtitle": "On-ground condition reports for overseas owners in Johor Bahru",
+      "intro": "Cannot visit your unit in Malaysia? Our local team conducts detailed property inspections in Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay — with photo reports delivered to you within 48 hours.",
+      "steps": [
+        { "title": "Book Inspection", "desc": "Tell us your development, unit number, and preferred date. We confirm access with building management." },
+        { "title": "On-Site Visit", "desc": "Our inspector checks interior, fixtures, moisture, air-conditioning, and common-area issues." },
+        { "title": "Photo Report", "desc": "You receive a timestamped report with photos, condition notes, and recommended actions." },
+        { "title": "Follow-Up Support", "desc": "Optional repair coordination or management handoff if issues are found." }
+      ],
+      "areas": [
+        { "name": "Johor Bahru", "example": "Condo near CIQ — pre-tenancy inspection before first lease, checking water pressure, kitchen appliances, and window seals." },
+        { "name": "Forest City", "example": "Seaview unit inspection after long vacancy — mould check, balcony drainage, and strata compliance photo log for owner records." },
+        { "name": "R&F Princess Cove", "example": "Post-renovation snag list walkthrough — verify contractor work, test smart locks, and document handover condition." },
+        { "name": "Danga Bay", "example": "Annual owner inspection for absentee landlord — HVAC service check, bathroom grouting, and rental-readiness assessment." }
+      ],
+      "pricing": [
+        { "name": "Basic Inspection", "price": "From RM 180", "desc": "Studio or 1-bedroom. Interior walkthrough, 20+ photos, summary report." },
+        { "name": "Standard Inspection", "price": "From RM 280", "desc": "2-bedroom unit. Detailed checklist, 40+ photos, maintenance recommendations." },
+        { "name": "Premium + Video", "price": "From RM 450", "desc": "3-bedroom or larger. Full report, video walkthrough, priority 24-hour delivery." }
+      ],
+      "faq": [
+        { "q": "How often should I inspect my property?", "a": "We recommend at least twice a year for vacant units, and before every new tenancy. Forest City and waterfront units may need more frequent moisture checks." },
+        { "q": "Do I need to be present?", "a": "No. We coordinate access with security, management office, or your appointed representative. You receive the full report remotely." },
+        { "q": "Can you inspect before I buy?", "a": "Yes. Pre-purchase inspections are available across Johor Bahru developments including R&F Princess Cove and Danga Bay resale units." },
+        { "q": "What if repairs are needed?", "a": "We provide a quoted repair list. You can approve works separately or transfer to our property management service." },
+        { "q": "How fast is the report delivered?", "a": "Standard delivery within 48 hours. Premium packages include 24-hour priority reporting." }
+      ],
+      "ctaTitle": "Book a Property Inspection",
+      "ctaDescription": "Protect your investment with a professional condition report. Submit your details and we will confirm your inspection date within 24 hours."
+    },
+    "keyHolding": {
+      "title": "Key Holding Service",
+      "subtitle": "Secure key custody and access coordination in Johor Bahru",
+      "intro": "Overseas owners need reliable key management for tenant move-ins, inspections, and maintenance. We securely store and dispatch keys across Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay.",
+      "steps": [
+        { "title": "Key Handover", "desc": "Mail keys to our JB office, or we collect during an onboarding visit. Each set is tagged and logged." },
+        { "title": "Secure Storage", "desc": "Keys stored in a controlled inventory system with owner authorisation required for every release." },
+        { "title": "Access Dispatch", "desc": "Tenants, contractors, or inspectors receive keys by appointment — you approve each access request." },
+        { "title": "Return & Audit", "desc": "Keys returned after each use. Monthly audit log sent to owners on request." }
+      ],
+      "areas": [
+        { "name": "Johor Bahru", "example": "CIQ-area condo — hold master and mailbox keys; release for tenant viewing slots on weekends only." },
+        { "name": "Forest City", "example": "Resort unit key custody — coordinate with resort security for guest check-in and housekeeping access." },
+        { "name": "R&F Princess Cove", "example": "Dual-key system — store unit and parking access cards; dispatch for Airbnb turnover cleaners." },
+        { "name": "Danga Bay", "example": "Long-term key holding for Singapore owner — emergency plumber access within 2 hours of approval." }
+      ],
+      "pricing": [
+        { "name": "Basic Holding", "price": "From RM 50/mo", "desc": "One key set. Up to 2 access dispatches per month." },
+        { "name": "Standard", "price": "From RM 90/mo", "desc": "Two key sets + access card. Up to 5 dispatches per month, email log." },
+        { "name": "Premium", "price": "From RM 150/mo", "desc": "Unlimited sets. Priority dispatch, WhatsApp alerts, monthly audit report." }
+      ],
+      "faq": [
+        { "q": "Is it safe to mail my keys?", "a": "Yes. We recommend registered courier to our Johor Bahru office. We log receipt the same day and confirm with you via WhatsApp." },
+        { "q": "Can tenants collect keys directly?", "a": "Only with your pre-authorisation. We verify tenant identity and lease status before any handover." },
+        { "q": "What about smart lock access?", "a": "We can store backup physical keys and coordinate digital access codes where your lock system allows temporary codes." },
+        { "q": "Do you serve Forest City?", "a": "Yes. We work with Forest City security protocols and maintain a local dispatch team for the development." },
+        { "q": "Can I cancel anytime?", "a": "Monthly plans cancel with 14 days notice. We arrange secure return of keys by courier or owner collection." }
+      ],
+      "ctaTitle": "Start Key Holding Today",
+      "ctaDescription": "Never worry about access again. Tell us your development and we will send a secure onboarding plan."
+    },
+    "propertyManagementService": {
+      "title": "Property Management Service",
+      "subtitle": "Full-service management for overseas owners in Johor Bahru",
+      "intro": "From tenant placement to rent collection and maintenance — our property management service covers Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay with bilingual owner reporting.",
+      "steps": [
+        { "title": "Onboarding", "desc": "Property assessment, key collection, utility setup, and management agreement signed." },
+        { "title": "Marketing & Leasing", "desc": "Professional listing, tenant screening, lease execution, and deposit handling." },
+        { "title": "Monthly Operations", "desc": "Rent collection, bill payment, maintenance coordination, and tenant communication." },
+        { "title": "Owner Reporting", "desc": "Monthly income statement, expense breakdown, and property condition updates in English or Chinese." }
+      ],
+      "areas": [
+        { "name": "Johor Bahru", "example": "2-bed condo near Mid Valley — tenant placement for Singapore commuters, monthly remittance to Hong Kong owner account." },
+        { "name": "Forest City", "example": "Managed short- and long-term rental — strata compliance, furnishing checks, and seasonal pricing strategy." },
+        { "name": "R&F Princess Cove", "example": "Premium unit management — expat tenant sourcing, facility booking, and quarterly owner video updates." },
+        { "name": "Danga Bay", "example": "Portfolio unit — maintenance fee tracking, ageing appliance replacement plan, and vacancy minimisation." }
+      ],
+      "pricing": [
+        { "name": "Essential", "price": "8% of rent", "desc": "Rent collection, tenant liaison, basic maintenance coordination. Minimum RM 200/month." },
+        { "name": "Complete", "price": "10% of rent", "desc": "Full leasing, inspections, bill pay, monthly reporting. Most popular for overseas owners." },
+        { "name": "Premium", "price": "12% of rent", "desc": "Priority support, quarterly inspections, renovation oversight, dedicated account manager." }
+      ],
+      "faq": [
+        { "q": "How do I receive rent from overseas?", "a": "We collect rent locally and remit to your nominated bank account monthly, with a full statement in your preferred language." },
+        { "q": "What if my unit is vacant?", "a": "We activate marketing immediately. Vacancy management includes pricing review and listing across local channels." },
+        { "q": "Do you manage Forest City units?", "a": "Yes. We understand Forest City strata rules, guest policies, and the unique tenant profile for the development." },
+        { "q": "Can you handle maintenance emergencies?", "a": "Yes. Our JB team responds to urgent issues — plumbing, air-conditioning, lockouts — and seeks approval for costs above your pre-set limit." },
+        { "q": "Is there a minimum contract?", "a": "Standard agreement is 12 months, renewable. Short-term onboarding available for owners transitioning from self-management." }
+      ],
+      "ctaTitle": "Get a Free Management Quote",
+      "ctaDescription": "Tell us about your property and we will provide a tailored management proposal within 24 hours."
+    },
+    "airbnbCoordination": {
+      "title": "Airbnb Coordination Service",
+      "subtitle": "Short-term rental operations for Johor Bahru property owners",
+      "intro": "Maximise returns from short-term rentals without managing guests yourself. We coordinate Airbnb and booking platform operations across Johor Bahru, Forest City, R&F Princess Cove, and Danga Bay.",
+      "steps": [
+        { "title": "Listing Setup", "desc": "Professional photos, optimised listing copy in English and Chinese, and platform account configuration." },
+        { "title": "Guest Management", "desc": "Enquiries, booking confirmation, check-in instructions, and 24/7 guest messaging." },
+        { "title": "Turnover Operations", "desc": "Cleaning, linen, restocking, and quality checks between every guest stay." },
+        { "title": "Performance Review", "desc": "Monthly occupancy report, rate optimisation, and review management to maintain Superhost standards." }
+      ],
+      "areas": [
+        { "name": "Johor Bahru", "example": "City centre studio — weekday business travellers, automated check-in, same-day turnover cleaning." },
+        { "name": "Forest City", "example": "Seaview 2-bed — holiday guest packages, resort facility coordination, weekend premium pricing." },
+        { "name": "R&F Princess Cove", "example": "Waterfront unit targeting Singapore weekend guests — express CIQ access guide and luggage storage SOP." },
+        { "name": "Danga Bay", "example": "Family-friendly listing — extra bed setup, tourism area guidebook, and long-stay discount strategy." }
+      ],
+      "pricing": [
+        { "name": "Coordinator", "price": "15% of revenue", "desc": "Guest messaging, booking management, cleaner dispatch. Owner handles listing ownership." },
+        { "name": "Full Service", "price": "20% of revenue", "desc": "Listing optimisation, dynamic pricing, turnover management, monthly P&L report." },
+        { "name": "Premium Host", "price": "25% of revenue", "desc": "Interior styling advice, review management, multi-platform sync (Airbnb + Booking.com)." }
+      ],
+      "faq": [
+        { "q": "Is short-term rental legal in my building?", "a": "Rules vary by development. We review your strata by-laws for Forest City, R&F, Danga Bay, and JB condos before onboarding." },
+        { "q": "Do I need to furnish the unit?", "a": "Yes for best results. We provide a furnishing checklist tailored to your target guest profile and budget." },
+        { "q": "Who handles cleaning?", "a": "We manage vetted cleaning partners. Turnover is scheduled automatically after each checkout with photo verification." },
+        { "q": "Can you manage from overseas?", "a": "Absolutely. This service is designed for overseas owners — you receive monthly revenue reports without day-to-day involvement." },
+        { "q": "What occupancy can I expect?", "a": "Varies by location and season. R&F and JB CIQ units typically perform strongly on weekends; Forest City peaks on school holidays." }
+      ],
+      "ctaTitle": "Start Your Airbnb Coordination",
+      "ctaDescription": "Ready to earn from short-term rentals? Share your property details for a free revenue potential assessment."
+    }
   }
 }
