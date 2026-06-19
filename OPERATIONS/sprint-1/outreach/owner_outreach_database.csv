@@ -1,0 +1,31 @@
+channel_type,name,url_or_id,language,audience,project_focus,member_count_est,outreach_status,last_action_date,contact_method,notes
+Facebook Group,Forest City Owners & Investors Malaysia,https://www.facebook.com/groups/ (search: Forest City Malaysia owners),EN/ZH,Overseas FC owners,Forest City,5000+,not_contacted,,Join + intro post,Verify group rules before promotional post; offer free inspection tip post
+Facebook Group,Johor Bahru Property Buy Sell Rent,https://www.facebook.com/groups/ (search: JB property buy sell),EN/MY,Local + SG buyers,All JB,10000+,not_contacted,,Listing share,Post 1–2 real listings per week; link to book-viewing
+Facebook Group,R&F Princess Cove 富力公主湾,https://www.facebook.com/groups/ (search: R&F Princess Cove),ZH/EN,Chinese + SG owners,R&F Princess Cove,3000+,not_contacted,,Value post,CIQ traffic / rental tips before sales pitch
+Facebook Group,Iskandar Malaysia Property,https://www.facebook.com/groups/ (search: Iskandar property),EN,Investors,Iskandar,8000+,not_contacted,,Comment help,Answer owner questions; soft CTA to site
+Facebook Group,Danga Bay Condo Owners,https://www.facebook.com/groups/ (search: Danga Bay condo),EN/ZH,Local landlords,Danga Bay,2000+,not_contacted,,Management tip,Share Danga Bay rental market post from sprint content
+Facebook Group,Singapore JB Property Commuters,https://www.facebook.com/groups/ (search: Singapore JB property),EN,SG commuters,R&F / CIQ area,5000+,not_contacted,,R&F rental listing,Target 1-bed CIQ rentals
+Facebook Group,Malaysia MM2H Forum,https://www.facebook.com/groups/ (search: MM2H Malaysia),EN,MM2H applicants,JB projects,15000+,not_contacted,,MM2H landing guide,Link /en/mm2h — not immigration advice
+Facebook Group,Forest City Golf & Leisure,https://www.facebook.com/groups/ (search: Forest City golf),EN/ZH,Golf travellers,Forest City,1000+,not_contacted,,Golf package post,Cross-post FB-19 golf content
+Facebook Group,Johor Airbnb Hosts,https://www.facebook.com/groups/ (search: Johor Airbnb),EN,Short-stay hosts,Danga Bay / R&F,1500+,not_contacted,,By-law checklist,Lead to airbnb coordination service
+Facebook Group,China Malaysia Property Investment,https://www.facebook.com/groups/ (search: 马来西亚 房产),ZH,Chinese investors,All,5000+,not_contacted,,XHS cross-post,Use XHS-01 / XHS-25 adapted
+WeChat Community,Forest City 业主群 (search via owner referral),WeChat group invite — obtain from existing owner contact,ZH,FC Chinese owners,Forest City,200+,not_contacted,,Intro via mutual,No cold spam; ask owner for intro; offer 验房 sample
+WeChat Community,新山富力业主交流,WeChat — search owner networks,ZH,R&F owners,R&F Princess Cove,300+,not_contacted,,WeChat article,Share 公主湾 CIQ 图文; WhatsApp backup
+WeChat Community,马来西亚第二家园 MM2H 交流群,WeChat — MM2H agent referral,ZH,MM2H holders,JB,1000+,not_contacted,,Landing support only,Refer immigration to licensed agent
+WeChat Community,丹加湾房东群,WeChat — local agent referral,ZH,Danga Bay landlords,Danga Bay,150+,not_contacted,,Rental data post,Share 丹加湾租赁 market tips
+WeChat Community,新加坡新山跨境业主,WeChat — SG owner networks,ZH/EN,SG-linked owners,R&F / CIQ,400+,not_contacted,,Weekend rental angle,1-bed CIQ listings
+WeChat Official,Local JB property service account (partner TBD),WeChat OA — partnership pending,ZH,General,All,,not_contacted,,Co-marketing,Identify 1 local OA for cross-post
+Facebook Group,Johor Property Management Tips,Create or join niche group,EN,Landlords,All,,research,,,Consider starting own group Sprint 2
+Facebook Page,Malaysia Property Network,https://www.malaysiapropertynetwork.com,EN/ZH,All,All,,active,,Daily FB posts,Sprint 1 FB-01–30 schedule
+Xiaohongshu,Malaysia Property Network (create account),XHS profile — create if not live,ZH,Chinese buyers,All,,not_contacted,,XHS-01–30,Sprint 1 xiaohongshu-posts.md
+LinkedIn,Johor property owner connections,LinkedIn search: Forest City owner,EN,Professional owners,Forest City,,not_contacted,,DM,Lower priority Sprint 1
+WhatsApp Broadcast,Existing owner inquiry list,Internal CRM export,EN/ZH,Past leads,All,,not_contacted,,Weekly update,Export from /admin/crm when leads exist
+Telegram,JB Property SG,https://t.me/ (search JB property),EN,SG buyers,CIQ / R&F,,not_contacted,,Listing drop,Optional channel
+Forum,Lowyat JB Property thread,https://forum.lowyat.net,EN/MY,MY investors,Danga Bay / JB,,not_contacted,,Helpful reply,No hard sell; signature link only
+Community,Forest City Media Center share,Site: /forest-city/media-center,EN/ZH,All,Forest City,,ready,,Social images,Use 104 public photos in posts
+Partner,Local JB field inspector network,Phone contacts — build list,EN/MY,Ops,All,,not_contacted,,Inspection capacity,For inspection report template fulfillment
+Partner,Licensed MM2H agent referral,Partner TBD — 1 referral agreement,ZH/EN,MM2H,All,,not_contacted,,Referral only,Required for MM2H posts
+Partner,Cleaning / linen vendor (Airbnb),Vendor TBD,EN,Short-stay,FC / R&F,,not_contacted,,Rate card,For PM quotation add-on
+Partner,Contractor — plumbing / AC JB,Vendor TBD,EN/MY,Managed units,All,,not_contacted,,SLA 24h,Emergency repair roster
+Database,Owner submission pipeline,CRM: /admin/crm → owners tab,EN/ZH,Incoming owners,All,,active,,Daily review,Convert list-property form to outreach
+Database,Tenant request pipeline,CRM: /admin/crm → tenants tab,EN/ZH,Incoming tenants,All,,active,,Match to listings,Cross-reference sprint1 seed listings

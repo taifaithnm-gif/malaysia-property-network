@@ -211,6 +211,9 @@ export interface Database {
           notes: string | null;
           locale: string;
           status: string;
+          assigned_agent_id: string | null;
+          owner_outreach_status: string;
+          agent_contact_status: string;
           created_at: string;
           updated_at: string;
         };
@@ -225,6 +228,9 @@ export interface Database {
           notes?: string | null;
           locale?: string;
           status?: string;
+          assigned_agent_id?: string | null;
+          owner_outreach_status?: string;
+          agent_contact_status?: string;
           created_at?: string;
           updated_at?: string;
         };
@@ -239,6 +245,9 @@ export interface Database {
           notes?: string | null;
           locale?: string;
           status?: string;
+          assigned_agent_id?: string | null;
+          owner_outreach_status?: string;
+          agent_contact_status?: string;
           created_at?: string;
           updated_at?: string;
         };
@@ -304,6 +313,8 @@ export interface Database {
           is_featured: boolean;
           status: string;
           locale: string;
+          agent_id: string | null;
+          source_import_id: string | null;
           created_at: string;
           updated_at: string;
         };
@@ -324,6 +335,8 @@ export interface Database {
           is_featured?: boolean;
           status?: string;
           locale?: string;
+          agent_id?: string | null;
+          source_import_id?: string | null;
           created_at?: string;
           updated_at?: string;
         };
@@ -344,6 +357,8 @@ export interface Database {
           is_featured?: boolean;
           status?: string;
           locale?: string;
+          agent_id?: string | null;
+          source_import_id?: string | null;
           created_at?: string;
           updated_at?: string;
         };
@@ -489,6 +504,165 @@ export interface Database {
         };
         Relationships: [];
       };
+      agents: {
+        Row: {
+          id: string;
+          full_name: string;
+          whatsapp: string | null;
+          email: string | null;
+          agency: string | null;
+          commission_rate_pct: number | null;
+          commission_notes: string | null;
+          project_tags: string[];
+          status: string;
+          notes: string | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          full_name: string;
+          whatsapp?: string | null;
+          email?: string | null;
+          agency?: string | null;
+          commission_rate_pct?: number | null;
+          commission_notes?: string | null;
+          project_tags?: string[];
+          status?: string;
+          notes?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          full_name?: string;
+          whatsapp?: string | null;
+          email?: string | null;
+          agency?: string | null;
+          commission_rate_pct?: number | null;
+          commission_notes?: string | null;
+          project_tags?: string[];
+          status?: string;
+          notes?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
+      property_import_queue: {
+        Row: {
+          id: string;
+          source_url: string;
+          source_platform: string;
+          project: string;
+          agent_id: string | null;
+          status: string;
+          title: string | null;
+          notes: string | null;
+          listing_id: string | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          source_url: string;
+          source_platform: string;
+          project: string;
+          agent_id?: string | null;
+          status?: string;
+          title?: string | null;
+          notes?: string | null;
+          listing_id?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          source_url?: string;
+          source_platform?: string;
+          project?: string;
+          agent_id?: string | null;
+          status?: string;
+          title?: string | null;
+          notes?: string | null;
+          listing_id?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
+      outreach_follow_up_logs: {
+        Row: {
+          id: string;
+          owner_submission_id: string;
+          agent_id: string | null;
+          note: string;
+          follow_up_date: string | null;
+          created_at: string;
+        };
+        Insert: {
+          id?: string;
+          owner_submission_id: string;
+          agent_id?: string | null;
+          note: string;
+          follow_up_date?: string | null;
+          created_at?: string;
+        };
+        Update: {
+          id?: string;
+          owner_submission_id?: string;
+          agent_id?: string | null;
+          note?: string;
+          follow_up_date?: string | null;
+          created_at?: string;
+        };
+        Relationships: [];
+      };
+      co_broke_deals: {
+        Row: {
+          id: string;
+          project: string;
+          listing_id: string | null;
+          owner_submission_id: string | null;
+          source_agent_id: string | null;
+          viewing_agent_id: string | null;
+          commission_amount: number | null;
+          commission_pct: number | null;
+          deal_status: string;
+          notes: string | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          id?: string;
+          project: string;
+          listing_id?: string | null;
+          owner_submission_id?: string | null;
+          source_agent_id?: string | null;
+          viewing_agent_id?: string | null;
+          commission_amount?: number | null;
+          commission_pct?: number | null;
+          deal_status?: string;
+          notes?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Update: {
+          id?: string;
+          project?: string;
+          listing_id?: string | null;
+          owner_submission_id?: string | null;
+          source_agent_id?: string | null;
+          viewing_agent_id?: string | null;
+          commission_amount?: number | null;
+          commission_pct?: number | null;
+          deal_status?: string;
+          notes?: string | null;
+          created_at?: string;
+          updated_at?: string;
+        };
+        Relationships: [];
+      };
     };
     Views: {
       [_ in never]: never;
@@ -522,3 +696,11 @@ export type GolfTravelInquiry = Database["public"]["Tables"]["golf_travel_inquir
 export type GolfTravelInquiryInsert = Database["public"]["Tables"]["golf_travel_inquiries"]["Insert"];
 export type CorporateVisitInquiry = Database["public"]["Tables"]["corporate_visit_inquiries"]["Row"];
 export type CorporateVisitInquiryInsert = Database["public"]["Tables"]["corporate_visit_inquiries"]["Insert"];
+export type Agent = Database["public"]["Tables"]["agents"]["Row"];
+export type AgentInsert = Database["public"]["Tables"]["agents"]["Insert"];
+export type PropertyImportQueue = Database["public"]["Tables"]["property_import_queue"]["Row"];
+export type PropertyImportQueueInsert = Database["public"]["Tables"]["property_import_queue"]["Insert"];
+export type OutreachFollowUpLog = Database["public"]["Tables"]["outreach_follow_up_logs"]["Row"];
+export type OutreachFollowUpLogInsert = Database["public"]["Tables"]["outreach_follow_up_logs"]["Insert"];
+export type CoBrokeDeal = Database["public"]["Tables"]["co_broke_deals"]["Row"];
+export type CoBrokeDealInsert = Database["public"]["Tables"]["co_broke_deals"]["Insert"];
