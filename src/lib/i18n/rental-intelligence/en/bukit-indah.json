@@ -1,0 +1,16 @@
+{
+  "projectKey": "bukit-indah",
+  "projectName": "Bukit Indah",
+  "averageRent": "RM 2,725/mo",
+  "averageRentValue": 2725,
+  "rentalYield": "4.8–5.5%",
+  "vacancyEstimate": "Typical void 2–5 weeks",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "Johor families — long-term leases, school zones, AEON and suburban amenities.",
+  "insights": [
+    "Bukit Indah average rent ~RM 2725; demand score 5/5.",
+    "Estimated gross yield 4.8–5.5%; 2–5 weeks.",
+    "Johor families — long-term leases, school zones, AEON and suburban amenities."
+  ]
+}

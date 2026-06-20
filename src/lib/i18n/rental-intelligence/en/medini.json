@@ -1,0 +1,16 @@
+{
+  "projectKey": "medini",
+  "projectName": "Medini",
+  "averageRent": "RM 2,400/mo",
+  "averageRentValue": 2400,
+  "rentalYield": "4.4–5.6%",
+  "vacancyEstimate": "Typical void 3–7 weeks",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantProfile": "Singapore professionals — weekday JB / weekend SG; CIQ and RTS corridor priority.",
+  "insights": [
+    "Medini average rent ~RM 2400; demand score 4/5.",
+    "Estimated gross yield 4.4–5.6%; 3–7 weeks.",
+    "Singapore professionals — weekday JB / weekend SG; CIQ and RTS corridor priority."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "projectKey": "mount-austin",
+  "projectName": "Mount Austin",
+  "averageRent": "RM 3,015/月",
+  "averageRentValue": 3015,
+  "rentalYield": "5.2–6.0%",
+  "vacancyEstimate": "典型空置 2–4 weeks",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "新山本地家庭——长租为主，重视学区、AEON 与郊区生活配套。",
+  "insights": [
+    "奥斯汀山 平均租金约 RM 3015，需求评分 5/5。",
+    "预估租金回报率 5.2–6.0%；2–4 周。",
+    "新山本地家庭——长租为主，重视学区、AEON 与郊区生活配套。"
+  ]
+}

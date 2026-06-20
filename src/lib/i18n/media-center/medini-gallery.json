@@ -1,75 +1,342 @@
 {
   "meta": {
     "project": "Medini",
-    "totalImages": 12
+    "totalImages": 60
   },
   "sections": [
     {
-      "id": "overview",
-      "titleEn": "Medini Overview",
-      "titleZh": "美迪尼 概览",
-      "descEn": "Public gallery for Medini listings and viewings.",
-      "descZh": "美迪尼 房源与看房公开图库。",
+      "id": "iskandar",
+      "titleEn": "Medini — Iskandar",
+      "titleZh": "美迪尼 — 依斯干达",
+      "descEn": "Growth corridor near Singapore.",
+      "descZh": "近新加坡增长走廊。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g0",
-          "altEn": "Medini — photo 1",
-          "altZh": "美迪尼 — 图 1"
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-0",
+          "altEn": "Medini Iskandar — photo 1",
+          "altZh": "美迪尼依斯干达 — 图 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g1",
-          "altEn": "Medini — photo 2",
-          "altZh": "美迪尼 — 图 2"
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-1",
+          "altEn": "Medini Iskandar — photo 2",
+          "altZh": "美迪尼依斯干达 — 图 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g2",
-          "altEn": "Medini — photo 3",
-          "altZh": "美迪尼 — 图 3"
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-2",
+          "altEn": "Medini Iskandar — photo 3",
+          "altZh": "美迪尼依斯干达 — 图 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g3",
-          "altEn": "Medini — photo 4",
-          "altZh": "美迪尼 — 图 4"
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-3",
+          "altEn": "Medini Iskandar — photo 4",
+          "altZh": "美迪尼依斯干达 — 图 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g4",
-          "altEn": "Medini — photo 5",
-          "altZh": "美迪尼 — 图 5"
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-4",
+          "altEn": "Medini Iskandar — photo 5",
+          "altZh": "美迪尼依斯干达 — 图 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g5",
-          "altEn": "Medini — photo 6",
-          "altZh": "美迪尼 — 图 6"
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-5",
+          "altEn": "Medini Iskandar — photo 6",
+          "altZh": "美迪尼依斯干达 — 图 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g6",
-          "altEn": "Medini — photo 7",
-          "altZh": "美迪尼 — 图 7"
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-6",
+          "altEn": "Medini Iskandar — photo 7",
+          "altZh": "美迪尼依斯干达 — 图 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g7",
-          "altEn": "Medini — photo 8",
-          "altZh": "美迪尼 — 图 8"
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-7",
+          "altEn": "Medini Iskandar — photo 8",
+          "altZh": "美迪尼依斯干达 — 图 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g8",
-          "altEn": "Medini — photo 9",
-          "altZh": "美迪尼 — 图 9"
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-8",
+          "altEn": "Medini Iskandar — photo 9",
+          "altZh": "美迪尼依斯干达 — 图 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g9",
-          "altEn": "Medini — photo 10",
-          "altZh": "美迪尼 — 图 10"
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-9",
+          "altEn": "Medini Iskandar — photo 10",
+          "altZh": "美迪尼依斯干达 — 图 10"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g10",
-          "altEn": "Medini — photo 11",
-          "altZh": "美迪尼 — 图 11"
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-10",
+          "altEn": "Medini Iskandar — photo 11",
+          "altZh": "美迪尼依斯干达 — 图 11"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g11",
-          "altEn": "Medini — photo 12",
-          "altZh": "美迪尼 — 图 12"
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-11",
+          "altEn": "Medini Iskandar — photo 12",
+          "altZh": "美迪尼依斯干达 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-12",
+          "altEn": "Medini Iskandar — photo 13",
+          "altZh": "美迪尼依斯干达 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-13",
+          "altEn": "Medini Iskandar — photo 14",
+          "altZh": "美迪尼依斯干达 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-iskandar-14",
+          "altEn": "Medini Iskandar — photo 15",
+          "altZh": "美迪尼依斯干达 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "commuter",
+      "titleEn": "Medini — Commuter",
+      "titleZh": "美迪尼 — 通勤",
+      "descEn": "Singapore weekend and worker demand.",
+      "descZh": "新加坡周末与务工需求。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-0",
+          "altEn": "Medini Commuter — photo 1",
+          "altZh": "美迪尼通勤 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-1",
+          "altEn": "Medini Commuter — photo 2",
+          "altZh": "美迪尼通勤 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-2",
+          "altEn": "Medini Commuter — photo 3",
+          "altZh": "美迪尼通勤 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-3",
+          "altEn": "Medini Commuter — photo 4",
+          "altZh": "美迪尼通勤 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-4",
+          "altEn": "Medini Commuter — photo 5",
+          "altZh": "美迪尼通勤 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-5",
+          "altEn": "Medini Commuter — photo 6",
+          "altZh": "美迪尼通勤 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-6",
+          "altEn": "Medini Commuter — photo 7",
+          "altZh": "美迪尼通勤 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-7",
+          "altEn": "Medini Commuter — photo 8",
+          "altZh": "美迪尼通勤 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-8",
+          "altEn": "Medini Commuter — photo 9",
+          "altZh": "美迪尼通勤 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-9",
+          "altEn": "Medini Commuter — photo 10",
+          "altZh": "美迪尼通勤 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-10",
+          "altEn": "Medini Commuter — photo 11",
+          "altZh": "美迪尼通勤 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-11",
+          "altEn": "Medini Commuter — photo 12",
+          "altZh": "美迪尼通勤 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-12",
+          "altEn": "Medini Commuter — photo 13",
+          "altZh": "美迪尼通勤 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-13",
+          "altEn": "Medini Commuter — photo 14",
+          "altZh": "美迪尼通勤 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-commuter-14",
+          "altEn": "Medini Commuter — photo 15",
+          "altZh": "美迪尼通勤 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "facilities",
+      "titleEn": "Medini — Facilities",
+      "titleZh": "美迪尼 — 配套",
+      "descEn": "Newer condo facilities.",
+      "descZh": "较新公寓配套。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-0",
+          "altEn": "Medini Facilities — photo 1",
+          "altZh": "美迪尼配套 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-1",
+          "altEn": "Medini Facilities — photo 2",
+          "altZh": "美迪尼配套 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-2",
+          "altEn": "Medini Facilities — photo 3",
+          "altZh": "美迪尼配套 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-3",
+          "altEn": "Medini Facilities — photo 4",
+          "altZh": "美迪尼配套 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-4",
+          "altEn": "Medini Facilities — photo 5",
+          "altZh": "美迪尼配套 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-5",
+          "altEn": "Medini Facilities — photo 6",
+          "altZh": "美迪尼配套 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-6",
+          "altEn": "Medini Facilities — photo 7",
+          "altZh": "美迪尼配套 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-7",
+          "altEn": "Medini Facilities — photo 8",
+          "altZh": "美迪尼配套 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-8",
+          "altEn": "Medini Facilities — photo 9",
+          "altZh": "美迪尼配套 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-9",
+          "altEn": "Medini Facilities — photo 10",
+          "altZh": "美迪尼配套 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-10",
+          "altEn": "Medini Facilities — photo 11",
+          "altZh": "美迪尼配套 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-11",
+          "altEn": "Medini Facilities — photo 12",
+          "altZh": "美迪尼配套 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-12",
+          "altEn": "Medini Facilities — photo 13",
+          "altZh": "美迪尼配套 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-13",
+          "altEn": "Medini Facilities — photo 14",
+          "altZh": "美迪尼配套 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-medini-facilities-14",
+          "altEn": "Medini Facilities — photo 15",
+          "altZh": "美迪尼配套 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "units",
+      "titleEn": "Medini — Units",
+      "titleZh": "美迪尼 — 单元",
+      "descEn": "Commuter-friendly layouts.",
+      "descZh": "通勤友好户型。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-0",
+          "altEn": "Medini Units — photo 1",
+          "altZh": "美迪尼单元 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-1",
+          "altEn": "Medini Units — photo 2",
+          "altZh": "美迪尼单元 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-2",
+          "altEn": "Medini Units — photo 3",
+          "altZh": "美迪尼单元 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-3",
+          "altEn": "Medini Units — photo 4",
+          "altZh": "美迪尼单元 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-4",
+          "altEn": "Medini Units — photo 5",
+          "altZh": "美迪尼单元 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-5",
+          "altEn": "Medini Units — photo 6",
+          "altZh": "美迪尼单元 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-6",
+          "altEn": "Medini Units — photo 7",
+          "altZh": "美迪尼单元 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-7",
+          "altEn": "Medini Units — photo 8",
+          "altZh": "美迪尼单元 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-8",
+          "altEn": "Medini Units — photo 9",
+          "altZh": "美迪尼单元 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-9",
+          "altEn": "Medini Units — photo 10",
+          "altZh": "美迪尼单元 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-10",
+          "altEn": "Medini Units — photo 11",
+          "altZh": "美迪尼单元 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-11",
+          "altEn": "Medini Units — photo 12",
+          "altZh": "美迪尼单元 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-12",
+          "altEn": "Medini Units — photo 13",
+          "altZh": "美迪尼单元 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-13",
+          "altEn": "Medini Units — photo 14",
+          "altZh": "美迪尼单元 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-medini-units-14",
+          "altEn": "Medini Units — photo 15",
+          "altZh": "美迪尼单元 — 图 15"
         }
       ]
     }

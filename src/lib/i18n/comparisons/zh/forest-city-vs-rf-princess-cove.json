@@ -1,0 +1,56 @@
+{
+  "key": "forest-city-vs-rf-princess-cove",
+  "slug": "compare/forest-city-vs-rf-princess-cove",
+  "projectA": "forest-city",
+  "projectB": "rf-princess-cove",
+  "projectAName": "森林城市",
+  "projectBName": "富力公主湾",
+  "winner": "rf-princess-cove",
+  "seoTitle": "森林城市 vs 富力公主湾 | 新山物业对比",
+  "seoDescription": "森林城市适合海外业主持有与托管；富力公主湾近关卡，新加坡通勤租赁周转更快。",
+  "title": "森林城市 vs 富力公主湾",
+  "subtitle": "业主托管度假盘 vs 关卡通勤溢价盘",
+  "intro": "森林城市适合海外业主持有与托管；富力公主湾近关卡，新加坡通勤租赁周转更快。",
+  "recommendation": "选森林城市做华人业主托管服务；选富力公主湾做通勤租赁与更高均租。",
+  "dimensions": [
+    {
+      "label": "平均租金",
+      "valueA": "RM 2,440/月",
+      "valueB": "RM 3,195/月",
+      "note": "富力享关卡溢价"
+    },
+    {
+      "label": "租金回报率",
+      "valueA": "3.2–4.1%",
+      "valueB": "4.5–5.8%",
+      "note": "富力毛收益率更高"
+    },
+    {
+      "label": "空置预估",
+      "valueA": "8–14 周",
+      "valueB": "2–4 周",
+      "note": "富力再租更快"
+    },
+    {
+      "label": "目标租客",
+      "valueA": "中国业主",
+      "valueB": "新加坡通勤族",
+      "note": "客群定位不同"
+    },
+    {
+      "label": "需求评分",
+      "valueA": "2/5",
+      "valueB": "5/5",
+      "note": "富力本地流动性领先"
+    }
+  ],
+  "labels": {
+    "dimension": "对比维度",
+    "projectA": "项目 A",
+    "projectB": "项目 B",
+    "note": "说明",
+    "recommendation": "建议",
+    "viewListings": "浏览房源",
+    "viewProject": "查看项目"
+  }
+}

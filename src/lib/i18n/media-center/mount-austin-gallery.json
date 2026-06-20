@@ -1,75 +1,342 @@
 {
   "meta": {
     "project": "Mount Austin",
-    "totalImages": 12
+    "totalImages": 60
   },
   "sections": [
     {
-      "id": "overview",
-      "titleEn": "Mount Austin Overview",
-      "titleZh": "奥斯汀山 概览",
-      "descEn": "Public gallery for Mount Austin listings and viewings.",
-      "descZh": "奥斯汀山 房源与看房公开图库。",
+      "id": "suburban",
+      "titleEn": "Mount Austin — Suburban",
+      "titleZh": "奥斯汀山 — 郊区",
+      "descEn": "High-demand suburban condos.",
+      "descZh": "高需求郊区公寓。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g0",
-          "altEn": "Mount Austin — photo 1",
-          "altZh": "奥斯汀山 — 图 1"
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-0",
+          "altEn": "Mount Austin Suburban — photo 1",
+          "altZh": "奥斯汀山郊区 — 图 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g1",
-          "altEn": "Mount Austin — photo 2",
-          "altZh": "奥斯汀山 — 图 2"
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-1",
+          "altEn": "Mount Austin Suburban — photo 2",
+          "altZh": "奥斯汀山郊区 — 图 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g2",
-          "altEn": "Mount Austin — photo 3",
-          "altZh": "奥斯汀山 — 图 3"
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-2",
+          "altEn": "Mount Austin Suburban — photo 3",
+          "altZh": "奥斯汀山郊区 — 图 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g3",
-          "altEn": "Mount Austin — photo 4",
-          "altZh": "奥斯汀山 — 图 4"
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-3",
+          "altEn": "Mount Austin Suburban — photo 4",
+          "altZh": "奥斯汀山郊区 — 图 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g4",
-          "altEn": "Mount Austin — photo 5",
-          "altZh": "奥斯汀山 — 图 5"
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-4",
+          "altEn": "Mount Austin Suburban — photo 5",
+          "altZh": "奥斯汀山郊区 — 图 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g5",
-          "altEn": "Mount Austin — photo 6",
-          "altZh": "奥斯汀山 — 图 6"
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-5",
+          "altEn": "Mount Austin Suburban — photo 6",
+          "altZh": "奥斯汀山郊区 — 图 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g6",
-          "altEn": "Mount Austin — photo 7",
-          "altZh": "奥斯汀山 — 图 7"
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-6",
+          "altEn": "Mount Austin Suburban — photo 7",
+          "altZh": "奥斯汀山郊区 — 图 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g7",
-          "altEn": "Mount Austin — photo 8",
-          "altZh": "奥斯汀山 — 图 8"
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-7",
+          "altEn": "Mount Austin Suburban — photo 8",
+          "altZh": "奥斯汀山郊区 — 图 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g8",
-          "altEn": "Mount Austin — photo 9",
-          "altZh": "奥斯汀山 — 图 9"
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-8",
+          "altEn": "Mount Austin Suburban — photo 9",
+          "altZh": "奥斯汀山郊区 — 图 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g9",
-          "altEn": "Mount Austin — photo 10",
-          "altZh": "奥斯汀山 — 图 10"
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-9",
+          "altEn": "Mount Austin Suburban — photo 10",
+          "altZh": "奥斯汀山郊区 — 图 10"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g10",
-          "altEn": "Mount Austin — photo 11",
-          "altZh": "奥斯汀山 — 图 11"
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-10",
+          "altEn": "Mount Austin Suburban — photo 11",
+          "altZh": "奥斯汀山郊区 — 图 11"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g11",
-          "altEn": "Mount Austin — photo 12",
-          "altZh": "奥斯汀山 — 图 12"
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-11",
+          "altEn": "Mount Austin Suburban — photo 12",
+          "altZh": "奥斯汀山郊区 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-12",
+          "altEn": "Mount Austin Suburban — photo 13",
+          "altZh": "奥斯汀山郊区 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-13",
+          "altEn": "Mount Austin Suburban — photo 14",
+          "altZh": "奥斯汀山郊区 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-suburban-14",
+          "altEn": "Mount Austin Suburban — photo 15",
+          "altZh": "奥斯汀山郊区 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "commercial",
+      "titleEn": "Mount Austin — Commercial",
+      "titleZh": "奥斯汀山 — 商业",
+      "descEn": "Mount Austin commercial hub.",
+      "descZh": "奥斯汀商业区。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-0",
+          "altEn": "Mount Austin Commercial — photo 1",
+          "altZh": "奥斯汀山商业 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-1",
+          "altEn": "Mount Austin Commercial — photo 2",
+          "altZh": "奥斯汀山商业 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-2",
+          "altEn": "Mount Austin Commercial — photo 3",
+          "altZh": "奥斯汀山商业 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-3",
+          "altEn": "Mount Austin Commercial — photo 4",
+          "altZh": "奥斯汀山商业 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-4",
+          "altEn": "Mount Austin Commercial — photo 5",
+          "altZh": "奥斯汀山商业 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-5",
+          "altEn": "Mount Austin Commercial — photo 6",
+          "altZh": "奥斯汀山商业 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-6",
+          "altEn": "Mount Austin Commercial — photo 7",
+          "altZh": "奥斯汀山商业 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-7",
+          "altEn": "Mount Austin Commercial — photo 8",
+          "altZh": "奥斯汀山商业 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-8",
+          "altEn": "Mount Austin Commercial — photo 9",
+          "altZh": "奥斯汀山商业 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-9",
+          "altEn": "Mount Austin Commercial — photo 10",
+          "altZh": "奥斯汀山商业 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-10",
+          "altEn": "Mount Austin Commercial — photo 11",
+          "altZh": "奥斯汀山商业 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-11",
+          "altEn": "Mount Austin Commercial — photo 12",
+          "altZh": "奥斯汀山商业 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-12",
+          "altEn": "Mount Austin Commercial — photo 13",
+          "altZh": "奥斯汀山商业 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-13",
+          "altEn": "Mount Austin Commercial — photo 14",
+          "altZh": "奥斯汀山商业 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-commercial-14",
+          "altEn": "Mount Austin Commercial — photo 15",
+          "altZh": "奥斯汀山商业 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "facilities",
+      "titleEn": "Mount Austin — Facilities",
+      "titleZh": "奥斯汀山 — 配套",
+      "descEn": "Modern condo amenities.",
+      "descZh": "现代公寓配套。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-0",
+          "altEn": "Mount Austin Facilities — photo 1",
+          "altZh": "奥斯汀山配套 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-1",
+          "altEn": "Mount Austin Facilities — photo 2",
+          "altZh": "奥斯汀山配套 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-2",
+          "altEn": "Mount Austin Facilities — photo 3",
+          "altZh": "奥斯汀山配套 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-3",
+          "altEn": "Mount Austin Facilities — photo 4",
+          "altZh": "奥斯汀山配套 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-4",
+          "altEn": "Mount Austin Facilities — photo 5",
+          "altZh": "奥斯汀山配套 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-5",
+          "altEn": "Mount Austin Facilities — photo 6",
+          "altZh": "奥斯汀山配套 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-6",
+          "altEn": "Mount Austin Facilities — photo 7",
+          "altZh": "奥斯汀山配套 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-7",
+          "altEn": "Mount Austin Facilities — photo 8",
+          "altZh": "奥斯汀山配套 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-8",
+          "altEn": "Mount Austin Facilities — photo 9",
+          "altZh": "奥斯汀山配套 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-9",
+          "altEn": "Mount Austin Facilities — photo 10",
+          "altZh": "奥斯汀山配套 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-10",
+          "altEn": "Mount Austin Facilities — photo 11",
+          "altZh": "奥斯汀山配套 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-11",
+          "altEn": "Mount Austin Facilities — photo 12",
+          "altZh": "奥斯汀山配套 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-12",
+          "altEn": "Mount Austin Facilities — photo 13",
+          "altZh": "奥斯汀山配套 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-13",
+          "altEn": "Mount Austin Facilities — photo 14",
+          "altZh": "奥斯汀山配套 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-facilities-14",
+          "altEn": "Mount Austin Facilities — photo 15",
+          "altZh": "奥斯汀山配套 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "units",
+      "titleEn": "Mount Austin — Units",
+      "titleZh": "奥斯汀山 — 单元",
+      "descEn": "2-bed and 3-bed rental stock.",
+      "descZh": "两房三房租赁库存。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-0",
+          "altEn": "Mount Austin Units — photo 1",
+          "altZh": "奥斯汀山单元 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-1",
+          "altEn": "Mount Austin Units — photo 2",
+          "altZh": "奥斯汀山单元 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-2",
+          "altEn": "Mount Austin Units — photo 3",
+          "altZh": "奥斯汀山单元 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-3",
+          "altEn": "Mount Austin Units — photo 4",
+          "altZh": "奥斯汀山单元 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-4",
+          "altEn": "Mount Austin Units — photo 5",
+          "altZh": "奥斯汀山单元 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-5",
+          "altEn": "Mount Austin Units — photo 6",
+          "altZh": "奥斯汀山单元 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-6",
+          "altEn": "Mount Austin Units — photo 7",
+          "altZh": "奥斯汀山单元 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-7",
+          "altEn": "Mount Austin Units — photo 8",
+          "altZh": "奥斯汀山单元 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-8",
+          "altEn": "Mount Austin Units — photo 9",
+          "altZh": "奥斯汀山单元 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-9",
+          "altEn": "Mount Austin Units — photo 10",
+          "altZh": "奥斯汀山单元 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-10",
+          "altEn": "Mount Austin Units — photo 11",
+          "altZh": "奥斯汀山单元 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-11",
+          "altEn": "Mount Austin Units — photo 12",
+          "altZh": "奥斯汀山单元 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-12",
+          "altEn": "Mount Austin Units — photo 13",
+          "altZh": "奥斯汀山单元 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-13",
+          "altEn": "Mount Austin Units — photo 14",
+          "altZh": "奥斯汀山单元 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-mount-austin-units-14",
+          "altEn": "Mount Austin Units — photo 15",
+          "altZh": "奥斯汀山单元 — 图 15"
         }
       ]
     }

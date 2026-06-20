@@ -8,13 +8,16 @@ import { getTagLabel } from "@/lib/project-marketplace";
 import { Button } from "@/components/ui/Button";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
 
+import type { RentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
+
 type ListingDetailPageProps = {
   locale: Locale;
   dict: Dictionary;
   data: EnrichedListing;
+  rentalIntel: RentalIntelligence;
 };
 
-export function ListingDetailPage({ locale, dict, data }: ListingDetailPageProps) {
+export function ListingDetailPage({ locale, dict, data, rentalIntel }: ListingDetailPageProps) {
   const { listing, enrichment } = data;
   const labels = dict.listingDetail;
 
@@ -129,9 +132,28 @@ export function ListingDetailPage({ locale, dict, data }: ListingDetailPageProps
 
       <section className="border-t border-gray-100 bg-teal-50 py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <h2 className="text-xl font-semibold text-navy-900">{labels.rentalAnalysis}</h2>
+          <h2 className="text-xl font-semibold text-navy-900">{labels.rentalIntelligence}</h2>
+          <dl className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="rounded-lg bg-white p-4 shadow-sm">
+              <dt className="text-xs uppercase text-gray-500">{labels.averageRent}</dt>
+              <dd className="mt-1 text-lg font-semibold text-navy-900">{rentalIntel.averageRent}</dd>
+            </div>
+            <div className="rounded-lg bg-white p-4 shadow-sm">
+              <dt className="text-xs uppercase text-gray-500">{labels.rentalYield}</dt>
+              <dd className="mt-1 text-lg font-semibold text-navy-900">{rentalIntel.rentalYield}</dd>
+            </div>
+            <div className="rounded-lg bg-white p-4 shadow-sm">
+              <dt className="text-xs uppercase text-gray-500">{labels.vacancyEstimate}</dt>
+              <dd className="mt-1 text-lg font-semibold text-navy-900">{rentalIntel.vacancyEstimate}</dd>
+            </div>
+            <div className="rounded-lg bg-white p-4 shadow-sm">
+              <dt className="text-xs uppercase text-gray-500">{labels.targetTenantProfile}</dt>
+              <dd className="mt-1 text-sm font-medium text-navy-900">{rentalIntel.targetTenantProfile}</dd>
+            </div>
+          </dl>
+          <h3 className="mt-8 text-lg font-semibold text-navy-900">{labels.rentalAnalysis}</h3>
           <ul className="mt-4 max-w-3xl space-y-3">
-            {enrichment.rentalAnalysis.map((item) => (
+            {rentalIntel.insights.map((item) => (
               <li key={item} className="rounded-lg bg-white p-4 text-gray-700 shadow-sm">
                 {item}
               </li>

@@ -1,0 +1,16 @@
+{
+  "projectKey": "mount-austin",
+  "projectName": "Mount Austin",
+  "averageRent": "RM 3,015/mo",
+  "averageRentValue": 3015,
+  "rentalYield": "5.2–6.0%",
+  "vacancyEstimate": "Typical void 2–4 weeks",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "Johor families — long-term leases, school zones, AEON and suburban amenities.",
+  "insights": [
+    "Mount Austin average rent ~RM 3015; demand score 5/5.",
+    "Estimated gross yield 5.2–6.0%; 2–4 weeks.",
+    "Johor families — long-term leases, school zones, AEON and suburban amenities."
+  ]
+}

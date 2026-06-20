@@ -1,0 +1,16 @@
+{
+  "projectKey": "rf-princess-cove",
+  "projectName": "R&F Princess Cove",
+  "averageRent": "RM 3,195/月",
+  "averageRentValue": 3195,
+  "rentalYield": "4.5–5.8%",
+  "vacancyEstimate": "典型空置 2–4 weeks",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantProfile": "新加坡通勤族——工作日新山、周末返新；优先关卡与 RTS 走廊。",
+  "insights": [
+    "富力公主湾 平均租金约 RM 3195，需求评分 5/5。",
+    "预估租金回报率 4.5–5.8%；2–4 周。",
+    "新加坡通勤族——工作日新山、周末返新；优先关卡与 RTS 走廊。"
+  ]
+}

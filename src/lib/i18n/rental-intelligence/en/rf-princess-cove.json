@@ -1,0 +1,16 @@
+{
+  "projectKey": "rf-princess-cove",
+  "projectName": "R&F Princess Cove",
+  "averageRent": "RM 3,195/mo",
+  "averageRentValue": 3195,
+  "rentalYield": "4.5–5.8%",
+  "vacancyEstimate": "Typical void 2–4 weeks",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantProfile": "Singapore professionals — weekday JB / weekend SG; CIQ and RTS corridor priority.",
+  "insights": [
+    "R&F Princess Cove average rent ~RM 3195; demand score 5/5.",
+    "Estimated gross yield 4.5–5.8%; 2–4 weeks.",
+    "Singapore professionals — weekday JB / weekend SG; CIQ and RTS corridor priority."
+  ]
+}

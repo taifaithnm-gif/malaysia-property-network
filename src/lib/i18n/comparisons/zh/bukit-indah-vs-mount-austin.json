@@ -1,0 +1,56 @@
+{
+  "key": "bukit-indah-vs-mount-austin",
+  "slug": "compare/bukit-indah-vs-mount-austin",
+  "projectA": "bukit-indah",
+  "projectB": "mount-austin",
+  "projectAName": "武吉英达",
+  "projectBName": "奥斯汀山",
+  "winner": "mount-austin",
+  "seoTitle": "武吉英达 vs 奥斯汀山 | 新山物业对比",
+  "seoDescription": "两者本地家庭需求均为 5/5。武吉英达近 AEON 生活圈；奥斯汀山均租更高、租客池更广。",
+  "title": "武吉英达 vs 奥斯汀山",
+  "subtitle": "家庭城镇稳定 vs 新山租赁热点",
+  "intro": "两者本地家庭需求均为 5/5。武吉英达近 AEON 生活圈；奥斯汀山均租更高、租客池更广。",
+  "recommendation": "武吉英达求稳定空置；奥斯汀山求更高租金与再租速度。",
+  "dimensions": [
+    {
+      "label": "平均租金",
+      "valueA": "RM 2,725/月",
+      "valueB": "RM 3,015/月",
+      "note": "奥斯汀山略高"
+    },
+    {
+      "label": "租金回报率",
+      "valueA": "4.8–5.5%",
+      "valueB": "5.2–6.0%",
+      "note": "奥斯汀山回报略优"
+    },
+    {
+      "label": "空置预估",
+      "valueA": "2–5 周",
+      "valueB": "2–4 周",
+      "note": "两者再租均快"
+    },
+    {
+      "label": "目标租客",
+      "valueA": "本地家庭",
+      "valueB": "本地家庭",
+      "note": "核心客群相同"
+    },
+    {
+      "label": "需求评分",
+      "valueA": "5/5",
+      "valueB": "5/5",
+      "note": "并列新山前列"
+    }
+  ],
+  "labels": {
+    "dimension": "对比维度",
+    "projectA": "项目 A",
+    "projectB": "项目 B",
+    "note": "说明",
+    "recommendation": "建议",
+    "viewListings": "浏览房源",
+    "viewProject": "查看项目"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "projectKey": "forest-city",
+  "projectName": "Forest City",
+  "averageRent": "RM 2,440/mo",
+  "averageRentValue": 2440,
+  "rentalYield": "3.2–4.1%",
+  "vacancyEstimate": "Typical void 8–14 weeks",
+  "rentalDemandScore": 2,
+  "targetTenantKey": "china_owner",
+  "targetTenantProfile": "Overseas Chinese owners — hold, self-use, or owner-management with remote reporting.",
+  "insights": [
+    "Forest City average rent ~RM 2440; demand score 2/5.",
+    "Estimated gross yield 3.2–4.1%; 8–14 weeks.",
+    "Overseas Chinese owners — hold, self-use, or owner-management with remote reporting."
+  ]
+}

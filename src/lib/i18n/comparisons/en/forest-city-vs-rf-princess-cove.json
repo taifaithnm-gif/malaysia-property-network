@@ -1,0 +1,56 @@
+{
+  "key": "forest-city-vs-rf-princess-cove",
+  "slug": "compare/forest-city-vs-rf-princess-cove",
+  "projectA": "forest-city",
+  "projectB": "rf-princess-cove",
+  "projectAName": "Forest City",
+  "projectBName": "R&F Princess Cove",
+  "winner": "rf-princess-cove",
+  "seoTitle": "Forest City vs R&F Princess Cove | Johor Bahru Comparison",
+  "seoDescription": "Forest City suits overseas owner-management and lifestyle holds; R&F Princess Cove dominates Singapore commuter rental velocity near CIQ.",
+  "title": "Forest City vs R&F Princess Cove",
+  "subtitle": "Owner-management resort vs Causeway commuter premium",
+  "intro": "Forest City suits overseas owner-management and lifestyle holds; R&F Princess Cove dominates Singapore commuter rental velocity near CIQ.",
+  "recommendation": "Choose Forest City for China Owner PM revenue; choose R&F for commuter rental speed and higher average rent.",
+  "dimensions": [
+    {
+      "label": "Average rent",
+      "valueA": "RM 2,440/mo",
+      "valueB": "RM 3,195/mo",
+      "note": "R&F commands CIQ premium"
+    },
+    {
+      "label": "Rental yield",
+      "valueA": "3.2–4.1%",
+      "valueB": "4.5–5.8%",
+      "note": "R&F higher gross yield"
+    },
+    {
+      "label": "Vacancy estimate",
+      "valueA": "8–14 weeks",
+      "valueB": "2–4 weeks",
+      "note": "R&F faster re-let"
+    },
+    {
+      "label": "Target tenant",
+      "valueA": "China Owner",
+      "valueB": "Singapore Commuter",
+      "note": "Different buyer personas"
+    },
+    {
+      "label": "Demand score",
+      "valueA": "2/5",
+      "valueB": "5/5",
+      "note": "R&F local liquidity leader"
+    }
+  ],
+  "labels": {
+    "dimension": "Dimension",
+    "projectA": "Project A",
+    "projectB": "Project B",
+    "note": "Note",
+    "recommendation": "Recommendation",
+    "viewListings": "Browse listings",
+    "viewProject": "View project"
+  }
+}

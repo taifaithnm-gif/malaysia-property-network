@@ -1,0 +1,56 @@
+{
+  "key": "eco-botanic-vs-medini",
+  "slug": "compare/eco-botanic-vs-medini",
+  "projectA": "eco-botanic",
+  "projectB": "medini",
+  "projectAName": "Eco Botanic",
+  "projectBName": "Medini",
+  "winner": "eco-botanic",
+  "seoTitle": "Eco Botanic vs Medini | Johor Bahru Comparison",
+  "seoDescription": "Eco Botanic targets family tenants near Educity with higher average rent. Medini serves Singapore commuters and regional workers at lower price points.",
+  "title": "Eco Botanic vs Medini",
+  "subtitle": "Family education cluster vs Iskandar commuter corridor",
+  "intro": "Eco Botanic targets family tenants near Educity with higher average rent. Medini serves Singapore commuters and regional workers at lower price points.",
+  "recommendation": "Eco Botanic for family 3-bed long-term; Medini for commuter 1–2 bed and entry yield.",
+  "dimensions": [
+    {
+      "label": "Average rent",
+      "valueA": "RM 3,115/mo",
+      "valueB": "RM 2,400/mo",
+      "note": "Eco Botanic premium"
+    },
+    {
+      "label": "Rental yield",
+      "valueA": "4.6–5.4%",
+      "valueB": "4.4–5.6%",
+      "note": "Comparable yields"
+    },
+    {
+      "label": "Vacancy estimate",
+      "valueA": "3–6 weeks",
+      "valueB": "3–7 weeks",
+      "note": "Eco slightly tighter"
+    },
+    {
+      "label": "Target tenant",
+      "valueA": "Local Family",
+      "valueB": "Singapore Commuter",
+      "note": "Family vs commuter"
+    },
+    {
+      "label": "Demand score",
+      "valueA": "4/5",
+      "valueB": "4/5",
+      "note": "Both growth corridors"
+    }
+  ],
+  "labels": {
+    "dimension": "Dimension",
+    "projectA": "Project A",
+    "projectB": "Project B",
+    "note": "Note",
+    "recommendation": "Recommendation",
+    "viewListings": "Browse listings",
+    "viewProject": "View project"
+  }
+}

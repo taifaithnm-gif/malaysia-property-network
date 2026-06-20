@@ -1,75 +1,342 @@
 {
   "meta": {
     "project": "Danga Bay",
-    "totalImages": 12
+    "totalImages": 60
   },
   "sections": [
     {
-      "id": "overview",
-      "titleEn": "Danga Bay Overview",
-      "titleZh": "丹加湾 概览",
-      "descEn": "Public gallery for Danga Bay listings and viewings.",
-      "descZh": "丹加湾 房源与看房公开图库。",
+      "id": "waterfront",
+      "titleEn": "Danga Bay — Waterfront",
+      "titleZh": "丹加湾 — 滨海",
+      "descEn": "Mature bayfront condos and promenade.",
+      "descZh": "成熟海湾公寓与步道。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g0",
-          "altEn": "Danga Bay — photo 1",
-          "altZh": "丹加湾 — 图 1"
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-0",
+          "altEn": "Danga Bay Waterfront — photo 1",
+          "altZh": "丹加湾滨海 — 图 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g1",
-          "altEn": "Danga Bay — photo 2",
-          "altZh": "丹加湾 — 图 2"
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-1",
+          "altEn": "Danga Bay Waterfront — photo 2",
+          "altZh": "丹加湾滨海 — 图 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g2",
-          "altEn": "Danga Bay — photo 3",
-          "altZh": "丹加湾 — 图 3"
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-2",
+          "altEn": "Danga Bay Waterfront — photo 3",
+          "altZh": "丹加湾滨海 — 图 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g3",
-          "altEn": "Danga Bay — photo 4",
-          "altZh": "丹加湾 — 图 4"
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-3",
+          "altEn": "Danga Bay Waterfront — photo 4",
+          "altZh": "丹加湾滨海 — 图 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g4",
-          "altEn": "Danga Bay — photo 5",
-          "altZh": "丹加湾 — 图 5"
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-4",
+          "altEn": "Danga Bay Waterfront — photo 5",
+          "altZh": "丹加湾滨海 — 图 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g5",
-          "altEn": "Danga Bay — photo 6",
-          "altZh": "丹加湾 — 图 6"
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-5",
+          "altEn": "Danga Bay Waterfront — photo 6",
+          "altZh": "丹加湾滨海 — 图 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g6",
-          "altEn": "Danga Bay — photo 7",
-          "altZh": "丹加湾 — 图 7"
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-6",
+          "altEn": "Danga Bay Waterfront — photo 7",
+          "altZh": "丹加湾滨海 — 图 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g7",
-          "altEn": "Danga Bay — photo 8",
-          "altZh": "丹加湾 — 图 8"
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-7",
+          "altEn": "Danga Bay Waterfront — photo 8",
+          "altZh": "丹加湾滨海 — 图 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g8",
-          "altEn": "Danga Bay — photo 9",
-          "altZh": "丹加湾 — 图 9"
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-8",
+          "altEn": "Danga Bay Waterfront — photo 9",
+          "altZh": "丹加湾滨海 — 图 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g9",
-          "altEn": "Danga Bay — photo 10",
-          "altZh": "丹加湾 — 图 10"
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-9",
+          "altEn": "Danga Bay Waterfront — photo 10",
+          "altZh": "丹加湾滨海 — 图 10"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g10",
-          "altEn": "Danga Bay — photo 11",
-          "altZh": "丹加湾 — 图 11"
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-10",
+          "altEn": "Danga Bay Waterfront — photo 11",
+          "altZh": "丹加湾滨海 — 图 11"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=danga-bay-g11",
-          "altEn": "Danga Bay — photo 12",
-          "altZh": "丹加湾 — 图 12"
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-11",
+          "altEn": "Danga Bay Waterfront — photo 12",
+          "altZh": "丹加湾滨海 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-12",
+          "altEn": "Danga Bay Waterfront — photo 13",
+          "altZh": "丹加湾滨海 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-13",
+          "altEn": "Danga Bay Waterfront — photo 14",
+          "altZh": "丹加湾滨海 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-waterfront-14",
+          "altEn": "Danga Bay Waterfront — photo 15",
+          "altZh": "丹加湾滨海 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "titleEn": "Danga Bay — Lifestyle",
+      "titleZh": "丹加湾 — 生活",
+      "descEn": "Retail, dining, and entertainment.",
+      "descZh": "零售、餐饮与娱乐。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-0",
+          "altEn": "Danga Bay Lifestyle — photo 1",
+          "altZh": "丹加湾生活 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-1",
+          "altEn": "Danga Bay Lifestyle — photo 2",
+          "altZh": "丹加湾生活 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-2",
+          "altEn": "Danga Bay Lifestyle — photo 3",
+          "altZh": "丹加湾生活 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-3",
+          "altEn": "Danga Bay Lifestyle — photo 4",
+          "altZh": "丹加湾生活 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-4",
+          "altEn": "Danga Bay Lifestyle — photo 5",
+          "altZh": "丹加湾生活 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-5",
+          "altEn": "Danga Bay Lifestyle — photo 6",
+          "altZh": "丹加湾生活 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-6",
+          "altEn": "Danga Bay Lifestyle — photo 7",
+          "altZh": "丹加湾生活 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-7",
+          "altEn": "Danga Bay Lifestyle — photo 8",
+          "altZh": "丹加湾生活 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-8",
+          "altEn": "Danga Bay Lifestyle — photo 9",
+          "altZh": "丹加湾生活 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-9",
+          "altEn": "Danga Bay Lifestyle — photo 10",
+          "altZh": "丹加湾生活 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-10",
+          "altEn": "Danga Bay Lifestyle — photo 11",
+          "altZh": "丹加湾生活 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-11",
+          "altEn": "Danga Bay Lifestyle — photo 12",
+          "altZh": "丹加湾生活 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-12",
+          "altEn": "Danga Bay Lifestyle — photo 13",
+          "altZh": "丹加湾生活 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-13",
+          "altEn": "Danga Bay Lifestyle — photo 14",
+          "altZh": "丹加湾生活 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-lifestyle-14",
+          "altEn": "Danga Bay Lifestyle — photo 15",
+          "altZh": "丹加湾生活 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "facilities",
+      "titleEn": "Danga Bay — Facilities",
+      "titleZh": "丹加湾 — 配套",
+      "descEn": "Common areas and parking.",
+      "descZh": "公共区域与停车。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-0",
+          "altEn": "Danga Bay Facilities — photo 1",
+          "altZh": "丹加湾配套 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-1",
+          "altEn": "Danga Bay Facilities — photo 2",
+          "altZh": "丹加湾配套 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-2",
+          "altEn": "Danga Bay Facilities — photo 3",
+          "altZh": "丹加湾配套 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-3",
+          "altEn": "Danga Bay Facilities — photo 4",
+          "altZh": "丹加湾配套 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-4",
+          "altEn": "Danga Bay Facilities — photo 5",
+          "altZh": "丹加湾配套 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-5",
+          "altEn": "Danga Bay Facilities — photo 6",
+          "altZh": "丹加湾配套 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-6",
+          "altEn": "Danga Bay Facilities — photo 7",
+          "altZh": "丹加湾配套 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-7",
+          "altEn": "Danga Bay Facilities — photo 8",
+          "altZh": "丹加湾配套 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-8",
+          "altEn": "Danga Bay Facilities — photo 9",
+          "altZh": "丹加湾配套 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-9",
+          "altEn": "Danga Bay Facilities — photo 10",
+          "altZh": "丹加湾配套 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-10",
+          "altEn": "Danga Bay Facilities — photo 11",
+          "altZh": "丹加湾配套 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-11",
+          "altEn": "Danga Bay Facilities — photo 12",
+          "altZh": "丹加湾配套 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-12",
+          "altEn": "Danga Bay Facilities — photo 13",
+          "altZh": "丹加湾配套 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-13",
+          "altEn": "Danga Bay Facilities — photo 14",
+          "altZh": "丹加湾配套 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-facilities-14",
+          "altEn": "Danga Bay Facilities — photo 15",
+          "altZh": "丹加湾配套 — 图 15"
+        }
+      ]
+    },
+    {
+      "id": "units",
+      "titleEn": "Danga Bay — Units",
+      "titleZh": "丹加湾 — 单元",
+      "descEn": "Family and investor-ready layouts.",
+      "descZh": "家庭与投资型户型。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-0",
+          "altEn": "Danga Bay Units — photo 1",
+          "altZh": "丹加湾单元 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-1",
+          "altEn": "Danga Bay Units — photo 2",
+          "altZh": "丹加湾单元 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-2",
+          "altEn": "Danga Bay Units — photo 3",
+          "altZh": "丹加湾单元 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-3",
+          "altEn": "Danga Bay Units — photo 4",
+          "altZh": "丹加湾单元 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-4",
+          "altEn": "Danga Bay Units — photo 5",
+          "altZh": "丹加湾单元 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-5",
+          "altEn": "Danga Bay Units — photo 6",
+          "altZh": "丹加湾单元 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-6",
+          "altEn": "Danga Bay Units — photo 7",
+          "altZh": "丹加湾单元 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-7",
+          "altEn": "Danga Bay Units — photo 8",
+          "altZh": "丹加湾单元 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-8",
+          "altEn": "Danga Bay Units — photo 9",
+          "altZh": "丹加湾单元 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-9",
+          "altEn": "Danga Bay Units — photo 10",
+          "altZh": "丹加湾单元 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-10",
+          "altEn": "Danga Bay Units — photo 11",
+          "altZh": "丹加湾单元 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-11",
+          "altEn": "Danga Bay Units — photo 12",
+          "altZh": "丹加湾单元 — 图 12"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-12",
+          "altEn": "Danga Bay Units — photo 13",
+          "altZh": "丹加湾单元 — 图 13"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-13",
+          "altEn": "Danga Bay Units — photo 14",
+          "altZh": "丹加湾单元 — 图 14"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-danga-bay-units-14",
+          "altEn": "Danga Bay Units — photo 15",
+          "altZh": "丹加湾单元 — 图 15"
         }
       ]
     }

@@ -1,0 +1,56 @@
+{
+  "key": "bukit-indah-vs-mount-austin",
+  "slug": "compare/bukit-indah-vs-mount-austin",
+  "projectA": "bukit-indah",
+  "projectB": "mount-austin",
+  "projectAName": "Bukit Indah",
+  "projectBName": "Mount Austin",
+  "winner": "mount-austin",
+  "seoTitle": "Bukit Indah vs Mount Austin | Johor Bahru Comparison",
+  "seoDescription": "Both score 5/5 for local family demand. Bukit Indah offers AEON-linked lifestyle; Mount Austin leads on rent levels and tenant pool breadth.",
+  "title": "Bukit Indah vs Mount Austin",
+  "subtitle": "Family township stability vs JB rental hotspot",
+  "intro": "Both score 5/5 for local family demand. Bukit Indah offers AEON-linked lifestyle; Mount Austin leads on rent levels and tenant pool breadth.",
+  "recommendation": "Bukit Indah for stable family void periods; Mount Austin for maximum rental rate and re-let speed.",
+  "dimensions": [
+    {
+      "label": "Average rent",
+      "valueA": "RM 2,725/mo",
+      "valueB": "RM 3,015/mo",
+      "note": "Mount Austin slightly higher"
+    },
+    {
+      "label": "Rental yield",
+      "valueA": "4.8–5.5%",
+      "valueB": "5.2–6.0%",
+      "note": "Mount Austin yield edge"
+    },
+    {
+      "label": "Vacancy estimate",
+      "valueA": "2–5 weeks",
+      "valueB": "2–4 weeks",
+      "note": "Both fast re-let"
+    },
+    {
+      "label": "Target tenant",
+      "valueA": "Local Family",
+      "valueB": "Local Family",
+      "note": "Same core tenant"
+    },
+    {
+      "label": "Demand score",
+      "valueA": "5/5",
+      "valueB": "5/5",
+      "note": "Tied — top JB districts"
+    }
+  ],
+  "labels": {
+    "dimension": "Dimension",
+    "projectA": "Project A",
+    "projectB": "Project B",
+    "note": "Note",
+    "recommendation": "Recommendation",
+    "viewListings": "Browse listings",
+    "viewProject": "View project"
+  }
+}

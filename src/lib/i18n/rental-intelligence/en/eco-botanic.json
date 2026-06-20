@@ -1,0 +1,16 @@
+{
+  "projectKey": "eco-botanic",
+  "projectName": "Eco Botanic",
+  "averageRent": "RM 3,115/mo",
+  "averageRentValue": 3115,
+  "rentalYield": "4.6–5.4%",
+  "vacancyEstimate": "Typical void 3–6 weeks",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "Johor families — long-term leases, school zones, AEON and suburban amenities.",
+  "insights": [
+    "Eco Botanic average rent ~RM 3115; demand score 4/5.",
+    "Estimated gross yield 4.6–5.4%; 3–6 weeks.",
+    "Johor families — long-term leases, school zones, AEON and suburban amenities."
+  ]
+}

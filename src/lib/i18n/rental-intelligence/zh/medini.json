@@ -1,0 +1,16 @@
+{
+  "projectKey": "medini",
+  "projectName": "Medini",
+  "averageRent": "RM 2,400/月",
+  "averageRentValue": 2400,
+  "rentalYield": "4.4–5.6%",
+  "vacancyEstimate": "典型空置 3–7 weeks",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantProfile": "新加坡通勤族——工作日新山、周末返新；优先关卡与 RTS 走廊。",
+  "insights": [
+    "美迪尼 平均租金约 RM 2400，需求评分 4/5。",
+    "预估租金回报率 4.4–5.6%；3–7 周。",
+    "新加坡通勤族——工作日新山、周末返新；优先关卡与 RTS 走廊。"
+  ]
+}

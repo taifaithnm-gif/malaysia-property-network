@@ -1,0 +1,16 @@
+{
+  "projectKey": "forest-city",
+  "projectName": "Forest City",
+  "averageRent": "RM 2,440/月",
+  "averageRentValue": 2440,
+  "rentalYield": "3.2–4.1%",
+  "vacancyEstimate": "典型空置 8–14 weeks",
+  "rentalDemandScore": 2,
+  "targetTenantKey": "china_owner",
+  "targetTenantProfile": "海外华人业主——持有、自用或远程托管，需中文沟通与定期巡检报告。",
+  "insights": [
+    "森林城市 平均租金约 RM 2440，需求评分 2/5。",
+    "预估租金回报率 3.2–4.1%；8–14 周。",
+    "海外华人业主——持有、自用或远程托管，需中文沟通与定期巡检报告。"
+  ]
+}

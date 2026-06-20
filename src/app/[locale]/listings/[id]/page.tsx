@@ -2,7 +2,8 @@ import { notFound } from "next/navigation";
 import type { Locale } from "@/lib/constants";
 import { ListingDetailPage } from "@/components/listings/ListingDetailPage";
 import { getPublishedListingById } from "@/lib/listings";
-import { getListingEnrichment } from "@/lib/i18n/get-listing-enrichment";
+import { getListingEnrichment, projectNameToKey } from "@/lib/i18n/get-listing-enrichment";
+import { getRentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildMetadata } from "@/lib/seo";
 
@@ -29,6 +30,8 @@ export default async function ListingDetailRoute({ params }: PageProps) {
   if (!listing) notFound();
 
   const enrichment = await getListingEnrichment(locale, listing.project);
+  const projectKey = projectNameToKey(listing.project) ?? "forest-city";
+  const rentalIntel = await getRentalIntelligence(locale, projectKey);
   const dict = await getDictionary(locale);
 
   return (
@@ -36,6 +39,7 @@ export default async function ListingDetailRoute({ params }: PageProps) {
       locale={locale}
       dict={dict}
       data={{ listing, enrichment }}
+      rentalIntel={rentalIntel}
     />
   );
 }

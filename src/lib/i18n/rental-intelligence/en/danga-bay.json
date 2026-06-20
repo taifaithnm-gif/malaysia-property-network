@@ -1,0 +1,16 @@
+{
+  "projectKey": "danga-bay",
+  "projectName": "Danga Bay",
+  "averageRent": "RM 2,100/mo",
+  "averageRentValue": 2100,
+  "rentalYield": "5.0–6.2%",
+  "vacancyEstimate": "Typical void 4–8 weeks",
+  "rentalDemandScore": 3,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "Johor families — long-term leases, school zones, AEON and suburban amenities.",
+  "insights": [
+    "Danga Bay average rent ~RM 2100; demand score 3/5.",
+    "Estimated gross yield 5.0–6.2%; 4–8 weeks.",
+    "Johor families — long-term leases, school zones, AEON and suburban amenities."
+  ]
+}

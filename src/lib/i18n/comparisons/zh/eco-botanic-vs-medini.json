@@ -1,0 +1,56 @@
+{
+  "key": "eco-botanic-vs-medini",
+  "slug": "compare/eco-botanic-vs-medini",
+  "projectA": "eco-botanic",
+  "projectB": "medini",
+  "projectAName": "生态植物园",
+  "projectBName": "美迪尼",
+  "winner": "eco-botanic",
+  "seoTitle": "生态植物园 vs 美迪尼 | 新山物业对比",
+  "seoDescription": "生态植物园面向教育城家庭租客，均租更高；美迪尼服务新加坡通勤族，价位更入门。",
+  "title": "生态植物园 vs 美迪尼",
+  "subtitle": "家庭教育集群 vs 依斯干达通勤走廊",
+  "intro": "生态植物园面向教育城家庭租客，均租更高；美迪尼服务新加坡通勤族，价位更入门。",
+  "recommendation": "生态植物园做家庭三房长租；美迪尼做通勤一至两房与入门收益。",
+  "dimensions": [
+    {
+      "label": "平均租金",
+      "valueA": "RM 3,115/月",
+      "valueB": "RM 2,400/月",
+      "note": "生态植物园溢价"
+    },
+    {
+      "label": "租金回报率",
+      "valueA": "4.6–5.4%",
+      "valueB": "4.4–5.6%",
+      "note": "回报率接近"
+    },
+    {
+      "label": "空置预估",
+      "valueA": "3–6 周",
+      "valueB": "3–7 周",
+      "note": "生态略紧"
+    },
+    {
+      "label": "目标租客",
+      "valueA": "本地家庭",
+      "valueB": "新加坡通勤族",
+      "note": "家庭 vs 通勤"
+    },
+    {
+      "label": "需求评分",
+      "valueA": "4/5",
+      "valueB": "4/5",
+      "note": "均属增长走廊"
+    }
+  ],
+  "labels": {
+    "dimension": "对比维度",
+    "projectA": "项目 A",
+    "projectB": "项目 B",
+    "note": "说明",
+    "recommendation": "建议",
+    "viewListings": "浏览房源",
+    "viewProject": "查看项目"
+  }
+}

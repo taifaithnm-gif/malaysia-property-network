@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Locale } from "@/lib/constants";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { getPublishedListings } from "@/lib/listings";
+import { COMPARISON_ROUTES, COMPARISON_KEYS, getComparisonPage } from "@/lib/i18n/get-comparison";
+import { getRentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
 import { POPULAR_PROJECTS, getProjectDisplayName, getTagLabel } from "@/lib/project-marketplace";
 import { ListingGrid } from "@/components/listings/ListingCard";
 import { SectionHeading, Button } from "@/components/ui/Button";
@@ -15,10 +17,14 @@ export async function PropertyMarketplace({ locale, dict }: PropertyMarketplaceP
   const labels = dict.marketplace;
   const browse = dict.listingBrowse;
 
-  const [featuredRentals, latestListings] = await Promise.all([
+  const [featuredRentals, latestListings, rentalIntel, comparisons] = await Promise.all([
     getPublishedListings(locale, { listingType: "rent", featured: true, limit: 6 }),
     getPublishedListings(locale, { limit: 6 }),
+    Promise.all(POPULAR_PROJECTS.map((p) => getRentalIntelligence(locale, p.key))),
+    Promise.all(COMPARISON_KEYS.map((k) => getComparisonPage(locale, k))),
   ]);
+
+  const intelByKey = Object.fromEntries(rentalIntel.map((r) => [r.projectKey, r]));
 
   const featuredFallback =
     featuredRentals.length > 0
@@ -71,56 +77,87 @@ export async function PropertyMarketplace({ locale, dict }: PropertyMarketplaceP
         <div className="mb-14">
           <h3 className="mb-4 text-lg font-semibold text-navy-900">{labels.popularProjects}</h3>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            {POPULAR_PROJECTS.slice(0, 7).map((project) => (
-              <Link
-                key={project.key}
-                href={`/${locale}/${project.slug}`}
-                className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md"
-              >
-                <h4 className="font-semibold text-navy-900">
-                  {getProjectDisplayName(project.key, locale)}
-                </h4>
-                <p className="mt-1 text-sm text-gray-500">{getTagLabel(project.tag, locale)}</p>
-                <p className="mt-3 text-sm font-medium text-teal-700">
-                  {labels.demandScore}: {project.rentalDemandScore}/5
-                </p>
-              </Link>
-            ))}
+            {POPULAR_PROJECTS.map((project) => {
+              const intel = intelByKey[project.key];
+              return (
+                <Link
+                  key={project.key}
+                  href={`/${locale}/${project.slug}`}
+                  className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md"
+                >
+                  <h4 className="font-semibold text-navy-900">
+                    {getProjectDisplayName(project.key, locale)}
+                  </h4>
+                  <p className="mt-1 text-sm text-gray-500">{getTagLabel(project.tag, locale)}</p>
+                  {intel && (
+                    <p className="mt-2 text-sm text-gray-600">
+                      {labels.averageRent}: {intel.averageRent}
+                    </p>
+                  )}
+                  <p className="mt-1 text-sm font-medium text-teal-700">
+                    {labels.demandScore}: {project.rentalDemandScore}/5
+                  </p>
+                </Link>
+              );
+            })}
           </div>
         </div>
 
-        <div className="mb-10">
+        <div className="mb-14">
           <h3 className="mb-4 text-lg font-semibold text-navy-900">{labels.rentalDemandRankings}</h3>
-          <div className="overflow-hidden rounded-xl border border-gray-200 bg-white">
-            <table className="w-full text-left text-sm">
+          <div className="overflow-x-auto rounded-xl border border-gray-200 bg-white">
+            <table className="w-full min-w-[640px] text-left text-sm">
               <thead className="bg-gray-50 text-xs uppercase text-gray-500">
                 <tr>
                   <th className="px-4 py-3">{labels.rank}</th>
                   <th className="px-4 py-3">{labels.project}</th>
-                  <th className="px-4 py-3">{labels.tag}</th>
+                  <th className="px-4 py-3">{labels.averageRent}</th>
+                  <th className="px-4 py-3">{labels.rentalYield}</th>
+                  <th className="px-4 py-3">{labels.vacancyEstimate}</th>
                   <th className="px-4 py-3">{labels.demandScore}</th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-100">
-                {rankings.map((project, index) => (
-                  <tr key={project.key} className="hover:bg-gray-50">
-                    <td className="px-4 py-3 font-medium text-navy-900">{index + 1}</td>
-                    <td className="px-4 py-3">
-                      <Link
-                        href={`/${locale}/${project.slug}`}
-                        className="font-medium text-teal-700 hover:underline"
-                      >
-                        {getProjectDisplayName(project.key, locale)}
-                      </Link>
-                    </td>
-                    <td className="px-4 py-3 text-gray-600">{getTagLabel(project.tag, locale)}</td>
-                    <td className="px-4 py-3 font-semibold text-navy-900">
-                      {project.rentalDemandScore}/5
-                    </td>
-                  </tr>
-                ))}
+                {rankings.map((project, index) => {
+                  const intel = intelByKey[project.key];
+                  return (
+                    <tr key={project.key} className="hover:bg-gray-50">
+                      <td className="px-4 py-3 font-medium text-navy-900">{index + 1}</td>
+                      <td className="px-4 py-3">
+                        <Link
+                          href={`/${locale}/${project.slug}`}
+                          className="font-medium text-teal-700 hover:underline"
+                        >
+                          {getProjectDisplayName(project.key, locale)}
+                        </Link>
+                      </td>
+                      <td className="px-4 py-3 text-gray-700">{intel?.averageRent ?? "—"}</td>
+                      <td className="px-4 py-3 text-gray-700">{intel?.rentalYield ?? "—"}</td>
+                      <td className="px-4 py-3 text-gray-700">{intel?.vacancyEstimate ?? "—"}</td>
+                      <td className="px-4 py-3 font-semibold text-navy-900">
+                        {project.rentalDemandScore}/5
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
+          </div>
+        </div>
+
+        <div className="mb-10">
+          <h3 className="mb-4 text-lg font-semibold text-navy-900">{labels.projectComparisons}</h3>
+          <div className="grid gap-4 sm:grid-cols-3">
+            {comparisons.map((c) => (
+              <Link
+                key={c.key}
+                href={`/${locale}/${COMPARISON_ROUTES[c.key]}`}
+                className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm hover:shadow-md"
+              >
+                <h4 className="font-semibold text-navy-900">{c.title}</h4>
+                <p className="mt-2 text-sm text-gray-600">{c.subtitle}</p>
+              </Link>
+            ))}
           </div>
         </div>
 

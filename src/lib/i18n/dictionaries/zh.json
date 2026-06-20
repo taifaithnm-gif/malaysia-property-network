@@ -285,6 +285,10 @@
     "tag": "标签",
     "viewAll": "查看全部",
     "browseAll": "浏览全部房源",
+    "averageRent": "均租",
+    "rentalYield": "回报率",
+    "vacancyEstimate": "空置",
+    "projectComparisons": "项目对比",
     "emptyFeatured": "精选租赁即将上线",
     "emptyFeaturedDesc": "可浏览全部房源或提交求购登记。",
     "emptyLatest": "暂无房源",
@@ -333,7 +337,29 @@
     "tag": "标签",
     "targetTenant": "目标租客",
     "rent": "租赁",
-    "sale": "出售"
+    "sale": "出售",
+    "rentalIntelligence": "租赁数据",
+    "averageRent": "平均租金",
+    "rentalYield": "租金回报率",
+    "vacancyEstimate": "空置预估"
+  },
+  "marketplaceTrust": {
+    "title": "值得信赖的新山房产市场",
+    "subtitle": "真实库存、项目租赁数据与业主服务，覆盖 7 大区域",
+    "totalListings": "已发布房源",
+    "projectsCovered": "覆盖项目",
+    "ownerServices": "业主服务",
+    "viewingRequests": "看楼预约",
+    "browseListings": "浏览 300+ 房源",
+    "viewComparisons": "项目对比",
+    "trustItems": [
+      "300 条租赁房源，覆盖森林城市、富力公主湾、丹加湾及依斯干达",
+      "460+ 张项目图库，用于尽调与看楼准备",
+      "租赁数据——各项目均租、回报率与空置预估",
+      "中英双语，服务海外业主与新加坡通勤族",
+      "物业管理、巡检与钥匙托管服务",
+      "看楼预约关联已发布房源"
+    ]
   },
   "footer": {
     "tagline": "马来西亚房产管理与租赁服务 — 专为海外业主打造",
