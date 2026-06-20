@@ -40,3 +40,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# field operations — raw media (log filenames in tracking/*.csv)
+OPERATIONS/field-operations-sprint/assets/photos/**
+OPERATIONS/field-operations-sprint/assets/videos/**
+!OPERATIONS/field-operations-sprint/assets/README.md
