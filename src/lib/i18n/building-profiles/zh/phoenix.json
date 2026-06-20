@@ -1,0 +1,36 @@
+{
+  "key": "phoenix",
+  "parentProject": "forest-city",
+  "parentName": "森林城市",
+  "name": "凤凰塔",
+  "slug": "forest-city/phoenix",
+  "seoTitle": "凤凰塔 | 楼栋情报",
+  "seoDescription": "凤凰塔租赁区间、户型结构与已验真房源 — 森林城市",
+  "intro": "凤凰塔是森林城市核心楼栋之一。本页提供租赁数据、户型结构与已验真房源索引。",
+  "rentalRange": "RM 1,800 – 3,200 / mo",
+  "yieldEstimate": "3.5 – 4.2%",
+  "targetTenant": "中国业主 / 季节性租赁",
+  "unitMix": [
+    "单间",
+    "一房",
+    "两房",
+    "三房海景"
+  ],
+  "highlights": [
+    "森林城市标志塔楼",
+    "海景库存",
+    "度假物业环境",
+    "托管需求旺盛"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "targetTenant": "主力租户",
+    "unitMix": "户型结构",
+    "highlights": "楼栋亮点",
+    "verifiedListings": "已验真房源",
+    "parentProject": "所属项目",
+    "viewVerified": "查看已验真房源"
+  }
+}

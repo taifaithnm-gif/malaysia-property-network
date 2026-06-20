@@ -118,6 +118,18 @@ export function ListingFilters({ locale, dict, projects }: ListingFiltersProps) 
           ))}
         </select>
       </label>
+      <label className="block text-sm sm:col-span-2 lg:col-span-3">
+        <span className="mb-1 block font-medium text-navy-900">{labels.filterVerified}</span>
+        <label className="inline-flex cursor-pointer items-center gap-2 rounded-lg border border-gray-200 bg-gray-50 px-4 py-2">
+          <input
+            type="checkbox"
+            checked={searchParams.get("verified") === "1" || searchParams.get("verified") === "true"}
+            onChange={(e) => update("verified", e.target.checked ? "1" : "")}
+            className="h-4 w-4 rounded border-gray-300 text-teal-700"
+          />
+          <span className="text-sm text-navy-900">{labels.verifiedOnly}</span>
+        </label>
+      </label>
     </form>
   );
 }

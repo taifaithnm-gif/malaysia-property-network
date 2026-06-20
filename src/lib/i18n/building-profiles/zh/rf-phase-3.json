@@ -1,0 +1,33 @@
+{
+  "key": "rf-phase-3",
+  "parentProject": "rf-princess-cove",
+  "parentName": "富力公主湾",
+  "name": "富力公主湾三期",
+  "slug": "rf-princess-cove/phase-3",
+  "seoTitle": "富力公主湾三期 | 楼栋情报",
+  "seoDescription": "富力公主湾三期租赁区间、户型结构与已验真房源 — 富力公主湾",
+  "intro": "富力公主湾三期是富力公主湾核心楼栋之一。本页提供租赁数据、户型结构与已验真房源索引。",
+  "rentalRange": "RM 3,000 – 4,500 / mo",
+  "yieldEstimate": "4.5 – 5.2%",
+  "targetTenant": "新加坡专业人士",
+  "unitMix": [
+    "一房关卡景",
+    "两房天际线"
+  ],
+  "highlights": [
+    "最新富力期数",
+    "天际线景观",
+    "周末入住率高"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "targetTenant": "主力租户",
+    "unitMix": "户型结构",
+    "highlights": "楼栋亮点",
+    "verifiedListings": "已验真房源",
+    "parentProject": "所属项目",
+    "viewVerified": "查看已验真房源"
+  }
+}

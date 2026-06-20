@@ -1,0 +1,71 @@
+{
+  "updated": "2026-06-20",
+  "storageBase": "/assets/verified/",
+  "projects": [
+    {
+      "key": "forest-city",
+      "name": "Forest City",
+      "buildings": [
+        "phoenix",
+        "cerulean-bay",
+        "starview-bay",
+        "golf-suites"
+      ],
+      "targetPhotos": 120,
+      "shotsPerListing": 5,
+      "categories": [
+        "exterior",
+        "lobby",
+        "living",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "balcony",
+        "view"
+      ],
+      "listings": 12
+    },
+    {
+      "key": "rf-princess-cove",
+      "name": "R&F Princess Cove",
+      "buildings": [
+        "rf-phase-1",
+        "rf-phase-2",
+        "rf-phase-3"
+      ],
+      "targetPhotos": 90,
+      "shotsPerListing": 5,
+      "categories": [
+        "exterior",
+        "lobby",
+        "living",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "balcony",
+        "view"
+      ],
+      "listings": 9
+    },
+    {
+      "key": "country-garden-danga-bay",
+      "name": "Country Garden Danga Bay",
+      "buildings": [
+        "country-garden-danga-bay"
+      ],
+      "targetPhotos": 60,
+      "shotsPerListing": 5,
+      "categories": [
+        "exterior",
+        "lobby",
+        "living",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "balcony",
+        "view"
+      ],
+      "listings": 9
+    }
+  ]
+}

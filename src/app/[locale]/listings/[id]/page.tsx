@@ -6,13 +6,44 @@ import { getListingEnrichment, projectNameToKey } from "@/lib/i18n/get-listing-e
 import { getRentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildMetadata } from "@/lib/seo";
+import {
+  applyVerifiedToListing,
+  getVerifiedCollection,
+  getVerifiedMetaByKey,
+  getVerifiedMetaForListing,
+  verifiedItemToPropertyListing,
+} from "@/lib/verified-listings";
 
 type PageProps = { params: Promise<{ locale: string; id: string }> };
 
+async function resolveListing(locale: Locale, id: string) {
+  const supabaseListing = await getPublishedListingById(locale, id);
+  if (supabaseListing) {
+    const meta = getVerifiedMetaForListing(supabaseListing);
+    return {
+      listing: applyVerifiedToListing(supabaseListing, meta),
+      verified: meta,
+    };
+  }
+
+  const meta = getVerifiedMetaByKey(id);
+  if (!meta) return null;
+
+  const collection = await getVerifiedCollection(locale);
+  const item = collection.listings.find((l) => l.listing_key === id);
+  if (!item) return null;
+
+  return {
+    listing: verifiedItemToPropertyListing(item, locale),
+    verified: meta,
+  };
+}
+
 export async function generateMetadata({ params }: PageProps) {
   const { locale, id } = await params;
-  const listing = await getPublishedListingById(locale as Locale, id);
-  if (!listing) return {};
+  const resolved = await resolveListing(locale as Locale, id);
+  if (!resolved) return {};
+  const { listing } = resolved;
   const dict = await getDictionary(locale as Locale);
   return buildMetadata({
     dict,
@@ -26,9 +57,10 @@ export async function generateMetadata({ params }: PageProps) {
 export default async function ListingDetailRoute({ params }: PageProps) {
   const { locale: localeParam, id } = await params;
   const locale = localeParam as Locale;
-  const listing = await getPublishedListingById(locale, id);
-  if (!listing) notFound();
+  const resolved = await resolveListing(locale, id);
+  if (!resolved) notFound();
 
+  const { listing, verified } = resolved;
   const enrichment = await getListingEnrichment(locale, listing.project);
   const projectKey = projectNameToKey(listing.project) ?? "forest-city";
   const rentalIntel = await getRentalIntelligence(locale, projectKey);
@@ -38,7 +70,7 @@ export default async function ListingDetailRoute({ params }: PageProps) {
     <ListingDetailPage
       locale={locale}
       dict={dict}
-      data={{ listing, enrichment }}
+      data={{ listing, enrichment, verified }}
       rentalIntel={rentalIntel}
     />
   );

@@ -23,6 +23,7 @@ export async function ListingBrowsePage({ locale, dict, searchParams }: ListingB
   const min = param(searchParams.min);
   const max = param(searchParams.max);
   const type = param(searchParams.type) as "rent" | "sale" | undefined;
+  const verifiedOnly = param(searchParams.verified) === "1" || param(searchParams.verified) === "true";
 
   const enriched = await getEnrichedListings(locale, {
     project: param(searchParams.project),
@@ -31,12 +32,17 @@ export async function ListingBrowsePage({ locale, dict, searchParams }: ListingB
     maxPrice: max ? Number(max) : undefined,
     tag: param(searchParams.tag),
     tenantType: param(searchParams.tenant),
-    limit: 60,
+    building: param(searchParams.building),
+    verified: verifiedOnly || undefined,
+    limit: verifiedOnly ? 30 : 60,
   });
 
   const listings = enriched.map((e) => e.listing);
   const tagById = Object.fromEntries(
     enriched.map((e) => [e.listing.id, getTagLabel(e.enrichment.tag, locale)]),
+  );
+  const verifiedById = Object.fromEntries(
+    enriched.filter((e) => e.verified).map((e) => [e.listing.id, true]),
   );
 
   return (
@@ -65,6 +71,8 @@ export async function ListingBrowsePage({ locale, dict, searchParams }: ListingB
             bookViewingLabel={dict.listings.bookViewingCta}
             viewDetailsLabel={labels.viewDetails}
             tagByListingId={tagById}
+            verifiedByListingId={verifiedById}
+            verifiedLabel={dict.verifiedListing.badge}
           />
         </div>
       </section>

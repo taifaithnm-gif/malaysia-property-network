@@ -7,6 +7,12 @@ import {
   LISTING_PROJECTS,
   type ListingTag,
 } from "@/lib/i18n/get-listing-enrichment";
+import {
+  applyVerifiedToListing,
+  getVerifiedMetaForListing,
+  getVerifiedPropertyListings,
+  type VerifiedListingMeta,
+} from "@/lib/verified-listings";
 
 export type ListingFilter = {
   listingType?: "rent" | "sale";
@@ -16,12 +22,15 @@ export type ListingFilter = {
   maxPrice?: number;
   tag?: ListingTag | string;
   tenantType?: string;
+  verified?: boolean;
+  building?: string;
   limit?: number;
 };
 
 export type EnrichedListing = {
   listing: PropertyListing;
   enrichment: Awaited<ReturnType<typeof getListingEnrichment>>;
+  verified?: VerifiedListingMeta;
 };
 
 export async function getPublishedListings(
@@ -103,19 +112,59 @@ export async function getEnrichedListings(
   locale: Locale,
   filter: ListingFilter = {},
 ): Promise<EnrichedListing[]> {
+  if (filter.verified) {
+    let verified = await getVerifiedPropertyListings(locale);
+    if (filter.project) {
+      verified = verified.filter((l) => l.project === filter.project);
+    }
+    if (filter.listingType) {
+      verified = verified.filter((l) => l.listing_type === filter.listingType);
+    }
+    if (filter.minPrice != null) {
+      verified = verified.filter((l) => (l.price ?? 0) >= filter.minPrice!);
+    }
+    if (filter.maxPrice != null) {
+      verified = verified.filter((l) => (l.price ?? 0) <= filter.maxPrice!);
+    }
+    if (filter.building) {
+      verified = verified.filter((l) => {
+        const meta = getVerifiedMetaForListing(l);
+        return meta?.building === filter.building;
+      });
+    }
+    const limit = filter.limit ?? verified.length;
+    verified = verified.slice(0, limit);
+
+    return Promise.all(
+      verified.map(async (listing) => {
+        const meta = getVerifiedMetaForListing(listing)!;
+        return {
+          listing: applyVerifiedToListing(listing, meta),
+          enrichment: await getListingEnrichment(locale, listing.project),
+          verified: meta,
+        };
+      }),
+    );
+  }
+
   const fetchLimit = filter.tag || filter.tenantType ? 200 : (filter.limit ?? 100);
   const listings = await getPublishedListings(locale, { ...filter, limit: fetchLimit });
 
   const enriched = await Promise.all(
-    listings.map(async (listing) => ({
-      listing,
-      enrichment: await getListingEnrichment(locale, listing.project),
-    })),
+    listings.map(async (listing) => {
+      const meta = getVerifiedMetaForListing(listing);
+      return {
+        listing: applyVerifiedToListing(listing, meta),
+        enrichment: await getListingEnrichment(locale, listing.project),
+        verified: meta,
+      };
+    }),
   );
 
-  return enriched.filter(({ enrichment }) => {
+  return enriched.filter(({ enrichment, verified }) => {
     if (filter.tag && enrichment.tag !== filter.tag) return false;
     if (filter.tenantType && enrichment.targetTenantKey !== filter.tenantType) return false;
+    if (filter.building && verified?.building !== filter.building) return false;
     return true;
   });
 }

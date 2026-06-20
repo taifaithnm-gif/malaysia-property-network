@@ -428,7 +428,33 @@
     "allTags": "All tags",
     "allTenants": "All tenant types",
     "rent": "Rent",
-    "sale": "Sale"
+    "sale": "Sale",
+    "filterVerified": "Verification",
+    "verifiedOnly": "Verified listings only"
+  },
+  "verifiedListing": {
+    "badge": "Verified",
+    "onsiteChecked": "On-site checked",
+    "verifiedDate": "Verified date",
+    "realPhotos": "Field Photos",
+    "realPhotosNote": "Photos captured during on-site verification. Upload final assets to /assets/verified/ paths.",
+    "collectionTitle": "Verified Property Collection",
+    "collectionCount": "on-site verified listings",
+    "buildingSubtitle": "Listings checked by our Johor field team",
+    "allBuildings": "All buildings",
+    "buildingFilters": [
+      { "key": "phoenix", "label": "Phoenix Tower" },
+      { "key": "cerulean-bay", "label": "Cerulean Bay" },
+      { "key": "starview-bay", "label": "Starview Bay" },
+      { "key": "golf-suites", "label": "Golf Suites" },
+      { "key": "rf-phase-1", "label": "R&F Phase 1" },
+      { "key": "rf-phase-2", "label": "R&F Phase 2" },
+      { "key": "rf-phase-3", "label": "R&F Phase 3" },
+      { "key": "country-garden-danga-bay", "label": "Country Garden Danga Bay" }
+    ],
+    "homepageTitle": "Verified Listings",
+    "homepageSubtitle": "30 on-site checked properties — not portal reposts",
+    "viewCollection": "View verified collection"
   },
   "listingDetail": {
     "propertyFacts": "Property Facts",

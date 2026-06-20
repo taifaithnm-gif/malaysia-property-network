@@ -1,0 +1,34 @@
+{
+  "key": "cerulean-bay",
+  "parentProject": "forest-city",
+  "parentName": "森林城市",
+  "name": "蔚蓝湾",
+  "slug": "forest-city/cerulean-bay",
+  "seoTitle": "蔚蓝湾 | 楼栋情报",
+  "seoDescription": "蔚蓝湾租赁区间、户型结构与已验真房源 — 森林城市",
+  "intro": "蔚蓝湾是森林城市核心楼栋之一。本页提供租赁数据、户型结构与已验真房源索引。",
+  "rentalRange": "RM 2,000 – 3,500 / mo",
+  "yieldEstimate": "3.4 – 4.0%",
+  "targetTenant": "家庭 / 业主自住",
+  "unitMix": [
+    "一房滨海",
+    "两房",
+    "三房家庭"
+  ],
+  "highlights": [
+    "滨海片区",
+    "阳台海景户型",
+    "混合装修库存"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "targetTenant": "主力租户",
+    "unitMix": "户型结构",
+    "highlights": "楼栋亮点",
+    "verifiedListings": "已验真房源",
+    "parentProject": "所属项目",
+    "viewVerified": "查看已验真房源"
+  }
+}

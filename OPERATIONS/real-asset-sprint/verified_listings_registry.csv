@@ -1,0 +1,31 @@
+listing_key,match_title,project,building,verified_listing,onsite_checked,verified_date,price,bedrooms,bathrooms,size_sqft,hero_photo
+ver-fc-phoenix-01,Phoenix Tower 1-Bedroom — Forest City,Forest City,phoenix,true,true,2026-06-20,1800,1,1,635,/assets/verified/forest-city/phoenix/ver-fc-phoenix-01-1.jpg
+ver-fc-phoenix-02,Phoenix Tower 2-Bedroom — Forest City,Forest City,phoenix,true,true,2026-06-20,2150,2,1,955,/assets/verified/forest-city/phoenix/ver-fc-phoenix-02-1.jpg
+ver-fc-phoenix-03,Phoenix Tower 3-Bedroom Seaview — Forest City,Forest City,phoenix,true,true,2026-06-20,2500,3,2,1275,/assets/verified/forest-city/phoenix/ver-fc-phoenix-03-1.jpg
+ver-fc-cerulean-01,Cerulean Bay 1-Bedroom — Forest City,Forest City,cerulean-bay,true,true,2026-06-20,2100,1,1,653,/assets/verified/forest-city/cerulean-bay/ver-fc-cerulean-01-1.jpg
+ver-fc-cerulean-02,Cerulean Bay 2-Bedroom — Forest City,Forest City,cerulean-bay,true,true,2026-06-20,2500,2,1,993,/assets/verified/forest-city/cerulean-bay/ver-fc-cerulean-02-1.jpg
+ver-fc-cerulean-03,Cerulean Bay 3-Bedroom — Forest City,Forest City,cerulean-bay,true,true,2026-06-20,2900,3,2,1333,/assets/verified/forest-city/cerulean-bay/ver-fc-cerulean-03-1.jpg
+ver-fc-starview-01,Starview Bay 2-Bedroom — Forest City,Forest City,starview-bay,true,true,2026-06-20,2250,2,2,1100,/assets/verified/forest-city/starview-bay/ver-fc-starview-01-1.jpg
+ver-fc-starview-02,Starview Bay 3-Bedroom — Forest City,Forest City,starview-bay,true,true,2026-06-20,2700,3,2,1280,/assets/verified/forest-city/starview-bay/ver-fc-starview-02-1.jpg
+ver-fc-starview-03,Starview Bay 3-Bedroom Seaview — Forest City,Forest City,starview-bay,true,true,2026-06-20,3150,4,2,1460,/assets/verified/forest-city/starview-bay/ver-fc-starview-03-1.jpg
+ver-fc-golf-01,Golf Suite 1-Bedroom — Forest City,Forest City,golf-suites,true,true,2026-06-20,2650,1,1,671,/assets/verified/forest-city/golf-suites/ver-fc-golf-01-1.jpg
+ver-fc-golf-02,Golf Suite 2-Bedroom — Forest City,Forest City,golf-suites,true,true,2026-06-20,2950,2,1,871,/assets/verified/forest-city/golf-suites/ver-fc-golf-02-1.jpg
+ver-fc-golf-03,Golf Suite 1-Bedroom Fairway — Forest City,Forest City,golf-suites,true,true,2026-06-20,3250,1,1,1071,/assets/verified/forest-city/golf-suites/ver-fc-golf-03-1.jpg
+ver-rf-p1-01,Phase 1 A Studio — R&F Princess Cove,R&F Princess Cove,rf-phase-1,true,true,2026-06-20,2200,0,1,450,/assets/verified/rf-princess-cove/rf-phase-1/ver-rf-p1-01-1.jpg
+ver-rf-p1-02,Phase 1 A 2-Bedroom — R&F Princess Cove,R&F Princess Cove,rf-phase-1,true,true,2026-06-20,2550,2,1,700,/assets/verified/rf-princess-cove/rf-phase-1/ver-rf-p1-02-1.jpg
+ver-rf-p1-03,Phase 1 A 1-Bedroom CIQ — R&F Princess Cove,R&F Princess Cove,rf-phase-1,true,true,2026-06-20,2900,3,1,950,/assets/verified/rf-princess-cove/rf-phase-1/ver-rf-p1-03-1.jpg
+ver-rf-p2-01,Phase 2 B Studio — R&F Princess Cove,R&F Princess Cove,rf-phase-2,true,true,2026-06-20,3200,0,1,486,/assets/verified/rf-princess-cove/rf-phase-2/ver-rf-p2-01-1.jpg
+ver-rf-p2-02,Phase 2 B 2-Bedroom — R&F Princess Cove,R&F Princess Cove,rf-phase-2,true,true,2026-06-20,3600,2,2,766,/assets/verified/rf-princess-cove/rf-phase-2/ver-rf-p2-02-1.jpg
+ver-rf-p2-03,Phase 2 B 1-Bedroom Waterfront — R&F Princess Cove,R&F Princess Cove,rf-phase-2,true,true,2026-06-20,4000,3,1,1046,/assets/verified/rf-princess-cove/rf-phase-2/ver-rf-p2-03-1.jpg
+ver-rf-p3-01,Phase 3 C Studio — R&F Princess Cove,R&F Princess Cove,rf-phase-3,true,true,2026-06-20,3000,0,1,500,/assets/verified/rf-princess-cove/rf-phase-3/ver-rf-p3-01-1.jpg
+ver-rf-p3-02,Phase 3 C 2-Bedroom — R&F Princess Cove,R&F Princess Cove,rf-phase-3,true,true,2026-06-20,3450,2,2,800,/assets/verified/rf-princess-cove/rf-phase-3/ver-rf-p3-02-1.jpg
+ver-rf-p3-03,Phase 3 C 1-Bedroom Skyline — R&F Princess Cove,R&F Princess Cove,rf-phase-3,true,true,2026-06-20,3900,3,1,1100,/assets/verified/rf-princess-cove/rf-phase-3/ver-rf-p3-03-1.jpg
+ver-cg-01,Country Garden 1-Bedroom — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,1650,1,1,580,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-01-1.jpg
+ver-cg-02,Country Garden 2-Bedroom — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,2050,2,1,900,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-02-1.jpg
+ver-cg-03,Country Garden 3-Bedroom Waterfront — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,2450,3,2,1220,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-03-1.jpg
+ver-cg-04,Country Garden Studio Bay View — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,1500,0,1,450,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-04-1.jpg
+ver-cg-05,Country Garden 2-Bed Furnished — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,1850,2,1,730,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-05-1.jpg
+ver-cg-06,Country Garden 1-Bed Promenade — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,2200,3,1,1010,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-06-1.jpg
+ver-cg-07,Country Garden 2-Bed Family — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,1900,2,1,900,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-07-1.jpg
+ver-cg-08,Country Garden 3-Bed Seaview — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,2280,2,2,1150,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-08-1.jpg
+ver-cg-09,Country Garden 1-Bed Pool View — Country Garden Danga Bay,Country Garden Danga Bay,country-garden-danga-bay,true,true,2026-06-20,2660,3,1,1400,/assets/verified/country-garden-danga-bay/country-garden-danga-bay/ver-cg-09-1.jpg

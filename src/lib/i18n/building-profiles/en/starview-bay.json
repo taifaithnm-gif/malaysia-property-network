@@ -1,0 +1,33 @@
+{
+  "key": "starview-bay",
+  "parentProject": "forest-city",
+  "parentName": "Forest City",
+  "name": "Starview Bay",
+  "slug": "forest-city/starview-bay",
+  "seoTitle": "Starview Bay | Building Intelligence",
+  "seoDescription": "Starview Bay rental range, unit mix and verified listings — Forest City",
+  "intro": "Starview Bay is a key tower cluster within Forest City. Rental data, unit mix, and verified listing index.",
+  "rentalRange": "RM 2,200 – 3,800 / mo",
+  "yieldEstimate": "3.6 – 4.3%",
+  "targetTenant": "China owner hold / managed rent",
+  "unitMix": [
+    "2-bed family",
+    "3-bed seaview"
+  ],
+  "highlights": [
+    "Premium seaview floors",
+    "Larger family layouts",
+    "Long-hold owner segment"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "targetTenant": "Target tenant",
+    "unitMix": "Unit mix",
+    "highlights": "Building highlights",
+    "verifiedListings": "Verified listings",
+    "parentProject": "Parent project",
+    "viewVerified": "View verified collection"
+  }
+}

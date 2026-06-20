@@ -7,6 +7,8 @@ import { formatListingPrice } from "@/lib/listings";
 import { getTagLabel } from "@/lib/project-marketplace";
 import { Button } from "@/components/ui/Button";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
+import { VerifiedBadge } from "@/components/listings/VerifiedBadge";
+import { resolvePhotoGallery } from "@/lib/verified-listings";
 
 import type { RentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
 
@@ -18,8 +20,9 @@ type ListingDetailPageProps = {
 };
 
 export function ListingDetailPage({ locale, dict, data, rentalIntel }: ListingDetailPageProps) {
-  const { listing, enrichment } = data;
+  const { listing, enrichment, verified } = data;
   const labels = dict.listingDetail;
+  const verifiedLabels = dict.verifiedListing;
 
   const facts = [
     { label: labels.project, value: listing.project },
@@ -33,7 +36,12 @@ export function ListingDetailPage({ locale, dict, data, rentalIntel }: ListingDe
     { label: labels.demandScore, value: `${enrichment.rentalDemandScore}/5` },
     { label: labels.tag, value: getTagLabel(enrichment.tag, locale) },
     { label: labels.targetTenant, value: enrichment.targetTenantType },
+    verified?.verified_date
+      ? { label: verifiedLabels.verifiedDate, value: verified.verified_date }
+      : null,
   ].filter(Boolean) as { label: string; value: string }[];
+
+  const verifiedPhotos = verified ? resolvePhotoGallery(verified) : [];
 
   return (
     <>
@@ -53,6 +61,15 @@ export function ListingDetailPage({ locale, dict, data, rentalIntel }: ListingDe
             </Button>
             <WhatsAppButton label={dict.common.whatsappUs} />
           </div>
+          {verified && (
+            <div className="mt-6 max-w-xl">
+              <VerifiedBadge
+                label={verifiedLabels.badge}
+                onsiteLabel={verified.onsite_checked ? verifiedLabels.onsiteChecked : undefined}
+                verifiedDate={`${verifiedLabels.verifiedDate}: ${verified.verified_date}`}
+              />
+            </div>
+          )}
         </div>
       </section>
 
@@ -90,6 +107,28 @@ export function ListingDetailPage({ locale, dict, data, rentalIntel }: ListingDe
           </div>
         </div>
       </section>
+
+      {verifiedPhotos.length > 0 && (
+        <section className="border-t border-gray-100 bg-gray-50 py-12">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-semibold text-navy-900">{verifiedLabels.realPhotos}</h2>
+            <p className="mt-2 text-sm text-gray-600">{verifiedLabels.realPhotosNote}</p>
+            <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {verifiedPhotos.map((src, i) => (
+                <div key={src} className="relative aspect-[4/3] overflow-hidden rounded-xl bg-gray-100">
+                  <Image
+                    src={src}
+                    alt={`${listing.title} — ${i + 1}`}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="border-t border-gray-100 bg-gray-50 py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

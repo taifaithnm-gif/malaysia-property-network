@@ -1,0 +1,33 @@
+{
+  "key": "rf-phase-3",
+  "parentProject": "rf-princess-cove",
+  "parentName": "R&F Princess Cove",
+  "name": "R&F Phase 3",
+  "slug": "rf-princess-cove/phase-3",
+  "seoTitle": "R&F Phase 3 | Building Intelligence",
+  "seoDescription": "R&F Phase 3 rental range, unit mix and verified listings — R&F Princess Cove",
+  "intro": "R&F Phase 3 is a key tower cluster within R&F Princess Cove. Rental data, unit mix, and verified listing index.",
+  "rentalRange": "RM 3,000 – 4,500 / mo",
+  "yieldEstimate": "4.5 – 5.2%",
+  "targetTenant": "Singapore professional",
+  "unitMix": [
+    "1-bed CIQ view",
+    "2-bed skyline"
+  ],
+  "highlights": [
+    "Newest R&F phase",
+    "Skyline views",
+    "Strong weekend occupancy"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "targetTenant": "Target tenant",
+    "unitMix": "Unit mix",
+    "highlights": "Building highlights",
+    "verifiedListings": "Verified listings",
+    "parentProject": "Parent project",
+    "viewVerified": "View verified collection"
+  }
+}

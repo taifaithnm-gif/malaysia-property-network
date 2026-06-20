@@ -4,6 +4,7 @@ import type { Locale } from "@/lib/constants";
 import type { PropertyListing } from "@/lib/supabase/types";
 import { formatListingPrice } from "@/lib/listings";
 import { Button } from "@/components/ui/Button";
+import { VerifiedBadge } from "@/components/listings/VerifiedBadge";
 
 type ListingCardProps = {
   listing: PropertyListing;
@@ -11,6 +12,8 @@ type ListingCardProps = {
   bookViewingLabel: string;
   viewDetailsLabel: string;
   tagLabel?: string;
+  verifiedLabel?: string;
+  isVerified?: boolean;
 };
 
 export function ListingCard({
@@ -19,6 +22,8 @@ export function ListingCard({
   bookViewingLabel,
   viewDetailsLabel,
   tagLabel,
+  verifiedLabel,
+  isVerified,
 }: ListingCardProps) {
   return (
     <article className="overflow-hidden rounded-xl border border-gray-200 bg-white shadow-sm">
@@ -37,7 +42,12 @@ export function ListingCard({
               {listing.project}
             </div>
           )}
-          {listing.is_featured && (
+          {isVerified && verifiedLabel && (
+            <span className="absolute left-3 top-3">
+              <VerifiedBadge label={verifiedLabel} compact />
+            </span>
+          )}
+          {listing.is_featured && !isVerified && (
             <span className="absolute left-3 top-3 rounded-full bg-teal-700 px-3 py-1 text-xs font-semibold text-white">
               Featured
             </span>
@@ -85,6 +95,8 @@ type ListingGridProps = {
   bookViewingLabel: string;
   viewDetailsLabel: string;
   tagByListingId?: Record<string, string>;
+  verifiedByListingId?: Record<string, boolean>;
+  verifiedLabel?: string;
 };
 
 export function ListingGrid({
@@ -95,6 +107,8 @@ export function ListingGrid({
   bookViewingLabel,
   viewDetailsLabel,
   tagByListingId,
+  verifiedByListingId,
+  verifiedLabel,
 }: ListingGridProps) {
   if (listings.length === 0) {
     return (
@@ -115,6 +129,8 @@ export function ListingGrid({
           bookViewingLabel={bookViewingLabel}
           viewDetailsLabel={viewDetailsLabel}
           tagLabel={tagByListingId?.[listing.id]}
+          isVerified={verifiedByListingId?.[listing.id]}
+          verifiedLabel={verifiedLabel}
         />
       ))}
     </div>

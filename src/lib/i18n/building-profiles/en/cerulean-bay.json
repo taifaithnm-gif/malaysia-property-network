@@ -1,0 +1,34 @@
+{
+  "key": "cerulean-bay",
+  "parentProject": "forest-city",
+  "parentName": "Forest City",
+  "name": "Cerulean Bay",
+  "slug": "forest-city/cerulean-bay",
+  "seoTitle": "Cerulean Bay | Building Intelligence",
+  "seoDescription": "Cerulean Bay rental range, unit mix and verified listings — Forest City",
+  "intro": "Cerulean Bay is a key tower cluster within Forest City. Rental data, unit mix, and verified listing index.",
+  "rentalRange": "RM 2,000 – 3,500 / mo",
+  "yieldEstimate": "3.4 – 4.0%",
+  "targetTenant": "Family / owner self-use",
+  "unitMix": [
+    "1-bed waterfront",
+    "2-bed",
+    "3-bed family"
+  ],
+  "highlights": [
+    "Waterfront precinct",
+    "Balcony seaview stock",
+    "Mixed furnished inventory"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "targetTenant": "Target tenant",
+    "unitMix": "Unit mix",
+    "highlights": "Building highlights",
+    "verifiedListings": "Verified listings",
+    "parentProject": "Parent project",
+    "viewVerified": "View verified collection"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "key": "phoenix",
+  "parentProject": "forest-city",
+  "parentName": "Forest City",
+  "name": "Phoenix Tower",
+  "slug": "forest-city/phoenix",
+  "seoTitle": "Phoenix Tower | Building Intelligence",
+  "seoDescription": "Phoenix Tower rental range, unit mix and verified listings — Forest City",
+  "intro": "Phoenix Tower is a key tower cluster within Forest City. Rental data, unit mix, and verified listing index.",
+  "rentalRange": "RM 1,800 – 3,200 / mo",
+  "yieldEstimate": "3.5 – 4.2%",
+  "targetTenant": "China owner / seasonal rental",
+  "unitMix": [
+    "Studio",
+    "1-bed",
+    "2-bed",
+    "3-bed seaview"
+  ],
+  "highlights": [
+    "Iconic FC tower cluster",
+    "Seaview inventory",
+    "Resort strata environment",
+    "Owner-management demand"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "targetTenant": "Target tenant",
+    "unitMix": "Unit mix",
+    "highlights": "Building highlights",
+    "verifiedListings": "Verified listings",
+    "parentProject": "Parent project",
+    "viewVerified": "View verified collection"
+  }
+}

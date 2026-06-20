@@ -428,7 +428,33 @@
     "allTags": "全部标签",
     "allTenants": "全部租客类型",
     "rent": "租赁",
-    "sale": "出售"
+    "sale": "出售",
+    "filterVerified": "验真筛选",
+    "verifiedOnly": "仅显示已验真房源"
+  },
+  "verifiedListing": {
+    "badge": "已验真",
+    "onsiteChecked": "实地核验",
+    "verifiedDate": "验真日期",
+    "realPhotos": "实地照片",
+    "realPhotosNote": "实地核验时拍摄。最终照片上传至 /assets/verified/ 路径。",
+    "collectionTitle": "已验真房源合集",
+    "collectionCount": "套实地核验房源",
+    "buildingSubtitle": "新山实地团队核验房源",
+    "allBuildings": "全部楼栋",
+    "buildingFilters": [
+      { "key": "phoenix", "label": "凤凰塔" },
+      { "key": "cerulean-bay", "label": "蔚蓝湾" },
+      { "key": "starview-bay", "label": "星景湾" },
+      { "key": "golf-suites", "label": "高尔夫公寓" },
+      { "key": "rf-phase-1", "label": "富力一期" },
+      { "key": "rf-phase-2", "label": "富力二期" },
+      { "key": "rf-phase-3", "label": "富力三期" },
+      { "key": "country-garden-danga-bay", "label": "碧桂园丹加湾" }
+    ],
+    "homepageTitle": "已验真房源",
+    "homepageSubtitle": "30 套实地核验 — 非门户转载",
+    "viewCollection": "查看验真合集"
   },
   "listingDetail": {
     "propertyFacts": "房源要点",

@@ -1,0 +1,33 @@
+{
+  "key": "starview-bay",
+  "parentProject": "forest-city",
+  "parentName": "森林城市",
+  "name": "星景湾",
+  "slug": "forest-city/starview-bay",
+  "seoTitle": "星景湾 | 楼栋情报",
+  "seoDescription": "星景湾租赁区间、户型结构与已验真房源 — 森林城市",
+  "intro": "星景湾是森林城市核心楼栋之一。本页提供租赁数据、户型结构与已验真房源索引。",
+  "rentalRange": "RM 2,200 – 3,800 / mo",
+  "yieldEstimate": "3.6 – 4.3%",
+  "targetTenant": "中国业主持有 / 托管出租",
+  "unitMix": [
+    "两房家庭",
+    "三房海景"
+  ],
+  "highlights": [
+    "优质海景楼层",
+    "大户型家庭单位",
+    "长期持有业主群"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "targetTenant": "主力租户",
+    "unitMix": "户型结构",
+    "highlights": "楼栋亮点",
+    "verifiedListings": "已验真房源",
+    "parentProject": "所属项目",
+    "viewVerified": "查看已验真房源"
+  }
+}

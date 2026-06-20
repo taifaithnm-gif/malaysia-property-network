@@ -1,0 +1,33 @@
+{
+  "key": "golf-suites",
+  "parentProject": "forest-city",
+  "parentName": "Forest City",
+  "name": "Golf Suites",
+  "slug": "forest-city/golf-suites",
+  "seoTitle": "Golf Suites | Building Intelligence",
+  "seoDescription": "Golf Suites rental range, unit mix and verified listings — Forest City",
+  "intro": "Golf Suites is a key tower cluster within Forest City. Rental data, unit mix, and verified listing index.",
+  "rentalRange": "RM 2,500 – 4,000 / mo",
+  "yieldEstimate": "3.2 – 3.9%",
+  "targetTenant": "Golf traveller / short-stay",
+  "unitMix": [
+    "1-bed golf view",
+    "2-bed lifestyle"
+  ],
+  "highlights": [
+    "Golf course adjacency",
+    "Lifestyle tenant pool",
+    "Weekend demand peaks"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "targetTenant": "Target tenant",
+    "unitMix": "Unit mix",
+    "highlights": "Building highlights",
+    "verifiedListings": "Verified listings",
+    "parentProject": "Parent project",
+    "viewVerified": "View verified collection"
+  }
+}

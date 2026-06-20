@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Locale } from "@/lib/constants";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
-import { getPublishedListings } from "@/lib/listings";
+import { getPublishedListings, getEnrichedListings } from "@/lib/listings";
 import { COMPARISON_ROUTES, COMPARISON_KEYS, getComparisonPage } from "@/lib/i18n/get-comparison";
 import { getRentalIntelligence } from "@/lib/i18n/get-rental-intelligence";
 import { POPULAR_PROJECTS, getProjectDisplayName, getTagLabel } from "@/lib/project-marketplace";
@@ -17,12 +17,16 @@ export async function PropertyMarketplace({ locale, dict }: PropertyMarketplaceP
   const labels = dict.marketplace;
   const browse = dict.listingBrowse;
 
-  const [featuredRentals, latestListings, rentalIntel, comparisons] = await Promise.all([
+  const [featuredRentals, latestListings, verifiedEnriched, rentalIntel, comparisons] = await Promise.all([
     getPublishedListings(locale, { listingType: "rent", featured: true, limit: 6 }),
     getPublishedListings(locale, { limit: 6 }),
+    getEnrichedListings(locale, { verified: true, limit: 6 }),
     Promise.all(POPULAR_PROJECTS.map((p) => getRentalIntelligence(locale, p.key))),
     Promise.all(COMPARISON_KEYS.map((k) => getComparisonPage(locale, k))),
   ]);
+
+  const verifiedListings = verifiedEnriched.map((e) => e.listing);
+  const verifiedById = Object.fromEntries(verifiedEnriched.map((e) => [e.listing.id, true]));
 
   const intelByKey = Object.fromEntries(rentalIntel.map((r) => [r.projectKey, r]));
 
@@ -54,6 +58,26 @@ export async function PropertyMarketplace({ locale, dict }: PropertyMarketplaceP
             emptyDesc={labels.emptyFeaturedDesc}
             bookViewingLabel={dict.listings.bookViewingCta}
             viewDetailsLabel={browse.viewDetails}
+          />
+        </div>
+
+        <div className="mb-14">
+          <div className="mb-4 flex items-center justify-between">
+            <h3 className="text-lg font-semibold text-navy-900">{dict.verifiedListing.homepageTitle}</h3>
+            <Link href={`/${locale}/listings/verified`} className="text-sm font-medium text-teal-700 hover:underline">
+              {dict.verifiedListing.viewCollection}
+            </Link>
+          </div>
+          <p className="mb-4 text-sm text-gray-600">{dict.verifiedListing.homepageSubtitle}</p>
+          <ListingGrid
+            listings={verifiedListings}
+            locale={locale}
+            emptyLabel={labels.emptyFeatured}
+            emptyDesc={labels.emptyFeaturedDesc}
+            bookViewingLabel={dict.listings.bookViewingCta}
+            viewDetailsLabel={browse.viewDetails}
+            verifiedByListingId={verifiedById}
+            verifiedLabel={dict.verifiedListing.badge}
           />
         </div>
 

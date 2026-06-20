@@ -1,0 +1,33 @@
+{
+  "key": "golf-suites",
+  "parentProject": "forest-city",
+  "parentName": "森林城市",
+  "name": "高尔夫公寓",
+  "slug": "forest-city/golf-suites",
+  "seoTitle": "高尔夫公寓 | 楼栋情报",
+  "seoDescription": "高尔夫公寓租赁区间、户型结构与已验真房源 — 森林城市",
+  "intro": "高尔夫公寓是森林城市核心楼栋之一。本页提供租赁数据、户型结构与已验真房源索引。",
+  "rentalRange": "RM 2,500 – 4,000 / mo",
+  "yieldEstimate": "3.2 – 3.9%",
+  "targetTenant": "高尔夫旅客 / 短租",
+  "unitMix": [
+    "一房球场景",
+    "两房度假"
+  ],
+  "highlights": [
+    "毗邻球场",
+    "生活方式租户",
+    "周末需求高峰"
+  ],
+  "verifiedCount": 3,
+  "labels": {
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "targetTenant": "主力租户",
+    "unitMix": "户型结构",
+    "highlights": "楼栋亮点",
+    "verifiedListings": "已验真房源",
+    "parentProject": "所属项目",
+    "viewVerified": "查看已验真房源"
+  }
+}
