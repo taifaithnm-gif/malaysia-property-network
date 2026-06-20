@@ -1,0 +1,101 @@
+title,project,rent_or_sale,price,bedrooms,bathrooms,size_sqft,tag,rental_demand_score,target_tenant_type,agent_name,agent_whatsapp,source_url
+Phoenix Tower 1-Bedroom — Forest City,Forest City,rent,1600,1,1,665,investment,2,China Owner,Agent S02-001,60120002001,https://iproperty.com.my/listing/forest-city-v2-1
+Starview Bay 3-Bedroom — Forest City,Forest City,rent,1850,3,2,1287,owner_management,1,China Owner,Agent S02-002,60120002002,https://edgeprop.com.my/listing/forest-city-v2-2
+Golf Suite 1-Bedroom — Forest City,Forest City,rent,2150,1,1,689,owner_management,1,China Owner,Agent S02-003,60120002003,https://propertyguru.com.my/listing/forest-city-v2-3
+Cerulean Bay 3-Bedroom — Forest City,Forest City,rent,2400,3,2,1311,owner_management,2,China Owner,Agent S02-004,60120002004,https://iproperty.com.my/listing/forest-city-v2-4
+Phoenix Tower 1-Bedroom — Forest City,Forest City,rent,2700,1,1,713,investment,1,China Owner,Agent S02-005,60120002005,https://edgeprop.com.my/listing/forest-city-v2-5
+Starview Bay 3-Bedroom — Forest City,Forest City,rent,2950,3,2,1275,owner_management,1,China Owner,Agent S02-006,60120002006,https://propertyguru.com.my/listing/forest-city-v2-6
+Golf Suite 1-Bedroom — Forest City,Forest City,rent,3250,1,1,677,owner_management,2,China Owner,Agent S02-007,60120002007,https://iproperty.com.my/listing/forest-city-v2-7
+Cerulean Bay 3-Bedroom — Forest City,Forest City,rent,3500,3,2,1299,owner_management,1,China Owner,Agent S02-008,60120002008,https://edgeprop.com.my/listing/forest-city-v2-8
+Phoenix Tower 1-Bedroom — Forest City,Forest City,rent,1600,1,1,701,investment,1,China Owner,Agent S02-009,60120002009,https://propertyguru.com.my/listing/forest-city-v2-9
+Starview Bay 3-Bedroom — Forest City,Forest City,rent,1850,3,2,1323,owner_management,2,China Owner,Agent S02-010,60120002010,https://iproperty.com.my/listing/forest-city-v2-10
+Golf Suite 1-Bedroom — Forest City,Forest City,rent,2150,1,1,665,owner_management,1,China Owner,Agent S02-011,60120002011,https://edgeprop.com.my/listing/forest-city-v2-11
+Cerulean Bay 3-Bedroom — Forest City,Forest City,rent,2400,3,2,1287,owner_management,1,China Owner,Agent S02-012,60120002012,https://propertyguru.com.my/listing/forest-city-v2-12
+Phoenix Tower 1-Bedroom — Forest City,Forest City,rent,2700,1,1,689,investment,2,China Owner,Agent S02-013,60120002013,https://iproperty.com.my/listing/forest-city-v2-13
+Starview Bay 3-Bedroom — Forest City,Forest City,rent,2950,3,2,1311,owner_management,1,China Owner,Agent S02-014,60120002014,https://edgeprop.com.my/listing/forest-city-v2-14
+Golf Suite 1-Bedroom — Forest City,Forest City,rent,3250,1,1,713,owner_management,1,China Owner,Agent S02-015,60120002015,https://propertyguru.com.my/listing/forest-city-v2-15
+Cerulean Bay 3-Bedroom — Forest City,Forest City,rent,3500,3,2,1275,owner_management,2,China Owner,Agent S02-016,60120002016,https://iproperty.com.my/listing/forest-city-v2-16
+Phoenix Tower 1-Bedroom — Forest City,Forest City,rent,1600,1,1,677,investment,1,China Owner,Agent S02-017,60120002017,https://edgeprop.com.my/listing/forest-city-v2-17
+Starview Bay 3-Bedroom — Forest City,Forest City,rent,1850,3,2,1299,owner_management,1,China Owner,Agent S02-018,60120002018,https://propertyguru.com.my/listing/forest-city-v2-18
+Golf Suite 1-Bedroom — Forest City,Forest City,rent,2150,1,1,701,owner_management,2,China Owner,Agent S02-019,60120002019,https://iproperty.com.my/listing/forest-city-v2-19
+Cerulean Bay 3-Bedroom — Forest City,Forest City,rent,2400,3,2,1323,owner_management,1,China Owner,Agent S02-020,60120002020,https://edgeprop.com.my/listing/forest-city-v2-20
+Phase 2 B 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2200,1,1,665,investment,5,China Owner,Agent S02-021,60120002021,https://propertyguru.com.my/listing/r-f-princess-cove-v2-21
+Sky Villa 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2500,3,2,1287,commuter,5,Singapore Commuter,Agent S02-022,60120002022,https://iproperty.com.my/listing/r-f-princess-cove-v2-22
+CIQ View 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2850,1,1,689,commuter,5,Singapore Commuter,Agent S02-023,60120002023,https://edgeprop.com.my/listing/r-f-princess-cove-v2-23
+Phase 1 A 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3150,3,2,1311,commuter,5,Singapore Commuter,Agent S02-024,60120002024,https://propertyguru.com.my/listing/r-f-princess-cove-v2-24
+Phase 2 B 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3500,1,1,713,investment,4,China Owner,Agent S02-025,60120002025,https://iproperty.com.my/listing/r-f-princess-cove-v2-25
+Sky Villa 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3800,3,2,1275,commuter,5,Singapore Commuter,Agent S02-026,60120002026,https://edgeprop.com.my/listing/r-f-princess-cove-v2-26
+CIQ View 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,4150,1,1,677,commuter,5,Singapore Commuter,Agent S02-027,60120002027,https://propertyguru.com.my/listing/r-f-princess-cove-v2-27
+Phase 1 A 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,4450,3,2,1299,commuter,5,Singapore Commuter,Agent S02-028,60120002028,https://iproperty.com.my/listing/r-f-princess-cove-v2-28
+Phase 2 B 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2200,1,1,701,investment,4,China Owner,Agent S02-029,60120002029,https://edgeprop.com.my/listing/r-f-princess-cove-v2-29
+Sky Villa 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2500,3,2,1323,commuter,5,Singapore Commuter,Agent S02-030,60120002030,https://propertyguru.com.my/listing/r-f-princess-cove-v2-30
+CIQ View 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2850,1,1,665,commuter,5,Singapore Commuter,Agent S02-031,60120002031,https://iproperty.com.my/listing/r-f-princess-cove-v2-31
+Phase 1 A 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3150,3,2,1287,commuter,5,Singapore Commuter,Agent S02-032,60120002032,https://edgeprop.com.my/listing/r-f-princess-cove-v2-32
+Phase 2 B 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3500,1,1,689,investment,5,China Owner,Agent S02-033,60120002033,https://propertyguru.com.my/listing/r-f-princess-cove-v2-33
+Sky Villa 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3800,3,2,1311,commuter,5,Singapore Commuter,Agent S02-034,60120002034,https://iproperty.com.my/listing/r-f-princess-cove-v2-34
+CIQ View 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,4150,1,1,713,commuter,5,Singapore Commuter,Agent S02-035,60120002035,https://edgeprop.com.my/listing/r-f-princess-cove-v2-35
+Phase 1 A 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,4450,3,2,1275,commuter,5,Singapore Commuter,Agent S02-036,60120002036,https://propertyguru.com.my/listing/r-f-princess-cove-v2-36
+Phase 2 B 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2200,1,1,677,investment,4,China Owner,Agent S02-037,60120002037,https://iproperty.com.my/listing/r-f-princess-cove-v2-37
+Sky Villa 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2500,3,2,1299,commuter,5,Singapore Commuter,Agent S02-038,60120002038,https://edgeprop.com.my/listing/r-f-princess-cove-v2-38
+CIQ View 1-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,2850,1,1,701,commuter,5,Singapore Commuter,Agent S02-039,60120002039,https://propertyguru.com.my/listing/r-f-princess-cove-v2-39
+Phase 1 A 3-Bedroom — R&F Princess Cove,R&F Princess Cove,rent,3150,3,2,1323,commuter,5,Singapore Commuter,Agent S02-040,60120002040,https://iproperty.com.my/listing/r-f-princess-cove-v2-40
+Bay Point 1-Bedroom — Danga Bay,Danga Bay,rent,1500,1,1,665,investment,3,China Owner,Agent S02-041,60120002041,https://edgeprop.com.my/listing/danga-bay-v2-41
+Country Garden 3-Bedroom — Danga Bay,Danga Bay,rent,1700,3,2,1287,family,3,Local Family,Agent S02-042,60120002042,https://propertyguru.com.my/listing/danga-bay-v2-42
+Z-Plaza 1-Bedroom — Danga Bay,Danga Bay,rent,1900,1,1,689,family,3,Local Family,Agent S02-043,60120002043,https://iproperty.com.my/listing/danga-bay-v2-43
+Bay Point 3-Bedroom — Danga Bay,Danga Bay,rent,2100,3,2,1311,family,4,Local Family,Agent S02-044,60120002044,https://edgeprop.com.my/listing/danga-bay-v2-44
+Country Garden 1-Bedroom — Danga Bay,Danga Bay,rent,2350,1,1,713,investment,2,China Owner,Agent S02-045,60120002045,https://propertyguru.com.my/listing/danga-bay-v2-45
+Z-Plaza 3-Bedroom — Danga Bay,Danga Bay,rent,2550,3,2,1275,family,3,Local Family,Agent S02-046,60120002046,https://iproperty.com.my/listing/danga-bay-v2-46
+Bay Point 1-Bedroom — Danga Bay,Danga Bay,rent,2750,1,1,677,family,4,Local Family,Agent S02-047,60120002047,https://edgeprop.com.my/listing/danga-bay-v2-47
+Country Garden 3-Bedroom — Danga Bay,Danga Bay,rent,2950,3,2,1299,family,3,Local Family,Agent S02-048,60120002048,https://propertyguru.com.my/listing/danga-bay-v2-48
+Z-Plaza 1-Bedroom — Danga Bay,Danga Bay,rent,1500,1,1,701,investment,2,China Owner,Agent S02-049,60120002049,https://iproperty.com.my/listing/danga-bay-v2-49
+Bay Point 3-Bedroom — Danga Bay,Danga Bay,rent,1700,3,2,1323,family,4,Local Family,Agent S02-050,60120002050,https://edgeprop.com.my/listing/danga-bay-v2-50
+Medini Residences 3-Bedroom — Medini,Medini,rent,1800,3,2,1275,investment,4,China Owner,Agent S02-051,60120002051,https://propertyguru.com.my/listing/medini-v2-51
+Legoland vicinity 1-Bedroom — Medini,Medini,rent,2000,1,1,677,commuter,4,Singapore Commuter,Agent S02-052,60120002052,https://iproperty.com.my/listing/medini-v2-52
+Sunway Iskandar 3-Bedroom — Medini,Medini,rent,2200,3,2,1299,commuter,4,Singapore Commuter,Agent S02-053,60120002053,https://edgeprop.com.my/listing/medini-v2-53
+Medini Residences 1-Bedroom — Medini,Medini,rent,2400,1,1,701,commuter,5,Singapore Commuter,Agent S02-054,60120002054,https://propertyguru.com.my/listing/medini-v2-54
+Legoland vicinity 3-Bedroom — Medini,Medini,rent,2650,3,2,1323,investment,3,China Owner,Agent S02-055,60120002055,https://iproperty.com.my/listing/medini-v2-55
+Sunway Iskandar 1-Bedroom — Medini,Medini,rent,2850,1,1,665,commuter,4,Singapore Commuter,Agent S02-056,60120002056,https://edgeprop.com.my/listing/medini-v2-56
+Medini Residences 3-Bedroom — Medini,Medini,rent,3050,3,2,1287,commuter,5,Singapore Commuter,Agent S02-057,60120002057,https://propertyguru.com.my/listing/medini-v2-57
+Legoland vicinity 1-Bedroom — Medini,Medini,rent,3250,1,1,689,commuter,4,Singapore Commuter,Agent S02-058,60120002058,https://iproperty.com.my/listing/medini-v2-58
+Sunway Iskandar 3-Bedroom — Medini,Medini,rent,1800,3,2,1311,investment,3,China Owner,Agent S02-059,60120002059,https://edgeprop.com.my/listing/medini-v2-59
+Medini Residences 1-Bedroom — Medini,Medini,rent,2000,1,1,713,commuter,5,Singapore Commuter,Agent S02-060,60120002060,https://propertyguru.com.my/listing/medini-v2-60
+Nusa Bestari 1-Bedroom — Bukit Indah,Bukit Indah,rent,2000,1,1,665,commuter,5,Local Family,Agent S02-061,60120002061,https://iproperty.com.my/listing/bukit-indah-v2-61
+Indah Regency 3-Bedroom — Bukit Indah,Bukit Indah,rent,2250,3,2,1287,family,5,Local Family,Agent S02-062,60120002062,https://edgeprop.com.my/listing/bukit-indah-v2-62
+Sky Loft 1-Bedroom — Bukit Indah,Bukit Indah,rent,2500,1,1,689,family,5,Local Family,Agent S02-063,60120002063,https://propertyguru.com.my/listing/bukit-indah-v2-63
+Nusa Bestari 3-Bedroom — Bukit Indah,Bukit Indah,rent,2750,3,2,1311,family,5,Local Family,Agent S02-064,60120002064,https://iproperty.com.my/listing/bukit-indah-v2-64
+Indah Regency 1-Bedroom — Bukit Indah,Bukit Indah,rent,3000,1,1,713,commuter,5,Local Family,Agent S02-065,60120002065,https://edgeprop.com.my/listing/bukit-indah-v2-65
+Sky Loft 3-Bedroom — Bukit Indah,Bukit Indah,rent,3250,3,2,1275,family,5,Local Family,Agent S02-066,60120002066,https://propertyguru.com.my/listing/bukit-indah-v2-66
+Nusa Bestari 1-Bedroom — Bukit Indah,Bukit Indah,rent,3500,1,1,677,family,5,Local Family,Agent S02-067,60120002067,https://iproperty.com.my/listing/bukit-indah-v2-67
+Indah Regency 3-Bedroom — Bukit Indah,Bukit Indah,rent,3750,3,2,1299,family,5,Local Family,Agent S02-068,60120002068,https://edgeprop.com.my/listing/bukit-indah-v2-68
+Sky Loft 1-Bedroom — Bukit Indah,Bukit Indah,rent,2000,1,1,701,commuter,5,Local Family,Agent S02-069,60120002069,https://propertyguru.com.my/listing/bukit-indah-v2-69
+Nusa Bestari 3-Bedroom — Bukit Indah,Bukit Indah,rent,2250,3,2,1323,family,5,Local Family,Agent S02-070,60120002070,https://iproperty.com.my/listing/bukit-indah-v2-70
+Palas Residences 3-Bedroom — Mount Austin,Mount Austin,rent,2200,3,2,1275,commuter,5,Local Family,Agent S02-071,60120002071,https://edgeprop.com.my/listing/mount-austin-v2-71
+Austin Suites 1-Bedroom — Mount Austin,Mount Austin,rent,2450,1,1,677,family,5,Local Family,Agent S02-072,60120002072,https://propertyguru.com.my/listing/mount-austin-v2-72
+Austin 18 3-Bedroom — Mount Austin,Mount Austin,rent,2750,3,2,1299,family,5,Local Family,Agent S02-073,60120002073,https://iproperty.com.my/listing/mount-austin-v2-73
+Palas Residences 1-Bedroom — Mount Austin,Mount Austin,rent,3050,1,1,701,family,5,Local Family,Agent S02-074,60120002074,https://edgeprop.com.my/listing/mount-austin-v2-74
+Austin Suites 3-Bedroom — Mount Austin,Mount Austin,rent,3350,3,2,1323,commuter,5,Local Family,Agent S02-075,60120002075,https://propertyguru.com.my/listing/mount-austin-v2-75
+Austin 18 1-Bedroom — Mount Austin,Mount Austin,rent,3600,1,1,665,family,5,Local Family,Agent S02-076,60120002076,https://iproperty.com.my/listing/mount-austin-v2-76
+Palas Residences 3-Bedroom — Mount Austin,Mount Austin,rent,3900,3,2,1287,family,5,Local Family,Agent S02-077,60120002077,https://edgeprop.com.my/listing/mount-austin-v2-77
+Austin Suites 1-Bedroom — Mount Austin,Mount Austin,rent,4200,1,1,689,family,5,Local Family,Agent S02-078,60120002078,https://propertyguru.com.my/listing/mount-austin-v2-78
+Austin 18 3-Bedroom — Mount Austin,Mount Austin,rent,2200,3,2,1311,commuter,5,Local Family,Agent S02-079,60120002079,https://iproperty.com.my/listing/mount-austin-v2-79
+Palas Residences 1-Bedroom — Mount Austin,Mount Austin,rent,2450,1,1,713,family,5,Local Family,Agent S02-080,60120002080,https://edgeprop.com.my/listing/mount-austin-v2-80
+Austin Hills 1-Bedroom — Austin Heights,Austin Heights,rent,2100,1,1,665,investment,4,China Owner,Agent S02-081,60120002081,https://propertyguru.com.my/listing/austin-heights-v2-81
+Meridian 3-Bedroom — Austin Heights,Austin Heights,rent,2350,3,2,1287,family,4,Local Family,Agent S02-082,60120002082,https://iproperty.com.my/listing/austin-heights-v2-82
+Casa Austin 1-Bedroom — Austin Heights,Austin Heights,rent,2600,1,1,689,family,4,Local Family,Agent S02-083,60120002083,https://edgeprop.com.my/listing/austin-heights-v2-83
+Austin Hills 3-Bedroom — Austin Heights,Austin Heights,rent,2850,3,2,1311,family,5,Local Family,Agent S02-084,60120002084,https://propertyguru.com.my/listing/austin-heights-v2-84
+Meridian 1-Bedroom — Austin Heights,Austin Heights,rent,3150,1,1,713,investment,3,China Owner,Agent S02-085,60120002085,https://iproperty.com.my/listing/austin-heights-v2-85
+Casa Austin 3-Bedroom — Austin Heights,Austin Heights,rent,3400,3,2,1275,family,4,Local Family,Agent S02-086,60120002086,https://edgeprop.com.my/listing/austin-heights-v2-86
+Austin Hills 1-Bedroom — Austin Heights,Austin Heights,rent,3650,1,1,677,family,5,Local Family,Agent S02-087,60120002087,https://propertyguru.com.my/listing/austin-heights-v2-87
+Meridian 3-Bedroom — Austin Heights,Austin Heights,rent,3900,3,2,1299,family,4,Local Family,Agent S02-088,60120002088,https://iproperty.com.my/listing/austin-heights-v2-88
+Casa Austin 1-Bedroom — Austin Heights,Austin Heights,rent,2100,1,1,701,investment,3,China Owner,Agent S02-089,60120002089,https://edgeprop.com.my/listing/austin-heights-v2-89
+Austin Hills 3-Bedroom — Austin Heights,Austin Heights,rent,2350,3,2,1323,family,5,Local Family,Agent S02-090,60120002090,https://propertyguru.com.my/listing/austin-heights-v2-90
+Eco Spring 3-Bedroom — Eco Botanic,Eco Botanic,rent,2300,3,2,1275,investment,4,China Owner,Agent S02-091,60120002091,https://iproperty.com.my/listing/eco-botanic-v2-91
+Eco Palladium 1-Bedroom — Eco Botanic,Eco Botanic,rent,2550,1,1,677,family,4,Local Family,Agent S02-092,60120002092,https://edgeprop.com.my/listing/eco-botanic-v2-92
+Eco Botanic 3-Bedroom — Eco Botanic,Eco Botanic,rent,2850,3,2,1299,family,4,Local Family,Agent S02-093,60120002093,https://propertyguru.com.my/listing/eco-botanic-v2-93
+Eco Spring 1-Bedroom — Eco Botanic,Eco Botanic,rent,3150,1,1,701,family,5,Local Family,Agent S02-094,60120002094,https://iproperty.com.my/listing/eco-botanic-v2-94
+Eco Palladium 3-Bedroom — Eco Botanic,Eco Botanic,rent,3450,3,2,1323,investment,3,China Owner,Agent S02-095,60120002095,https://edgeprop.com.my/listing/eco-botanic-v2-95
+Eco Botanic 1-Bedroom — Eco Botanic,Eco Botanic,rent,3700,1,1,665,family,4,Local Family,Agent S02-096,60120002096,https://propertyguru.com.my/listing/eco-botanic-v2-96
+Eco Spring 3-Bedroom — Eco Botanic,Eco Botanic,rent,4000,3,2,1287,family,5,Local Family,Agent S02-097,60120002097,https://iproperty.com.my/listing/eco-botanic-v2-97
+Eco Palladium 1-Bedroom — Eco Botanic,Eco Botanic,rent,4300,1,1,689,family,4,Local Family,Agent S02-098,60120002098,https://edgeprop.com.my/listing/eco-botanic-v2-98
+Eco Botanic 3-Bedroom — Eco Botanic,Eco Botanic,rent,2300,3,2,1311,investment,3,China Owner,Agent S02-099,60120002099,https://propertyguru.com.my/listing/eco-botanic-v2-99
+Eco Spring 1-Bedroom — Eco Botanic,Eco Botanic,rent,2550,1,1,713,family,5,Local Family,Agent S02-100,60120002100,https://iproperty.com.my/listing/eco-botanic-v2-100
