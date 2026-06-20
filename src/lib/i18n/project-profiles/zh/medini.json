@@ -1,0 +1,89 @@
+{
+  "key": "medini",
+  "title": "美迪尼",
+  "subtitle": "新山住宅项目",
+  "intro": "美迪尼是柔佛新山重要住宅区，适合跨境通勤租赁。",
+  "seoTitle": "美迪尼 项目简介 | 新山物业",
+  "seoDescription": "美迪尼是柔佛新山重要住宅区，适合跨境通勤租赁。",
+  "seoKeywords": "Medini, Johor Bahru, medini",
+  "whatsappMessage": "您好，我想了解美迪尼物业。",
+  "guideSlug": "medini",
+  "labels": {
+    "gallery": "项目图库",
+    "facts": "项目要点",
+    "map": "位置",
+    "propertyTypes": "户型",
+    "facilities": "配套",
+    "relatedServices": "相关服务",
+    "listProperty": "发布房源",
+    "propertyRequest": "求购登记",
+    "readGuide": "阅读指南"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-0",
+      "alt": "美迪尼 — 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-1",
+      "alt": "美迪尼 — 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-2",
+      "alt": "美迪尼 — 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-3",
+      "alt": "美迪尼 — 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-4",
+      "alt": "美迪尼 — 5"
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "依斯干达 / 新山"
+    },
+    {
+      "label": "租赁需求",
+      "value": "4/5"
+    },
+    {
+      "label": "主要标签",
+      "value": "commuter"
+    },
+    {
+      "label": "目标租客",
+      "value": "新加坡通勤族"
+    }
+  ],
+  "map": {
+    "lat": 1.415,
+    "lng": 103.62,
+    "label": "美迪尼"
+  },
+  "propertyTypes": [
+    {
+      "name": "一房",
+      "desc": "单身/情侣"
+    },
+    {
+      "name": "两房",
+      "desc": "小家庭"
+    },
+    {
+      "name": "三房",
+      "desc": "家庭长租"
+    }
+  ],
+  "facilities": [
+    "泳池与健身房",
+    "24小时安保",
+    "地下停车场",
+    "儿童游乐区",
+    "近商超/餐饮",
+    "物业管理处"
+  ]
+}

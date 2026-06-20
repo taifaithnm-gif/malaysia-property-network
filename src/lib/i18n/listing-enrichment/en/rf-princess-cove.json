@@ -1,0 +1,28 @@
+{
+  "projectKey": "rf-princess-cove",
+  "projectName": "R&F Princess Cove",
+  "tag": "commuter",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantType": "Singapore Commuter",
+  "projectSummary": "R&F Princess Cove is a key Johor Bahru residential district suited for cross-border commuter rentals.",
+  "amenities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 5/5.",
+    "Typical void periods are short; favour long-term leases.",
+    "Price against recent same-building transactions, not district averages."
+  ],
+  "tenantProfile": [
+    "Primary target: Singapore Commuter.",
+    "Prefers furnished units with responsive management and good access."
+  ],
+  "profileSlug": "rf-princess-cove",
+  "gallerySlug": "rf-princess-cove/gallery"
+}

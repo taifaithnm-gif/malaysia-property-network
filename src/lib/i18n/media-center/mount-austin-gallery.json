@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "project": "Mount Austin",
+    "totalImages": 12
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "titleEn": "Mount Austin Overview",
+      "titleZh": "奥斯汀山 概览",
+      "descEn": "Public gallery for Mount Austin listings and viewings.",
+      "descZh": "奥斯汀山 房源与看房公开图库。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g0",
+          "altEn": "Mount Austin — photo 1",
+          "altZh": "奥斯汀山 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g1",
+          "altEn": "Mount Austin — photo 2",
+          "altZh": "奥斯汀山 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g2",
+          "altEn": "Mount Austin — photo 3",
+          "altZh": "奥斯汀山 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g3",
+          "altEn": "Mount Austin — photo 4",
+          "altZh": "奥斯汀山 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g4",
+          "altEn": "Mount Austin — photo 5",
+          "altZh": "奥斯汀山 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g5",
+          "altEn": "Mount Austin — photo 6",
+          "altZh": "奥斯汀山 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g6",
+          "altEn": "Mount Austin — photo 7",
+          "altZh": "奥斯汀山 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g7",
+          "altEn": "Mount Austin — photo 8",
+          "altZh": "奥斯汀山 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g8",
+          "altEn": "Mount Austin — photo 9",
+          "altZh": "奥斯汀山 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g9",
+          "altEn": "Mount Austin — photo 10",
+          "altZh": "奥斯汀山 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g10",
+          "altEn": "Mount Austin — photo 11",
+          "altZh": "奥斯汀山 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=mount-austin-g11",
+          "altEn": "Mount Austin — photo 12",
+          "altZh": "奥斯汀山 — 图 12"
+        }
+      ]
+    }
+  ]
+}

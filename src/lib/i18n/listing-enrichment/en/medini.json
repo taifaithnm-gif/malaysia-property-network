@@ -1,0 +1,28 @@
+{
+  "projectKey": "medini",
+  "projectName": "Medini",
+  "tag": "commuter",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "singapore_commuter",
+  "targetTenantType": "Singapore Commuter",
+  "projectSummary": "Medini is a key Johor Bahru residential district suited for cross-border commuter rentals.",
+  "amenities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 4/5.",
+    "Typical void periods are short; favour long-term leases.",
+    "Price against recent same-building transactions, not district averages."
+  ],
+  "tenantProfile": [
+    "Primary target: Singapore Commuter.",
+    "Prefers furnished units with responsive management and good access."
+  ],
+  "profileSlug": "medini",
+  "gallerySlug": "medini/gallery"
+}

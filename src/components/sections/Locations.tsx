@@ -9,10 +9,13 @@ type LocationsProps = {
 };
 
 const locations = [
-  { slug: "johor-bahru", key: "johorBahru" as const, color: "from-blue-600 to-blue-800" },
   { slug: "forest-city", key: "forestCity" as const, color: "from-green-600 to-green-800" },
   { slug: "rf-princess-cove", key: "rfPrincessCove" as const, color: "from-purple-600 to-purple-800" },
   { slug: "danga-bay", key: "dangaBay" as const, color: "from-orange-600 to-orange-800" },
+  { slug: "bukit-indah", key: "bukitIndah" as const, color: "from-teal-600 to-teal-800" },
+  { slug: "mount-austin", key: "mountAustin" as const, color: "from-blue-600 to-blue-800" },
+  { slug: "eco-botanic", key: "ecoBotanic" as const, color: "from-emerald-600 to-emerald-800" },
+  { slug: "medini", key: "medini" as const, color: "from-indigo-600 to-indigo-800" },
 ];
 
 export function Locations({ locale, dict }: LocationsProps) {
@@ -20,7 +23,7 @@ export function Locations({ locale, dict }: LocationsProps) {
     <section className="py-20">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <SectionHeading title={dict.home.locationsTitle} subtitle={dict.home.locationsSubtitle} />
-        <div className="grid gap-6 sm:grid-cols-2">
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {locations.map(({ slug, key, color }) => {
             const loc = dict.locations[key];
             return (
@@ -28,7 +31,6 @@ export function Locations({ locale, dict }: LocationsProps) {
                 key={slug}
                 href={`/${locale}/${slug}`}
                 className="group relative overflow-hidden rounded-2xl bg-gradient-to-br p-8 text-white shadow-lg transition-transform hover:scale-[1.02]"
-                style={{ backgroundImage: undefined }}
               >
                 <div className={`absolute inset-0 bg-gradient-to-br ${color} opacity-90`} />
                 <div className="relative">

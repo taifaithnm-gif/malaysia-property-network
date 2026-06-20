@@ -1,0 +1,89 @@
+{
+  "key": "medini",
+  "title": "Medini",
+  "subtitle": "Johor Bahru residential district",
+  "intro": "Medini is a key Johor Bahru residential district suited for cross-border commuter rentals.",
+  "seoTitle": "Medini Project Profile | Johor Bahru",
+  "seoDescription": "Medini is a key Johor Bahru residential district suited for cross-border commuter rentals.",
+  "seoKeywords": "Medini, Johor Bahru, medini",
+  "whatsappMessage": "Hi, I am researching Medini property.",
+  "guideSlug": "medini",
+  "labels": {
+    "gallery": "Gallery",
+    "facts": "Facts",
+    "map": "Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities",
+    "relatedServices": "Services",
+    "listProperty": "List Property",
+    "propertyRequest": "Property Request",
+    "readGuide": "Read guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-0",
+      "alt": "Medini — 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-1",
+      "alt": "Medini — 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-2",
+      "alt": "Medini — 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-3",
+      "alt": "Medini — 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-4",
+      "alt": "Medini — 5"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Iskandar / Johor Bahru"
+    },
+    {
+      "label": "Rental demand",
+      "value": "4/5"
+    },
+    {
+      "label": "Primary tag",
+      "value": "commuter"
+    },
+    {
+      "label": "Target tenant",
+      "value": "Singapore Commuter"
+    }
+  ],
+  "map": {
+    "lat": 1.415,
+    "lng": 103.62,
+    "label": "Medini"
+  },
+  "propertyTypes": [
+    {
+      "name": "1-Bedroom",
+      "desc": "Singles & couples"
+    },
+    {
+      "name": "2-Bedroom",
+      "desc": "Small families"
+    },
+    {
+      "name": "3-Bedroom",
+      "desc": "Family long-term"
+    }
+  ],
+  "facilities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ]
+}

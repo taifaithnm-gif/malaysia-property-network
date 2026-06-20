@@ -1,0 +1,89 @@
+{
+  "key": "eco-botanic",
+  "title": "生态植物园",
+  "subtitle": "新山住宅项目",
+  "intro": "生态植物园是柔佛新山重要住宅区，适合本地家庭长租。",
+  "seoTitle": "生态植物园 项目简介 | 新山物业",
+  "seoDescription": "生态植物园是柔佛新山重要住宅区，适合本地家庭长租。",
+  "seoKeywords": "Eco Botanic, Johor Bahru, eco-botanic",
+  "whatsappMessage": "您好，我想了解生态植物园物业。",
+  "guideSlug": "eco-botanic",
+  "labels": {
+    "gallery": "项目图库",
+    "facts": "项目要点",
+    "map": "位置",
+    "propertyTypes": "户型",
+    "facilities": "配套",
+    "relatedServices": "相关服务",
+    "listProperty": "发布房源",
+    "propertyRequest": "求购登记",
+    "readGuide": "阅读指南"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-0",
+      "alt": "生态植物园 — 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-1",
+      "alt": "生态植物园 — 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-2",
+      "alt": "生态植物园 — 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-3",
+      "alt": "生态植物园 — 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-4",
+      "alt": "生态植物园 — 5"
+    }
+  ],
+  "facts": [
+    {
+      "label": "位置",
+      "value": "依斯干达 / 新山"
+    },
+    {
+      "label": "租赁需求",
+      "value": "4/5"
+    },
+    {
+      "label": "主要标签",
+      "value": "family"
+    },
+    {
+      "label": "目标租客",
+      "value": "本地家庭"
+    }
+  ],
+  "map": {
+    "lat": 1.428,
+    "lng": 103.615,
+    "label": "生态植物园"
+  },
+  "propertyTypes": [
+    {
+      "name": "一房",
+      "desc": "单身/情侣"
+    },
+    {
+      "name": "两房",
+      "desc": "小家庭"
+    },
+    {
+      "name": "三房",
+      "desc": "家庭长租"
+    }
+  ],
+  "facilities": [
+    "泳池与健身房",
+    "24小时安保",
+    "地下停车场",
+    "儿童游乐区",
+    "近商超/餐饮",
+    "物业管理处"
+  ]
+}

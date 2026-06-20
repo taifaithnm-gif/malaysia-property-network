@@ -1,0 +1,89 @@
+{
+  "key": "bukit-indah",
+  "title": "Bukit Indah",
+  "subtitle": "Johor Bahru residential district",
+  "intro": "Bukit Indah is a key Johor Bahru residential district suited for local family long-term leases.",
+  "seoTitle": "Bukit Indah Project Profile | Johor Bahru",
+  "seoDescription": "Bukit Indah is a key Johor Bahru residential district suited for local family long-term leases.",
+  "seoKeywords": "Bukit Indah, Johor Bahru, bukit-indah",
+  "whatsappMessage": "Hi, I am researching Bukit Indah property.",
+  "guideSlug": "bukit-indah",
+  "labels": {
+    "gallery": "Gallery",
+    "facts": "Facts",
+    "map": "Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities",
+    "relatedServices": "Services",
+    "listProperty": "List Property",
+    "propertyRequest": "Property Request",
+    "readGuide": "Read guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-0",
+      "alt": "Bukit Indah — 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-1",
+      "alt": "Bukit Indah — 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-2",
+      "alt": "Bukit Indah — 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-3",
+      "alt": "Bukit Indah — 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-4",
+      "alt": "Bukit Indah — 5"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Iskandar / Johor Bahru"
+    },
+    {
+      "label": "Rental demand",
+      "value": "5/5"
+    },
+    {
+      "label": "Primary tag",
+      "value": "family"
+    },
+    {
+      "label": "Target tenant",
+      "value": "Local Family"
+    }
+  ],
+  "map": {
+    "lat": 1.481,
+    "lng": 103.655,
+    "label": "Bukit Indah"
+  },
+  "propertyTypes": [
+    {
+      "name": "1-Bedroom",
+      "desc": "Singles & couples"
+    },
+    {
+      "name": "2-Bedroom",
+      "desc": "Small families"
+    },
+    {
+      "name": "3-Bedroom",
+      "desc": "Family long-term"
+    }
+  ],
+  "facilities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ]
+}

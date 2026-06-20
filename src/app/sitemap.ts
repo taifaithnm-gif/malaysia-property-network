@@ -38,8 +38,17 @@ const PAGES = [
   "topics/golf-travel",
   "golf-travel-center",
   "corporate-visit-center",
-  "book-viewing",
-  "forest-city/media-center",
+  "listings",
+  "bukit-indah",
+  "mount-austin",
+  "eco-botanic",
+  "medini",
+  "bukit-indah/gallery",
+  "mount-austin/gallery",
+  "eco-botanic/gallery",
+  "medini/gallery",
+  "rf-princess-cove/gallery",
+  "danga-bay/gallery",
   "forest-city-golf",
   "forest-city-marina",
   "forest-city-hotels",
@@ -51,6 +60,8 @@ const PAGES = [
   "golf",
   "corporate-visits",
   "mm2h",
+  "book-viewing",
+  "forest-city/media-center",
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {

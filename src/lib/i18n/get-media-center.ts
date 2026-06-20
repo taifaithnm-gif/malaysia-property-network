@@ -21,7 +21,8 @@ export type MediaCenterContent = {
     allSections: string;
     imageCount: string;
     bookViewing: string;
-    resourceCenter: string;
+    resourceCenter?: string;
+    projectPage?: string;
   };
   sections: MediaSection[];
   totalImages: number;

@@ -1,0 +1,28 @@
+{
+  "projectKey": "bukit-indah",
+  "projectName": "Bukit Indah",
+  "tag": "family",
+  "rentalDemandScore": 5,
+  "targetTenantKey": "local_family",
+  "targetTenantType": "Local Family",
+  "projectSummary": "Bukit Indah is a key Johor Bahru residential district suited for local family long-term leases.",
+  "amenities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 5/5.",
+    "Typical void periods are short; favour long-term leases.",
+    "Price against recent same-building transactions, not district averages."
+  ],
+  "tenantProfile": [
+    "Primary target: Local Family.",
+    "Prefers furnished units with responsive management and good access."
+  ],
+  "profileSlug": "bukit-indah",
+  "gallerySlug": "bukit-indah/gallery"
+}

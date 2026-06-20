@@ -99,6 +99,30 @@
       "subtitle": "Established waterfront district with proven rental history",
       "intro": "Danga Bay's mature ecosystem of condos, hotels, and commercial spaces creates steady rental demand. We help overseas owners navigate management companies, maintenance fees, and tenant expectations in this established area.",
       "highlights": ["Mature development", "Stable rental market", "Tourism-driven demand", "Experienced management"]
+    },
+    "bukitIndah": {
+      "title": "Bukit Indah Property",
+      "subtitle": "Family township near AEON and Tuas Second Link",
+      "intro": "Bukit Indah offers strong family rental demand with mature retail, schools, and condo stock. Popular for long-term local tenants.",
+      "highlights": ["Family rental demand", "Retail hub", "Mature township", "Stable occupancy"]
+    },
+    "mountAustin": {
+      "title": "Mount Austin Property",
+      "subtitle": "High-demand suburban condos",
+      "intro": "Mount Austin condos attract JB professionals and small families with competitive rents and good highway access.",
+      "highlights": ["Strong rental yield", "Suburban convenience", "Diverse unit sizes", "Active resale market"]
+    },
+    "ecoBotanic": {
+      "title": "Eco Botanic Property",
+      "subtitle": "Green township in Iskandar Puteri",
+      "intro": "Eco Botanic combines landscaped living with access to Educity and Medini employment hubs.",
+      "highlights": ["Green living", "Family tenants", "Growing corridor", "Modern condos"]
+    },
+    "medini": {
+      "title": "Medini Property",
+      "subtitle": "Iskandar growth corridor near Singapore",
+      "intro": "Medini serves Singapore commuters and regional tenants with newer condo stock and Legoland proximity.",
+      "highlights": ["Commuter appeal", "Regional tenants", "Newer stock", "Infrastructure growth"]
     }
   },
   "about": {
@@ -245,7 +269,71 @@
     "emptySalesDesc": "Contact us for secondary market opportunities in Johor Bahru.",
     "listPropertyCta": "List Your Property",
     "requestPropertyCta": "Submit Property Request",
-    "bookViewingCta": "Book Viewing"
+    "bookViewingCta": "Book Viewing",
+    "viewDetailsCta": "View Details"
+  },
+  "marketplace": {
+    "title": "Johor Bahru Property Marketplace",
+    "subtitle": "Featured rentals, popular projects, and rental demand insights",
+    "featuredRentals": "Featured Rentals",
+    "latestListings": "Latest Listings",
+    "popularProjects": "Popular Projects",
+    "rentalDemandRankings": "Rental Demand Rankings",
+    "demandScore": "Demand score",
+    "rank": "Rank",
+    "project": "Project",
+    "tag": "Tag",
+    "viewAll": "View all",
+    "browseAll": "Browse all listings",
+    "emptyFeatured": "Featured rentals coming soon",
+    "emptyFeaturedDesc": "Browse all listings or submit a property request.",
+    "emptyLatest": "No listings yet",
+    "emptyLatestDesc": "List your property or contact us for curated options."
+  },
+  "listingBrowse": {
+    "title": "Browse Listings",
+    "subtitle": "Filter by project, budget, tenant type, and tags",
+    "seoTitle": "Browse Property Listings | Johor Bahru",
+    "seoDescription": "Search rentals and sales across Forest City, R&F, Danga Bay, Bukit Indah, Mount Austin, Eco Botanic, and Medini.",
+    "resultsTitle": "Available Properties",
+    "resultsSubtitle": "Published listings across Johor Bahru projects",
+    "resultCount": "listings found",
+    "viewDetails": "View details",
+    "empty": "No listings match your filters",
+    "emptyDesc": "Try adjusting project, budget, or tag filters.",
+    "filterProject": "Project",
+    "filterType": "Listing type",
+    "filterBudgetMin": "Min budget (MYR)",
+    "filterBudgetMax": "Max budget (MYR)",
+    "filterTag": "Tag",
+    "filterTenant": "Tenant type",
+    "allProjects": "All projects",
+    "allTypes": "All types",
+    "allTags": "All tags",
+    "allTenants": "All tenant types",
+    "rent": "Rent",
+    "sale": "Sale"
+  },
+  "listingDetail": {
+    "propertyFacts": "Property Facts",
+    "nearbyAmenities": "Nearby Amenities",
+    "rentalAnalysis": "Rental Analysis",
+    "targetTenantProfile": "Target Tenant Profile",
+    "projectSummary": "Project Summary",
+    "bookViewing": "Book Viewing",
+    "viewProject": "View project hub",
+    "viewGallery": "View project gallery",
+    "project": "Project",
+    "propertyType": "Type",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "size": "Size",
+    "listingType": "Listing",
+    "demandScore": "Demand score",
+    "tag": "Tag",
+    "targetTenant": "Target tenant",
+    "rent": "Rent",
+    "sale": "Sale"
   },
   "footer": {
     "tagline": "Malaysia Property Management & Rental Solutions for Overseas Property Owners",

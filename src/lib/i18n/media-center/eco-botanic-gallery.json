@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "project": "Eco Botanic",
+    "totalImages": 12
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "titleEn": "Eco Botanic Overview",
+      "titleZh": "生态植物园 概览",
+      "descEn": "Public gallery for Eco Botanic listings and viewings.",
+      "descZh": "生态植物园 房源与看房公开图库。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g0",
+          "altEn": "Eco Botanic — photo 1",
+          "altZh": "生态植物园 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g1",
+          "altEn": "Eco Botanic — photo 2",
+          "altZh": "生态植物园 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g2",
+          "altEn": "Eco Botanic — photo 3",
+          "altZh": "生态植物园 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g3",
+          "altEn": "Eco Botanic — photo 4",
+          "altZh": "生态植物园 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g4",
+          "altEn": "Eco Botanic — photo 5",
+          "altZh": "生态植物园 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g5",
+          "altEn": "Eco Botanic — photo 6",
+          "altZh": "生态植物园 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g6",
+          "altEn": "Eco Botanic — photo 7",
+          "altZh": "生态植物园 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g7",
+          "altEn": "Eco Botanic — photo 8",
+          "altZh": "生态植物园 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g8",
+          "altEn": "Eco Botanic — photo 9",
+          "altZh": "生态植物园 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g9",
+          "altEn": "Eco Botanic — photo 10",
+          "altZh": "生态植物园 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g10",
+          "altEn": "Eco Botanic — photo 11",
+          "altZh": "生态植物园 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-g11",
+          "altEn": "Eco Botanic — photo 12",
+          "altZh": "生态植物园 — 图 12"
+        }
+      ]
+    }
+  ]
+}

@@ -99,6 +99,30 @@
       "subtitle": "成熟滨水区，租赁历史稳定",
       "intro": "丹加湾成熟的公寓、酒店及商业生态带来稳定租赁需求。我们帮助海外业主处理管理公司对接、维护费用及租户期望。",
       "highlights": ["成熟社区", "租赁市场稳定", "旅游驱动需求", "管理经验丰富"]
+    },
+    "bukitIndah": {
+      "title": "武吉英达房产",
+      "subtitle": "近 AEON 与第二通道的家庭社区",
+      "intro": "武吉英达家庭租赁需求旺盛，零售、学校与公寓供应成熟，适合本地家庭长租。",
+      "highlights": ["家庭租赁需求", "商业配套", "成熟城镇", "入住率稳定"]
+    },
+    "mountAustin": {
+      "title": "奥斯汀山房产",
+      "subtitle": "高需求郊区公寓",
+      "intro": "奥斯汀山公寓吸引新山白领与小家庭，租金竞争力强、交通便捷。",
+      "highlights": ["租赁回报佳", "郊区便利", "户型多样", "二手市场活跃"]
+    },
+    "ecoBotanic": {
+      "title": "生态植物园房产",
+      "subtitle": "依斯干达绿色城镇",
+      "intro": "生态植物园绿化环境好，毗邻教育城与美迪尼就业区。",
+      "highlights": ["绿色生活", "家庭租客", "增长走廊", "现代公寓"]
+    },
+    "medini": {
+      "title": "美迪尼房产",
+      "subtitle": "近新加坡的依斯干达增长区",
+      "intro": "美迪尼面向新加坡通勤族与区域租客，新盘供应与基础设施持续改善。",
+      "highlights": ["通勤优势", "区域租客", "较新房源", "基建发展"]
     }
   },
   "about": {
@@ -245,7 +269,71 @@
     "emptySalesDesc": "联系我们了解新山二手市场机会。",
     "listPropertyCta": "提交房源",
     "requestPropertyCta": "提交找房需求",
-    "bookViewingCta": "预约看楼"
+    "bookViewingCta": "预约看楼",
+    "viewDetailsCta": "查看详情"
+  },
+  "marketplace": {
+    "title": "新山房产市场",
+    "subtitle": "精选租赁、热门项目与租赁需求排行",
+    "featuredRentals": "精选租赁",
+    "latestListings": "最新房源",
+    "popularProjects": "热门项目",
+    "rentalDemandRankings": "租赁需求排行",
+    "demandScore": "需求评分",
+    "rank": "排名",
+    "project": "项目",
+    "tag": "标签",
+    "viewAll": "查看全部",
+    "browseAll": "浏览全部房源",
+    "emptyFeatured": "精选租赁即将上线",
+    "emptyFeaturedDesc": "可浏览全部房源或提交求购登记。",
+    "emptyLatest": "暂无房源",
+    "emptyLatestDesc": "发布房源或联系我们获取精选推荐。"
+  },
+  "listingBrowse": {
+    "title": "浏览房源",
+    "subtitle": "按项目、预算、租客类型与标签筛选",
+    "seoTitle": "浏览房源 | 新山物业",
+    "seoDescription": "搜索森林城市、富力公主湾、丹加湾、武吉英达、奥斯汀山、生态植物园、美迪尼租赁与出售房源。",
+    "resultsTitle": "可售房源",
+    "resultsSubtitle": "新山各项目已发布房源",
+    "resultCount": "条房源",
+    "viewDetails": "查看详情",
+    "empty": "没有符合筛选条件的房源",
+    "emptyDesc": "请调整项目、预算或标签筛选条件。",
+    "filterProject": "项目",
+    "filterType": "房源类型",
+    "filterBudgetMin": "最低预算（马币）",
+    "filterBudgetMax": "最高预算（马币）",
+    "filterTag": "标签",
+    "filterTenant": "租客类型",
+    "allProjects": "全部项目",
+    "allTypes": "全部类型",
+    "allTags": "全部标签",
+    "allTenants": "全部租客类型",
+    "rent": "租赁",
+    "sale": "出售"
+  },
+  "listingDetail": {
+    "propertyFacts": "房源要点",
+    "nearbyAmenities": "周边配套",
+    "rentalAnalysis": "租赁分析",
+    "targetTenantProfile": "目标租客画像",
+    "projectSummary": "项目摘要",
+    "bookViewing": "预约看楼",
+    "viewProject": "查看项目主页",
+    "viewGallery": "查看项目图库",
+    "project": "项目",
+    "propertyType": "户型",
+    "bedrooms": "卧室",
+    "bathrooms": "卫浴",
+    "size": "面积",
+    "listingType": "类型",
+    "demandScore": "需求评分",
+    "tag": "标签",
+    "targetTenant": "目标租客",
+    "rent": "租赁",
+    "sale": "出售"
   },
   "footer": {
     "tagline": "马来西亚房产管理与租赁服务 — 专为海外业主打造",

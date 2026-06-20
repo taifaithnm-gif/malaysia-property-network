@@ -1,0 +1,28 @@
+{
+  "projectKey": "forest-city",
+  "projectName": "Forest City",
+  "tag": "owner_management",
+  "rentalDemandScore": 2,
+  "targetTenantKey": "china_owner",
+  "targetTenantType": "China Owner",
+  "projectSummary": "Forest City is a key Johor Bahru residential district suited for overseas owner hold & management.",
+  "amenities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 2/5.",
+    "Pair with owner-management for void and maintenance control.",
+    "Price against recent same-building transactions, not district averages."
+  ],
+  "tenantProfile": [
+    "Primary target: China Owner.",
+    "Prefers furnished units with responsive management and good access."
+  ],
+  "profileSlug": "forest-city",
+  "gallerySlug": "forest-city/media-center"
+}

@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "project": "Bukit Indah",
+    "totalImages": 12
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "titleEn": "Bukit Indah Overview",
+      "titleZh": "武吉英达 概览",
+      "descEn": "Public gallery for Bukit Indah listings and viewings.",
+      "descZh": "武吉英达 房源与看房公开图库。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g0",
+          "altEn": "Bukit Indah — photo 1",
+          "altZh": "武吉英达 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g1",
+          "altEn": "Bukit Indah — photo 2",
+          "altZh": "武吉英达 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g2",
+          "altEn": "Bukit Indah — photo 3",
+          "altZh": "武吉英达 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g3",
+          "altEn": "Bukit Indah — photo 4",
+          "altZh": "武吉英达 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g4",
+          "altEn": "Bukit Indah — photo 5",
+          "altZh": "武吉英达 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g5",
+          "altEn": "Bukit Indah — photo 6",
+          "altZh": "武吉英达 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g6",
+          "altEn": "Bukit Indah — photo 7",
+          "altZh": "武吉英达 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g7",
+          "altEn": "Bukit Indah — photo 8",
+          "altZh": "武吉英达 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g8",
+          "altEn": "Bukit Indah — photo 9",
+          "altZh": "武吉英达 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g9",
+          "altEn": "Bukit Indah — photo 10",
+          "altZh": "武吉英达 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g10",
+          "altEn": "Bukit Indah — photo 11",
+          "altZh": "武吉英达 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=bukit-indah-g11",
+          "altEn": "Bukit Indah — photo 12",
+          "altZh": "武吉英达 — 图 12"
+        }
+      ]
+    }
+  ]
+}

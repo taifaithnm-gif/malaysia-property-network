@@ -1,0 +1,28 @@
+{
+  "projectKey": "danga-bay",
+  "projectName": "Danga Bay",
+  "tag": "family",
+  "rentalDemandScore": 3,
+  "targetTenantKey": "local_family",
+  "targetTenantType": "Local Family",
+  "projectSummary": "Danga Bay is a key Johor Bahru residential district suited for local family long-term leases.",
+  "amenities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 3/5.",
+    "Pair with owner-management for void and maintenance control.",
+    "Price against recent same-building transactions, not district averages."
+  ],
+  "tenantProfile": [
+    "Primary target: Local Family.",
+    "Prefers furnished units with responsive management and good access."
+  ],
+  "profileSlug": "danga-bay",
+  "gallerySlug": "danga-bay/gallery"
+}

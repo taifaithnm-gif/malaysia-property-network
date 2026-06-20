@@ -1,0 +1,89 @@
+{
+  "key": "eco-botanic",
+  "title": "Eco Botanic",
+  "subtitle": "Johor Bahru residential district",
+  "intro": "Eco Botanic is a key Johor Bahru residential district suited for local family long-term leases.",
+  "seoTitle": "Eco Botanic Project Profile | Johor Bahru",
+  "seoDescription": "Eco Botanic is a key Johor Bahru residential district suited for local family long-term leases.",
+  "seoKeywords": "Eco Botanic, Johor Bahru, eco-botanic",
+  "whatsappMessage": "Hi, I am researching Eco Botanic property.",
+  "guideSlug": "eco-botanic",
+  "labels": {
+    "gallery": "Gallery",
+    "facts": "Facts",
+    "map": "Map",
+    "propertyTypes": "Property Types",
+    "facilities": "Facilities",
+    "relatedServices": "Services",
+    "listProperty": "List Property",
+    "propertyRequest": "Property Request",
+    "readGuide": "Read guide"
+  },
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-0",
+      "alt": "Eco Botanic — 1"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-1",
+      "alt": "Eco Botanic — 2"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-2",
+      "alt": "Eco Botanic — 3"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-3",
+      "alt": "Eco Botanic — 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=eco-botanic-4",
+      "alt": "Eco Botanic — 5"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Iskandar / Johor Bahru"
+    },
+    {
+      "label": "Rental demand",
+      "value": "4/5"
+    },
+    {
+      "label": "Primary tag",
+      "value": "family"
+    },
+    {
+      "label": "Target tenant",
+      "value": "Local Family"
+    }
+  ],
+  "map": {
+    "lat": 1.428,
+    "lng": 103.615,
+    "label": "Eco Botanic"
+  },
+  "propertyTypes": [
+    {
+      "name": "1-Bedroom",
+      "desc": "Singles & couples"
+    },
+    {
+      "name": "2-Bedroom",
+      "desc": "Small families"
+    },
+    {
+      "name": "3-Bedroom",
+      "desc": "Family long-term"
+    }
+  ],
+  "facilities": [
+    "Pool & gym",
+    "24h security",
+    "Covered parking",
+    "Playground",
+    "Retail & dining nearby",
+    "On-site management"
+  ]
+}

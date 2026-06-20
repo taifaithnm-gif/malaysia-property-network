@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "project": "Medini",
+    "totalImages": 12
+  },
+  "sections": [
+    {
+      "id": "overview",
+      "titleEn": "Medini Overview",
+      "titleZh": "美迪尼 概览",
+      "descEn": "Public gallery for Medini listings and viewings.",
+      "descZh": "美迪尼 房源与看房公开图库。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g0",
+          "altEn": "Medini — photo 1",
+          "altZh": "美迪尼 — 图 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g1",
+          "altEn": "Medini — photo 2",
+          "altZh": "美迪尼 — 图 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g2",
+          "altEn": "Medini — photo 3",
+          "altZh": "美迪尼 — 图 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g3",
+          "altEn": "Medini — photo 4",
+          "altZh": "美迪尼 — 图 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g4",
+          "altEn": "Medini — photo 5",
+          "altZh": "美迪尼 — 图 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g5",
+          "altEn": "Medini — photo 6",
+          "altZh": "美迪尼 — 图 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g6",
+          "altEn": "Medini — photo 7",
+          "altZh": "美迪尼 — 图 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g7",
+          "altEn": "Medini — photo 8",
+          "altZh": "美迪尼 — 图 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g8",
+          "altEn": "Medini — photo 9",
+          "altZh": "美迪尼 — 图 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g9",
+          "altEn": "Medini — photo 10",
+          "altZh": "美迪尼 — 图 10"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g10",
+          "altEn": "Medini — photo 11",
+          "altZh": "美迪尼 — 图 11"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&sig=medini-g11",
+          "altEn": "Medini — photo 12",
+          "altZh": "美迪尼 — 图 12"
+        }
+      ]
+    }
+  ]
+}
