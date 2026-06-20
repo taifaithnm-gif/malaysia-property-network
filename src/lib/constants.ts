@@ -27,7 +27,9 @@ export const NAV_LINKS = [
   { href: "forest-city", key: "forestCity" },
   { href: "rf-princess-cove", key: "rfPrincessCove" },
   { href: "danga-bay", key: "dangaBay" },
-  { href: "about", key: "about" },
+  { href: "research", key: "research" },
+  { href: "project-intelligence", key: "projectIntelligence" },
+  { href: "listings", key: "listings" },
   { href: "contact", key: "contact" },
 ] as const;
 

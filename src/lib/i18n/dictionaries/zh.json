@@ -12,6 +12,9 @@
     "forestCity": "森林城市",
     "rfPrincessCove": "富力公主湾",
     "dangaBay": "丹加湾",
+    "research": "研究中心",
+    "projectIntelligence": "项目情报",
+    "listings": "房源",
     "about": "关于我们",
     "contact": "联系我们"
   },
@@ -352,6 +355,7 @@
     "viewingRequests": "看楼预约",
     "browseListings": "浏览 300+ 房源",
     "viewComparisons": "项目对比",
+    "researchCenter": "研究中心",
     "trustItems": [
       "300 条租赁房源，覆盖森林城市、富力公主湾、丹加湾及依斯干达",
       "460+ 张项目图库，用于尽调与看楼准备",

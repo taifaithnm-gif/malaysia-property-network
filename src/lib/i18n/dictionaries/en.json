@@ -12,6 +12,9 @@
     "forestCity": "Forest City",
     "rfPrincessCove": "R&F Princess Cove",
     "dangaBay": "Danga Bay",
+    "research": "Research",
+    "projectIntelligence": "Project Intelligence",
+    "listings": "Listings",
     "about": "About",
     "contact": "Contact"
   },
@@ -352,6 +355,7 @@
     "viewingRequests": "Viewing requests",
     "browseListings": "Browse 300+ listings",
     "viewComparisons": "Compare projects",
+    "researchCenter": "Research Center",
     "trustItems": [
       "300 rental listings across Forest City, R&F, Danga Bay, and Iskandar hubs",
       "460+ project gallery images for due diligence and viewing prep",

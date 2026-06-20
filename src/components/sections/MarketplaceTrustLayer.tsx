@@ -47,6 +47,9 @@ export function MarketplaceTrustLayer({ locale, dict, stats }: MarketplaceTrustL
           <Link href={`/${locale}/listings`} className="font-semibold text-teal-700 hover:underline">
             {labels.browseListings}
           </Link>
+          <Link href={`/${locale}/research`} className="font-semibold text-teal-700 hover:underline">
+            {labels.researchCenter}
+          </Link>
           <Link href={`/${locale}/compare/forest-city-vs-rf-princess-cove`} className="font-semibold text-teal-700 hover:underline">
             {labels.viewComparisons}
           </Link>

@@ -1,0 +1,27 @@
+{
+  "seoTitle": "Project Intelligence Directory | Johor Research",
+  "seoDescription": "Investment scores, rental ranges, yields and tenant profiles for 7 Johor Bahru projects.",
+  "title": "Project Intelligence Directory",
+  "subtitle": "7 key Johor Bahru projects — investment scores & rental data",
+  "intro": "Ranked by investment score. Open each dossier for developer profile, property types, rental range, yield, occupancy, pros/cons and target tenant.",
+  "methodologyTitle": "Scoring methodology",
+  "methodology": "Investment score (0–100) blends rental demand, void risk, tenant pool depth, rent growth and cross-border exposure. Research only — not financial advice.",
+  "labels": {
+    "project": "Project",
+    "score": "Investment score",
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "occupancy": "Occupancy",
+    "targetTenant": "Target tenant",
+    "viewDossier": "View dossier",
+    "developer": "Developer",
+    "completion": "Completion",
+    "propertyTypes": "Property types",
+    "pros": "Pros",
+    "cons": "Cons",
+    "backToResearch": "Back to Research Center",
+    "browseListings": "Browse listings",
+    "viewProject": "Project hub",
+    "compareProjects": "Compare projects"
+  }
+}

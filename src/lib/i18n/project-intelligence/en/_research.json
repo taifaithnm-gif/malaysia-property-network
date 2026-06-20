@@ -1,0 +1,35 @@
+{
+  "seoTitle": "Johor Property Intelligence Center | Malaysia Research",
+  "seoDescription": "Research hub for Forest City, R&F Princess Cove, Danga Bay, Bukit Indah, Mount Austin, Eco Botanic & Medini — yields, occupancy & investment scores.",
+  "title": "Johor Property Intelligence Center",
+  "subtitle": "Authoritative market intelligence · 7 projects · EN/ZH",
+  "intro": "Malaysia Property Network Research Center delivers structured dossiers for Johor Bahru & Iskandar investors — developer profiles, completion timelines, property types, rental ranges, yields, occupancy, tenant fit, pros/cons and investment scores.",
+  "pillars": [
+    {
+      "title": "Market data",
+      "desc": "Rental ranges, yields and occupancy grounded in Sprint 03 inventory and district benchmarks."
+    },
+    {
+      "title": "Project depth",
+      "desc": "Standalone dossiers for 7 key projects with developer and pros/cons analysis."
+    },
+    {
+      "title": "Investment scoring",
+      "desc": "0–100 composite score for cross-project comparison and decision support."
+    },
+    {
+      "title": "Owner services",
+      "desc": "Intelligence linked to management, inspection and viewing services — not a lead farm."
+    }
+  ],
+  "ctaTitle": "Start researching",
+  "ctaDesc": "Browse the project intelligence directory or compare popular project pairs.",
+  "labels": {
+    "viewDirectory": "Project intelligence directory",
+    "topProjects": "Investment score rankings",
+    "compare": "Compare projects",
+    "listings": "Browse listings",
+    "methodology": "Methodology",
+    "notAdvice": "For research purposes only — not financial advice."
+  }
+}

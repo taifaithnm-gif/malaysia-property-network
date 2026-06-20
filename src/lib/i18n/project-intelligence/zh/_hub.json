@@ -1,0 +1,27 @@
+{
+  "seoTitle": "项目情报目录 | 新山物业研究",
+  "seoDescription": "7 大新山项目投资评分、租金区间、回报率与目标租客对比。",
+  "title": "项目情报目录",
+  "subtitle": "7 大新山住宅项目 — 投资评分与租赁数据",
+  "intro": "按投资评分排序，点击查看各项目开发商背景、户型、租金区间、回报率、入住率、优劣势与目标租客。",
+  "methodologyTitle": "评分方法",
+  "methodology": "投资评分（0–100）综合租赁需求、空置风险、租客池深度、租金增长与跨境政策暴露。仅供研究参考，非投资建议。",
+  "labels": {
+    "project": "项目",
+    "score": "投资评分",
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "occupancy": "入住率",
+    "targetTenant": "目标租客",
+    "viewDossier": "查看情报",
+    "developer": "开发商",
+    "completion": "竣工年份",
+    "propertyTypes": "户型",
+    "pros": "优势",
+    "cons": "劣势",
+    "backToResearch": "返回研究中心",
+    "browseListings": "浏览房源",
+    "viewProject": "项目主页",
+    "compareProjects": "项目对比"
+  }
+}
