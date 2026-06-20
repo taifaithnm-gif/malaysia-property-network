@@ -1,0 +1,201 @@
+prospect_id,project,tower,unit_type,bedrooms,owner_location,language,contact_channel,contact_handle,outreach_status,priority_score,source,notes
+OWNER-20260620-001,Forest City,Phoenix Tower,Studio,0,China — Guangdong,ZH,WeChat,wx_fc_rf_1,not_contacted,1,Facebook Group,High intent — responded to FB post
+OWNER-20260620-002,Forest City,Cerulean Bay,1-Bed,1,China — Shanghai,ZH,WhatsApp,pending_2,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-003,Forest City,Starview Bay,2-Bed,2,China — Beijing,ZH,Facebook DM,fb_prospect_3,not_contacted,3,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-004,Forest City,Golf Suite,3-Bed,3,China — Shenzhen,ZH,Agent referral,TBD,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-005,Forest City,Marina Hotel,Studio,0,China — Fujian,ZH,Group intro,TBD,not_contacted,5,Owner submission,High intent — responded to FB post
+OWNER-20260620-006,Forest City,Phoenix Tower,1-Bed,1,Hong Kong,ZH,Listing inquiry,TBD,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-007,Forest City,Cerulean Bay,2-Bed,2,Singapore,EN,Forum,TBD,not_contacted,2,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-008,Forest City,Starview Bay,3-Bed,3,Malaysia — JB,ZH/EN,WeChat,wx_fc_rf_8,not_contacted,3,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-009,Forest City,Golf Suite,Studio,0,Malaysia — KL,ZH/EN,WhatsApp,pending_9,not_contacted,4,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-010,Forest City,Marina Hotel,1-Bed,1,Taiwan,ZH,Facebook DM,fb_prospect_10,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-011,Forest City,Phoenix Tower,2-Bed,2,China — Zhejiang,ZH,Agent referral,TBD,not_contacted,1,Owner submission,Prospect identified — not contacted
+OWNER-20260620-012,Forest City,Cerulean Bay,3-Bed,3,China — Jiangsu,ZH,Group intro,TBD,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-013,Forest City,Starview Bay,Studio,0,China — Guangdong,ZH,Listing inquiry,TBD,not_contacted,3,Facebook Group,High intent — responded to FB post
+OWNER-20260620-014,Forest City,Golf Suite,1-Bed,1,China — Shanghai,ZH,Forum,TBD,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-015,Forest City,Marina Hotel,2-Bed,2,China — Beijing,ZH,WeChat,wx_fc_rf_15,not_contacted,5,Agent co-broke,Vacant unit — inspection upsell
+OWNER-20260620-016,Forest City,Phoenix Tower,3-Bed,3,China — Shenzhen,ZH,WhatsApp,pending_16,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-017,Forest City,Cerulean Bay,Studio,0,China — Fujian,ZH,Facebook DM,fb_prospect_17,not_contacted,2,Owner submission,High intent — responded to FB post
+OWNER-20260620-018,Forest City,Starview Bay,1-Bed,1,Hong Kong,ZH,Agent referral,TBD,not_contacted,3,Referral,Prospect identified — not contacted
+OWNER-20260620-019,Forest City,Golf Suite,2-Bed,2,Singapore,EN,Group intro,TBD,not_contacted,4,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-020,Forest City,Marina Hotel,3-Bed,3,Malaysia — JB,ZH/EN,Listing inquiry,TBD,not_contacted,5,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-021,Forest City,Phoenix Tower,Studio,0,Malaysia — KL,ZH/EN,Forum,TBD,not_contacted,1,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-022,Forest City,Cerulean Bay,1-Bed,1,Taiwan,ZH,WeChat,wx_fc_rf_22,not_contacted,2,Listing portal,Vacant unit — inspection upsell
+OWNER-20260620-023,Forest City,Starview Bay,2-Bed,2,China — Zhejiang,ZH,WhatsApp,pending_23,not_contacted,3,Owner submission,Prospect identified — not contacted
+OWNER-20260620-024,Forest City,Golf Suite,3-Bed,3,China — Jiangsu,ZH,Facebook DM,fb_prospect_24,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-025,Forest City,Marina Hotel,Studio,0,China — Guangdong,ZH,Agent referral,TBD,not_contacted,5,Facebook Group,High intent — responded to FB post
+OWNER-20260620-026,Forest City,Phoenix Tower,1-Bed,1,China — Shanghai,ZH,Group intro,TBD,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-027,Forest City,Cerulean Bay,2-Bed,2,China — Beijing,ZH,Listing inquiry,TBD,not_contacted,2,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-028,Forest City,Starview Bay,3-Bed,3,China — Shenzhen,ZH,Forum,TBD,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-029,Forest City,Golf Suite,Studio,0,China — Fujian,ZH,WeChat,wx_fc_rf_29,not_contacted,4,Owner submission,High intent — responded to FB post
+OWNER-20260620-030,Forest City,Marina Hotel,1-Bed,1,Hong Kong,ZH,WhatsApp,pending_30,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-031,Forest City,Phoenix Tower,2-Bed,2,Singapore,EN,Facebook DM,fb_prospect_31,not_contacted,1,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-032,Forest City,Cerulean Bay,3-Bed,3,Malaysia — JB,ZH/EN,Agent referral,TBD,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-033,Forest City,Starview Bay,Studio,0,Malaysia — KL,ZH/EN,Group intro,TBD,not_contacted,3,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-034,Forest City,Golf Suite,1-Bed,1,Taiwan,ZH,Listing inquiry,TBD,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-035,Forest City,Marina Hotel,2-Bed,2,China — Zhejiang,ZH,Forum,TBD,not_contacted,5,Owner submission,Prospect identified — not contacted
+OWNER-20260620-036,Forest City,Phoenix Tower,3-Bed,3,China — Jiangsu,ZH,WeChat,wx_fc_rf_36,not_contacted,1,Referral,Vacant unit — inspection upsell
+OWNER-20260620-037,Forest City,Cerulean Bay,Studio,0,China — Guangdong,ZH,WhatsApp,pending_37,not_contacted,2,Facebook Group,High intent — responded to FB post
+OWNER-20260620-038,Forest City,Starview Bay,1-Bed,1,China — Shanghai,ZH,Facebook DM,fb_prospect_38,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-039,Forest City,Golf Suite,2-Bed,2,China — Beijing,ZH,Agent referral,TBD,not_contacted,4,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-040,Forest City,Marina Hotel,3-Bed,3,China — Shenzhen,ZH,Group intro,TBD,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-041,Forest City,Phoenix Tower,Studio,0,China — Fujian,ZH,Listing inquiry,TBD,not_contacted,1,Owner submission,High intent — responded to FB post
+OWNER-20260620-042,Forest City,Cerulean Bay,1-Bed,1,Hong Kong,ZH,Forum,TBD,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-043,Forest City,Starview Bay,2-Bed,2,Singapore,EN,WeChat,wx_fc_rf_43,not_contacted,3,Facebook Group,Vacant unit — inspection upsell
+OWNER-20260620-044,Forest City,Golf Suite,3-Bed,3,Malaysia — JB,ZH/EN,WhatsApp,pending_44,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-045,Forest City,Marina Hotel,Studio,0,Malaysia — KL,ZH/EN,Facebook DM,fb_prospect_45,not_contacted,5,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-046,Forest City,Phoenix Tower,1-Bed,1,Taiwan,ZH,Agent referral,TBD,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-047,Forest City,Cerulean Bay,2-Bed,2,China — Zhejiang,ZH,Group intro,TBD,not_contacted,2,Owner submission,Prospect identified — not contacted
+OWNER-20260620-048,Forest City,Starview Bay,3-Bed,3,China — Jiangsu,ZH,Listing inquiry,TBD,not_contacted,3,Referral,Prospect identified — not contacted
+OWNER-20260620-049,Forest City,Golf Suite,Studio,0,China — Guangdong,ZH,Forum,TBD,not_contacted,4,Facebook Group,High intent — responded to FB post
+OWNER-20260620-050,Forest City,Marina Hotel,1-Bed,1,China — Shanghai,ZH,WeChat,wx_fc_rf_50,not_contacted,5,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-051,Forest City,Phoenix Tower,2-Bed,2,China — Beijing,ZH,WhatsApp,pending_51,not_contacted,1,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-052,Forest City,Cerulean Bay,3-Bed,3,China — Shenzhen,ZH,Facebook DM,fb_prospect_52,not_contacted,2,Listing portal,Prospect identified — not contacted
+OWNER-20260620-053,Forest City,Starview Bay,Studio,0,China — Fujian,ZH,Agent referral,TBD,not_contacted,3,Owner submission,High intent — responded to FB post
+OWNER-20260620-054,Forest City,Golf Suite,1-Bed,1,Hong Kong,ZH,Group intro,TBD,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-055,Forest City,Marina Hotel,2-Bed,2,Singapore,EN,Listing inquiry,TBD,not_contacted,5,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-056,Forest City,Phoenix Tower,3-Bed,3,Malaysia — JB,ZH/EN,Forum,TBD,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-057,Forest City,Cerulean Bay,Studio,0,Malaysia — KL,ZH/EN,WeChat,wx_fc_rf_57,not_contacted,2,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-058,Forest City,Starview Bay,1-Bed,1,Taiwan,ZH,WhatsApp,pending_58,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-059,Forest City,Golf Suite,2-Bed,2,China — Zhejiang,ZH,Facebook DM,fb_prospect_59,not_contacted,4,Owner submission,Prospect identified — not contacted
+OWNER-20260620-060,Forest City,Marina Hotel,3-Bed,3,China — Jiangsu,ZH,Agent referral,TBD,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-061,Forest City,Phoenix Tower,Studio,0,China — Guangdong,ZH,Group intro,TBD,not_contacted,1,Facebook Group,High intent — responded to FB post
+OWNER-20260620-062,Forest City,Cerulean Bay,1-Bed,1,China — Shanghai,ZH,Listing inquiry,TBD,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-063,Forest City,Starview Bay,2-Bed,2,China — Beijing,ZH,Forum,TBD,not_contacted,3,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-064,Forest City,Golf Suite,3-Bed,3,China — Shenzhen,ZH,WeChat,wx_fc_rf_64,not_contacted,4,Listing portal,Vacant unit — inspection upsell
+OWNER-20260620-065,Forest City,Marina Hotel,Studio,0,China — Fujian,ZH,WhatsApp,pending_65,not_contacted,5,Owner submission,High intent — responded to FB post
+OWNER-20260620-066,Forest City,Phoenix Tower,1-Bed,1,Hong Kong,ZH,Facebook DM,fb_prospect_66,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-067,Forest City,Cerulean Bay,2-Bed,2,Singapore,EN,Agent referral,TBD,not_contacted,2,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-068,Forest City,Starview Bay,3-Bed,3,Malaysia — JB,ZH/EN,Group intro,TBD,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-069,Forest City,Golf Suite,Studio,0,Malaysia — KL,ZH/EN,Listing inquiry,TBD,not_contacted,4,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-070,Forest City,Marina Hotel,1-Bed,1,Taiwan,ZH,Forum,TBD,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-071,Forest City,Phoenix Tower,2-Bed,2,China — Zhejiang,ZH,WeChat,wx_fc_rf_71,not_contacted,1,Owner submission,Vacant unit — inspection upsell
+OWNER-20260620-072,Forest City,Cerulean Bay,3-Bed,3,China — Jiangsu,ZH,WhatsApp,pending_72,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-073,Forest City,Starview Bay,Studio,0,China — Guangdong,ZH,Facebook DM,fb_prospect_73,not_contacted,3,Facebook Group,High intent — responded to FB post
+OWNER-20260620-074,Forest City,Golf Suite,1-Bed,1,China — Shanghai,ZH,Agent referral,TBD,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-075,Forest City,Marina Hotel,2-Bed,2,China — Beijing,ZH,Group intro,TBD,not_contacted,5,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-076,Forest City,Phoenix Tower,3-Bed,3,China — Shenzhen,ZH,Listing inquiry,TBD,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-077,Forest City,Cerulean Bay,Studio,0,China — Fujian,ZH,Forum,TBD,not_contacted,2,Owner submission,High intent — responded to FB post
+OWNER-20260620-078,Forest City,Starview Bay,1-Bed,1,Hong Kong,ZH,WeChat,wx_fc_rf_78,not_contacted,3,Referral,Vacant unit — inspection upsell
+OWNER-20260620-079,Forest City,Golf Suite,2-Bed,2,Singapore,EN,WhatsApp,pending_79,not_contacted,4,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-080,Forest City,Marina Hotel,3-Bed,3,Malaysia — JB,ZH/EN,Facebook DM,fb_prospect_80,not_contacted,5,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-081,Forest City,Phoenix Tower,Studio,0,Malaysia — KL,ZH/EN,Agent referral,TBD,not_contacted,1,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-082,Forest City,Cerulean Bay,1-Bed,1,Taiwan,ZH,Group intro,TBD,not_contacted,2,Listing portal,Prospect identified — not contacted
+OWNER-20260620-083,Forest City,Starview Bay,2-Bed,2,China — Zhejiang,ZH,Listing inquiry,TBD,not_contacted,3,Owner submission,Prospect identified — not contacted
+OWNER-20260620-084,Forest City,Golf Suite,3-Bed,3,China — Jiangsu,ZH,Forum,TBD,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-085,Forest City,Marina Hotel,Studio,0,China — Guangdong,ZH,WeChat,wx_fc_rf_85,not_contacted,5,Facebook Group,High intent — responded to FB post
+OWNER-20260620-086,Forest City,Phoenix Tower,1-Bed,1,China — Shanghai,ZH,WhatsApp,pending_86,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-087,Forest City,Cerulean Bay,2-Bed,2,China — Beijing,ZH,Facebook DM,fb_prospect_87,not_contacted,2,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-088,Forest City,Starview Bay,3-Bed,3,China — Shenzhen,ZH,Agent referral,TBD,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-089,Forest City,Golf Suite,Studio,0,China — Fujian,ZH,Group intro,TBD,not_contacted,4,Owner submission,High intent — responded to FB post
+OWNER-20260620-090,Forest City,Marina Hotel,1-Bed,1,Hong Kong,ZH,Listing inquiry,TBD,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-091,Forest City,Phoenix Tower,2-Bed,2,Singapore,EN,Forum,TBD,not_contacted,1,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-092,Forest City,Cerulean Bay,3-Bed,3,Malaysia — JB,ZH/EN,WeChat,wx_fc_rf_92,not_contacted,2,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-093,Forest City,Starview Bay,Studio,0,Malaysia — KL,ZH/EN,WhatsApp,pending_93,not_contacted,3,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-094,Forest City,Golf Suite,1-Bed,1,Taiwan,ZH,Facebook DM,fb_prospect_94,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-095,Forest City,Marina Hotel,2-Bed,2,China — Zhejiang,ZH,Agent referral,TBD,not_contacted,5,Owner submission,Prospect identified — not contacted
+OWNER-20260620-096,Forest City,Phoenix Tower,3-Bed,3,China — Jiangsu,ZH,Group intro,TBD,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-097,Forest City,Cerulean Bay,Studio,0,China — Guangdong,ZH,Listing inquiry,TBD,not_contacted,2,Facebook Group,High intent — responded to FB post
+OWNER-20260620-098,Forest City,Starview Bay,1-Bed,1,China — Shanghai,ZH,Forum,TBD,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-099,Forest City,Golf Suite,2-Bed,2,China — Beijing,ZH,WeChat,wx_fc_rf_99,not_contacted,4,Agent co-broke,Vacant unit — inspection upsell
+OWNER-20260620-100,Forest City,Marina Hotel,3-Bed,3,China — Shenzhen,ZH,WhatsApp,pending_100,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-101,R&F Princess Cove,Phase 1,Studio,0,China — Guangdong,ZH,WeChat,wx_fc_rf_101,not_contacted,1,Facebook Group,High intent — responded to FB post
+OWNER-20260620-102,R&F Princess Cove,Phase 2,1-Bed,1,China — Shanghai,ZH,WhatsApp,pending_102,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-103,R&F Princess Cove,Phase 3,2-Bed,2,China — Beijing,ZH,Facebook DM,fb_prospect_103,not_contacted,3,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-104,R&F Princess Cove,CIQ Tower,3-Bed,3,China — Shenzhen,ZH,Agent referral,TBD,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-105,R&F Princess Cove,Waterfront,Studio,0,China — Fujian,ZH,Group intro,TBD,not_contacted,5,Owner submission,High intent — responded to FB post
+OWNER-20260620-106,R&F Princess Cove,Phase 1,1-Bed,1,Hong Kong,ZH,Listing inquiry,TBD,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-107,R&F Princess Cove,Phase 2,2-Bed,2,Singapore,EN,Forum,TBD,not_contacted,2,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-108,R&F Princess Cove,Phase 3,3-Bed,3,Malaysia — JB,ZH/EN,WeChat,wx_fc_rf_108,not_contacted,3,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-109,R&F Princess Cove,CIQ Tower,Studio,0,Malaysia — KL,ZH/EN,WhatsApp,pending_109,not_contacted,4,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-110,R&F Princess Cove,Waterfront,1-Bed,1,Taiwan,ZH,Facebook DM,fb_prospect_110,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-111,R&F Princess Cove,Phase 1,2-Bed,2,China — Zhejiang,ZH,Agent referral,TBD,not_contacted,1,Owner submission,Prospect identified — not contacted
+OWNER-20260620-112,R&F Princess Cove,Phase 2,3-Bed,3,China — Jiangsu,ZH,Group intro,TBD,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-113,R&F Princess Cove,Phase 3,Studio,0,China — Guangdong,ZH,Listing inquiry,TBD,not_contacted,3,Facebook Group,High intent — responded to FB post
+OWNER-20260620-114,R&F Princess Cove,CIQ Tower,1-Bed,1,China — Shanghai,ZH,Forum,TBD,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-115,R&F Princess Cove,Waterfront,2-Bed,2,China — Beijing,ZH,WeChat,wx_fc_rf_115,not_contacted,5,Agent co-broke,Vacant unit — inspection upsell
+OWNER-20260620-116,R&F Princess Cove,Phase 1,3-Bed,3,China — Shenzhen,ZH,WhatsApp,pending_116,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-117,R&F Princess Cove,Phase 2,Studio,0,China — Fujian,ZH,Facebook DM,fb_prospect_117,not_contacted,2,Owner submission,High intent — responded to FB post
+OWNER-20260620-118,R&F Princess Cove,Phase 3,1-Bed,1,Hong Kong,ZH,Agent referral,TBD,not_contacted,3,Referral,Prospect identified — not contacted
+OWNER-20260620-119,R&F Princess Cove,CIQ Tower,2-Bed,2,Singapore,EN,Group intro,TBD,not_contacted,4,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-120,R&F Princess Cove,Waterfront,3-Bed,3,Malaysia — JB,ZH/EN,Listing inquiry,TBD,not_contacted,5,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-121,R&F Princess Cove,Phase 1,Studio,0,Malaysia — KL,ZH/EN,Forum,TBD,not_contacted,1,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-122,R&F Princess Cove,Phase 2,1-Bed,1,Taiwan,ZH,WeChat,wx_fc_rf_122,not_contacted,2,Listing portal,Vacant unit — inspection upsell
+OWNER-20260620-123,R&F Princess Cove,Phase 3,2-Bed,2,China — Zhejiang,ZH,WhatsApp,pending_123,not_contacted,3,Owner submission,Prospect identified — not contacted
+OWNER-20260620-124,R&F Princess Cove,CIQ Tower,3-Bed,3,China — Jiangsu,ZH,Facebook DM,fb_prospect_124,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-125,R&F Princess Cove,Waterfront,Studio,0,China — Guangdong,ZH,Agent referral,TBD,not_contacted,5,Facebook Group,High intent — responded to FB post
+OWNER-20260620-126,R&F Princess Cove,Phase 1,1-Bed,1,China — Shanghai,ZH,Group intro,TBD,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-127,R&F Princess Cove,Phase 2,2-Bed,2,China — Beijing,ZH,Listing inquiry,TBD,not_contacted,2,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-128,R&F Princess Cove,Phase 3,3-Bed,3,China — Shenzhen,ZH,Forum,TBD,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-129,R&F Princess Cove,CIQ Tower,Studio,0,China — Fujian,ZH,WeChat,wx_fc_rf_129,not_contacted,4,Owner submission,High intent — responded to FB post
+OWNER-20260620-130,R&F Princess Cove,Waterfront,1-Bed,1,Hong Kong,ZH,WhatsApp,pending_130,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-131,R&F Princess Cove,Phase 1,2-Bed,2,Singapore,EN,Facebook DM,fb_prospect_131,not_contacted,1,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-132,R&F Princess Cove,Phase 2,3-Bed,3,Malaysia — JB,ZH/EN,Agent referral,TBD,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-133,R&F Princess Cove,Phase 3,Studio,0,Malaysia — KL,ZH/EN,Group intro,TBD,not_contacted,3,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-134,R&F Princess Cove,CIQ Tower,1-Bed,1,Taiwan,ZH,Listing inquiry,TBD,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-135,R&F Princess Cove,Waterfront,2-Bed,2,China — Zhejiang,ZH,Forum,TBD,not_contacted,5,Owner submission,Prospect identified — not contacted
+OWNER-20260620-136,R&F Princess Cove,Phase 1,3-Bed,3,China — Jiangsu,ZH,WeChat,wx_fc_rf_136,not_contacted,1,Referral,Vacant unit — inspection upsell
+OWNER-20260620-137,R&F Princess Cove,Phase 2,Studio,0,China — Guangdong,ZH,WhatsApp,pending_137,not_contacted,2,Facebook Group,High intent — responded to FB post
+OWNER-20260620-138,R&F Princess Cove,Phase 3,1-Bed,1,China — Shanghai,ZH,Facebook DM,fb_prospect_138,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-139,R&F Princess Cove,CIQ Tower,2-Bed,2,China — Beijing,ZH,Agent referral,TBD,not_contacted,4,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-140,R&F Princess Cove,Waterfront,3-Bed,3,China — Shenzhen,ZH,Group intro,TBD,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-141,R&F Princess Cove,Phase 1,Studio,0,China — Fujian,ZH,Listing inquiry,TBD,not_contacted,1,Owner submission,High intent — responded to FB post
+OWNER-20260620-142,R&F Princess Cove,Phase 2,1-Bed,1,Hong Kong,ZH,Forum,TBD,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-143,R&F Princess Cove,Phase 3,2-Bed,2,Singapore,EN,WeChat,wx_fc_rf_143,not_contacted,3,Facebook Group,Vacant unit — inspection upsell
+OWNER-20260620-144,R&F Princess Cove,CIQ Tower,3-Bed,3,Malaysia — JB,ZH/EN,WhatsApp,pending_144,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-145,R&F Princess Cove,Waterfront,Studio,0,Malaysia — KL,ZH/EN,Facebook DM,fb_prospect_145,not_contacted,5,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-146,R&F Princess Cove,Phase 1,1-Bed,1,Taiwan,ZH,Agent referral,TBD,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-147,R&F Princess Cove,Phase 2,2-Bed,2,China — Zhejiang,ZH,Group intro,TBD,not_contacted,2,Owner submission,Prospect identified — not contacted
+OWNER-20260620-148,R&F Princess Cove,Phase 3,3-Bed,3,China — Jiangsu,ZH,Listing inquiry,TBD,not_contacted,3,Referral,Prospect identified — not contacted
+OWNER-20260620-149,R&F Princess Cove,CIQ Tower,Studio,0,China — Guangdong,ZH,Forum,TBD,not_contacted,4,Facebook Group,High intent — responded to FB post
+OWNER-20260620-150,R&F Princess Cove,Waterfront,1-Bed,1,China — Shanghai,ZH,WeChat,wx_fc_rf_150,not_contacted,5,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-151,R&F Princess Cove,Phase 1,2-Bed,2,China — Beijing,ZH,WhatsApp,pending_151,not_contacted,1,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-152,R&F Princess Cove,Phase 2,3-Bed,3,China — Shenzhen,ZH,Facebook DM,fb_prospect_152,not_contacted,2,Listing portal,Prospect identified — not contacted
+OWNER-20260620-153,R&F Princess Cove,Phase 3,Studio,0,China — Fujian,ZH,Agent referral,TBD,not_contacted,3,Owner submission,High intent — responded to FB post
+OWNER-20260620-154,R&F Princess Cove,CIQ Tower,1-Bed,1,Hong Kong,ZH,Group intro,TBD,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-155,R&F Princess Cove,Waterfront,2-Bed,2,Singapore,EN,Listing inquiry,TBD,not_contacted,5,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-156,R&F Princess Cove,Phase 1,3-Bed,3,Malaysia — JB,ZH/EN,Forum,TBD,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-157,R&F Princess Cove,Phase 2,Studio,0,Malaysia — KL,ZH/EN,WeChat,wx_fc_rf_157,not_contacted,2,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-158,R&F Princess Cove,Phase 3,1-Bed,1,Taiwan,ZH,WhatsApp,pending_158,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-159,R&F Princess Cove,CIQ Tower,2-Bed,2,China — Zhejiang,ZH,Facebook DM,fb_prospect_159,not_contacted,4,Owner submission,Prospect identified — not contacted
+OWNER-20260620-160,R&F Princess Cove,Waterfront,3-Bed,3,China — Jiangsu,ZH,Agent referral,TBD,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-161,R&F Princess Cove,Phase 1,Studio,0,China — Guangdong,ZH,Group intro,TBD,not_contacted,1,Facebook Group,High intent — responded to FB post
+OWNER-20260620-162,R&F Princess Cove,Phase 2,1-Bed,1,China — Shanghai,ZH,Listing inquiry,TBD,not_contacted,2,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-163,R&F Princess Cove,Phase 3,2-Bed,2,China — Beijing,ZH,Forum,TBD,not_contacted,3,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-164,R&F Princess Cove,CIQ Tower,3-Bed,3,China — Shenzhen,ZH,WeChat,wx_fc_rf_164,not_contacted,4,Listing portal,Vacant unit — inspection upsell
+OWNER-20260620-165,R&F Princess Cove,Waterfront,Studio,0,China — Fujian,ZH,WhatsApp,pending_165,not_contacted,5,Owner submission,High intent — responded to FB post
+OWNER-20260620-166,R&F Princess Cove,Phase 1,1-Bed,1,Hong Kong,ZH,Facebook DM,fb_prospect_166,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-167,R&F Princess Cove,Phase 2,2-Bed,2,Singapore,EN,Agent referral,TBD,not_contacted,2,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-168,R&F Princess Cove,Phase 3,3-Bed,3,Malaysia — JB,ZH/EN,Group intro,TBD,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-169,R&F Princess Cove,CIQ Tower,Studio,0,Malaysia — KL,ZH/EN,Listing inquiry,TBD,not_contacted,4,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-170,R&F Princess Cove,Waterfront,1-Bed,1,Taiwan,ZH,Forum,TBD,not_contacted,5,Listing portal,Prospect identified — not contacted
+OWNER-20260620-171,R&F Princess Cove,Phase 1,2-Bed,2,China — Zhejiang,ZH,WeChat,wx_fc_rf_171,not_contacted,1,Owner submission,Vacant unit — inspection upsell
+OWNER-20260620-172,R&F Princess Cove,Phase 2,3-Bed,3,China — Jiangsu,ZH,WhatsApp,pending_172,not_contacted,2,Referral,Prospect identified — not contacted
+OWNER-20260620-173,R&F Princess Cove,Phase 3,Studio,0,China — Guangdong,ZH,Facebook DM,fb_prospect_173,not_contacted,3,Facebook Group,High intent — responded to FB post
+OWNER-20260620-174,R&F Princess Cove,CIQ Tower,1-Bed,1,China — Shanghai,ZH,Agent referral,TBD,not_contacted,4,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-175,R&F Princess Cove,Waterfront,2-Bed,2,China — Beijing,ZH,Group intro,TBD,not_contacted,5,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-176,R&F Princess Cove,Phase 1,3-Bed,3,China — Shenzhen,ZH,Listing inquiry,TBD,not_contacted,1,Listing portal,Prospect identified — not contacted
+OWNER-20260620-177,R&F Princess Cove,Phase 2,Studio,0,China — Fujian,ZH,Forum,TBD,not_contacted,2,Owner submission,High intent — responded to FB post
+OWNER-20260620-178,R&F Princess Cove,Phase 3,1-Bed,1,Hong Kong,ZH,WeChat,wx_fc_rf_178,not_contacted,3,Referral,Vacant unit — inspection upsell
+OWNER-20260620-179,R&F Princess Cove,CIQ Tower,2-Bed,2,Singapore,EN,WhatsApp,pending_179,not_contacted,4,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-180,R&F Princess Cove,Waterfront,3-Bed,3,Malaysia — JB,ZH/EN,Facebook DM,fb_prospect_180,not_contacted,5,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-181,R&F Princess Cove,Phase 1,Studio,0,Malaysia — KL,ZH/EN,Agent referral,TBD,not_contacted,1,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-182,R&F Princess Cove,Phase 2,1-Bed,1,Taiwan,ZH,Group intro,TBD,not_contacted,2,Listing portal,Prospect identified — not contacted
+OWNER-20260620-183,R&F Princess Cove,Phase 3,2-Bed,2,China — Zhejiang,ZH,Listing inquiry,TBD,not_contacted,3,Owner submission,Prospect identified — not contacted
+OWNER-20260620-184,R&F Princess Cove,CIQ Tower,3-Bed,3,China — Jiangsu,ZH,Forum,TBD,not_contacted,4,Referral,Prospect identified — not contacted
+OWNER-20260620-185,R&F Princess Cove,Waterfront,Studio,0,China — Guangdong,ZH,WeChat,wx_fc_rf_185,not_contacted,5,Facebook Group,High intent — responded to FB post
+OWNER-20260620-186,R&F Princess Cove,Phase 1,1-Bed,1,China — Shanghai,ZH,WhatsApp,pending_186,not_contacted,1,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-187,R&F Princess Cove,Phase 2,2-Bed,2,China — Beijing,ZH,Facebook DM,fb_prospect_187,not_contacted,2,Agent co-broke,Prospect identified — not contacted
+OWNER-20260620-188,R&F Princess Cove,Phase 3,3-Bed,3,China — Shenzhen,ZH,Agent referral,TBD,not_contacted,3,Listing portal,Prospect identified — not contacted
+OWNER-20260620-189,R&F Princess Cove,CIQ Tower,Studio,0,China — Fujian,ZH,Group intro,TBD,not_contacted,4,Owner submission,High intent — responded to FB post
+OWNER-20260620-190,R&F Princess Cove,Waterfront,1-Bed,1,Hong Kong,ZH,Listing inquiry,TBD,not_contacted,5,Referral,Prospect identified — not contacted
+OWNER-20260620-191,R&F Princess Cove,Phase 1,2-Bed,2,Singapore,EN,Forum,TBD,not_contacted,1,Facebook Group,Prospect identified — not contacted
+OWNER-20260620-192,R&F Princess Cove,Phase 2,3-Bed,3,Malaysia — JB,ZH/EN,WeChat,wx_fc_rf_192,not_contacted,2,WeChat Community,Vacant unit — inspection upsell
+OWNER-20260620-193,R&F Princess Cove,Phase 3,Studio,0,Malaysia — KL,ZH/EN,WhatsApp,pending_193,not_contacted,3,Agent co-broke,High intent — responded to FB post
+OWNER-20260620-194,R&F Princess Cove,CIQ Tower,1-Bed,1,Taiwan,ZH,Facebook DM,fb_prospect_194,not_contacted,4,Listing portal,Prospect identified — not contacted
+OWNER-20260620-195,R&F Princess Cove,Waterfront,2-Bed,2,China — Zhejiang,ZH,Agent referral,TBD,not_contacted,5,Owner submission,Prospect identified — not contacted
+OWNER-20260620-196,R&F Princess Cove,Phase 1,3-Bed,3,China — Jiangsu,ZH,Group intro,TBD,not_contacted,1,Referral,Prospect identified — not contacted
+OWNER-20260620-197,R&F Princess Cove,Phase 2,Studio,0,China — Guangdong,ZH,Listing inquiry,TBD,not_contacted,2,Facebook Group,High intent — responded to FB post
+OWNER-20260620-198,R&F Princess Cove,Phase 3,1-Bed,1,China — Shanghai,ZH,Forum,TBD,not_contacted,3,WeChat Community,Prospect identified — not contacted
+OWNER-20260620-199,R&F Princess Cove,CIQ Tower,2-Bed,2,China — Beijing,ZH,WeChat,wx_fc_rf_199,not_contacted,4,Agent co-broke,Vacant unit — inspection upsell
+OWNER-20260620-200,R&F Princess Cove,Waterfront,3-Bed,3,China — Shenzhen,ZH,WhatsApp,pending_200,not_contacted,5,Listing portal,Prospect identified — not contacted
