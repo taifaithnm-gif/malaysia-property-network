@@ -1,8 +1,11 @@
 import { Hero } from "@/components/sections/Hero";
+import { HomeConversionLayer } from "@/components/sections/HomeConversionLayer";
 import { Services } from "@/components/sections/Services";
 import { PriorityServices } from "@/components/sections/ServicesHub";
 import { PropertyMarketplace } from "@/components/sections/PropertyMarketplace";
 import { MarketplaceTrustLayer } from "@/components/sections/MarketplaceTrustLayer";
+import { LeadMagnetSection } from "@/components/sections/LeadMagnetSection";
+import { NewsletterSection } from "@/components/sections/NewsletterSection";
 import { getMarketplaceStats } from "@/lib/marketplace-stats";
 import { Locations } from "@/components/sections/Locations";
 import { CTA } from "@/components/sections/CTA";
@@ -22,11 +25,14 @@ export default async function HomePage({ params }: PageProps) {
   return (
     <>
       <Hero locale={locale} dict={dict} />
+      <HomeConversionLayer locale={locale} dict={dict} />
       <PriorityServices locale={locale} dict={dict} />
       <PropertyMarketplace locale={locale} dict={dict} />
       <MarketplaceTrustLayer locale={locale} dict={dict} stats={stats} />
+      <LeadMagnetSection locale={locale} dict={dict} />
       <Services locale={locale} dict={dict} />
       <Locations locale={locale} dict={dict} />
+      <NewsletterSection locale={locale} dict={dict} />
       <CTA locale={locale} dict={dict} showForm />
     </>
   );

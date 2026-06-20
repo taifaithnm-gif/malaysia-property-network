@@ -13,6 +13,7 @@ const PAGES = [
   "key-holding-service",
   "property-management-service",
   "airbnb-coordination-service",
+  "owners",
   "forest-city-property-management",
   "rf-princess-cove-property-management",
   "danga-bay-property-management",

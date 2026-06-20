@@ -30,6 +30,7 @@ export const NAV_LINKS = [
   { href: "research", key: "research" },
   { href: "project-intelligence", key: "projectIntelligence" },
   { href: "listings", key: "listings" },
+  { href: "owners", key: "owners" },
   { href: "contact", key: "contact" },
 ] as const;
 

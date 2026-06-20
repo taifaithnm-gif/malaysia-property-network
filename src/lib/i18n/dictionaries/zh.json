@@ -15,6 +15,7 @@
     "research": "研究中心",
     "projectIntelligence": "项目情报",
     "listings": "房源",
+    "owners": "业主服务",
     "about": "关于我们",
     "contact": "联系我们"
   },
@@ -53,7 +54,109 @@
     "why3": "透明报告与安全收款",
     "why4": "森林城市、富力、丹加湾专业经验",
     "ctaTitle": "准备好保护您的投资了吗？",
-    "ctaDescription": "免费获取房产评估与租赁策略咨询。"
+    "ctaDescription": "免费获取房产评估与租赁策略咨询。",
+    "conversionLayer": {
+      "title": "我们能帮您什么？",
+      "subtitle": "五条快捷通道 — 挂牌、找房、托管、商务考察、高尔夫旅行",
+      "ctaLabel": "立即开始",
+      "actions": [
+        {
+          "slug": "list-property",
+          "href": "list-property",
+          "icon": "🏠",
+          "title": "挂牌出租/出售",
+          "desc": "发布您的房源，我们负责推广与租户筛选。"
+        },
+        {
+          "slug": "property-request",
+          "href": "property-request",
+          "icon": "🔍",
+          "title": "找房需求",
+          "desc": "告诉我们预算与区域，为您匹配可用房源。"
+        },
+        {
+          "slug": "property-management",
+          "href": "services/property-management",
+          "icon": "📋",
+          "title": "房产托管",
+          "desc": "海外业主全方位管理 — 招租、维护、月度报告。"
+        },
+        {
+          "slug": "corporate-visit",
+          "href": "corporate-visit-center",
+          "icon": "🏢",
+          "title": "商务考察",
+          "desc": "新山工厂参观、项目考察及商务旅行安排。"
+        },
+        {
+          "slug": "golf-travel",
+          "href": "golf-travel-center",
+          "icon": "⛳",
+          "title": "高尔夫旅行",
+          "desc": "新山及森林城市高尔夫套餐、度假村住宿与休闲旅行。"
+        }
+      ]
+    },
+    "leadMagnets": {
+      "title": "免费市场指南",
+      "subtitle": "下载研究支持的新山房产决策指南",
+      "badge": "免费下载",
+      "formIntro": "填写信息即可解锁指南",
+      "nameLabel": "姓名",
+      "emailLabel": "邮箱",
+      "phoneLabel": "电话 / WhatsApp",
+      "downloadCta": "免费获取指南",
+      "downloadLabel": "下载指南",
+      "reportLabel": "在线阅读完整报告",
+      "successTitle": "指南已就绪",
+      "successMessage": "感谢订阅 — 请下载指南或在线阅读完整报告。",
+      "guides": [
+        {
+          "slug": "johor-rental-market",
+          "title": "新山租赁市场报告",
+          "desc": "7个跟踪项目的租赁速度、租户结构与回报展望。",
+          "highlights": ["300套房源基准", "家庭 vs 通勤需求分布", "2026年Q2展望"],
+          "downloadPath": "/downloads/johor-rental-market-report.md",
+          "reportPath": "research/reports/johor-rental-market"
+        },
+        {
+          "slug": "forest-city-owner",
+          "title": "森林城市业主指南",
+          "desc": "海外中国业主实用指南 — 物业条例、托管与租赁策略。",
+          "highlights": ["业主痛点与解决方案", "巡检与钥匙托管", "Airbnb vs 长租"],
+          "downloadPath": "/downloads/forest-city-owner-guide.md",
+          "reportPath": "research/reports/forest-city-owner"
+        },
+        {
+          "slug": "singapore-commuter-housing",
+          "title": "新加坡通勤住房指南",
+          "desc": "CIQ区域租赁需求、RTS影响及新加坡租户选房指南。",
+          "highlights": ["富力与Medini通勤溢价", "RTS通车影响", "周末租户画像"],
+          "downloadPath": "/downloads/singapore-commuter-housing-guide.md",
+          "reportPath": "research/reports/singapore-commuter-housing"
+        }
+      ]
+    },
+    "newsletter": {
+      "badge": "新山物业情报",
+      "title": "新山物业情报通讯",
+      "desc": "每月租赁指数更新、项目情报精选与业主技巧 — 专为新山海外中国投资者定制。",
+      "benefits": [
+        "每月新山租赁指数快照",
+        "您关注项目的新房源提醒",
+        "中英文业主管理技巧",
+        "市场报告与指南优先获取"
+      ],
+      "formTitle": "免费订阅",
+      "formDesc": "加入追踪新山租赁市场的海外业主社群。",
+      "nameLabel": "姓名",
+      "emailLabel": "邮箱",
+      "phoneLabel": "电话 / WhatsApp",
+      "submitLabel": "订阅",
+      "successTitle": "订阅成功",
+      "successMessage": "欢迎加入新山物业情报，请留意下一期通讯。",
+      "privacyNote": "我们尊重您的隐私，随时可退订，绝不滥发。"
+    }
   },
   "propertyManagement": {
     "title": "房产管理服务",
@@ -638,6 +741,42 @@
       ],
       "ctaTitle": "获取丹加湾托管报价",
       "ctaDescription": "告诉我们您的丹加湾单位情况，24小时内免费评估，中文回复。"
+    },
+    "owners": {
+      "title": "海外中国业主房产托管",
+      "subtitle": "新山 · 森林城市 · 富力公主湾 · 丹加湾",
+      "intro": "房产在新山，人却在中国、香港或新加坡？马来西亚房产网络是您的双语本地团队 — 提供房产托管、巡检、钥匙保管、租赁协调及 Airbnb 服务，覆盖新山核心楼盘。",
+      "seoTitle": "海外中国业主服务 | 新山房产托管",
+      "seoDescription": "为新山海外中国业主提供房产托管。森林城市、富力公主湾、丹加湾的巡检、钥匙保管、租赁协调与 Airbnb 服务。",
+      "seoKeywords": "新山房产托管, 海外业主, 森林城市托管, 富力公主湾管理, 新山房产巡检, Airbnb管理马来西亚, Johor property management",
+      "whatsappMessage": "您好，我是新山的海外中国业主，想咨询房产托管服务。",
+      "painTitle": "海外业主为何需要本地团队",
+      "painPoints": [
+        "无法定期回国检查房屋状况、霉菌或维修问题",
+        "跨境协调钥匙、保洁、承包商与租户十分困难",
+        "不熟悉物业条例、管理处流程及本地合规要求",
+        "缺乏实地推广与租户筛选，空置与租金收入受损",
+        "需要与管理处、租户、服务商进行双语沟通"
+      ],
+      "servicesTitle": "完整业主服务套件",
+      "servicesSubtitle": "五项整合服务 — 新山一支可信赖的团队",
+      "services": [
+        { "title": "房产托管", "desc": "全面招租、收租、维护协调及月度业主报告，服务海外投资者。", "slug": "services/property-management" },
+        { "title": "房产巡检", "desc": "照片与视频状况报告 — 霉菌检查、设施审计及租前/租后巡检。", "slug": "property-inspection-service" },
+        { "title": "钥匙保管", "desc": "安全保管钥匙与门禁卡，经批准后为看房、住客与承包商放行。", "slug": "key-holding-service" },
+        { "title": "租赁协调", "desc": "租户招募、签约执行、租金汇付及本地与跨境渠道的空置营销。", "slug": "property-management-service" },
+        { "title": "Airbnb 协调", "desc": "短租设置、住客交接、房源优化及度假单位当日保洁。", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "海外中国投资者信赖之选",
+      "trustItems": [
+        "双语团队 — 流利中文与英文（中文优先服务）",
+        "森林城市、富力、丹加湾及新山郊区实地驻场",
+        "透明月度报告，含照片与财务报表",
+        "覆盖中国、香港、新加坡时区的 WhatsApp 支持",
+        "整合服务 — 一个联系人，无需对接多家供应商"
+      ],
+      "ctaTitle": "免费获取业主托管方案",
+      "ctaDescription": "告诉我们您的项目、单位与现状，24小时内以中文或英文回复。"
     }
   }
 }

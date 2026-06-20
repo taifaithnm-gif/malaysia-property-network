@@ -15,6 +15,7 @@
     "research": "Research",
     "projectIntelligence": "Project Intelligence",
     "listings": "Listings",
+    "owners": "For Owners",
     "about": "About",
     "contact": "Contact"
   },
@@ -53,7 +54,109 @@
     "why3": "Transparent reporting and secure payment handling",
     "why4": "Deep expertise in Forest City, R&F, and Danga Bay",
     "ctaTitle": "Ready to protect your investment?",
-    "ctaDescription": "Get a free property assessment and rental strategy consultation."
+    "ctaDescription": "Get a free property assessment and rental strategy consultation.",
+    "conversionLayer": {
+      "title": "How Can We Help You?",
+      "subtitle": "Five fast paths — list, rent, manage, visit, or travel",
+      "ctaLabel": "Get started",
+      "actions": [
+        {
+          "slug": "list-property",
+          "href": "list-property",
+          "icon": "🏠",
+          "title": "List Property",
+          "desc": "List your unit for rent or sale. We handle marketing and tenant screening."
+        },
+        {
+          "slug": "property-request",
+          "href": "property-request",
+          "icon": "🔍",
+          "title": "Property Request",
+          "desc": "Tell us your budget and area. We match you with available units."
+        },
+        {
+          "slug": "property-management",
+          "href": "services/property-management",
+          "icon": "📋",
+          "title": "Property Management",
+          "desc": "Full-service management for overseas owners — leasing, maintenance, reporting."
+        },
+        {
+          "slug": "corporate-visit",
+          "href": "corporate-visit-center",
+          "icon": "🏢",
+          "title": "Corporate Visit",
+          "desc": "Factory tours, site visits, and business travel coordination in Johor."
+        },
+        {
+          "slug": "golf-travel",
+          "href": "golf-travel-center",
+          "icon": "⛳",
+          "title": "Golf Travel",
+          "desc": "Golf packages, resort stays, and leisure travel across Johor and Forest City."
+        }
+      ]
+    },
+    "leadMagnets": {
+      "title": "Free Market Guides",
+      "subtitle": "Download research-backed guides for Johor property decisions",
+      "badge": "Free download",
+      "formIntro": "Enter your details to unlock the guide",
+      "nameLabel": "Full Name",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone / WhatsApp",
+      "downloadCta": "Get free guide",
+      "downloadLabel": "Download guide",
+      "reportLabel": "Read full report online",
+      "successTitle": "Your guide is ready",
+      "successMessage": "Thank you — download your guide below or read the full report online.",
+      "guides": [
+        {
+          "slug": "johor-rental-market",
+          "title": "Johor Rental Market Report",
+          "desc": "Rental velocity, tenant mix, and yield outlook across 7 tracked Johor projects.",
+          "highlights": ["300 listings benchmarked", "Family vs commuter demand split", "Q2 2026 outlook"],
+          "downloadPath": "/downloads/johor-rental-market-report.md",
+          "reportPath": "research/reports/johor-rental-market"
+        },
+        {
+          "slug": "forest-city-owner",
+          "title": "Forest City Owner Guide",
+          "desc": "Practical guide for overseas Chinese owners — strata rules, management, and rental strategy.",
+          "highlights": ["Owner pain points & solutions", "Inspection & key holding", "Airbnb vs long-term rent"],
+          "downloadPath": "/downloads/forest-city-owner-guide.md",
+          "reportPath": "research/reports/forest-city-owner"
+        },
+        {
+          "slug": "singapore-commuter-housing",
+          "title": "Singapore Commuter Housing Guide",
+          "desc": "CIQ-area rental demand, RTS impact, and unit selection for Singapore-based tenants.",
+          "highlights": ["R&F & Medini commuter premium", "RTS completion impact", "Weekend tenant profiles"],
+          "downloadPath": "/downloads/singapore-commuter-housing-guide.md",
+          "reportPath": "research/reports/singapore-commuter-housing"
+        }
+      ]
+    },
+    "newsletter": {
+      "badge": "Johor Property Intelligence",
+      "title": "Johor Property Intelligence Newsletter",
+      "desc": "Monthly rental index updates, project intelligence highlights, and owner tips — curated for overseas Chinese investors in Johor Bahru.",
+      "benefits": [
+        "Monthly Johor rental index snapshot",
+        "New listing alerts in your preferred projects",
+        "Owner management tips in English and Chinese",
+        "Early access to market reports and guides"
+      ],
+      "formTitle": "Subscribe free",
+      "formDesc": "Join overseas owners who track Johor rental markets from abroad.",
+      "nameLabel": "Full Name",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone / WhatsApp",
+      "submitLabel": "Subscribe",
+      "successTitle": "You're subscribed",
+      "successMessage": "Welcome to Johor Property Intelligence. Watch your inbox for the next issue.",
+      "privacyNote": "We respect your privacy. Unsubscribe anytime. No spam."
+    }
   },
   "propertyManagement": {
     "title": "Property Management Services",
@@ -638,6 +741,42 @@
       ],
       "ctaTitle": "Get Your Danga Bay Management Quote",
       "ctaDescription": "Tell us about your Danga Bay unit. Free assessment within 24 hours — reply in 中文 or English."
+    },
+    "owners": {
+      "title": "Property Management for Overseas Chinese Owners",
+      "subtitle": "Johor Bahru · Forest City · R&F · Danga Bay",
+      "intro": "Own property in Johor but live in China, Hong Kong, or Singapore? Malaysia Property Network is your bilingual local team — property management, inspection, key holding, rental coordination, and Airbnb services across Johor's key developments.",
+      "seoTitle": "Overseas Chinese Owner Services | Johor Property Management",
+      "seoDescription": "Property management for overseas Chinese owners in Johor Bahru. Inspection, key holding, rental coordination, and Airbnb services in Forest City, R&F Princess Cove, and Danga Bay.",
+      "seoKeywords": "Johor property management, 新山房产托管, 海外业主, overseas Chinese owner Malaysia, Forest City management, 富力公主湾托管, property inspection Johor, Airbnb management Malaysia",
+      "whatsappMessage": "Hi, I am an overseas Chinese owner with property in Johor Bahru. I would like to enquire about your management services.",
+      "painTitle": "Why Overseas Owners Need a Local Team",
+      "painPoints": [
+        "Cannot visit your unit regularly to check condition, mould, or maintenance issues",
+        "Difficulty coordinating keys, cleaners, contractors, and tenants across borders",
+        "Unsure about strata rules, management office procedures, and local compliance",
+        "Vacancy and rental income suffer without on-ground marketing and tenant screening",
+        "Need bilingual communication with management, tenants, and service providers"
+      ],
+      "servicesTitle": "Complete Owner Service Suite",
+      "servicesSubtitle": "Five integrated services — one trusted team in Johor Bahru",
+      "services": [
+        { "title": "Property Management", "desc": "Full leasing, rent collection, maintenance coordination, and monthly owner reporting for overseas investors.", "slug": "services/property-management" },
+        { "title": "Property Inspection", "desc": "Photo and video condition reports — mould checks, fixture audits, and pre/post-tenancy inspections.", "slug": "property-inspection-service" },
+        { "title": "Key Holding", "desc": "Secure key and access card custody with approved dispatch for viewings, guests, and contractors.", "slug": "key-holding-service" },
+        { "title": "Rental Coordination", "desc": "Tenant sourcing, lease execution, rent remittance, and vacancy marketing across local and cross-border channels.", "slug": "property-management-service" },
+        { "title": "Airbnb Coordination", "desc": "Short-term rental setup, guest turnover, listing optimisation, and same-day cleaning for holiday units.", "slug": "airbnb-coordination-service" }
+      ],
+      "trustTitle": "Trusted by Overseas Chinese Investors",
+      "trustItems": [
+        "Bilingual team — fluent Mandarin and English (中文优先服务)",
+        "On-ground presence across Forest City, R&F, Danga Bay, and suburban JB",
+        "Transparent monthly reports with photos and financial statements",
+        "WhatsApp support across China, Hong Kong, and Singapore time zones",
+        "Integrated services — one contact instead of multiple vendors"
+      ],
+      "ctaTitle": "Get Your Free Owner Management Plan",
+      "ctaDescription": "Tell us your project, unit, and current situation. We respond within 24 hours in Chinese or English."
     }
   }
 }
