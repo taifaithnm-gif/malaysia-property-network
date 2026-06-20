@@ -1,0 +1,28 @@
+{
+  "projectKey": "country-garden-danga-bay",
+  "projectName": "Country Garden Danga Bay",
+  "tag": "family",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "local_family",
+  "targetTenantType": "Local Family",
+  "projectSummary": "Country Garden Danga Bay offers newer waterfront condos within the mature Danga Bay district with stable family rental demand.",
+  "amenities": [
+    "Waterfront pool & gym",
+    "24h security",
+    "Covered parking",
+    "Lobby concierge",
+    "Danga Bay promenade",
+    "Retail & F&B nearby"
+  ],
+  "rentalAnalysis": [
+    "Rental demand score 4/5 within Danga Bay district.",
+    "Average rent ~RM 2,050; furnished 2-bed leases in 4–7 weeks.",
+    "Price against same-tower recent rents, not district-wide averages."
+  ],
+  "tenantProfile": [
+    "Primary target: Local Family.",
+    "Prefers furnished units with responsive management near waterfront amenities."
+  ],
+  "profileSlug": "country-garden-danga-bay",
+  "gallerySlug": "country-garden-danga-bay/gallery"
+}

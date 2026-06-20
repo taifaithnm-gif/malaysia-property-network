@@ -1,0 +1,16 @@
+{
+  "projectKey": "country-garden-danga-bay",
+  "projectName": "碧桂园丹加湾",
+  "averageRent": "RM 2,050/月",
+  "averageRentValue": 2050,
+  "rentalYield": "5.2–6.5%",
+  "vacancyEstimate": "典型空置 4–7 周",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "本地家庭 — 丹加湾滨海及零售配套长租。",
+  "insights": [
+    "碧桂园丹加湾平均租金约 RM 2,050；需求评分 4/5。",
+    "毛收益约 5.2–6.5%；装修房源空置 4–7 周。",
+    "较新碧桂园楼栋出租速度优于部分老旧丹加湾楼盘。"
+  ]
+}

@@ -12,6 +12,7 @@ const locations = [
   { slug: "forest-city", key: "forestCity" as const, color: "from-green-600 to-green-800" },
   { slug: "rf-princess-cove", key: "rfPrincessCove" as const, color: "from-purple-600 to-purple-800" },
   { slug: "danga-bay", key: "dangaBay" as const, color: "from-orange-600 to-orange-800" },
+  { slug: "country-garden-danga-bay", key: "countryGardenDangaBay" as const, color: "from-amber-600 to-amber-800" },
   { slug: "bukit-indah", key: "bukitIndah" as const, color: "from-teal-600 to-teal-800" },
   { slug: "mount-austin", key: "mountAustin" as const, color: "from-blue-600 to-blue-800" },
   { slug: "eco-botanic", key: "ecoBotanic" as const, color: "from-emerald-600 to-emerald-800" },

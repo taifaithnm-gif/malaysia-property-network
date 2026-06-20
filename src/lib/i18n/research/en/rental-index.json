@@ -1,8 +1,8 @@
 {
   "seoTitle": "Johor Rental Index | 7 Project Rental Data",
-  "seoDescription": "Average rent, rental range, yield and occupancy for 7 Johor Bahru projects — updated from operational inventory.",
+  "seoDescription": "Average rent, rental range, yield and occupancy for 8 Johor Bahru projects — updated from operational inventory.",
   "title": "Johor Rental Index",
-  "subtitle": "2026 Q2 benchmark · 7 projects",
+  "subtitle": "2026 Q2 benchmark · 8 projects",
   "intro": "Index grounded in Sprint 03/04 operational inventory and district transaction bands, reviewed quarterly. Use for project comparison and pricing reference.",
   "updated": "2026-06-20",
   "projects": [
@@ -55,6 +55,16 @@
       "rentalRange": "RM 1,600 – 3,000",
       "yield": "4.4 – 5.6%",
       "occupancy": "80 – 87%"
+    },
+    {
+      "key": "country-garden-danga-bay",
+      "slug": "country-garden-danga-bay",
+      "name": "Country Garden Danga Bay",
+      "averageRent": "RM 2,050/mo",
+      "averageRentValue": 2050,
+      "rentalRange": "RM 1,500 – 2,600",
+      "yield": "5.2 – 6.5%",
+      "occupancy": "80 – 88%"
     },
     {
       "key": "danga-bay",

@@ -5,170 +5,61 @@
   },
   "sections": [
     {
-      "id": "waterfront",
-      "titleEn": "R&F Princess Cove — Waterfront",
-      "titleZh": "富力公主湾 — 滨海",
-      "descEn": "Causeway views and marina frontage.",
-      "descZh": "关卡景观与滨海立面。",
+      "id": "exterior",
+      "titleEn": "R&F Princess Cove — Exterior",
+      "titleZh": "富力公主湾 — 外观",
+      "descEn": "Tower facade, entrance and street context.",
+      "descZh": "塔楼立面、入口与街区环境。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-0",
-          "altEn": "R&F Princess Cove Waterfront — photo 1",
-          "altZh": "富力公主湾滨海 — 图 1"
+          "src": "https://images.unsplash.com/photo-1600607687642-c717a5cfb85e?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-96",
+          "altEn": "R&F Princess Cove Exterior — exterior 1",
+          "altZh": "富力公主湾外观 — exterior 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-1",
-          "altEn": "R&F Princess Cove Waterfront — photo 2",
-          "altZh": "富力公主湾滨海 — 图 2"
+          "src": "https://images.unsplash.com/photo-1600585154526-990d4de0c960?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-97",
+          "altEn": "R&F Princess Cove Exterior — exterior 2",
+          "altZh": "富力公主湾外观 — exterior 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-2",
-          "altEn": "R&F Princess Cove Waterfront — photo 3",
-          "altZh": "富力公主湾滨海 — 图 3"
+          "src": "https://images.unsplash.com/photo-1600573472591-ee6b5c2465c8?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-98",
+          "altEn": "R&F Princess Cove Exterior — exterior 3",
+          "altZh": "富力公主湾外观 — exterior 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-3",
-          "altEn": "R&F Princess Cove Waterfront — photo 4",
-          "altZh": "富力公主湾滨海 — 图 4"
+          "src": "https://images.unsplash.com/photo-1600047509360-9e2b9c9bf3c4?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-99",
+          "altEn": "R&F Princess Cove Exterior — exterior 4",
+          "altZh": "富力公主湾外观 — exterior 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-4",
-          "altEn": "R&F Princess Cove Waterfront — photo 5",
-          "altZh": "富力公主湾滨海 — 图 5"
+          "src": "https://images.unsplash.com/photo-1613977258806-b44694888747?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-100",
+          "altEn": "R&F Princess Cove Exterior — exterior 5",
+          "altZh": "富力公主湾外观 — exterior 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-5",
-          "altEn": "R&F Princess Cove Waterfront — photo 6",
-          "altZh": "富力公主湾滨海 — 图 6"
+          "src": "https://images.unsplash.com/photo-1631889992884-17914bbaf36c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-101",
+          "altEn": "R&F Princess Cove Exterior — exterior 6",
+          "altZh": "富力公主湾外观 — exterior 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-6",
-          "altEn": "R&F Princess Cove Waterfront — photo 7",
-          "altZh": "富力公主湾滨海 — 图 7"
+          "src": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-102",
+          "altEn": "R&F Princess Cove Exterior — exterior 7",
+          "altZh": "富力公主湾外观 — exterior 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-7",
-          "altEn": "R&F Princess Cove Waterfront — photo 8",
-          "altZh": "富力公主湾滨海 — 图 8"
+          "src": "https://images.unsplash.com/photo-1570129477492-45c89571c187?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-103",
+          "altEn": "R&F Princess Cove Exterior — exterior 8",
+          "altZh": "富力公主湾外观 — exterior 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-8",
-          "altEn": "R&F Princess Cove Waterfront — photo 9",
-          "altZh": "富力公主湾滨海 — 图 9"
+          "src": "https://images.unsplash.com/photo-1583600474467-15ccb3a0895a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-104",
+          "altEn": "R&F Princess Cove Exterior — exterior 9",
+          "altZh": "富力公主湾外观 — exterior 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-9",
-          "altEn": "R&F Princess Cove Waterfront — photo 10",
-          "altZh": "富力公主湾滨海 — 图 10"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-10",
-          "altEn": "R&F Princess Cove Waterfront — photo 11",
-          "altZh": "富力公主湾滨海 — 图 11"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-11",
-          "altEn": "R&F Princess Cove Waterfront — photo 12",
-          "altZh": "富力公主湾滨海 — 图 12"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-12",
-          "altEn": "R&F Princess Cove Waterfront — photo 13",
-          "altZh": "富力公主湾滨海 — 图 13"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-13",
-          "altEn": "R&F Princess Cove Waterfront — photo 14",
-          "altZh": "富力公主湾滨海 — 图 14"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-waterfront-14",
-          "altEn": "R&F Princess Cove Waterfront — photo 15",
-          "altZh": "富力公主湾滨海 — 图 15"
-        }
-      ]
-    },
-    {
-      "id": "ciq",
-      "titleEn": "R&F Princess Cove — CIQ Corridor",
-      "titleZh": "富力公主湾 — 关卡走廊",
-      "descEn": "Commuter-friendly towers near customs.",
-      "descZh": "近关卡通勤塔楼。",
-      "images": [
-        {
-          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-0",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 1",
-          "altZh": "富力公主湾关卡走廊 — 图 1"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-1",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 2",
-          "altZh": "富力公主湾关卡走廊 — 图 2"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-2",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 3",
-          "altZh": "富力公主湾关卡走廊 — 图 3"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-3",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 4",
-          "altZh": "富力公主湾关卡走廊 — 图 4"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-4",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 5",
-          "altZh": "富力公主湾关卡走廊 — 图 5"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-5",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 6",
-          "altZh": "富力公主湾关卡走廊 — 图 6"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-6",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 7",
-          "altZh": "富力公主湾关卡走廊 — 图 7"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-7",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 8",
-          "altZh": "富力公主湾关卡走廊 — 图 8"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-8",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 9",
-          "altZh": "富力公主湾关卡走廊 — 图 9"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-9",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 10",
-          "altZh": "富力公主湾关卡走廊 — 图 10"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-10",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 11",
-          "altZh": "富力公主湾关卡走廊 — 图 11"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-11",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 12",
-          "altZh": "富力公主湾关卡走廊 — 图 12"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-12",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 13",
-          "altZh": "富力公主湾关卡走廊 — 图 13"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-13",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 14",
-          "altZh": "富力公主湾关卡走廊 — 图 14"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-ciq-14",
-          "altEn": "R&F Princess Cove CIQ Corridor — photo 15",
-          "altZh": "富力公主湾关卡走廊 — 图 15"
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-exterior-105",
+          "altEn": "R&F Princess Cove Exterior — exterior 10",
+          "altZh": "富力公主湾外观 — exterior 10"
         }
       ]
     },
@@ -176,167 +67,294 @@
       "id": "facilities",
       "titleEn": "R&F Princess Cove — Facilities",
       "titleZh": "富力公主湾 — 配套",
-      "descEn": "Pool, gym, and lobby areas.",
-      "descZh": "泳池、健身与大堂。",
+      "descEn": "Lobby, security, parking and common areas.",
+      "descZh": "大堂、安保、停车与公共区域。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-0",
-          "altEn": "R&F Princess Cove Facilities — photo 1",
-          "altZh": "富力公主湾配套 — 图 1"
+          "src": "https://images.unsplash.com/photo-1617103134515-47bc6e059a7b?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-106",
+          "altEn": "R&F Princess Cove Facilities — facilities 1",
+          "altZh": "富力公主湾配套 — facilities 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-1",
-          "altEn": "R&F Princess Cove Facilities — photo 2",
-          "altZh": "富力公主湾配套 — 图 2"
+          "src": "https://images.unsplash.com/photo-1628744092235-9c31d30a3253?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-107",
+          "altEn": "R&F Princess Cove Facilities — facilities 2",
+          "altZh": "富力公主湾配套 — facilities 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-2",
-          "altEn": "R&F Princess Cove Facilities — photo 3",
-          "altZh": "富力公主湾配套 — 图 3"
+          "src": "https://images.unsplash.com/photo-1632299829478-f3210d5c4b1a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-108",
+          "altEn": "R&F Princess Cove Facilities — facilities 3",
+          "altZh": "富力公主湾配套 — facilities 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-3",
-          "altEn": "R&F Princess Cove Facilities — photo 4",
-          "altZh": "富力公主湾配套 — 图 4"
+          "src": "https://images.unsplash.com/photo-1643385960445-dc914f4591f1?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-109",
+          "altEn": "R&F Princess Cove Facilities — facilities 4",
+          "altZh": "富力公主湾配套 — facilities 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-4",
-          "altEn": "R&F Princess Cove Facilities — photo 5",
-          "altZh": "富力公主湾配套 — 图 5"
+          "src": "https://images.unsplash.com/photo-1661961110679-77f4f30a8a1e?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-110",
+          "altEn": "R&F Princess Cove Facilities — facilities 5",
+          "altZh": "富力公主湾配套 — facilities 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-5",
-          "altEn": "R&F Princess Cove Facilities — photo 6",
-          "altZh": "富力公主湾配套 — 图 6"
+          "src": "https://images.unsplash.com/photo-1670272503919-44703a065f65?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-111",
+          "altEn": "R&F Princess Cove Facilities — facilities 6",
+          "altZh": "富力公主湾配套 — facilities 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-6",
-          "altEn": "R&F Princess Cove Facilities — photo 7",
-          "altZh": "富力公主湾配套 — 图 7"
+          "src": "https://images.unsplash.com/photo-1687908900129-5da01ce0f609?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-112",
+          "altEn": "R&F Princess Cove Facilities — facilities 7",
+          "altZh": "富力公主湾配套 — facilities 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-7",
-          "altEn": "R&F Princess Cove Facilities — photo 8",
-          "altZh": "富力公主湾配套 — 图 8"
+          "src": "https://images.unsplash.com/photo-1699800257934-9e5b5c5b5b5b?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-113",
+          "altEn": "R&F Princess Cove Facilities — facilities 8",
+          "altZh": "富力公主湾配套 — facilities 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-8",
-          "altEn": "R&F Princess Cove Facilities — photo 9",
-          "altZh": "富力公主湾配套 — 图 9"
+          "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-114",
+          "altEn": "R&F Princess Cove Facilities — facilities 9",
+          "altZh": "富力公主湾配套 — facilities 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-9",
-          "altEn": "R&F Princess Cove Facilities — photo 10",
-          "altZh": "富力公主湾配套 — 图 10"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-10",
-          "altEn": "R&F Princess Cove Facilities — photo 11",
-          "altZh": "富力公主湾配套 — 图 11"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-11",
-          "altEn": "R&F Princess Cove Facilities — photo 12",
-          "altZh": "富力公主湾配套 — 图 12"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-12",
-          "altEn": "R&F Princess Cove Facilities — photo 13",
-          "altZh": "富力公主湾配套 — 图 13"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-13",
-          "altEn": "R&F Princess Cove Facilities — photo 14",
-          "altZh": "富力公主湾配套 — 图 14"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-facilities-14",
-          "altEn": "R&F Princess Cove Facilities — photo 15",
-          "altZh": "富力公主湾配套 — 图 15"
+          "src": "https://images.unsplash.com/photo-1484154218962-a197022bcb5d?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-facilities-115",
+          "altEn": "R&F Princess Cove Facilities — facilities 10",
+          "altZh": "富力公主湾配套 — facilities 10"
         }
       ]
     },
     {
-      "id": "interiors",
-      "titleEn": "R&F Princess Cove — Interiors",
-      "titleZh": "富力公主湾 — 室内",
-      "descEn": "Furnished units for viewing prep.",
-      "descZh": "装修单元看楼参考。",
+      "id": "pool",
+      "titleEn": "R&F Princess Cove — Pool",
+      "titleZh": "富力公主湾 — 泳池",
+      "descEn": "Swimming pool and deck areas.",
+      "descZh": "游泳池与甲板区域。",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-0",
-          "altEn": "R&F Princess Cove Interiors — photo 1",
-          "altZh": "富力公主湾室内 — 图 1"
+          "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-116",
+          "altEn": "R&F Princess Cove Pool — pool 1",
+          "altZh": "富力公主湾泳池 — pool 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-1",
-          "altEn": "R&F Princess Cove Interiors — photo 2",
-          "altZh": "富力公主湾室内 — 图 2"
+          "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93636?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-117",
+          "altEn": "R&F Princess Cove Pool — pool 2",
+          "altZh": "富力公主湾泳池 — pool 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-2",
-          "altEn": "R&F Princess Cove Interiors — photo 3",
-          "altZh": "富力公主湾室内 — 图 3"
+          "src": "https://images.unsplash.com/photo-1512917774080-667c177ea2b9?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-118",
+          "altEn": "R&F Princess Cove Pool — pool 3",
+          "altZh": "富力公主湾泳池 — pool 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-3",
-          "altEn": "R&F Princess Cove Interiors — photo 4",
-          "altZh": "富力公主湾室内 — 图 4"
+          "src": "https://images.unsplash.com/photo-1523217582562-09d0def993a4?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-119",
+          "altEn": "R&F Princess Cove Pool — pool 4",
+          "altZh": "富力公主湾泳池 — pool 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-4",
-          "altEn": "R&F Princess Cove Interiors — photo 5",
-          "altZh": "富力公主湾室内 — 图 5"
+          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-120",
+          "altEn": "R&F Princess Cove Pool — pool 5",
+          "altZh": "富力公主湾泳池 — pool 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-5",
-          "altEn": "R&F Princess Cove Interiors — photo 6",
-          "altZh": "富力公主湾室内 — 图 6"
+          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-121",
+          "altEn": "R&F Princess Cove Pool — pool 6",
+          "altZh": "富力公主湾泳池 — pool 6"
         },
         {
-          "src": "https://images.unsplash.com/photo-1513584684374-8bab748f235c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-6",
-          "altEn": "R&F Princess Cove Interiors — photo 7",
-          "altZh": "富力公主湾室内 — 图 7"
+          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-122",
+          "altEn": "R&F Princess Cove Pool — pool 7",
+          "altZh": "富力公主湾泳池 — pool 7"
         },
         {
-          "src": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-7",
-          "altEn": "R&F Princess Cove Interiors — photo 8",
-          "altZh": "富力公主湾室内 — 图 8"
+          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-123",
+          "altEn": "R&F Princess Cove Pool — pool 8",
+          "altZh": "富力公主湾泳池 — pool 8"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-8",
-          "altEn": "R&F Princess Cove Interiors — photo 9",
-          "altZh": "富力公主湾室内 — 图 9"
+          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-124",
+          "altEn": "R&F Princess Cove Pool — pool 9",
+          "altZh": "富力公主湾泳池 — pool 9"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe5e?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-9",
-          "altEn": "R&F Princess Cove Interiors — photo 10",
-          "altZh": "富力公主湾室内 — 图 10"
+          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-pool-125",
+          "altEn": "R&F Princess Cove Pool — pool 10",
+          "altZh": "富力公主湾泳池 — pool 10"
+        }
+      ]
+    },
+    {
+      "id": "gym",
+      "titleEn": "R&F Princess Cove — Gym",
+      "titleZh": "富力公主湾 — 健身",
+      "descEn": "Fitness centre and recreation facilities.",
+      "descZh": "健身中心与休闲设施。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-126",
+          "altEn": "R&F Princess Cove Gym — gym 1",
+          "altZh": "富力公主湾健身 — gym 1"
         },
         {
-          "src": "https://images.unsplash.com/photo-1505142468610-359e7a316be0?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-10",
-          "altEn": "R&F Princess Cove Interiors — photo 11",
-          "altZh": "富力公主湾室内 — 图 11"
+          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-127",
+          "altEn": "R&F Princess Cove Gym — gym 2",
+          "altZh": "富力公主湾健身 — gym 2"
         },
         {
-          "src": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-11",
-          "altEn": "R&F Princess Cove Interiors — photo 12",
-          "altZh": "富力公主湾室内 — 图 12"
+          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-128",
+          "altEn": "R&F Princess Cove Gym — gym 3",
+          "altZh": "富力公主湾健身 — gym 3"
         },
         {
-          "src": "https://images.unsplash.com/photo-1566073771259-d722a7420013?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-12",
-          "altEn": "R&F Princess Cove Interiors — photo 13",
-          "altZh": "富力公主湾室内 — 图 13"
+          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-129",
+          "altEn": "R&F Princess Cove Gym — gym 4",
+          "altZh": "富力公主湾健身 — gym 4"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-13",
-          "altEn": "R&F Princess Cove Interiors — photo 14",
-          "altZh": "富力公主湾室内 — 图 14"
+          "src": "https://images.unsplash.com/photo-1613490493576-7fde8acd811c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-130",
+          "altEn": "R&F Princess Cove Gym — gym 5",
+          "altZh": "富力公主湾健身 — gym 5"
         },
         {
-          "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80&auto=format&fit=crop&sig=s3-rf-princess-cove-interiors-14",
-          "altEn": "R&F Princess Cove Interiors — photo 15",
-          "altZh": "富力公主湾室内 — 图 15"
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-131",
+          "altEn": "R&F Princess Cove Gym — gym 6",
+          "altZh": "富力公主湾健身 — gym 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1582268611958-691b6730df2f?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-132",
+          "altEn": "R&F Princess Cove Gym — gym 7",
+          "altZh": "富力公主湾健身 — gym 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cd7a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-133",
+          "altEn": "R&F Princess Cove Gym — gym 8",
+          "altZh": "富力公主湾健身 — gym 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600566753190-17f0baa5a365?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-134",
+          "altEn": "R&F Princess Cove Gym — gym 9",
+          "altZh": "富力公主湾健身 — gym 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600210492486-724fe369c783?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-gym-135",
+          "altEn": "R&F Princess Cove Gym — gym 10",
+          "altZh": "富力公主湾健身 — gym 10"
+        }
+      ]
+    },
+    {
+      "id": "units",
+      "titleEn": "R&F Princess Cove — Units",
+      "titleZh": "富力公主湾 — 单元",
+      "descEn": "Interior layouts and furnished examples.",
+      "descZh": "室内户型与装修示例。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1600607687642-c717a5cfb85e?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-136",
+          "altEn": "R&F Princess Cove Units — units 1",
+          "altZh": "富力公主湾单元 — units 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600585154526-990d4de0c960?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-137",
+          "altEn": "R&F Princess Cove Units — units 2",
+          "altZh": "富力公主湾单元 — units 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600573472591-ee6b5c2465c8?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-138",
+          "altEn": "R&F Princess Cove Units — units 3",
+          "altZh": "富力公主湾单元 — units 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1600047509360-9e2b9c9bf3c4?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-139",
+          "altEn": "R&F Princess Cove Units — units 4",
+          "altZh": "富力公主湾单元 — units 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1613977258806-b44694888747?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-140",
+          "altEn": "R&F Princess Cove Units — units 5",
+          "altZh": "富力公主湾单元 — units 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1631889992884-17914bbaf36c?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-141",
+          "altEn": "R&F Princess Cove Units — units 6",
+          "altZh": "富力公主湾单元 — units 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-142",
+          "altEn": "R&F Princess Cove Units — units 7",
+          "altZh": "富力公主湾单元 — units 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1570129477492-45c89571c187?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-143",
+          "altEn": "R&F Princess Cove Units — units 8",
+          "altZh": "富力公主湾单元 — units 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1583600474467-15ccb3a0895a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-144",
+          "altEn": "R&F Princess Cove Units — units 9",
+          "altZh": "富力公主湾单元 — units 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1605276374104-de8862a76e2a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-units-145",
+          "altEn": "R&F Princess Cove Units — units 10",
+          "altZh": "富力公主湾单元 — units 10"
+        }
+      ]
+    },
+    {
+      "id": "waterfront",
+      "titleEn": "R&F Princess Cove — Waterfront",
+      "titleZh": "富力公主湾 — 滨海",
+      "descEn": "Bay views, promenade and coastal context.",
+      "descZh": "海湾景观、步道与滨海环境。",
+      "images": [
+        {
+          "src": "https://images.unsplash.com/photo-1617103134515-47bc6e059a7b?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-146",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 1",
+          "altZh": "富力公主湾滨海 — waterfront 1"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1628744092235-9c31d30a3253?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-147",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 2",
+          "altZh": "富力公主湾滨海 — waterfront 2"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1632299829478-f3210d5c4b1a?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-148",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 3",
+          "altZh": "富力公主湾滨海 — waterfront 3"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1643385960445-dc914f4591f1?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-149",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 4",
+          "altZh": "富力公主湾滨海 — waterfront 4"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1661961110679-77f4f30a8a1e?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-150",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 5",
+          "altZh": "富力公主湾滨海 — waterfront 5"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1670272503919-44703a065f65?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-151",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 6",
+          "altZh": "富力公主湾滨海 — waterfront 6"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1687908900129-5da01ce0f609?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-152",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 7",
+          "altZh": "富力公主湾滨海 — waterfront 7"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1699800257934-9e5b5c5b5b5b?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-153",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 8",
+          "altZh": "富力公主湾滨海 — waterfront 8"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-154",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 9",
+          "altZh": "富力公主湾滨海 — waterfront 9"
+        },
+        {
+          "src": "https://images.unsplash.com/photo-1484154218962-a197022bcb5d?w=800&q=80&auto=format&fit=crop&sig=mo-rf-princess-cove-waterfront-155",
+          "altEn": "R&F Princess Cove Waterfront — waterfront 10",
+          "altZh": "富力公主湾滨海 — waterfront 10"
         }
       ]
     }

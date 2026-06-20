@@ -1,0 +1,145 @@
+{
+  "key": "country-garden-danga-bay",
+  "title": "碧桂园丹加湾",
+  "subtitle": "碧桂园滨海塔楼 · 丹加湾片区",
+  "intro": "碧桂园丹加湾是丹加湾成熟滨海区内的标杆住宅集群。本页提供租赁数据、投资评分、图库、常见问题及海外业主服务。",
+  "seoTitle": "碧桂园丹加湾 | 项目简介与租赁数据",
+  "seoDescription": "碧桂园丹加湾项目简介：租金区间、投资评分、图库、常见问题及新山海外业主托管服务。",
+  "seoKeywords": "碧桂园丹加湾, Country Garden Danga Bay, 丹加湾租赁, 新山房产",
+  "whatsappMessage": "您好，我在了解碧桂园丹加湾，想咨询业主托管服务。",
+  "guideSlug": "danga-bay",
+  "gallerySlug": "country-garden-danga-bay/gallery",
+  "intelligenceSlug": "project-intelligence/country-garden-danga-bay",
+  "labels": {
+    "gallery": "项目图库",
+    "facts": "项目概况",
+    "map": "位置地图",
+    "propertyTypes": "户型类型",
+    "facilities": "配套设施",
+    "relatedServices": "相关业主服务",
+    "listProperty": "挂牌出租/出售",
+    "propertyRequest": "提交找房需求",
+    "readGuide": "阅读丹加湾区域指南",
+    "rentalData": "租赁数据",
+    "investmentScore": "投资评分",
+    "faqs": "常见问题",
+    "viewIntelligence": "查看完整情报档案",
+    "demandScore": "租赁需求"
+  },
+  "rentalData": {
+    "averageRent": "RM 2,050/月",
+    "rentalRange": "RM 1,500 – 2,600",
+    "yield": "5.2 – 6.5%",
+    "vacancy": "典型空置 4–7 周",
+    "demandScore": 4,
+    "targetTenant": "本地家庭与收益型投资者"
+  },
+  "investmentScore": 72,
+  "gallery": [
+    {
+      "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80&auto=format&fit=crop&sig=mo-country-garden-danga-bay-hero-516",
+      "alt": "碧桂园丹加湾 — 滨海塔楼"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93636?w=1200&q=80&auto=format&fit=crop&sig=mo-country-garden-danga-bay-hero-517",
+      "alt": "碧桂园丹加湾 — 海湾景观"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1512917774080-667c177ea2b9?w=1200&q=80&auto=format&fit=crop&sig=mo-country-garden-danga-bay-hero-518",
+      "alt": "碧桂园丹加湾 — 泳池配套"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1523217582562-09d0def993a4?w=1200&q=80&auto=format&fit=crop&sig=mo-country-garden-danga-bay-hero-519",
+      "alt": "碧桂园丹加湾 — 装修单元"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1200&q=80&auto=format&fit=crop&sig=mo-country-garden-danga-bay-hero-520",
+      "alt": "碧桂园丹加湾 — 滨海步道"
+    }
+  ],
+  "facts": [
+    {
+      "label": "开发商",
+      "value": "碧桂园"
+    },
+    {
+      "label": "位置",
+      "value": "丹加湾滨海，新山"
+    },
+    {
+      "label": "片区",
+      "value": "丹加湾成熟混合用途区"
+    },
+    {
+      "label": "典型户型",
+      "value": "单间至三房滨海公寓"
+    },
+    {
+      "label": "产权",
+      "value": "各楼栋永久/租赁产权不同"
+    },
+    {
+      "label": "竣工",
+      "value": "2012–2018（碧桂园期数）"
+    },
+    {
+      "label": "距关卡",
+      "value": "车程约15–20分钟"
+    },
+    {
+      "label": "业主画像",
+      "value": "中国投资者、本地房东、收益型买家"
+    }
+  ],
+  "map": {
+    "lat": 1.4728,
+    "lng": 103.7218,
+    "label": "碧桂园丹加湾，新山丹加湾"
+  },
+  "propertyTypes": [
+    {
+      "name": "单间 / 一房",
+      "desc": "入门级滨海单位，近丹加湾景点，具旅游与短租潜力。"
+    },
+    {
+      "name": "两房",
+      "desc": "本地家庭租赁主力户型，装修单位出租更快。"
+    },
+    {
+      "name": "三房海景",
+      "desc": "家庭海景大户型，租户对维护标准要求较高。"
+    }
+  ],
+  "facilities": [
+    "滨海步道",
+    "泳池与健身房",
+    "24小时安保",
+    "有盖停车",
+    "大堂礼宾",
+    "近丹加湾零售餐饮",
+    "旅游休闲人流",
+    "楼栋管理处"
+  ],
+  "faqs": [
+    {
+      "q": "碧桂园丹加湾与其他丹加湾楼盘有何不同？",
+      "a": "碧桂园期数建筑较新、管理品牌统一，在丹加湾片区内装修两房出租表现优于部分老旧酒店公寓。"
+    },
+    {
+      "q": "租金大概多少？",
+      "a": "平均租金约 RM 2,050/月，区间 RM 1,500–2,600，视装修、景观与楼层而定，毛收益约 5.2–6.5%。"
+    },
+    {
+      "q": "典型租户是谁？",
+      "a": "以本地家庭及新山长期租户为主，滨海景点附近部分楼栋有旅游短租需求（须符合物业条例）。"
+    },
+    {
+      "q": "你们托管碧桂园丹加湾吗？",
+      "a": "是的。我们为海外业主提供验房、钥匙托管、全面托管及 Airbnb 协调服务。"
+    },
+    {
+      "q": "投资评分是多少？",
+      "a": "投资评分 72/100，高于片区均值，因建筑较新且家庭租赁需求稳定。仅供参考，非投资建议。"
+    }
+  ]
+}

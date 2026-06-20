@@ -18,6 +18,7 @@ type GalleryCatalog = {
 const catalogs: Record<ProjectGalleryKey, () => Promise<{ default: GalleryCatalog }>> = {
   "rf-princess-cove": () => import("./media-center/rf-princess-cove-gallery.json"),
   "danga-bay": () => import("./media-center/danga-bay-gallery.json"),
+  "country-garden-danga-bay": () => import("./media-center/country-garden-danga-bay-gallery.json"),
   "bukit-indah": () => import("./media-center/bukit-indah-gallery.json"),
   "mount-austin": () => import("./media-center/mount-austin-gallery.json"),
   "eco-botanic": () => import("./media-center/eco-botanic-gallery.json"),
@@ -42,6 +43,13 @@ const copy: Record<
       intro: "Explore Danga Bay condo and apartment imagery for rental due diligence.",
       seoTitle: "Danga Bay Gallery | Photo Library",
       seoDescription: "Public photo gallery for Danga Bay property listings.",
+    },
+    "country-garden-danga-bay": {
+      title: "Country Garden Danga Bay Gallery",
+      subtitle: "Country Garden waterfront towers",
+      intro: "Browse categorized photos for Country Garden Danga Bay — exterior, facilities, pool, gym, units and waterfront.",
+      seoTitle: "Country Garden Danga Bay Gallery | Photo Library",
+      seoDescription: "Public photo gallery for Country Garden Danga Bay listings and viewings.",
     },
     "bukit-indah": {
       title: "Bukit Indah Gallery",
@@ -86,6 +94,13 @@ const copy: Record<
       intro: "丹加湾公寓公开图片，用于租赁尽调。",
       seoTitle: "丹加湾图库 | 公开图片",
       seoDescription: "丹加湾房源公开图库。",
+    },
+    "country-garden-danga-bay": {
+      title: "碧桂园丹加湾图库",
+      subtitle: "碧桂园滨海塔楼",
+      intro: "碧桂园丹加湾分类图库 — 外观、配套、泳池、健身、单元与滨海景观。",
+      seoTitle: "碧桂园丹加湾图库 | 公开图片",
+      seoDescription: "碧桂园丹加湾房源与看楼公开图库。",
     },
     "bukit-indah": {
       title: "武吉英达图库",

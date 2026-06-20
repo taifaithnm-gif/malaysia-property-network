@@ -6,6 +6,7 @@ import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { Hero } from "@/components/sections/Hero";
 import { SectionHeading, Button } from "@/components/ui/Button";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
+import { scoreColor } from "@/lib/i18n/get-project-intelligence";
 
 type ServiceLink = { label: string; slug: string };
 
@@ -45,6 +46,11 @@ export function ProjectProfilePage({
           <Button href={`/${locale}/property-request`} variant="outline">
             {profile.labels.propertyRequest}
           </Button>
+          {profile.gallerySlug && (
+            <Button href={`/${locale}/${profile.gallerySlug}`} variant="outline">
+              {profile.labels.gallery}
+            </Button>
+          )}
         </div>
       </section>
 
@@ -69,6 +75,66 @@ export function ProjectProfilePage({
           </div>
         </div>
       </section>
+
+      {profile.rentalData && profile.labels.rentalData && (
+        <section className="py-16 bg-gray-50">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <SectionHeading title={profile.labels.rentalData} align="left" />
+            <dl className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">Average rent</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.averageRent}</dd>
+              </div>
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">Rental range</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.rentalRange}</dd>
+              </div>
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">Yield</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.yield}</dd>
+              </div>
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">Vacancy</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.vacancy}</dd>
+              </div>
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">{profile.labels.demandScore}</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.demandScore}/5</dd>
+              </div>
+              <div className="rounded-xl border border-gray-200 bg-white p-5">
+                <dt className="text-sm text-gray-500">Target tenant</dt>
+                <dd className="mt-1 text-lg font-semibold text-navy-900">{profile.rentalData.targetTenant}</dd>
+              </div>
+            </dl>
+          </div>
+        </section>
+      )}
+
+      {profile.investmentScore != null && profile.labels.investmentScore && (
+        <section className="py-16">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+            <div className="flex flex-wrap items-center justify-between gap-6 rounded-2xl border border-gray-200 bg-white p-8 shadow-sm">
+              <div>
+                <h2 className="text-2xl font-bold text-navy-900">{profile.labels.investmentScore}</h2>
+                <p className="mt-2 text-sm text-gray-600">Research score (0–100) — not financial advice</p>
+              </div>
+              <span
+                className={`inline-flex rounded-full border px-6 py-3 text-2xl font-bold ${scoreColor(profile.investmentScore)}`}
+              >
+                {profile.investmentScore}/100
+              </span>
+              {profile.intelligenceSlug && profile.labels.viewIntelligence && (
+                <Link
+                  href={`/${locale}/${profile.intelligenceSlug}`}
+                  className="text-sm font-semibold text-teal-700 hover:underline"
+                >
+                  {profile.labels.viewIntelligence} →
+                </Link>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="py-16 bg-gray-50">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -149,6 +215,22 @@ export function ProjectProfilePage({
           </ul>
         </div>
       </section>
+
+      {profile.faqs && profile.faqs.length > 0 && profile.labels.faqs && (
+        <section className="py-16 bg-gray-50">
+          <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
+            <SectionHeading title={profile.labels.faqs} align="left" />
+            <dl className="space-y-6">
+              {profile.faqs.map((faq) => (
+                <div key={faq.q} className="rounded-xl border border-gray-200 bg-white p-6">
+                  <dt className="font-semibold text-navy-900">{faq.q}</dt>
+                  <dd className="mt-2 text-sm text-gray-600 leading-relaxed">{faq.a}</dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+        </section>
+      )}
 
       <section className="py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

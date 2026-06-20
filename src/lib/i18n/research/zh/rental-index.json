@@ -1,9 +1,9 @@
 {
   "seoTitle": "新山租赁指数 | 7 大项目租金数据",
-  "seoDescription": "Forest City、富力公主湾、丹加湾、武吉英达、奥斯汀山、生态植物园、美迪尼平均租金、区间、回报率与入住率。",
+  "seoDescription": "新山 8 个项目平均租金、区间、回报率与入住率 — 运营库存更新。",
   "title": "新山租赁指数",
-  "subtitle": "2026 Q2 基准 · 7 大项目",
-  "intro": "指数基于 Sprint 03/04 运营库存与区域成交基准，每季度复核。用于项目对比与租赁定价参考。",
+  "subtitle": "2026 Q2 基准 · 8 个项目",
+  "intro": "指数基于运营库存与片区成交区间，每季度更新。用于项目比较与定价参考。",
   "updated": "2026-06-20",
   "projects": [
     {
@@ -55,6 +55,16 @@
       "rentalRange": "RM 1,600 – 3,000",
       "yield": "4.4 – 5.6%",
       "occupancy": "80 – 87%"
+    },
+    {
+      "key": "country-garden-danga-bay",
+      "slug": "country-garden-danga-bay",
+      "name": "碧桂园丹加湾",
+      "averageRent": "RM 2,050/月",
+      "averageRentValue": 2050,
+      "rentalRange": "RM 1,500 – 2,600",
+      "yield": "5.2 – 6.5%",
+      "occupancy": "80 – 88%"
     },
     {
       "key": "danga-bay",

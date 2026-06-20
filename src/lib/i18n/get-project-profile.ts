@@ -4,6 +4,7 @@ export type ProjectProfileKey =
   | "forest-city"
   | "rf-princess-cove"
   | "danga-bay"
+  | "country-garden-danga-bay"
   | "bukit-indah"
   | "mount-austin"
   | "eco-botanic"
@@ -28,6 +29,11 @@ export type ProjectProfile = {
     listProperty: string;
     propertyRequest: string;
     readGuide: string;
+    rentalData?: string;
+    investmentScore?: string;
+    faqs?: string;
+    viewIntelligence?: string;
+    demandScore?: string;
   };
   gallery: { src: string; alt: string }[];
   facts: { label: string; value: string }[];
@@ -35,6 +41,18 @@ export type ProjectProfile = {
   propertyTypes: { name: string; desc: string }[];
   facilities: string[];
   guideSlug: string;
+  gallerySlug?: string;
+  intelligenceSlug?: string;
+  rentalData?: {
+    averageRent: string;
+    rentalRange: string;
+    yield: string;
+    vacancy: string;
+    demandScore: number;
+    targetTenant: string;
+  };
+  investmentScore?: number;
+  faqs?: { q: string; a: string }[];
 };
 
 const profiles = {
@@ -43,6 +61,8 @@ const profiles = {
     "rf-princess-cove": () =>
       import("./project-profiles/en/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./project-profiles/en/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./project-profiles/en/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./project-profiles/en/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./project-profiles/en/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./project-profiles/en/eco-botanic.json").then((m) => m.default),
@@ -53,6 +73,8 @@ const profiles = {
     "rf-princess-cove": () =>
       import("./project-profiles/zh/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./project-profiles/zh/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./project-profiles/zh/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./project-profiles/zh/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./project-profiles/zh/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./project-profiles/zh/eco-botanic.json").then((m) => m.default),
@@ -64,6 +86,7 @@ export const PROJECT_PROFILE_SLUGS: Record<ProjectProfileKey, string> = {
   "forest-city": "forest-city",
   "rf-princess-cove": "rf-princess-cove",
   "danga-bay": "danga-bay",
+  "country-garden-danga-bay": "country-garden-danga-bay",
   "bukit-indah": "bukit-indah",
   "mount-austin": "mount-austin",
   "eco-botanic": "eco-botanic",

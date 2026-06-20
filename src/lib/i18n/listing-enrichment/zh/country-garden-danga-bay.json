@@ -1,0 +1,28 @@
+{
+  "projectKey": "country-garden-danga-bay",
+  "projectName": "碧桂园丹加湾",
+  "tag": "family",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "local_family",
+  "targetTenantType": "本地家庭",
+  "projectSummary": "碧桂园丹加湾是丹加湾成熟滨海区内较新的住宅集群，家庭租赁需求稳定。",
+  "amenities": [
+    "Waterfront pool & gym",
+    "24h security",
+    "Covered parking",
+    "Lobby concierge",
+    "Danga Bay promenade",
+    "Retail & F&B nearby"
+  ],
+  "rentalAnalysis": [
+    "丹加湾片区租赁需求评分 4/5。",
+    "平均租金约 RM 2,050；装修两房 4–7 周可租出。",
+    "应参照同楼栋近期成交定价。"
+  ],
+  "tenantProfile": [
+    "主要租户：本地家庭。",
+    "偏好近滨海配套、管理响应快的装修单位。"
+  ],
+  "profileSlug": "country-garden-danga-bay",
+  "gallerySlug": "country-garden-danga-bay/gallery"
+}

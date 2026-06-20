@@ -4,6 +4,7 @@ export type ListingEnrichmentKey =
   | "forest-city"
   | "rf-princess-cove"
   | "danga-bay"
+  | "country-garden-danga-bay"
   | "bukit-indah"
   | "mount-austin"
   | "eco-botanic"
@@ -28,6 +29,7 @@ const PROJECT_NAME_MAP: Record<string, ListingEnrichmentKey> = {
   "Forest City": "forest-city",
   "R&F Princess Cove": "rf-princess-cove",
   "Danga Bay": "danga-bay",
+  "Country Garden Danga Bay": "country-garden-danga-bay",
   "Bukit Indah": "bukit-indah",
   "Mount Austin": "mount-austin",
   "Eco Botanic": "eco-botanic",
@@ -40,6 +42,8 @@ const loaders = {
     "rf-princess-cove": () =>
       import("./listing-enrichment/en/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./listing-enrichment/en/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./listing-enrichment/en/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./listing-enrichment/en/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./listing-enrichment/en/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./listing-enrichment/en/eco-botanic.json").then((m) => m.default),
@@ -50,6 +54,8 @@ const loaders = {
     "rf-princess-cove": () =>
       import("./listing-enrichment/zh/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./listing-enrichment/zh/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./listing-enrichment/zh/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./listing-enrichment/zh/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./listing-enrichment/zh/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./listing-enrichment/zh/eco-botanic.json").then((m) => m.default),

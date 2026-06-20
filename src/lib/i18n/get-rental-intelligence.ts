@@ -21,6 +21,8 @@ const loaders = {
     "rf-princess-cove": () =>
       import("./rental-intelligence/en/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./rental-intelligence/en/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./rental-intelligence/en/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./rental-intelligence/en/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./rental-intelligence/en/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./rental-intelligence/en/eco-botanic.json").then((m) => m.default),
@@ -31,6 +33,8 @@ const loaders = {
     "rf-princess-cove": () =>
       import("./rental-intelligence/zh/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./rental-intelligence/zh/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./rental-intelligence/zh/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./rental-intelligence/zh/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./rental-intelligence/zh/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./rental-intelligence/zh/eco-botanic.json").then((m) => m.default),

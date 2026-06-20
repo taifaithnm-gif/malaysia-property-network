@@ -1,0 +1,16 @@
+{
+  "projectKey": "country-garden-danga-bay",
+  "projectName": "Country Garden Danga Bay",
+  "averageRent": "RM 2,050/mo",
+  "averageRentValue": 2050,
+  "rentalYield": "5.2–6.5%",
+  "vacancyEstimate": "Typical void 4–7 weeks",
+  "rentalDemandScore": 4,
+  "targetTenantKey": "local_family",
+  "targetTenantProfile": "Local families — long-term leases near Danga Bay waterfront and retail.",
+  "insights": [
+    "Country Garden Danga Bay average rent ~RM 2,050; demand score 4/5.",
+    "Estimated gross yield 5.2–6.5%; void 4–7 weeks for furnished stock.",
+    "Newer CG towers outperform ageing Danga Bay blocks on rental velocity."
+  ]
+}

@@ -79,6 +79,7 @@ export const PROJECT_INTELLIGENCE_KEYS: ProjectIntelligenceKey[] = [
   "mount-austin",
   "rf-princess-cove",
   "bukit-indah",
+  "country-garden-danga-bay",
   "eco-botanic",
   "danga-bay",
   "medini",
@@ -91,6 +92,8 @@ const dossiers = {
     "rf-princess-cove": () =>
       import("./project-intelligence/en/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./project-intelligence/en/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./project-intelligence/en/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./project-intelligence/en/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./project-intelligence/en/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./project-intelligence/en/eco-botanic.json").then((m) => m.default),
@@ -101,6 +104,8 @@ const dossiers = {
     "rf-princess-cove": () =>
       import("./project-intelligence/zh/rf-princess-cove.json").then((m) => m.default),
     "danga-bay": () => import("./project-intelligence/zh/danga-bay.json").then((m) => m.default),
+    "country-garden-danga-bay": () =>
+      import("./project-intelligence/zh/country-garden-danga-bay.json").then((m) => m.default),
     "bukit-indah": () => import("./project-intelligence/zh/bukit-indah.json").then((m) => m.default),
     "mount-austin": () => import("./project-intelligence/zh/mount-austin.json").then((m) => m.default),
     "eco-botanic": () => import("./project-intelligence/zh/eco-botanic.json").then((m) => m.default),
