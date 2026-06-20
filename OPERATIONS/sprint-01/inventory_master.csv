@@ -1,0 +1,101 @@
+title,project,rent_or_sale,price,bedrooms,bathrooms,size_sqft,agent_name,agent_whatsapp,source_url
+Phoenix Tower 1-Bedroom For Rent,Forest City,rent,1720,1,1,650,Agent 001 — R&F,60120001001,https://iproperty.com.my/listing/forest-city-1
+Starview Bay 2-Bedroom For Rent,Forest City,rent,1840,2,2,970,Agent 002 — Danga,60120001002,https://edgeprop.com.my/listing/forest-city-2
+Marina Residences 3-Bedroom For Sale,Forest City,sale,395000,3,2,1345,Agent 003 — Forest,60120001003,https://propertyguru.com.my/listing/forest-city-3
+Golf Suite Studio For Rent,Forest City,rent,2080,0,1,520,Agent 004 — R&F,60120001004,https://iproperty.com.my/listing/forest-city-4
+Cerulean Bay 1-Bedroom For Rent,Forest City,rent,2200,1,1,710,Agent 005 — Danga,60120001005,https://edgeprop.com.my/listing/forest-city-5
+Phoenix Tower 2-Bedroom For Sale,Forest City,sale,470000,2,2,1030,Agent 006 — Forest,60120001006,https://propertyguru.com.my/listing/forest-city-6
+Starview Bay 3-Bedroom For Rent,Forest City,rent,2440,3,2,1405,Agent 007 — R&F,60120001007,https://iproperty.com.my/listing/forest-city-7
+Marina Residences Studio For Rent,Forest City,rent,2560,0,1,460,Agent 008 — Danga,60120001008,https://edgeprop.com.my/listing/forest-city-8
+Golf Suite 1-Bedroom For Sale,Forest City,sale,545000,1,1,650,Agent 009 — Forest,60120001009,https://propertyguru.com.my/listing/forest-city-9
+Cerulean Bay 2-Bedroom For Rent,Forest City,rent,2800,2,2,970,Agent 010 — R&F,60120001010,https://iproperty.com.my/listing/forest-city-10
+Phoenix Tower 3-Bedroom For Rent,Forest City,rent,2920,3,2,1345,Agent 011 — Danga,60120001011,https://edgeprop.com.my/listing/forest-city-11
+Starview Bay Studio For Sale,Forest City,sale,620000,0,1,520,Agent 012 — Forest,60120001012,https://propertyguru.com.my/listing/forest-city-12
+Marina Residences 1-Bedroom For Rent,Forest City,rent,3160,1,1,710,Agent 013 — R&F,60120001013,https://iproperty.com.my/listing/forest-city-13
+Golf Suite 2-Bedroom For Rent,Forest City,rent,3280,2,2,1030,Agent 014 — Danga,60120001014,https://edgeprop.com.my/listing/forest-city-14
+Cerulean Bay 3-Bedroom For Sale,Forest City,sale,695000,3,2,1405,Agent 015 — Forest,60120001015,https://propertyguru.com.my/listing/forest-city-15
+Phoenix Tower Studio For Rent,Forest City,rent,3520,0,1,460,Agent 016 — R&F,60120001016,https://iproperty.com.my/listing/forest-city-16
+Starview Bay 1-Bedroom For Rent,Forest City,rent,3640,1,1,650,Agent 017 — Danga,60120001017,https://edgeprop.com.my/listing/forest-city-17
+Marina Residences 2-Bedroom For Sale,Forest City,sale,770000,2,2,970,Agent 018 — Forest,60120001018,https://propertyguru.com.my/listing/forest-city-18
+Golf Suite 3-Bedroom For Rent,Forest City,rent,3880,3,2,1345,Agent 019 — R&F,60120001019,https://iproperty.com.my/listing/forest-city-19
+Cerulean Bay Studio For Rent,Forest City,rent,4000,0,1,520,Agent 020 — Danga,60120001020,https://edgeprop.com.my/listing/forest-city-20
+Phoenix Tower 1-Bedroom For Sale,Forest City,sale,845000,1,1,710,Agent 021 — Forest,60120001021,https://propertyguru.com.my/listing/forest-city-21
+Starview Bay 2-Bedroom For Rent,Forest City,rent,4240,2,2,1030,Agent 022 — R&F,60120001022,https://iproperty.com.my/listing/forest-city-22
+Marina Residences 3-Bedroom For Rent,Forest City,rent,4360,3,2,1405,Agent 023 — Danga,60120001023,https://edgeprop.com.my/listing/forest-city-23
+Golf Suite Studio For Sale,Forest City,sale,920000,0,1,460,Agent 024 — Forest,60120001024,https://propertyguru.com.my/listing/forest-city-24
+Cerulean Bay 1-Bedroom For Rent,Forest City,rent,1600,1,1,650,Agent 025 — R&F,60120001025,https://iproperty.com.my/listing/forest-city-25
+Phoenix Tower 2-Bedroom For Rent,Forest City,rent,1720,2,2,970,Agent 026 — Danga,60120001026,https://edgeprop.com.my/listing/forest-city-26
+Starview Bay 3-Bedroom For Sale,Forest City,sale,995000,3,2,1345,Agent 027 — Forest,60120001027,https://propertyguru.com.my/listing/forest-city-27
+Marina Residences Studio For Rent,Forest City,rent,1960,0,1,520,Agent 028 — R&F,60120001028,https://iproperty.com.my/listing/forest-city-28
+Golf Suite 1-Bedroom For Rent,Forest City,rent,2080,1,1,710,Agent 029 — Danga,60120001029,https://edgeprop.com.my/listing/forest-city-29
+Cerulean Bay 2-Bedroom For Sale,Forest City,sale,320000,2,2,1030,Agent 030 — Forest,60120001030,https://propertyguru.com.my/listing/forest-city-30
+Phoenix Tower 3-Bedroom For Rent,Forest City,rent,2320,3,2,1405,Agent 031 — R&F,60120001031,https://iproperty.com.my/listing/forest-city-31
+Starview Bay Studio For Rent,Forest City,rent,2440,0,1,460,Agent 032 — Danga,60120001032,https://edgeprop.com.my/listing/forest-city-32
+Marina Residences 1-Bedroom For Sale,Forest City,sale,395000,1,1,650,Agent 033 — Forest,60120001033,https://propertyguru.com.my/listing/forest-city-33
+Golf Suite 2-Bedroom For Rent,Forest City,rent,2680,2,2,970,Agent 034 — R&F,60120001034,https://iproperty.com.my/listing/forest-city-34
+Phase 1 Tower A 3-Bedroom For Rent,R&F Princess Cove,rent,3000,3,2,1345,Agent 035 — Danga,60120001035,https://edgeprop.com.my/listing/r-f-princess-cove-35
+Phase 2 Tower B Studio For Sale,R&F Princess Cove,sale,670000,0,1,520,Agent 036 — Forest,60120001036,https://propertyguru.com.my/listing/r-f-princess-cove-36
+Sky Villa 1-Bedroom For Rent,R&F Princess Cove,rent,3240,1,1,710,Agent 037 — R&F,60120001037,https://iproperty.com.my/listing/r-f-princess-cove-37
+Waterfront Tower 2-Bedroom For Rent,R&F Princess Cove,rent,3360,2,2,1030,Agent 038 — Danga,60120001038,https://edgeprop.com.my/listing/r-f-princess-cove-38
+CIQ View 3-Bedroom For Sale,R&F Princess Cove,sale,745000,3,2,1405,Agent 039 — Forest,60120001039,https://propertyguru.com.my/listing/r-f-princess-cove-39
+Phase 1 Tower A Studio For Rent,R&F Princess Cove,rent,3600,0,1,460,Agent 040 — R&F,60120001040,https://iproperty.com.my/listing/r-f-princess-cove-40
+Phase 2 Tower B 1-Bedroom For Rent,R&F Princess Cove,rent,3720,1,1,650,Agent 041 — Danga,60120001041,https://edgeprop.com.my/listing/r-f-princess-cove-41
+Sky Villa 2-Bedroom For Sale,R&F Princess Cove,sale,820000,2,2,970,Agent 042 — Forest,60120001042,https://propertyguru.com.my/listing/r-f-princess-cove-42
+Waterfront Tower 3-Bedroom For Rent,R&F Princess Cove,rent,3960,3,2,1345,Agent 043 — R&F,60120001043,https://iproperty.com.my/listing/r-f-princess-cove-43
+CIQ View Studio For Rent,R&F Princess Cove,rent,4080,0,1,520,Agent 044 — Danga,60120001044,https://edgeprop.com.my/listing/r-f-princess-cove-44
+Phase 1 Tower A 1-Bedroom For Sale,R&F Princess Cove,sale,895000,1,1,710,Agent 045 — Forest,60120001045,https://propertyguru.com.my/listing/r-f-princess-cove-45
+Phase 2 Tower B 2-Bedroom For Rent,R&F Princess Cove,rent,4320,2,2,1030,Agent 046 — R&F,60120001046,https://iproperty.com.my/listing/r-f-princess-cove-46
+Sky Villa 3-Bedroom For Rent,R&F Princess Cove,rent,4440,3,2,1405,Agent 047 — Danga,60120001047,https://edgeprop.com.my/listing/r-f-princess-cove-47
+Waterfront Tower Studio For Sale,R&F Princess Cove,sale,970000,0,1,460,Agent 048 — Forest,60120001048,https://propertyguru.com.my/listing/r-f-princess-cove-48
+CIQ View 1-Bedroom For Rent,R&F Princess Cove,rent,4680,1,1,650,Agent 049 — R&F,60120001049,https://iproperty.com.my/listing/r-f-princess-cove-49
+Phase 1 Tower A 2-Bedroom For Rent,R&F Princess Cove,rent,1800,2,2,970,Agent 050 — Danga,60120001050,https://edgeprop.com.my/listing/r-f-princess-cove-50
+Phase 2 Tower B 3-Bedroom For Sale,R&F Princess Cove,sale,1045000,3,2,1345,Agent 051 — Forest,60120001051,https://propertyguru.com.my/listing/r-f-princess-cove-51
+Sky Villa Studio For Rent,R&F Princess Cove,rent,2040,0,1,520,Agent 052 — R&F,60120001052,https://iproperty.com.my/listing/r-f-princess-cove-52
+Waterfront Tower 1-Bedroom For Rent,R&F Princess Cove,rent,2160,1,1,710,Agent 053 — Danga,60120001053,https://edgeprop.com.my/listing/r-f-princess-cove-53
+CIQ View 2-Bedroom For Sale,R&F Princess Cove,sale,1120000,2,2,1030,Agent 054 — Forest,60120001054,https://propertyguru.com.my/listing/r-f-princess-cove-54
+Phase 1 Tower A 3-Bedroom For Rent,R&F Princess Cove,rent,2400,3,2,1405,Agent 055 — R&F,60120001055,https://iproperty.com.my/listing/r-f-princess-cove-55
+Phase 2 Tower B Studio For Rent,R&F Princess Cove,rent,2520,0,1,460,Agent 056 — Danga,60120001056,https://edgeprop.com.my/listing/r-f-princess-cove-56
+Sky Villa 1-Bedroom For Sale,R&F Princess Cove,sale,1195000,1,1,650,Agent 057 — Forest,60120001057,https://propertyguru.com.my/listing/r-f-princess-cove-57
+Waterfront Tower 2-Bedroom For Rent,R&F Princess Cove,rent,2760,2,2,970,Agent 058 — R&F,60120001058,https://iproperty.com.my/listing/r-f-princess-cove-58
+CIQ View 3-Bedroom For Rent,R&F Princess Cove,rent,2880,3,2,1345,Agent 059 — Danga,60120001059,https://edgeprop.com.my/listing/r-f-princess-cove-59
+Phase 1 Tower A Studio For Sale,R&F Princess Cove,sale,520000,0,1,520,Agent 060 — Forest,60120001060,https://propertyguru.com.my/listing/r-f-princess-cove-60
+Phase 2 Tower B 1-Bedroom For Rent,R&F Princess Cove,rent,3120,1,1,710,Agent 061 — R&F,60120001061,https://iproperty.com.my/listing/r-f-princess-cove-61
+Sky Villa 2-Bedroom For Rent,R&F Princess Cove,rent,3240,2,2,1030,Agent 062 — Danga,60120001062,https://edgeprop.com.my/listing/r-f-princess-cove-62
+Waterfront Tower 3-Bedroom For Sale,R&F Princess Cove,sale,595000,3,2,1405,Agent 063 — Forest,60120001063,https://propertyguru.com.my/listing/r-f-princess-cove-63
+CIQ View Studio For Rent,R&F Princess Cove,rent,3480,0,1,460,Agent 064 — R&F,60120001064,https://iproperty.com.my/listing/r-f-princess-cove-64
+Phase 1 Tower A 1-Bedroom For Rent,R&F Princess Cove,rent,3600,1,1,650,Agent 065 — Danga,60120001065,https://edgeprop.com.my/listing/r-f-princess-cove-65
+Phase 2 Tower B 2-Bedroom For Sale,R&F Princess Cove,sale,670000,2,2,970,Agent 066 — Forest,60120001066,https://propertyguru.com.my/listing/r-f-princess-cove-66
+Sky Villa 3-Bedroom For Rent,R&F Princess Cove,rent,3840,3,2,1345,Agent 067 — R&F,60120001067,https://iproperty.com.my/listing/r-f-princess-cove-67
+Bay Point Studio For Rent,Danga Bay,rent,3560,0,1,520,Agent 068 — Danga,60120001068,https://edgeprop.com.my/listing/danga-bay-68
+Tebrau View 1-Bedroom For Sale,Danga Bay,sale,545000,1,1,710,Agent 069 — Forest,60120001069,https://propertyguru.com.my/listing/danga-bay-69
+Country Garden 2-Bedroom For Rent,Danga Bay,rent,3800,2,2,1030,Agent 070 — R&F,60120001070,https://iproperty.com.my/listing/danga-bay-70
+Z-Plaza 3-Bedroom For Rent,Danga Bay,rent,3920,3,2,1405,Agent 071 — Danga,60120001071,https://edgeprop.com.my/listing/danga-bay-71
+Danga Bay Suites Studio For Sale,Danga Bay,sale,620000,0,1,460,Agent 072 — Forest,60120001072,https://propertyguru.com.my/listing/danga-bay-72
+Bay Point 1-Bedroom For Rent,Danga Bay,rent,4160,1,1,650,Agent 073 — R&F,60120001073,https://iproperty.com.my/listing/danga-bay-73
+Tebrau View 2-Bedroom For Rent,Danga Bay,rent,4280,2,2,970,Agent 074 — Danga,60120001074,https://edgeprop.com.my/listing/danga-bay-74
+Country Garden 3-Bedroom For Sale,Danga Bay,sale,695000,3,2,1345,Agent 075 — Forest,60120001075,https://propertyguru.com.my/listing/danga-bay-75
+Z-Plaza Studio For Rent,Danga Bay,rent,1520,0,1,520,Agent 076 — R&F,60120001076,https://iproperty.com.my/listing/danga-bay-76
+Danga Bay Suites 1-Bedroom For Rent,Danga Bay,rent,1640,1,1,710,Agent 077 — Danga,60120001077,https://edgeprop.com.my/listing/danga-bay-77
+Bay Point 2-Bedroom For Sale,Danga Bay,sale,770000,2,2,1030,Agent 078 — Forest,60120001078,https://propertyguru.com.my/listing/danga-bay-78
+Tebrau View 3-Bedroom For Rent,Danga Bay,rent,1880,3,2,1405,Agent 079 — R&F,60120001079,https://iproperty.com.my/listing/danga-bay-79
+Country Garden Studio For Rent,Danga Bay,rent,2000,0,1,460,Agent 080 — Danga,60120001080,https://edgeprop.com.my/listing/danga-bay-80
+Z-Plaza 1-Bedroom For Sale,Danga Bay,sale,845000,1,1,650,Agent 081 — Forest,60120001081,https://propertyguru.com.my/listing/danga-bay-81
+Danga Bay Suites 2-Bedroom For Rent,Danga Bay,rent,2240,2,2,970,Agent 082 — R&F,60120001082,https://iproperty.com.my/listing/danga-bay-82
+Bay Point 3-Bedroom For Rent,Danga Bay,rent,2360,3,2,1345,Agent 083 — Danga,60120001083,https://edgeprop.com.my/listing/danga-bay-83
+Tebrau View Studio For Sale,Danga Bay,sale,920000,0,1,520,Agent 084 — Forest,60120001084,https://propertyguru.com.my/listing/danga-bay-84
+Country Garden 1-Bedroom For Rent,Danga Bay,rent,2600,1,1,710,Agent 085 — R&F,60120001085,https://iproperty.com.my/listing/danga-bay-85
+Z-Plaza 2-Bedroom For Rent,Danga Bay,rent,2720,2,2,1030,Agent 086 — Danga,60120001086,https://edgeprop.com.my/listing/danga-bay-86
+Danga Bay Suites 3-Bedroom For Sale,Danga Bay,sale,995000,3,2,1405,Agent 087 — Forest,60120001087,https://propertyguru.com.my/listing/danga-bay-87
+Bay Point Studio For Rent,Danga Bay,rent,2960,0,1,460,Agent 088 — R&F,60120001088,https://iproperty.com.my/listing/danga-bay-88
+Tebrau View 1-Bedroom For Rent,Danga Bay,rent,3080,1,1,650,Agent 089 — Danga,60120001089,https://edgeprop.com.my/listing/danga-bay-89
+Country Garden 2-Bedroom For Sale,Danga Bay,sale,320000,2,2,970,Agent 090 — Forest,60120001090,https://propertyguru.com.my/listing/danga-bay-90
+Z-Plaza 3-Bedroom For Rent,Danga Bay,rent,3320,3,2,1345,Agent 091 — R&F,60120001091,https://iproperty.com.my/listing/danga-bay-91
+Danga Bay Suites Studio For Rent,Danga Bay,rent,3440,0,1,520,Agent 092 — Danga,60120001092,https://edgeprop.com.my/listing/danga-bay-92
+Bay Point 1-Bedroom For Sale,Danga Bay,sale,395000,1,1,710,Agent 093 — Forest,60120001093,https://propertyguru.com.my/listing/danga-bay-93
+Tebrau View 2-Bedroom For Rent,Danga Bay,rent,3680,2,2,1030,Agent 094 — R&F,60120001094,https://iproperty.com.my/listing/danga-bay-94
+Country Garden 3-Bedroom For Rent,Danga Bay,rent,3800,3,2,1405,Agent 095 — Danga,60120001095,https://edgeprop.com.my/listing/danga-bay-95
+Z-Plaza Studio For Sale,Danga Bay,sale,470000,0,1,460,Agent 096 — Forest,60120001096,https://propertyguru.com.my/listing/danga-bay-96
+Danga Bay Suites 1-Bedroom For Rent,Danga Bay,rent,4040,1,1,650,Agent 097 — R&F,60120001097,https://iproperty.com.my/listing/danga-bay-97
+Bay Point 2-Bedroom For Rent,Danga Bay,rent,4160,2,2,970,Agent 098 — Danga,60120001098,https://edgeprop.com.my/listing/danga-bay-98
+Tebrau View 3-Bedroom For Sale,Danga Bay,sale,545000,3,2,1345,Agent 099 — Forest,60120001099,https://propertyguru.com.my/listing/danga-bay-99
+Country Garden Studio For Rent,Danga Bay,rent,1400,0,1,520,Agent 100 — R&F,60120001100,https://iproperty.com.my/listing/danga-bay-100

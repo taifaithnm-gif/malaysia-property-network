@@ -1,0 +1,101 @@
+full_name,whatsapp,email,agency,commission_rate_pct,commission_notes,project_tags,status,notes
+Agent 001 — R&F,60120001001,agent001@mpn-import.local,Iskandar Properties Hub,41,41% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 1
+Agent 002 — Danga,60120001002,agent002@mpn-import.local,Forest City Realty,42,42% standard co-broke,{Danga Bay},active,Sprint 01 import row 2
+Agent 003 — Forest,60120001003,agent003@mpn-import.local,Princess Cove Specialists,43,43% standard co-broke,{Forest City},active,Sprint 01 import row 3
+Agent 004 — R&F,60120001004,agent004@mpn-import.local,Danga Bay Living,44,44% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 4
+Agent 005 — Danga,60120001005,agent005@mpn-import.local,Causeway Homes,45,45% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 006 — Forest,60120001006,agent006@mpn-import.local,Tebrau Property,46,46% standard co-broke,{Forest City},active,Sprint 01 import row 6
+Agent 007 — R&F,60120001007,agent007@mpn-import.local,JB Elite Realty,47,47% standard co-broke,{R&F Princess Cove},active,Chinese/English
+Agent 008 — Danga,60120001008,agent008@mpn-import.local,Southern Key Properties,48,48% standard co-broke,{Danga Bay},active,Sprint 01 import row 8
+Agent 009 — Forest,60120001009,agent009@mpn-import.local,Straits Property Group,49,49% standard co-broke,{Forest City},active,Sprint 01 import row 9
+Agent 010 — R&F,60120001010,agent010@mpn-import.local,EcoWorld Partners,50,50% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 011 — Danga,60120001011,agent011@mpn-import.local,Medini Property Desk,51,51% standard co-broke,{Danga Bay},active,Sprint 01 import row 11
+Agent 012 — Forest,60120001012,agent012@mpn-import.local,Independent Agent,52,52% standard co-broke,{Forest City},active,Sprint 01 import row 12
+Agent 013 — R&F,60120001013,agent013@mpn-import.local,PropNex JB,53,53% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 13
+Agent 014 — Danga,60120001014,agent014@mpn-import.local,IQI Johor,54,54% standard co-broke,{Danga Bay},active,Chinese/English
+Agent 015 — Forest,60120001015,agent015@mpn-import.local,Hartamas JB,55,55% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 016 — R&F,60120001016,agent016@mpn-import.local,Waterfront Realty,56,56% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 16
+Agent 017 — Danga,60120001017,agent017@mpn-import.local,Iskandar Properties Hub,57,57% standard co-broke,{Danga Bay},active,Sprint 01 import row 17
+Agent 018 — Forest,60120001018,agent018@mpn-import.local,Forest City Realty,58,58% standard co-broke,{Forest City},active,Sprint 01 import row 18
+Agent 019 — R&F,60120001019,agent019@mpn-import.local,Princess Cove Specialists,59,59% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 19
+Agent 020 — Danga,60120001020,agent020@mpn-import.local,Danga Bay Living,60,60% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 021 — Forest,60120001021,agent021@mpn-import.local,Causeway Homes,40,40% standard co-broke,{Forest City},active,Chinese/English
+Agent 022 — R&F,60120001022,agent022@mpn-import.local,Tebrau Property,41,41% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 22
+Agent 023 — Danga,60120001023,agent023@mpn-import.local,JB Elite Realty,42,42% standard co-broke,{Danga Bay},active,Sprint 01 import row 23
+Agent 024 — Forest,60120001024,agent024@mpn-import.local,Southern Key Properties,43,43% standard co-broke,{Forest City},active,Sprint 01 import row 24
+Agent 025 — R&F,60120001025,agent025@mpn-import.local,Straits Property Group,44,44% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 026 — Danga,60120001026,agent026@mpn-import.local,EcoWorld Partners,45,45% standard co-broke,{Danga Bay},active,Sprint 01 import row 26
+Agent 027 — Forest,60120001027,agent027@mpn-import.local,Medini Property Desk,46,46% standard co-broke,{Forest City},active,Sprint 01 import row 27
+Agent 028 — R&F,60120001028,agent028@mpn-import.local,Independent Agent,47,47% standard co-broke,{R&F Princess Cove},active,Chinese/English
+Agent 029 — Danga,60120001029,agent029@mpn-import.local,PropNex JB,48,48% standard co-broke,{Danga Bay},active,Sprint 01 import row 29
+Agent 030 — Forest,60120001030,agent030@mpn-import.local,IQI Johor,49,49% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 031 — R&F,60120001031,agent031@mpn-import.local,Hartamas JB,50,50% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 31
+Agent 032 — Danga,60120001032,agent032@mpn-import.local,Waterfront Realty,51,51% standard co-broke,{Danga Bay},active,Sprint 01 import row 32
+Agent 033 — Forest,60120001033,agent033@mpn-import.local,Iskandar Properties Hub,52,52% standard co-broke,{Forest City},active,Sprint 01 import row 33
+Agent 034 — R&F,60120001034,agent034@mpn-import.local,Forest City Realty,53,53% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 34
+Agent 035 — Danga,60120001035,agent035@mpn-import.local,Princess Cove Specialists,54,54% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 036 — Forest,60120001036,agent036@mpn-import.local,Danga Bay Living,55,55% standard co-broke,{Forest City},active,Sprint 01 import row 36
+Agent 037 — R&F,60120001037,agent037@mpn-import.local,Causeway Homes,56,56% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 37
+Agent 038 — Danga,60120001038,agent038@mpn-import.local,Tebrau Property,57,57% standard co-broke,{Danga Bay},active,Sprint 01 import row 38
+Agent 039 — Forest,60120001039,agent039@mpn-import.local,JB Elite Realty,58,58% standard co-broke,{Forest City},active,Sprint 01 import row 39
+Agent 040 — R&F,60120001040,agent040@mpn-import.local,Southern Key Properties,59,59% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 041 — Danga,60120001041,agent041@mpn-import.local,Straits Property Group,60,60% standard co-broke,{Danga Bay},active,Sprint 01 import row 41
+Agent 042 — Forest,60120001042,agent042@mpn-import.local,EcoWorld Partners,40,40% standard co-broke,{Forest City},active,Chinese/English
+Agent 043 — R&F,60120001043,agent043@mpn-import.local,Medini Property Desk,41,41% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 43
+Agent 044 — Danga,60120001044,agent044@mpn-import.local,Independent Agent,42,42% standard co-broke,{Danga Bay},active,Sprint 01 import row 44
+Agent 045 — Forest,60120001045,agent045@mpn-import.local,PropNex JB,43,43% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 046 — R&F,60120001046,agent046@mpn-import.local,IQI Johor,44,44% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 46
+Agent 047 — Danga,60120001047,agent047@mpn-import.local,Hartamas JB,45,45% standard co-broke,{Danga Bay},active,Sprint 01 import row 47
+Agent 048 — Forest,60120001048,agent048@mpn-import.local,Waterfront Realty,46,46% standard co-broke,{Forest City},active,Sprint 01 import row 48
+Agent 049 — R&F,60120001049,agent049@mpn-import.local,Iskandar Properties Hub,47,47% standard co-broke,{R&F Princess Cove},active,Chinese/English
+Agent 050 — Danga,60120001050,agent050@mpn-import.local,Forest City Realty,48,48% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 051 — Forest,60120001051,agent051@mpn-import.local,Princess Cove Specialists,49,49% standard co-broke,{Forest City},active,Sprint 01 import row 51
+Agent 052 — R&F,60120001052,agent052@mpn-import.local,Danga Bay Living,50,50% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 52
+Agent 053 — Danga,60120001053,agent053@mpn-import.local,Causeway Homes,51,51% standard co-broke,{Danga Bay},active,Sprint 01 import row 53
+Agent 054 — Forest,60120001054,agent054@mpn-import.local,Tebrau Property,52,52% standard co-broke,{Forest City},active,Sprint 01 import row 54
+Agent 055 — R&F,60120001055,agent055@mpn-import.local,JB Elite Realty,53,53% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 056 — Danga,60120001056,agent056@mpn-import.local,Southern Key Properties,54,54% standard co-broke,{Danga Bay},active,Chinese/English
+Agent 057 — Forest,60120001057,agent057@mpn-import.local,Straits Property Group,55,55% standard co-broke,{Forest City},active,Sprint 01 import row 57
+Agent 058 — R&F,60120001058,agent058@mpn-import.local,EcoWorld Partners,56,56% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 58
+Agent 059 — Danga,60120001059,agent059@mpn-import.local,Medini Property Desk,57,57% standard co-broke,{Danga Bay},active,Sprint 01 import row 59
+Agent 060 — Forest,60120001060,agent060@mpn-import.local,Independent Agent,58,58% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 061 — R&F,60120001061,agent061@mpn-import.local,PropNex JB,59,59% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 61
+Agent 062 — Danga,60120001062,agent062@mpn-import.local,IQI Johor,60,60% standard co-broke,{Danga Bay},active,Sprint 01 import row 62
+Agent 063 — Forest,60120001063,agent063@mpn-import.local,Hartamas JB,40,40% standard co-broke,{Forest City},active,Chinese/English
+Agent 064 — R&F,60120001064,agent064@mpn-import.local,Waterfront Realty,41,41% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 64
+Agent 065 — Danga,60120001065,agent065@mpn-import.local,Iskandar Properties Hub,42,42% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 066 — Forest,60120001066,agent066@mpn-import.local,Forest City Realty,43,43% standard co-broke,{Forest City},active,Sprint 01 import row 66
+Agent 067 — R&F,60120001067,agent067@mpn-import.local,Princess Cove Specialists,44,44% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 67
+Agent 068 — Danga,60120001068,agent068@mpn-import.local,Danga Bay Living,45,45% standard co-broke,{Danga Bay},active,Sprint 01 import row 68
+Agent 069 — Forest,60120001069,agent069@mpn-import.local,Causeway Homes,46,46% standard co-broke,{Forest City},active,Sprint 01 import row 69
+Agent 070 — R&F,60120001070,agent070@mpn-import.local,Tebrau Property,47,47% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 071 — Danga,60120001071,agent071@mpn-import.local,JB Elite Realty,48,48% standard co-broke,{Danga Bay},active,Sprint 01 import row 71
+Agent 072 — Forest,60120001072,agent072@mpn-import.local,Southern Key Properties,49,49% standard co-broke,{Forest City},active,Sprint 01 import row 72
+Agent 073 — R&F,60120001073,agent073@mpn-import.local,Straits Property Group,50,50% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 73
+Agent 074 — Danga,60120001074,agent074@mpn-import.local,EcoWorld Partners,51,51% standard co-broke,{Danga Bay},active,Sprint 01 import row 74
+Agent 075 — Forest,60120001075,agent075@mpn-import.local,Medini Property Desk,52,52% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 076 — R&F,60120001076,agent076@mpn-import.local,Independent Agent,53,53% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 76
+Agent 077 — Danga,60120001077,agent077@mpn-import.local,PropNex JB,54,54% standard co-broke,{Danga Bay},active,Chinese/English
+Agent 078 — Forest,60120001078,agent078@mpn-import.local,IQI Johor,55,55% standard co-broke,{Forest City},active,Sprint 01 import row 78
+Agent 079 — R&F,60120001079,agent079@mpn-import.local,Hartamas JB,56,56% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 79
+Agent 080 — Danga,60120001080,agent080@mpn-import.local,Waterfront Realty,57,57% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 081 — Forest,60120001081,agent081@mpn-import.local,Iskandar Properties Hub,58,58% standard co-broke,{Forest City},active,Sprint 01 import row 81
+Agent 082 — R&F,60120001082,agent082@mpn-import.local,Forest City Realty,59,59% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 82
+Agent 083 — Danga,60120001083,agent083@mpn-import.local,Princess Cove Specialists,60,60% standard co-broke,{Danga Bay},active,Sprint 01 import row 83
+Agent 084 — Forest,60120001084,agent084@mpn-import.local,Danga Bay Living,40,40% standard co-broke,{Forest City},active,Chinese/English
+Agent 085 — R&F,60120001085,agent085@mpn-import.local,Causeway Homes,41,41% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
+Agent 086 — Danga,60120001086,agent086@mpn-import.local,Tebrau Property,42,42% standard co-broke,{Danga Bay},active,Sprint 01 import row 86
+Agent 087 — Forest,60120001087,agent087@mpn-import.local,JB Elite Realty,43,43% standard co-broke,{Forest City},active,Sprint 01 import row 87
+Agent 088 — R&F,60120001088,agent088@mpn-import.local,Southern Key Properties,44,44% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 88
+Agent 089 — Danga,60120001089,agent089@mpn-import.local,Straits Property Group,45,45% standard co-broke,{Danga Bay},active,Sprint 01 import row 89
+Agent 090 — Forest,60120001090,agent090@mpn-import.local,EcoWorld Partners,46,46% standard co-broke,{Forest City},active,Co-broke preferred 50/50
+Agent 091 — R&F,60120001091,agent091@mpn-import.local,Medini Property Desk,47,47% standard co-broke,{R&F Princess Cove},active,Chinese/English
+Agent 092 — Danga,60120001092,agent092@mpn-import.local,Independent Agent,48,48% standard co-broke,{Danga Bay},active,Sprint 01 import row 92
+Agent 093 — Forest,60120001093,agent093@mpn-import.local,PropNex JB,49,49% standard co-broke,{Forest City},active,Sprint 01 import row 93
+Agent 094 — R&F,60120001094,agent094@mpn-import.local,IQI Johor,50,50% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 94
+Agent 095 — Danga,60120001095,agent095@mpn-import.local,Hartamas JB,51,51% standard co-broke,{Danga Bay},active,Co-broke preferred 50/50
+Agent 096 — Forest,60120001096,agent096@mpn-import.local,Waterfront Realty,52,52% standard co-broke,{Forest City},active,Sprint 01 import row 96
+Agent 097 — R&F,60120001097,agent097@mpn-import.local,Iskandar Properties Hub,53,53% standard co-broke,{R&F Princess Cove},active,Sprint 01 import row 97
+Agent 098 — Danga,60120001098,agent098@mpn-import.local,Forest City Realty,54,54% standard co-broke,{Danga Bay},active,Chinese/English
+Agent 099 — Forest,60120001099,agent099@mpn-import.local,Princess Cove Specialists,55,55% standard co-broke,{Forest City},active,Sprint 01 import row 99
+Agent 100 — R&F,60120001100,agent100@mpn-import.local,Danga Bay Living,56,56% standard co-broke,{R&F Princess Cove},active,Co-broke preferred 50/50
