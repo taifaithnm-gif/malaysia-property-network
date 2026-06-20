@@ -1,0 +1,73 @@
+{
+  "seoTitle": "投资评分方法论 | 新山物业研究",
+  "seoDescription": "马来西亚物业网络如何评估租赁需求、回报率、入住率、流动性与未来增长，形成 0–100 投资评分。",
+  "title": "投资评分方法论",
+  "subtitle": "五维框架 · 透明研究 · 非投资建议",
+  "intro": "我们的 0–100 投资评分综合五项市场维度，数据来自 Sprint 运营库存、公开成交区间与区域租赁基准。每项维度权重因项目类型而异。",
+  "dimensions": [
+    {
+      "id": "rental-demand",
+      "title": "租赁需求 (Rental Demand)",
+      "weight": "25%",
+      "summary": "租户池深度、再租速度与跨境通勤暴露。",
+      "body": "评估本地家庭、新加坡通勤族或海外业主托管等主力客群规模。Mount Austin、Bukit Indah、R&F 评分最高；Forest City 以业主托管需求为主，本地租赁需求较弱。"
+    },
+    {
+      "id": "yield",
+      "title": "回报率 (Yield)",
+      "weight": "25%",
+      "summary": "毛租金回报率相对入场价与维护成本。",
+      "body": "基于项目平均租金与典型二手入场价推算毛收益区间。Danga Bay、Mount Austin 毛收益较高；Forest City 因入场价与空置期，毛收益偏低。"
+    },
+    {
+      "id": "occupancy",
+      "title": "入住率 (Occupancy)",
+      "weight": "20%",
+      "summary": "典型空置期与有效入住率。",
+      "body": "以周计空置期换算有效入住率。通勤盘（R&F）与家庭盘（Bukit Indah、Mount Austin）空置最短；Forest City 空置期最长。"
+    },
+    {
+      "id": "liquidity",
+      "title": "流动性 (Liquidity)",
+      "weight": "15%",
+      "summary": "二手成交量、挂牌周转与银行按揭接受度。",
+      "body": "成熟社区（Danga Bay、Bukit Indah）流动性较好；大型度假盘（Forest City）周转慢但适合长期持有与托管服务。"
+    },
+    {
+      "id": "future-growth",
+      "title": "未来增长 (Future Growth)",
+      "weight": "15%",
+      "summary": "基建、RTS、依斯干达就业与供应 pipeline。",
+      "body": "Medini、Eco Botanic 受益于依斯干达走廊；R&F 受 RTS / 关卡政策影响；Forest City 增长叙事偏长期生活方式而非本地租赁。"
+    }
+  ],
+  "scoreBands": [
+    {
+      "range": "80 – 100",
+      "label": "强租赁投资",
+      "desc": "高需求、短空置、流动性好"
+    },
+    {
+      "range": "65 – 79",
+      "label": "稳健",
+      "desc": "平衡收益与风险"
+    },
+    {
+      "range": "50 – 64",
+      "label": "选择性",
+      "desc": "需定价与装修策略"
+    },
+    {
+      "range": "0 – 49",
+      "label": " niche / 托管导向",
+      "desc": "业主服务优于纯租赁 velocity"
+    }
+  ],
+  "labels": {
+    "weight": "权重",
+    "scoreBands": "评分区间",
+    "backToResearch": "返回研究中心",
+    "rentalIndex": "新山租赁指数",
+    "projectIntelligence": "项目情报"
+  }
+}

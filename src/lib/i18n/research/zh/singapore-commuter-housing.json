@@ -1,0 +1,41 @@
+{
+  "key": "singapore-commuter-housing",
+  "slug": "research/reports/singapore-commuter-housing",
+  "seoTitle": "新加坡通勤住房报告 | 新山物业研究",
+  "seoDescription": "面向新加坡租客与投资者的新山通勤房源分析——富力公主湾、美迪尼及部分奥斯汀山楼栋。",
+  "title": "新加坡通勤住房报告",
+  "subtitle": "关卡、RTS 与依斯干达跨境租赁",
+  "intro": "面向新加坡租客与投资者的新山通勤房源分析——富力公主湾、美迪尼及部分奥斯汀山楼栋。",
+  "published": "2026-06-20",
+  "sections": [
+    {
+      "title": "通勤走廊",
+      "paragraphs": [
+        "富力公主湾：关卡客流最高，租金 RM 2,200–4,500。",
+        "美迪尼：入场较低，RM 1,600–3,000。",
+        "2024 年后跨境灵活办公与周末居住模式增加。"
+      ]
+    },
+    {
+      "title": "定价因素",
+      "paragraphs": [
+        "一房装修关卡景溢价明显。",
+        "车位与管理响应是租客首要筛选。",
+        "新马汇率差支撑投资者收益套利。"
+      ]
+    },
+    {
+      "title": "风险",
+      "paragraphs": [
+        "边境政策与排队时间影响租客留存。",
+        "美迪尼新盘供应增加——定价需参考近期成交。"
+      ]
+    }
+  ],
+  "labels": {
+    "backToResearch": "返回研究中心",
+    "allReports": "全部报告",
+    "rentalIndex": "租赁指数",
+    "browseListings": "浏览房源"
+  }
+}

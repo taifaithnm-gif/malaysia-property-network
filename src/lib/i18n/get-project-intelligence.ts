@@ -47,6 +47,11 @@ export type ResearchCenter = {
     compare: string;
     listings: string;
     methodology: string;
+    methodologyFull: string;
+    rentalIndex: string;
+    viewFullIndex: string;
+    marketReports: string;
+    marketReportsDesc: string;
     notAdvice: string;
   };
 };

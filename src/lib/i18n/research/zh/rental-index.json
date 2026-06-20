@@ -1,0 +1,89 @@
+{
+  "seoTitle": "新山租赁指数 | 7 大项目租金数据",
+  "seoDescription": "Forest City、富力公主湾、丹加湾、武吉英达、奥斯汀山、生态植物园、美迪尼平均租金、区间、回报率与入住率。",
+  "title": "新山租赁指数",
+  "subtitle": "2026 Q2 基准 · 7 大项目",
+  "intro": "指数基于 Sprint 03/04 运营库存与区域成交基准，每季度复核。用于项目对比与租赁定价参考。",
+  "updated": "2026-06-20",
+  "projects": [
+    {
+      "key": "mount-austin",
+      "slug": "mount-austin",
+      "name": "奥斯汀山",
+      "averageRent": "RM 3,015/月",
+      "averageRentValue": 3015,
+      "rentalRange": "RM 2,000 – 3,800",
+      "yield": "5.2 – 6.0%",
+      "occupancy": "90 – 95%"
+    },
+    {
+      "key": "rf-princess-cove",
+      "slug": "rf-princess-cove",
+      "name": "富力公主湾",
+      "averageRent": "RM 3,195/月",
+      "averageRentValue": 3195,
+      "rentalRange": "RM 2,200 – 4,500",
+      "yield": "4.5 – 5.8%",
+      "occupancy": "85 – 92%"
+    },
+    {
+      "key": "bukit-indah",
+      "slug": "bukit-indah",
+      "name": "武吉英达",
+      "averageRent": "RM 2,725/月",
+      "averageRentValue": 2725,
+      "rentalRange": "RM 1,800 – 3,200",
+      "yield": "4.8 – 5.5%",
+      "occupancy": "88 – 94%"
+    },
+    {
+      "key": "eco-botanic",
+      "slug": "eco-botanic",
+      "name": "生态植物园",
+      "averageRent": "RM 3,115/月",
+      "averageRentValue": 3115,
+      "rentalRange": "RM 2,100 – 3,600",
+      "yield": "4.6 – 5.4%",
+      "occupancy": "82 – 88%"
+    },
+    {
+      "key": "medini",
+      "slug": "medini",
+      "name": "美迪尼",
+      "averageRent": "RM 2,400/月",
+      "averageRentValue": 2400,
+      "rentalRange": "RM 1,600 – 3,000",
+      "yield": "4.4 – 5.6%",
+      "occupancy": "80 – 87%"
+    },
+    {
+      "key": "danga-bay",
+      "slug": "danga-bay",
+      "name": "丹加湾",
+      "averageRent": "RM 2,100/月",
+      "averageRentValue": 2100,
+      "rentalRange": "RM 1,400 – 2,800",
+      "yield": "5.0 – 6.2%",
+      "occupancy": "78 – 85%"
+    },
+    {
+      "key": "forest-city",
+      "slug": "forest-city",
+      "name": "森林城市",
+      "averageRent": "RM 2,440/月",
+      "averageRentValue": 2440,
+      "rentalRange": "RM 1,600 – 3,500",
+      "yield": "3.2 – 4.1%",
+      "occupancy": "65 – 75%"
+    }
+  ],
+  "labels": {
+    "project": "项目",
+    "averageRent": "平均租金",
+    "rentalRange": "租金区间",
+    "yield": "回报率",
+    "occupancy": "入住率",
+    "methodology": "评分方法论",
+    "viewDossier": "项目情报"
+  }
+}

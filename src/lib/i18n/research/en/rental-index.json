@@ -1,0 +1,89 @@
+{
+  "seoTitle": "Johor Rental Index | 7 Project Rental Data",
+  "seoDescription": "Average rent, rental range, yield and occupancy for 7 Johor Bahru projects — updated from operational inventory.",
+  "title": "Johor Rental Index",
+  "subtitle": "2026 Q2 benchmark · 7 projects",
+  "intro": "Index grounded in Sprint 03/04 operational inventory and district transaction bands, reviewed quarterly. Use for project comparison and pricing reference.",
+  "updated": "2026-06-20",
+  "projects": [
+    {
+      "key": "mount-austin",
+      "slug": "mount-austin",
+      "name": "Mount Austin",
+      "averageRent": "RM 3,015/mo",
+      "averageRentValue": 3015,
+      "rentalRange": "RM 2,000 – 3,800",
+      "yield": "5.2 – 6.0%",
+      "occupancy": "90 – 95%"
+    },
+    {
+      "key": "rf-princess-cove",
+      "slug": "rf-princess-cove",
+      "name": "R&F Princess Cove",
+      "averageRent": "RM 3,195/mo",
+      "averageRentValue": 3195,
+      "rentalRange": "RM 2,200 – 4,500",
+      "yield": "4.5 – 5.8%",
+      "occupancy": "85 – 92%"
+    },
+    {
+      "key": "bukit-indah",
+      "slug": "bukit-indah",
+      "name": "Bukit Indah",
+      "averageRent": "RM 2,725/mo",
+      "averageRentValue": 2725,
+      "rentalRange": "RM 1,800 – 3,200",
+      "yield": "4.8 – 5.5%",
+      "occupancy": "88 – 94%"
+    },
+    {
+      "key": "eco-botanic",
+      "slug": "eco-botanic",
+      "name": "Eco Botanic",
+      "averageRent": "RM 3,115/mo",
+      "averageRentValue": 3115,
+      "rentalRange": "RM 2,100 – 3,600",
+      "yield": "4.6 – 5.4%",
+      "occupancy": "82 – 88%"
+    },
+    {
+      "key": "medini",
+      "slug": "medini",
+      "name": "Medini",
+      "averageRent": "RM 2,400/mo",
+      "averageRentValue": 2400,
+      "rentalRange": "RM 1,600 – 3,000",
+      "yield": "4.4 – 5.6%",
+      "occupancy": "80 – 87%"
+    },
+    {
+      "key": "danga-bay",
+      "slug": "danga-bay",
+      "name": "Danga Bay",
+      "averageRent": "RM 2,100/mo",
+      "averageRentValue": 2100,
+      "rentalRange": "RM 1,400 – 2,800",
+      "yield": "5.0 – 6.2%",
+      "occupancy": "78 – 85%"
+    },
+    {
+      "key": "forest-city",
+      "slug": "forest-city",
+      "name": "Forest City",
+      "averageRent": "RM 2,440/mo",
+      "averageRentValue": 2440,
+      "rentalRange": "RM 1,600 – 3,500",
+      "yield": "3.2 – 4.1%",
+      "occupancy": "65 – 75%"
+    }
+  ],
+  "labels": {
+    "project": "Project",
+    "averageRent": "Average rent",
+    "rentalRange": "Rental range",
+    "yield": "Yield",
+    "occupancy": "Occupancy",
+    "methodology": "Methodology",
+    "viewDossier": "Intelligence dossier"
+  }
+}

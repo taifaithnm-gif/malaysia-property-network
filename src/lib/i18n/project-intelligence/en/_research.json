@@ -30,6 +30,11 @@
     "compare": "Compare projects",
     "listings": "Browse listings",
     "methodology": "Methodology",
+    "methodologyFull": "Full scoring methodology",
+    "rentalIndex": "Johor Rental Index",
+    "viewFullIndex": "Full rental index",
+    "marketReports": "Market Reports",
+    "marketReportsDesc": "Quarterly research for investors and owners",
     "notAdvice": "For research purposes only — not financial advice."
   }
 }

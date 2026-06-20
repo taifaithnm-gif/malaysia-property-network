@@ -30,6 +30,11 @@
     "compare": "项目对比",
     "listings": "浏览房源",
     "methodology": "方法论",
+    "methodologyFull": "完整评分方法论",
+    "rentalIndex": "新山租赁指数",
+    "viewFullIndex": "完整租赁指数",
+    "marketReports": "市场报告",
+    "marketReportsDesc": "面向投资者与业主的季度研究",
     "notAdvice": "以上内容仅供研究，不构成投资建议。"
   }
 }

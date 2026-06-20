@@ -1,0 +1,42 @@
+{
+  "key": "forest-city-owner",
+  "slug": "research/reports/forest-city-owner",
+  "seoTitle": "Forest City Owner Report | Johor Research",
+  "seoDescription": "Dedicated intelligence for China and overseas Forest City owners — rental velocity, void risk, and when owner-management outperforms pure rental plays.",
+  "title": "Forest City Owner Report",
+  "subtitle": "Overseas owner-management & rental reality",
+  "intro": "Dedicated intelligence for China and overseas Forest City owners — rental velocity, void risk, and when owner-management outperforms pure rental plays.",
+  "published": "2026-06-20",
+  "sections": [
+    {
+      "title": "Owner profile",
+      "paragraphs": [
+        "Primary holder: China Owner — self-use, holiday, or managed rent.",
+        "Local JB tenant pool is limited; marketing requires Chinese channels.",
+        "Average rent ~RM 2,440; void 8–14 weeks without active management."
+      ]
+    },
+    {
+      "title": "Service fit",
+      "paragraphs": [
+        "Inspection, key-holding and PM revenue align with owner needs.",
+        "Rental-only investors should compare yield vs carrying cost carefully.",
+        "Golf / marina amenities support lifestyle marketing, not commuter demand."
+      ]
+    },
+    {
+      "title": "Recommendation",
+      "paragraphs": [
+        "Cap FC rental inventory acquisition; prioritize PM relationships.",
+        "Price against same-tower recent rents, not JB averages.",
+        "Pair listings with Forest City media center for due diligence."
+      ]
+    }
+  ],
+  "labels": {
+    "backToResearch": "Back to Research",
+    "allReports": "All reports",
+    "rentalIndex": "Rental index",
+    "browseListings": "Browse listings"
+  }
+}

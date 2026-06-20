@@ -1,0 +1,41 @@
+{
+  "key": "johor-rental-market",
+  "slug": "research/reports/johor-rental-market",
+  "seoTitle": "Johor Rental Market Report | Johor Research",
+  "seoDescription": "Overview of Johor Bahru rental velocity across 7 tracked projects. Mount Austin and Bukit Indah lead local family demand; R&F dominates commuter premium.",
+  "title": "Johor Rental Market Report",
+  "subtitle": "Q2 2026 — family, commuter & yield districts",
+  "intro": "Overview of Johor Bahru rental velocity across 7 tracked projects. Mount Austin and Bukit Indah lead local family demand; R&F dominates commuter premium.",
+  "published": "2026-06-20",
+  "sections": [
+    {
+      "title": "Market snapshot",
+      "paragraphs": [
+        "300 rental listings tracked across 7 projects.",
+        "Average rent spans RM 2,100–3,200 for 2-bed family stock.",
+        "Void periods shortest in Mount Austin (2–4 weeks) and R&F (2–4 weeks)."
+      ]
+    },
+    {
+      "title": "Tenant mix",
+      "paragraphs": [
+        "Local Family: 45% of portfolio intent.",
+        "Singapore Commuter: 28%.",
+        "China Owner / management: 27%."
+      ]
+    },
+    {
+      "title": "Outlook",
+      "paragraphs": [
+        "RTS completion supports R&F and Medini commuter narratives.",
+        "Suburban family districts remain supply-constrained for furnished 2-bed."
+      ]
+    }
+  ],
+  "labels": {
+    "backToResearch": "Back to Research",
+    "allReports": "All reports",
+    "rentalIndex": "Rental index",
+    "browseListings": "Browse listings"
+  }
+}

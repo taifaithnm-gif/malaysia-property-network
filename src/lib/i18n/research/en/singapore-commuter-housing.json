@@ -1,0 +1,41 @@
+{
+  "key": "singapore-commuter-housing",
+  "slug": "research/reports/singapore-commuter-housing",
+  "seoTitle": "Singapore Commuter Housing Report | Johor Research",
+  "seoDescription": "Analysis for Singapore-based tenants and investors targeting JB commuter stock — R&F Princess Cove, Medini and selected Mount Austin blocks.",
+  "title": "Singapore Commuter Housing Report",
+  "subtitle": "CIQ, RTS & Iskandar cross-border rental",
+  "intro": "Analysis for Singapore-based tenants and investors targeting JB commuter stock — R&F Princess Cove, Medini and selected Mount Austin blocks.",
+  "published": "2026-06-20",
+  "sections": [
+    {
+      "title": "Commuter corridors",
+      "paragraphs": [
+        "R&F Princess Cove: highest CIQ footfall, RM 2,200–4,500 rent band.",
+        "Medini: lower entry, Legoland / Tuas narrative, RM 1,600–3,000.",
+        "Weekend and flex-work patterns post-2024 border normalization."
+      ]
+    },
+    {
+      "title": "Pricing drivers",
+      "paragraphs": [
+        "1-bed furnished CIQ view commands premium.",
+        "Car park and management responsiveness are top tenant filters.",
+        "SGD–MYR spread supports yield arbitrage for investors."
+      ]
+    },
+    {
+      "title": "Risks",
+      "paragraphs": [
+        "Border policy and queue times affect tenant retention.",
+        "Oversupply in new Medini phases — price to recent transactions."
+      ]
+    }
+  ],
+  "labels": {
+    "backToResearch": "Back to Research",
+    "allReports": "All reports",
+    "rentalIndex": "Rental index",
+    "browseListings": "Browse listings"
+  }
+}

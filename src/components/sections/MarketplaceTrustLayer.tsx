@@ -14,17 +14,16 @@ export function MarketplaceTrustLayer({ locale, dict, stats }: MarketplaceTrustL
   const labels = dict.marketplaceTrust;
 
   const items = [
-    { value: `${stats.totalListings}+`, label: labels.totalListings },
+    { value: String(stats.totalListings), label: labels.totalListings },
     { value: String(stats.projectsCovered), label: labels.projectsCovered },
     { value: String(stats.ownerServices), label: labels.ownerServices },
-    { value: `${stats.viewingRequests}+`, label: labels.viewingRequests },
   ];
 
   return (
     <section className="border-y border-gray-200 bg-white py-14">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <SectionHeading title={labels.title} subtitle={labels.subtitle} />
-        <div className="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-10 grid gap-6 sm:grid-cols-3">
           {items.map((item) => (
             <div
               key={item.label}
@@ -50,8 +49,8 @@ export function MarketplaceTrustLayer({ locale, dict, stats }: MarketplaceTrustL
           <Link href={`/${locale}/research`} className="font-semibold text-teal-700 hover:underline">
             {labels.researchCenter}
           </Link>
-          <Link href={`/${locale}/compare/forest-city-vs-rf-princess-cove`} className="font-semibold text-teal-700 hover:underline">
-            {labels.viewComparisons}
+          <Link href={`/${locale}/research/rental-index`} className="font-semibold text-teal-700 hover:underline">
+            {labels.rentalIndex}
           </Link>
         </div>
       </div>

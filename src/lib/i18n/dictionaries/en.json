@@ -348,21 +348,21 @@
   },
   "marketplaceTrust": {
     "title": "Trusted Johor Bahru Property Marketplace",
-    "subtitle": "Real inventory, project intelligence, and owner services across 7 key districts",
+    "subtitle": "Live listing data, project intelligence, and owner services",
     "totalListings": "Published listings",
     "projectsCovered": "Projects covered",
     "ownerServices": "Owner services",
-    "viewingRequests": "Viewing requests",
-    "browseListings": "Browse 300+ listings",
+    "browseListings": "Browse listings",
     "viewComparisons": "Compare projects",
     "researchCenter": "Research Center",
+    "rentalIndex": "Johor Rental Index",
     "trustItems": [
-      "300 rental listings across Forest City, R&F, Danga Bay, and Iskandar hubs",
-      "460+ project gallery images for due diligence and viewing prep",
-      "Rental intelligence — average rent, yield, and vacancy by project",
-      "Bilingual EN/ZH support for overseas owners and Singapore commuters",
-      "Property management, inspection, and key-holding services",
-      "Book viewings linked to published listings"
+      "Live published listing count from our marketplace database",
+      "7 project intelligence dossiers with investment scores",
+      "Johor Rental Index — average rent, yield and occupancy by project",
+      "Investment score methodology — demand, yield, occupancy, liquidity, growth",
+      "Market reports for Johor rental, SG commuter and Forest City owners",
+      "Bilingual EN/ZH research linked to management and viewing services"
     ]
   },
   "footer": {

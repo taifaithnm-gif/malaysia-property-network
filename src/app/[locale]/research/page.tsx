@@ -5,6 +5,7 @@ import {
   getAllProjectIntelligence,
   buildResearchCenterJsonLd,
 } from "@/lib/i18n/get-project-intelligence";
+import { getAllMarketReports } from "@/lib/i18n/get-research-content";
 import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { buildMetadata } from "@/lib/seo";
 
@@ -27,9 +28,10 @@ export default async function ResearchPage({ params }: PageProps) {
   const { locale: localeParam } = await params;
   const locale = localeParam as Locale;
   const dict = await getDictionary(locale);
-  const [center, projects] = await Promise.all([
+  const [center, projects, reports] = await Promise.all([
     getResearchCenter(locale),
     getAllProjectIntelligence(locale),
+    getAllMarketReports(locale),
   ]);
   const jsonLd = buildResearchCenterJsonLd(center, locale, "research");
 
@@ -39,7 +41,7 @@ export default async function ResearchPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <ResearchCenterPage locale={locale} dict={dict} center={center} projects={projects} />
+      <ResearchCenterPage locale={locale} dict={dict} center={center} projects={projects} reports={reports} />
     </>
   );
 }

@@ -1,0 +1,41 @@
+{
+  "key": "johor-rental-market",
+  "slug": "research/reports/johor-rental-market",
+  "seoTitle": "新山租赁市场报告 | 新山物业研究",
+  "seoDescription": "新山 7 大跟踪项目租赁周转概览。奥斯汀山与武吉英达领先本地家庭需求；富力公主湾主导通勤溢价。",
+  "title": "新山租赁市场报告",
+  "subtitle": "2026 Q2 — 家庭、通勤与收益型社区",
+  "intro": "新山 7 大跟踪项目租赁周转概览。奥斯汀山与武吉英达领先本地家庭需求；富力公主湾主导通勤溢价。",
+  "published": "2026-06-20",
+  "sections": [
+    {
+      "title": "市场概览",
+      "paragraphs": [
+        "7 大项目共跟踪 300 条租赁库存。",
+        "两房家庭盘均租约 RM 2,100–3,200。",
+        "奥斯汀山与富力空置期最短（2–4 周）。"
+      ]
+    },
+    {
+      "title": "租客结构",
+      "paragraphs": [
+        "本地家庭约占 45%。",
+        "新加坡通勤族约 28%。",
+        "中国业主 / 托管约 27%。"
+      ]
+    },
+    {
+      "title": "展望",
+      "paragraphs": [
+        "RTS 通车利好富力与美迪尼通勤叙事。",
+        "郊区家庭盘装修两房供应仍偏紧。"
+      ]
+    }
+  ],
+  "labels": {
+    "backToResearch": "返回研究中心",
+    "allReports": "全部报告",
+    "rentalIndex": "租赁指数",
+    "browseListings": "浏览房源"
+  }
+}

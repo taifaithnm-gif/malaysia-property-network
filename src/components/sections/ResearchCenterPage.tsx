@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Locale } from "@/lib/constants";
 import type { ResearchCenter, ProjectIntelligence } from "@/lib/i18n/get-project-intelligence";
 import { scoreColor } from "@/lib/i18n/get-project-intelligence";
+import type { MarketReport } from "@/lib/i18n/get-research-content";
+import { MARKET_REPORT_SLUGS } from "@/lib/i18n/get-research-content";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import { Hero } from "@/components/sections/Hero";
 import { SectionHeading, Button } from "@/components/ui/Button";
@@ -12,9 +14,16 @@ type ResearchCenterPageProps = {
   dict: Dictionary;
   center: ResearchCenter;
   projects: ProjectIntelligence[];
+  reports: MarketReport[];
 };
 
-export function ResearchCenterPage({ locale, dict, center, projects }: ResearchCenterPageProps) {
+export function ResearchCenterPage({
+  locale,
+  dict,
+  center,
+  projects,
+  reports,
+}: ResearchCenterPageProps) {
   const labels = center.labels;
 
   return (
@@ -29,9 +38,15 @@ export function ResearchCenterPage({ locale, dict, center, projects }: ResearchC
       />
 
       <section className="border-b border-gray-100 bg-teal-50 py-8">
-        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-center gap-4 px-4 sm:px-6">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-center gap-3 px-4 sm:px-6">
           <Button href={`/${locale}/project-intelligence`} variant="primary">
             {labels.viewDirectory}
+          </Button>
+          <Button href={`/${locale}/research/methodology`} variant="outline">
+            {labels.methodology}
+          </Button>
+          <Button href={`/${locale}/research/rental-index`} variant="outline">
+            {labels.rentalIndex}
           </Button>
           <Button href={`/${locale}/listings`} variant="outline">
             {labels.listings}
@@ -51,11 +66,41 @@ export function ResearchCenterPage({ locale, dict, center, projects }: ResearchC
               </div>
             ))}
           </div>
+          <p className="mt-6 text-center">
+            <Link href={`/${locale}/research/methodology`} className="text-sm font-semibold text-teal-700 hover:underline">
+              {labels.methodologyFull} →
+            </Link>
+          </p>
+        </div>
+      </section>
+
+      <section className="border-t border-gray-100 bg-white py-16">
+        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <SectionHeading title={labels.marketReports} subtitle={labels.marketReportsDesc} align="left" />
+          <div className="mt-8 grid gap-6 sm:grid-cols-3">
+            {reports.map((report) => (
+              <Link
+                key={report.key}
+                href={`/${locale}/${MARKET_REPORT_SLUGS[report.key]}`}
+                className="rounded-xl border border-gray-200 bg-gray-50 p-6 shadow-sm transition-shadow hover:shadow-md"
+              >
+                <h3 className="font-semibold text-navy-900">{report.title}</h3>
+                <p className="mt-2 text-sm text-gray-600">{report.subtitle}</p>
+                <p className="mt-3 text-xs text-gray-500">{report.published}</p>
+              </Link>
+            ))}
+          </div>
         </div>
       </section>
 
       <section className="bg-gray-50 py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+          <div className="mb-4 flex items-center justify-between">
+            <SectionHeading title={labels.rentalIndex} align="left" />
+            <Link href={`/${locale}/research/rental-index`} className="text-sm font-medium text-teal-700 hover:underline">
+              {labels.viewFullIndex} →
+            </Link>
+          </div>
           <SectionHeading title={labels.topProjects} align="left" />
           <div className="mt-8 overflow-x-auto rounded-xl border border-gray-200 bg-white">
             <table className="w-full min-w-[640px] text-left text-sm">
